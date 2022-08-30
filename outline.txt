@@ -83,7 +83,38 @@ Eso parece.
 
 Como lo hace ?
 
+-----------------------------------------------
 
+Voy a proponer un sistema de calculo.
+Una forma de procesar informacion.
+
+Normalmente, no sera posible resolver un problema complejo de un solo paso, sino que debemos realizar una serie de pasos hasta obtener el resultado final.
+Por ejemplo, 
+si queremos sumar una lista de 5 numeros, lo primero que haremos es sumar el primero con el segundo, y sera el primer paso del proceso.
+El siguiente paso sera sumar este resultado parcial con el tercer numero de la lista.
+El siguiente paso sera sumar el resultado que tenemos hasta ahora con el siguiente numero de la lista.
+Y continuaremos asi, paso a paso hasta obtener el resultado final.
+
+En un sistema que procesa la informacion de este modo, podemos pensar que 
+el proceso cambia de estado cada vez que avanzamos un paso en el calculo.
+
+Hablaremos entonces de los estados del proceso,
+distinguiendo,
+un estado inicial, el punto de partida, en el ejemplo anterior, la lista de numero que quiero sumar,
+un estado final, en donde el calculo termina, en el ejemplo anterior, el resultado de la suma,
+y un conjunto de estados intermedios, todos aquellos estados que debo atravesar, cada paso, hasta conseguir el resultado final.
+
+(grafico "estados de un proceso.pdf")
+
+
+
+
+
+
+
+
+
+ 
 
 
 
