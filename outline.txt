@@ -78,7 +78,7 @@ Las bacterias pueden encontrar la forma de derrotar a los antibioticos.
 Toda la vida es inteligente.
 Y la inteligencia de la vida no es comparable con la inteligencia de las criaturas vivientes.
 
-La vida esta pensando ?
+La vida piensa ?
 Eso parece.
 
 Como lo hace ?
@@ -90,7 +90,7 @@ Una forma de procesar informacion.
 
 Normalmente, no sera posible resolver un problema complejo de un solo paso, sino que debemos realizar una serie de pasos hasta obtener el resultado final.
 Por ejemplo, 
-si queremos sumar una lista de 5 numeros, lo primero que haremos es sumar el primero con el segundo, y sera el primer paso del proceso.
+si queremos sumar una lista de 5 numeros, lo primero que haremos es sumar el primer numero de la lista con el segundo, y ese sera el primer paso del proceso.
 El siguiente paso sera sumar este resultado parcial con el tercer numero de la lista.
 El siguiente paso sera sumar el resultado que tenemos hasta ahora con el siguiente numero de la lista.
 Y continuaremos asi, paso a paso hasta obtener el resultado final.
@@ -99,12 +99,43 @@ En un sistema que procesa la informacion de este modo, podemos pensar que
 el proceso cambia de estado cada vez que avanzamos un paso en el calculo.
 
 Hablaremos entonces de los estados del proceso,
-distinguiendo,
+ y podemos distinguir,
 un estado inicial, el punto de partida, en el ejemplo anterior, la lista de numero que quiero sumar,
 un estado final, en donde el calculo termina, en el ejemplo anterior, el resultado de la suma,
-y un conjunto de estados intermedios, todos aquellos estados que debo atravesar, cada paso, hasta conseguir el resultado final.
+y un conjunto de estados intermedios, todos aquellos estados que debo atravesar, con cada paso que dare, hasta conseguir el resultado final.
+
+Cualquier problema puede resolverse pensando de este modo.
+Vemos por ejemplo, el juego de ajedrez.
+
+El estado inicial es cuando el tablero tiene todas fichas en la posicion de inicio de partida.
+El estado final es cuando se ha dado "jake-mate".
+Y partiendo del estado inicial, el juego cambiara de estado cada vez que un jugador mueva una ficha.
+
+A medida que se muevan las fichas el tablero cambiara de configuracion, y el juego cambiara de estado.
+Cuantas posibles configuraciones de tablero seran posibles, tantas como diferentes estados pueda atravesar el juego.
+
+La pregunta que nos gustaria responder es, 
+cual es el camino a traves de los diferentes estados que me lleva a ganar la partida ?
+Cual es el camino que va desde el estado inicial hasta el estado final ?
+
+Veamos un ejemplo grafico con un problema mas simple.
+Cual es el camino que me lleva a ganar una partida de 3 en raya ?
 
 (grafico "estados de un proceso.pdf")
+
+
+-----------------------------------------
+
+
+Con estas ideas,
+voy a proponer una maquina de calculo que resuelva los problemas automaticamente.
+
+Para construir esta maquina necesitamos implementar 2 cosas:
+-una forma de representar los distintos estados posibles en los que podria encontrarse el proceso en un momento determinado
+- una forma de procesar la informacion contenida en el estado actual que nos permita generar el siguiente estado posible.
+
+
+
 
 
 
