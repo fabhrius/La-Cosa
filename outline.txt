@@ -134,6 +134,27 @@ Para construir esta maquina necesitamos implementar 2 cosas:
 -una forma de representar los distintos estados posibles en los que podria encontrarse el proceso en un momento determinado
 - una forma de procesar la informacion contenida en el estado actual que nos permita generar el siguiente estado posible.
 
+(cap0 creando un juego viviente.odp)
+
+
+Por ejemplo, 
+si el problema que queremos resolver es una partida de ajedrez,
+los posible estados en los que podr'ia encontrarse el p;roceso son las diferentes configuraciones del tablero.
+Por ejemplo, partiendo del estado inicial, el tablero con las fichas en su posicion de partida, el siguiente estado podria ser con todas las fichas en la posicion inicial excepto por un peon que se ha movido a la posicion "peon-4-rey"
+
+Y si los estados en que se puede encontrar este problema son los diferentes tableros posibles, entonces para representar un estado bastar'ia con una lista de todas las posiciones en que se encuentran las fichas.
+El siguiente estado se genera moviendo cualquiera de las fichas a una posicion valida.
+
+
+De esta forma,
+para construir una maquina que resuelva los problemas automaticamente,
+bastaria con,
+
+1- un soporte adodnde almacenar la informacion que describe uno cualquiera de los estados en los que se encuentra el proceso de calculo en un momento dado.
+2- el conocimiento necesario para procesar esa informacion y generar el siguiente estado.
+
+Para verlo en accion voy a proponer un problema facil.
+
 
 
 
