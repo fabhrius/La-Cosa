@@ -157,6 +157,82 @@ Para verlo en accion voy a proponer un problema facil.
 
 
 
+Digamos que tengo un tablero de ajedrez, 8 por 8 casillas.
+y sobre el tablero una ficha, una unica ficha redonda y plana, como una moneda.
+
+La ficha puede moverse una casilla en cualquier direccion en cada jugada, siempre que la casilla este libre.
+Una casilla puede estar ocupada por un obstaculo.
+
+El problema que queremos resolver es :
+cual es el camino que deberia recorrer la ficha para llegar del punto A al punto B ?
+
+(grafico)
+
+------------------------------------------------------
+
+
+
+SIMULADOR DE VIDA
+
+
+el sistema de calculo que utilizare para resolver el problema sera un emulador de una familia de organismos vivientes.
+
+digamos que el ADN de las criaturas vivientes almacena informacion
+y que puedo utilizar este almacen de informacion para contener la informacion necesaria para describir el estado en que el calculo se encuentra en un momento en el tiempo.
+Otro mecanismo que aprovechare de los organismos vivientes es la reproduccion, que utilizare para procesar la informacion de estado almacenada en un individuo,
+y generar el siguiente estado posible.
+
+
+Veamoslo paso a paso.
+
+Un estado cualquiera en el proceso de resolucion del problema que acabo de plantear
+puede describirse como :
+"un tablero de 8 por 8 casillas,
+con una ficha en la posicion X"
+
+con esta informacion bastaria para reconstruir ese estado particular.
+De modo que crearemos una nueva especie de criaturas vivientes que tendran esta forma :
+la de un tablero de 8 por 8 con una ficha en una posicion dada.
+
+El ADN de este un individuo de esta nueva especie almacenara esta informacion.
+
+Empezare por crear el estado inicial del problema.
+Digamos que la ficha, como punto de partida, esta colocada en la posicion "A1"
+(etiquetaremos con una letra las casillas horizontales, y con un numero las casillas verticales)
+
+La informacion contenida en el ADN de este individuo es la necesaria para crearlo,
+es decir,
+- es un tablero de 8 por 8, con una ficha
+- la ficha esta colocada en la posicion "A1"
+digamos que su nombre es A1.
+Ademas de la informacion anterior, almacenaremos el nombre de todos sus antepasados, desde el primero y hasta el mismo.
+Como es el primero de su especie, la cadena de nombres de sus antepasados solo contiene el suyo propio "A1".
+
+El ADN contenido en un individuo no puede cambiar.
+Sera inmutable a lo largo de toda la vida del individuo.
+Un individuo nacido A1 sera siempre un A1.
+Recordemos que el objetivo del individuo es almacenar la informacion de un estado concreto del proceso.
+Por lo tanto esta informacion debe mantenerse inmutable.
+
+El trabajo de este individuo sera
+reproducirse.
+
+Para crear un hijo seguiremos las siguientes reglas,
+el hijo es muy parecido al padre, pero no debe ser igual.
+Todos los individuos deben ser diferentes.
+entre el hijo y el padre la diferencia sera la menor de todas las posibles.
+
+en este juego la ficha puede mover una casilla en cada jugada.
+por lo tanto, en el siguiente estado del proceso la ficha estara a una distancia de una casilla, con respecto a la jugada anterior.
+en cada jugada el proceso cambia de estado.
+Una jugada genera el estado siguiente.
+
+el padre es un estado concreto, el hijo sera el siguiente estado posible, por lo tanto, el hijo se genera moviendo la ficha una casilla.
+Si el padre es A1, 
+sus hijos podran ser, A2, B1 y B2.
+
+
+
 
 
 
