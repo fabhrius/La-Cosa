@@ -231,7 +231,24 @@ el padre es un estado concreto, el hijo sera el siguiente estado posible, por lo
 Si el padre es A1, 
 sus hijos podran ser, A2, B1 y B2.
 
+Ademas de esta informacion tambien grabaremos la cadena de todos los antepasados de cada individuo como informacion de estado.
+Asi A2, tendra como informacion de sus antepasados "A1-A2", y si A2 tiene como hijo a A3, este grabara en su lista de antepasados "A1-A2-A3".
 
+
+
+Ya tenemos todo lo necesario.
+Veamos paso a paso como resuelve el problema.
+
+Imaginemos que el tablero es un laberinto,
+y que queremos saber cual es el camino que va desde la entrada hasta la salida.
+Digamos que la entrada esta en la casilla A1,
+y que la salida esta en la casilla H8.
+
+Crearemos el individuo A1 y este representara el estado inicial del problema.
+Lo que esperamos de este individuo no es que resuelva el problema, sino que se reproduzca,
+y que tenga tantos hijos como sea posible.
+
+Sucedera lo siguiente
 
 
 
