@@ -248,6 +248,12 @@ y que queremos saber cual es el camino que va desde la entrada hasta la salida.
 Digamos que la entrada esta en la casilla A1,
 y que la salida esta en la casilla H8.
 
+Queremos saber,
+cual es el camino que lleva desde la entrada hasta la salida del laberinto ?
+Este es el problema que queremos resolver.
+
+Para resolver el problema,
+
 (GRAFICO)
 
 
@@ -266,9 +272,15 @@ Veamos lo que sucede con B2.
 Si B2 tiene todos los hijos posibles, estos seran, A1, A2, A3, B3, C3, C2, C1, B1.
 Todos los hijos estan a 1 casilla de distancia del padre.
 Observad que ha nacido un segundo A1.
-Hemos dicho que todos los individuos deben ser diferentes, y esta segundo A1 no se igual que el anterior, se diferencia en su lista de antepasados.
+Hemos dicho que todos los individuos deben ser diferentes, y este segundo A1 no es igual que el anterior, se diferencia en su lista de antepasados.
 
-Entre los hijos de B2 ha nacido C3.
+El primer A1, tiene una lista de antepasados en donde solo esta escrito su propio nombre: A1
+El segundo A1, en cambio, tiene un padre y un abuelo, y su lista de antepasados es: A1-B2-A1
+
+Por lo tanto, no son iguales, la informacion que almacenan es diferente.
+
+
+Entre los hijos de B2 tambien ha nacido C3.
 C3 se reproducira, y si tiene todos los hijos posibles, entonces naceran,
 B2, B3, B4, C4, D4, D3, D2, C2.
  
@@ -280,7 +292,23 @@ Y si D4 tiene todos los hijos posibles, entre ellos nacera, E5.
 (GRAFICO)
 
 
+Si E5 tiene todos los hijos posibles, entre ellos nacera, F6.
 
+(GRAFICO)
+
+Y entre los hijos de F6, nacera G7.
+
+(GRAFICO)
+
+Y entre los hijos de G7, estara H8.
+
+
+H8 esta posicionado en la salida del laberinto.
+Y si preguntamos a H8, cual es su lista de antepasados, nos dira :
+A1-B2-C3-D4-E5-F6-G7-H8
+
+y esta es la solucion al problema.
+El camino que va desde la entrada hasta la salida.
 
 
 
