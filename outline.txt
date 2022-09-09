@@ -74,6 +74,9 @@ Es un comportamiento inteligente.
 Pero los arboles no tienen cerebro.
 
 Las bacterias pueden encontrar la forma de derrotar a los antibioticos.
+No una bacteria.
+Pero todas ellas en conjunto, la especie, como una familia, actuando como una unica entidad, 
+puede encontrar la solucion al problema.
 
 Toda la vida es inteligente.
 Y la inteligencia de la vida no es comparable con la inteligencia de las criaturas vivientes.
@@ -222,6 +225,12 @@ el hijo es muy parecido al padre, pero no debe ser igual.
 Todos los individuos deben ser diferentes.
 entre el hijo y el padre la diferencia sera la menor de todas las posibles.
 
+Siendo el padre un tablero con una ficha, 
+el hijo tambien sera un tablero con una ficha.
+Como el padre y el hijo no deben ser iguales, la diferencia sera la posicion de la ficha en el tablero.
+Como la diferencia que debe existir entre un padre y su hijo debe ser la menor de todas las posibles, la ficha no puede estar a una distancia mayor que una casilla.
+
+
 en este juego la ficha puede mover una casilla en cada jugada.
 por lo tanto, en el siguiente estado del proceso la ficha estara a una distancia de una casilla, con respecto a la jugada anterior.
 en cada jugada el proceso cambia de estado.
@@ -237,8 +246,10 @@ entonces A3 grabara en su lista de antepasados "A1-A2-A3".
 A3 es el mismo, A2 es su padre y A1 es su abuelo.
 Si A3 tiene como hijo a B3, B3 tendra una lista de antepasados como "A1-A2-A3-B3".
 
+Digamos que todo individuo lleva grabado en su ADN informacion sobre quienes han sido sus antepasados.
 
 
+/********************************************************************/
 
 Ya tenemos todo lo necesario.
 Veamos paso a paso como resuelve el problema.
