@@ -89,7 +89,7 @@ Como lo hace ?
 -----------------------------------------------
 
 Voy a proponer un sistema de calculo.
-Una forma de procesar informacion.
+Una forma de procesar informacion para resolver problemas.
 
 Normalmente, no sera posible resolver un problema complejo de un solo paso, sino que debemos realizar una serie de pasos hasta obtener el resultado final.
 Por ejemplo, 
@@ -180,10 +180,10 @@ SIMULADOR DE VIDA
 
 el sistema de calculo que utilizare para resolver el problema sera un emulador de una familia de organismos vivientes.
 
-digamos que el ADN de las criaturas vivientes almacena informacion
+digamos que el ADN de las criaturas vivientes puede almacenar informacion
 y que puedo utilizar este almacen de informacion para contener la informacion necesaria para describir el estado en que el calculo se encuentra en un momento en el tiempo.
 Otro mecanismo que aprovechare de los organismos vivientes es la reproduccion, que utilizare para procesar la informacion de estado almacenada en un individuo,
-y generar el siguiente estado posible.
+y generar el siguiente estado posible en el proceso de resolucion del problema.
 
 
 Veamoslo paso a paso.
@@ -193,11 +193,12 @@ puede describirse como :
 "un tablero de 8 por 8 casillas,
 con una ficha en la posicion X"
 
-con esta informacion bastaria para reconstruir ese estado particular.
+esta informacion bastaria para reconstruir ese estado particular.
 De modo que crearemos una nueva especie de criaturas vivientes que tendran esta forma :
 la de un tablero de 8 por 8 con una ficha en una posicion dada.
 
-El ADN de este un individuo de esta nueva especie almacenara esta informacion.
+Esta informacion, la necesaria para construir un individuo se almacenara en su ADN.
+
 
 Empezare por crear el estado inicial del problema.
 Digamos que la ficha, como punto de partida, esta colocada en la posicion "A1"
@@ -216,14 +217,16 @@ Sera inmutable a lo largo de toda la vida del individuo.
 Un individuo nacido A1 sera siempre un A1.
 Recordemos que el objetivo del individuo es almacenar la informacion de un estado concreto del proceso.
 Por lo tanto esta informacion debe mantenerse inmutable.
+Al igual que las huellas digitales, esta informacion no cambiara a lo largo de toda la vida del individuo.
 
 El trabajo de este individuo sera
 reproducirse.
 
 Para crear un hijo seguiremos las siguientes reglas,
-el hijo es muy parecido al padre, pero no debe ser igual.
+el hijo es similar al padre, pero no igual.
+
 Todos los individuos deben ser diferentes.
-entre el hijo y el padre la diferencia sera la menor de todas las posibles.
+y entre el hijo y el padre la diferencia sera la menor de todas las posibles.
 
 Siendo el padre un tablero con una ficha, 
 el hijo tambien sera un tablero con una ficha.
@@ -232,6 +235,7 @@ Como la diferencia que debe existir entre un padre y su hijo debe ser la menor d
 
 
 en este juego la ficha puede mover una casilla en cada jugada.
+y cada vez que se realiza una jugada, el proceso cambia de estado.
 por lo tanto, en el siguiente estado del proceso la ficha estara a una distancia de una casilla, con respecto a la jugada anterior.
 en cada jugada el proceso cambia de estado.
 Una jugada genera el estado siguiente.
