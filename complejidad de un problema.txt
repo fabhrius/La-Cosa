@@ -1,0 +1,27 @@
+la complejidad de un problema aumenta con el numero de decisiones que deben tomarse para resolverlo.
+
+las decisiones tienen coste.
+con cada decision el camino se bifurca y a medida que aumenta el numero de decisiones que deben tomarse aumentan el numero de caminos posibles que debemos recorrer para resolverlo.
+rapidamente el numero de caminos tiende a infinito, o dicho de otro modo, se vuelve demasiado grande para recorrerlos todos con el tiempo disponible.
+
+Digamos que queremos saber como ganar una partida de ajedrez.
+partiendo del estado inicial (el tablero con las fichas en su posicion de salida), 
+cuantas posibles jugadas pueden hacerse a partir de aqui ?
+
+Desde la posicion inicial, puede moverse alguno de los peones o alguno de los caballos.
+20 posibles movimientos diferentes.
+Cual sera el mejor de ellos ?
+
+Tendre que probarlos todos para decidir.
+
+Cuantos movimientos podrian hacer las negras para responder a esta primera jugada ?
+20.
+
+Esto creara 
+20 por 20 = 400 escenarios diferentes.
+Y solo se han movido 2 fichas.
+con cada nuevo movimiento el numero de posibles caminos se multiplica.
+Cual de todos estos caminos me llevara al estado final deseado ?
+Tendre que recorrerlos todos para saberlo.
+
+Resolver este problema requerira recursos como tiempo y memoria.
