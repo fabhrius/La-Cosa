@@ -25,3 +25,7 @@ Cual de todos estos caminos me llevara al estado final deseado ?
 Tendre que recorrerlos todos para saberlo.
 
 Resolver este problema requerira recursos como tiempo y memoria.
+Recorrer todos los posibles caminos que podria tomar una partida de ajedrez requerira tiempo,  mucho, y memoria, mucha, para recordarlos todos y poder compararlos para elegir el que mas me conviene.
+
+
+las bifurcaciones, las decisiones, incrementan la complejidad del problema.
