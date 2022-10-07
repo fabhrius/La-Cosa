@@ -14,12 +14,24 @@ los padres deben ayudarlo hasta que el ninyo tenga 20 anyos y se produzca la sig
 asi la vida media del hombre debe ser de al menos 40 anyos para conseguir el objetivo.
 pero que pasa si no lo consigue en el tiempo esperado ?
 que pasa si se retrasa por falta de recursos ?
-para asegurar el exito multiplicamos el tiempo minimo necesario por 2.
+para asegurar el exito podriamos multiplicar el tiempo minimo necesario por 2.
 asi, 2 por 40 son 80 anyos.
 no sera necesario que viva mucho mas alla de eso.
 
-dormimos 8 horas.
-y 8 horas es el tiempo que dura la noche, aproximadamente.
+Asi, es necesario que un hombre viva unos 80 anyos.
+Pero, porque no dejar que viva para siempre ?
+porque destruirlo ?
 
-pero porque somos creados con tiempo de destruccion ?
+como hemos dicho, en este sistema de calculo,
+un individuo representa un estado del proceso, el estado actual.
+al reproducirse el hijo representa el siguiente estado, el proceso avanza un paso hacia su resolucion.
+para que el proceso avance hacia su resolucion es necesario que los pasos anteriores ya no se ejecuten nuevamente.
+destruimos los estados ya superados para no volver atras.
+a esto le llamamos poda.
+
+Socrates vivio hace 4000 anyos.
+Si se reproduciera hoy cancelaria 4000 anyos de evolucion.
+
+
+
 
