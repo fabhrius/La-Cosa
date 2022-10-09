@@ -33,5 +33,19 @@ Socrates vivio hace 4000 anyos.
 Si se reproduciera hoy cancelaria 4000 anyos de evolucion.
 
 
+Si todos los que han existido vivieran todavia el proceso se estancaria en un punto, volviendo siempre hacia atras,
+haciendo imposible encontrar la solucion al problema.
+El sistema no funcionaria.
 
+para evitar que se repitan pasos ya superados podamos las ramas viejas.
+La muerte de los individuos es necesaria para asegurar que el calculo avanza hacia su resolucion.
+
+Los individuos son mortales.
+Pero si los individuos son las celulas de un unico organismo, llamemos a este organismo vida, entonces la vida es 
+potencialmente,
+mortal e inmortal.
+porque podria morir 
+o vivir para siempre.
+Imagino que esto depende de 
+si sera capaz de encontrar la solucion al problema.
 
