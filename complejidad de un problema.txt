@@ -19,13 +19,24 @@ Cuantos movimientos podrian hacer las negras para responder a esta primera jugad
 
 Esto creara 
 20 por 20 = 400 escenarios diferentes.
-Y solo se han movido 2 fichas.
+Y solo se han movido 2 fichas, una blanca y una negra.
 con cada nuevo movimiento el numero de posibles caminos se multiplica.
 Cual de todos estos caminos me llevara al estado final deseado ?
+Cual de todos ellos me llevara a ganar la partida ?
 Tendre que recorrerlos todos para saberlo.
 
 Resolver este problema requerira recursos como tiempo y memoria.
-Recorrer todos los posibles caminos que podria tomar una partida de ajedrez requerira tiempo,  mucho, y memoria, mucha, para recordarlos todos y poder compararlos para elegir el que mas me conviene.
+Recorrer todos los posibles caminos que podria tomar una partida de ajedrez requerira tiempo,  mucho, y memoria, mucha, para recordarlos todos y poder compararlos para elegir el mejor.
 
 
 las bifurcaciones, las decisiones, incrementan la complejidad del problema.
+
+
+
+----------------------------------------------------------------
+
+
+
+
+
+
