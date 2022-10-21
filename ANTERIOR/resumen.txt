@@ -1,0 +1,37 @@
+
+Estamos jugando a un juego que se llama, "el juego de la vida".
+Este juego esta vivo, y se juega solo a si mismo.
+
+Nosotros le hacemos preguntas, y el nos responde sobre un tablero.
+
+Para dar vida al juego, 
+hemos hecho una simulacion de la vida.
+Basandonos en ADN y reproduccion.
+
+Hemos construido un ADN de plastico, utilizando un CD.
+Para nosotros, el ADN es un conjunto de datos que describen a un individuo de una especie y que puede reproducirse para crear otros individuos de la misma especie.
+De modo que en la simulacion, grabamos en el CD los datos que describen al individuo.
+
+Nos hemos inventado tambien una especie llamada, "tablero-con-una-ficha",
+en donde los invidivuos están formados por un tablero con una ficha.
+
+Hemos tambien inventado una regla que dice cual es la diferencia entre padres e hijos.(el hijo esta a una casilla de distancia del padre)
+Y no debe haber 2 criaturas iguales en la creacion, es una ley de la vida.
+
+Con estos elementos se crea "el juego de la vida".
+
+Que datos contiene el ADN ?
+Los necesarios para describir, crear y reproducir al individuo de esta especie.
+Esos datos son : 
+- es un tablero
+- tiene una ficha
+- la ficha está en la posicion : 'D4' (o la que sea)
+- su firma es : "A1-B2-C3-D4" (los antepasados + su nombre)
+
+Lo recuerdas ?
+
+Puedes volver a leer el capitulo 1, "El juego de la vida", para refrescar la memoria.
+
+En los capitulos que siguen se analiza como ha encontrado la solucion.
+Lo que queremos ver es como funciona la vida, de donde sale, a donde va, que es lo que sucede, y porque.
+

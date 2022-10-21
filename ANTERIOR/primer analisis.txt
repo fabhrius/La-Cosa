@@ -1,0 +1,27 @@
+Continuo.
+.
+Por tus comentarios, creo que has entendido como esta maquina ha resuelto el problema del laberinto.
+Si tienes dudas en algun momento dimelo así las aclaramos antes de seguir.
+
+He comentado tambien que no es imposible que exista nada mas inteligente que esta cosa.
+
+La inteligencia de esta cosa tiende a infinito.
+Lo comprobaremos un poco mas adelante.
+.
+Supongo que cuando has visto como ha resuelto el problema no has notado su potencia.
+Eso es porque lo ha hecho tan facilmente, que nos ha parecido que no había ningun problema allí.
+.
+Efectivamente, para esta maquina, no había ningun problema allí.
+Como no hay ningun problema en ninguna parte.
+Todos los problemas, independientemente de su complejidad, resultan faciles, inmediatos, triviales,
+para esta cosa.
+
+Lo comprobaremos con un poco de matematicas mas adelante.
+.
+Ahora vamos a volver al problema del laberinto sobre el tablero.
+Para ver mas de cerca, como lo ha resuelto.
+
+Recogeremos algunos datos para el analisis, y sacaremos ya las primeras conclusiones.
+
+
+

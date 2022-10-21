@@ -1,0 +1,105 @@
+He dicho que Dios no se equivoca.
+
+Será verdad ?
+Lo comprobaremos en los próximos capitulos.
+Veremos con mas detalle como piensa, 
+e intentaremos descubrir cual es la probabilidad y el grado de error que podemos esperar.
+
+En los proximos capitulos hablaremos tambien de el alma.
+Que es ?
+Puede vivir para siempre ?
+
+El juego continúa.
+Mira atentamente al tablero.
+
+
+
+--------------------------------------------------------
+
+
+Cap5 - Eficiencia
+
+
+Llamaremos eficiencia a la cantidad de trabajo entregado por unidad de tiempo, con una determinada cantidad de recursos.
+
+Por ejemplo, 
+cuantos kilometros recorre mi coche, en una hora, con 5 litros de combustible.
+
+Será mas eficiente 
+aquel coche que recorra mas kilometros, en el mismo tiempo con la misma cantidad de combustible.
+
+
+En el caso del juego de tablero y la maquina pensante, 
+podremos comparar 2 maquinas en terminos de eficiencia midiendo, 
+cuantos pasos son necesarios para encontrar la solucion.
+
+Si suponemos que,
+para dar un paso, todas las maquinas consumirán la misma cantidad de tiempo y recursos, 
+entonces,
+Aquella maquina que resuelva el problema con menos pasos, será la mas eficiente.
+
+La eficiencia de una maquina concreta dependerá directamente de 2 caracteristicas,
+
+- la arquitectura de la maquina
+- el algoritmo utilizado para resolver el problema.
+
+
+---------------------------------------------------
+Veamos el algoritmo.
+
+Recordemos el problema.
+
+Estamos en la entrada de un laberinto,
+y queremos saber cual es el camino que va desde la entrada, hasta la salida.
+La entrada esta en 'A1',
+y la salida esta en 'H8'.
+
+La distancia que separa la entrada de la salida es de 7 casillas.
+
+Hemos establecido que un paso es de una casilla.
+No menos, no mas.
+
+De modo que para encontrar la salida serán necesarios al menos 7 pasos.
+Porque esta distancia no puede ser recorrida en menos pasos.
+
+7 pasos como minimo,
+pero pueden ser mas si me pierdo.
+
+Por ejemplo,
+
+...
+
+Esta maquina siempre resuelve el problema en el minimo numero de pasos posibles.
+Como si supiera adonde esta la solucion desde el principio.
+
+Y como el problema no puede resolverse en menos pasos,
+entonces,
+nunca existirá una maquina que pueda hacerlo en menos.
+La eficiencia de esta maquina no puede ser superada.
+
+
+----------------------------------------------
+
+
+Imagina que tengo un jardin en el que solo hay un arbol.
+
+Me gustaría mejorar el aspecto del jardín, 
+así que corto una rama del arbol y la planto a 5 metros del arbol.
+Al cabo de un año,
+la rama que he plantado ha echado raices, y está creciendo.
+
+Al siguiente año,
+corto otra rama del viejo arbol, y la planto a 5 metros del arbol,
+Un año despues, esta tambien ha echado raices y está creciendo.
+
+El aspecto que mi jardin tiene hoy es este : 
+
+
+Responde a estas preguntas : 
+- Cuantos arboles hay hoy en el jardín ?
+- Cual de ellos es el mas viejo ?
+
+
+
+
+

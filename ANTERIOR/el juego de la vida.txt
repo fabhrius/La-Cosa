@@ -1,0 +1,355 @@
+en mi caso,
+he leido la Biblia buscando respuestas sobre el alma y la existencia.
+Y creo que la mayoría de la gente lo hace por el mismo motivo.
+
+Ahora que lo hemos leído, ya podremos explicarlo.
+
+
+entonces,
+el alma, que es ?
+...
+y la vida, que es ?
+...
+
+
+..............................
+
+
+ Espero tus respuestas.
+
+
+Mientras tanto,
+yo intento averiguarlo con un juego de tablero (damas).
+Llamemosle al juego, el juego de la vida.
+
+-----------------------------------------
+
+
+Y dejemos que sea el propio juego el que juegue a si mismo.
+Así el nos dará las respuestas.
+
+--------------------------------------------
+
+
+Vamos a jugar a un juego que he inventado.
+Es un juego de tablero, utilizaremos el tablero de las damas.
+
+Un juego magico en donde tú y yo no somos jugadores, sino espectadores.
+Porque el juego se juega solo.
+
+Vamos a llamarle el juego de la vida.
+Porque simulará sobre el tablero la actividad de la vida.
+ 
+Para que pueda jugarse a si mismo le dotaremos de inteligencia.
+
+---------------------------------------
+
+
+
+que soy ?
+porque estoy aquí ?
+porque debo morir ?
+cual es mi mision ?
+lo he hecho bien ?
+que es todo esto ?
+
+y sobre todo porque ?
+porque sucede todo esto ?
+y porque yo debo estar aquí en medio ?
+
+Las respuestas que buscaba no están en el libro.
+Asi que voy a dejar el libro por un momento para buscar las respuestas en otra parte.
+
+Haremos las preguntas a Dios, directamente.
+
+
+Voy a proponer ahora un experimento.
+
+Voy a inventar un juego magico.
+
+Utilizando un tablero de Damas buscaremos solucion a diferentes problemas.
+El juego nos dará las respuestas.
+
+Y es magico porque,
+en este juego tu y yo no somos jugadores, sino espectadores.
+
+El juego se jugará solo.
+Y para eso, lo dotaremos de inteligencia.
+Y en cierto modo, de vida y voluntad.
+
+El juego evolucionará del mismo modo que la vida, para encontrar las respuestas.
+No te asustes todavia,
+porque será a partir de mañana.
+
+
+-----------------------------------------------
+
+Las respuestas que buscaba no estan en el libro.
+
+Lo estoy haciendo bien ?
+Como puedo saberlo si no se lo que pasa ?
+
+Por ejemplo,
+Algunas personas no comen carne.
+Son vegetarianos, por compasion.
+Creen que matar para comer no está bien.
+
+Según estas personas, la naturaleza está equivocada.
+
+Los dientes son una aberracion.
+Y ellos que son brillantes, han encontrado el error,
+y lo van a arreglar !!!
+
+Suena absurdo ?
+Esta claro que no somos muy listos.
+
+Así que antes de seguir suponiendo cosas, lo mejor es empezar por averiguar 
+¿ que es lo que está pasando ?
+
+Así sabremos si nuestro comportamiento va a favor, o en contra.
+
+--------------------------------------
+
+
+Voy a proponer un experimento ahora.
+Inventare un juego magico.
+
+Crearemos un juego, con un tablero de Damas, y lo dotaremos de vida.
+En este juego, tu y yo no somos jugadores, sino espectadores,
+porque el juego se juega solo, a si mismo.
+
+Espero que nos permita comunicarnos con Dios para hacerle las preguntas a él directamente.
+
+
+
+ 
+
+
+--------------------------------------
+
+
+Para darle vida
+utilizaremos 2 ideas.
+
+- ADN y reproduccion.
+
+Y voy a suponer que 
+tienen las siguientes caracteristicas : 
+
+ADN : 
+- la vida esta basada en ADN
+- vida y ADN son la misma cosa
+- el ADN almacena informacion
+- el ADN contiene la informacion necesaria para construir un individuo
+- una cadena de ADN identifica y define a un individuo
+- el ADN no cambia durante toda la vida del individuo, es una estructura NO MODIFICABLE.
+- el ADN se reproduce.
+
+REPRODUCCION:
+- un individuo crea nuevos individuos copiando su propia informacion.
+- el hijo conserva la informacion del padre, pero agrega una modificacion personal.
+así, el hijo es un individuo del mismo tipo que el padre, pero es una instancia diferente.
+
+- no debe haber 2 individuos iguales, el hijo debe ser diferente que el padre.
+
+ej: un elefante genera otro elefante (ambos son del mismo tipo, elefantes, y esta es la informacion que se quiere conservar)
+pero son 2 elefantes diferentes, 2 instancias, uno negro el otro blanco, y esta es la modificacion personal esperada.
+
+es decir,
+reproduccion no es simplemente una copia.
+sino una copia modificada.
+y no vale cualquier modificacion, sino una definida.
+
+---------------------------------
+
+mañana vemos como utilizar estas ideas.
+
+------------------------------------------
+
+
+--------------------------------------
+
+Ahora construyo una maquína que simule ADN y REPRODUCCION con las caracteristicas que hemos comentado.
+
+necesitaré lo siguiente :
+ 
+1 - definir un individuo y la codificacion que utilizare para almacenar la informacion que lo define.
+2 - un almacen para la informacion (ADN)
+3 - definir una funcion que modifique de forma valida la informacion para crear un hijo.
+4 - un dispositivo que cree un nuevo individuo (impresora, grabadora, ...) (REPRODUCCION)
+5 - una señal de reloj, que nos indique cuando es el momento de crear una nueva generacion.
+
+-----------------------------------------------------
+
+Implementaré estas cosas así : 
+
+1 - el individuo dependerá del problema que estemos analizando, en este caso es un tablero de damas con una ficha.
+
+2 - El almacen para la informacion.
+hemos dicho que el ADN contiene informacion, y que una vez creado no se modifica.
+
+Podemos grabar la informacion en un plastico, por ejemplo un CD.
+Y ya tenemos el ADN.
+
+3 - Debe reproducirse, así que la informacion del CD la grabamos en un CD nuevo.
+sin embargo, la informacion debe ser modificada porque no pueden ser iguales.
+Para esto necesitaremos definir una funcion que modifique la informacion de una forma permitida, el hijo debe ser del mismo tipo que el padre,
+así que no nos vale cualquier modificacion.
+si el padre es un elefante, el hijo no puede ser un raton.
+La funcion de modificacion debe ser definida segun el caso.
+Lo veremos en la practica.
+
+4 - con la informacion del individuo, ahora transformada segun la funcion que hemos definido,
+grabamos el nuevo individuo en un nuevo soporte.
+Para esto podemos utilizar una grabadora de CDs.
+
+5 - definimos el tiempo que debe trascurrir entre generaciones, cuando el tiempo se cumple,
+todos los individuos creados generan un hijo.
+
+
+-----------------------------------------------------
+
+Y con esto, queda definida la maquina.
+Veamos lo que sucede cuando la ponemos en marcha.
+
+
+--------------------------------------
+
+Imagina que intento construir una maquina que simule la reproduccion de la vida con las caracteristicas que he comentado.
+
+Veamos como podría hacerse.
+
+- INDIVIDUO y CODIFICACION : el ADN almacena informacion de un individuo,
+será necesario definir el individuo.
+La informacion almacenada en el ADN está codificada, definiremos tambien una codificacion apropiada.
+
+- El ADN, en este experimento solo es un almacen para la informacion.
+Lo implementaré con un CD de los viejos (no regrabable)
+Así, grabo la informacion del individuo en un CD.
+ 
+
+- MODIFICACION DE LA INFORMACION : antes de grabar un hijo en la reproduccion la informacion del padre debe ser modificada de una forma definida.
+será necesario definir una funcion de modificacion aceptable.
+
+- REPRODUCCION : las copias las haré en una grabadora de CDs.
+
+
+---------------------------------------
+
+Entonces, 
+queda por definir : 
+
+- INDIVIDUO
+- CODIFICACION
+- FUNCION DE MODIFICACION
+
+
+Eso será a partir de mañana.
+
+-------------------------------------------
+
+
+
+Feliz Navidad.
+
+
+
+--------------------------------------
+
+
+Imagina que intento construir una maquina que simule la reproduccion de la vida con las caracteristicas que he comentado.
+
+Voy a hacerlo con CDs y una grabadora de CDs.
+
+Digamos que el CD es el ADN, y allí almacenaremos la informacion del individuo.
+Para reproducirlo utilizaremos la copiadora, pero no queremos una copia sino una REPRODUCCION, de modo que la copia debe ser diferente del original.
+Así que hacemos pasar la informacion antes por una funcion que la modifica apropiadamente.
+Despues grabamos la copia y tenemos un hijo.
+
+...
+
+como vas ?
+me sigues hasta ahora ?
+
+...
+
+Para probarlo todavía necesitamos definir :
+
+- quien será el individuo que vamos a reproducir
+- como vamos a modificarlo para obtener un hijo.
+
+
+Eso será a partir de mañana.
+
+Feliz Navidad !
+
+--------------------------------------------
+
+Para probar esto necesitamos:
+- un individuo, 
+- poder almacenar la informacion que lo describe en el CD (codificarlo),
+- y una funcion que nos diga como modificar esa informacion para crear un hijo.
+
+
+
+Hablaba de dar vida al juego.
+
+Imagina un universo en donde existe una especie formada por individuos que son
+ un tablero de damas con una ficha.
+
+La ficha puede estar en cualquier casilla, segun el individuo, y es la caracteristica personal.
+
+Imagina que existe un individuo con la ficha colocada en la casilla C5.
+El individuo no cambiará a lo largo de su vida, por lo que siempre será un C5.
+
+Y cuando tendrá un hijo, la ficha deberá estar en otra casilla,
+una que sea una jugada valida.
+En nuestro caso, solo será valido mover la ficha a una casilla vecina.
+
+De modo que,
+hijos validos para C5 son :
+B4 - B5 - B6 - C4 - C6 - D4 - D5 - D6
+
+(hablamos de reproduccion asexual, como las celulas)
+
+
+Lo entenderas mejor cuando lo veas en funcionamiento.
+
+Eso será el proximo día.
+--------------------------------------------
+
+
+Muy bien.
+Estamos casi a punto de iniciar el juego.
+
+Solo queda por definir cuales son los datos que vamos a grabar.
+
+Recuerda que para simular el ADN utilizaremos CDs.
+En nuestra simulacion, el ADN es un soporte para almacenar informacion,
+la informacion necesaria para crear un individuo.
+
+Imagina que estamos jugando una partida y queremos dejarla a medias para seguir mañana.
+Bastaría con recordar adonde estaban las fichas para volver mañana adonde lo habíamos dejado.
+
+En este caso, solo hay una ficha en el tablero.
+Por lo tanto, si hablamos de un individuo C5,
+bastaría con almacenar en el CD eso, "C5", para reconstruirlo.
+
+Con esa informacion sería suficiente.
+Pero ademas, voy a grabar toda la cadena de padres, es decir, la cadena genealogica.
+Así sabré quienes fueron sus antepasados.
+
+De este modo : 
+
+padre -> nombre = C5
+hijo -> nombre = D6 ; familia = C5-D6
+nieto -> nombre = E7 ; familia = C5-D6-E7
+
+----------------------------------
+
+
+Ya lo tenemos todo.
+El proximo día lo ponemos en marcha.
+Veremos como juega.
+O quizas debería decir "evoluciona".
+

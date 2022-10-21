@@ -1,0 +1,41 @@
+Veamos otro problema.
+
+Queremos averiguar la combinacion de una caja fuerte de 6 digitos.
+Cuantos pasos debemos dar para resolver el problema ?
+
+Podria probar 
+0-0-0-0-0-0
+0-0-0-0-0-1
+0-0-0-0-0-2
+...
+
+una a una todas las combinaciones posibles hasta dar con la que abre la caja fuerte.
+
+si utilizo este sistema para averiguar convinaciones, necesitaria, en promedio, unos 
+(10*10*10*10*10*10)/2 pasos
+para resolver el problema.
+
+Veamos como lo haria un sistema de individuos que se reproducen, como en los ejemplos anteriores.
+
+Digamos que el estado inicial del problema es una combinacion de 6 ceros
+
+0-0-0-0-0-0
+
+
+digamos tambien que tiene una clase de reproduccion igual a : 1
+esta clase indica el digito de la cadena que puede modificar para crear hijos
+el hijo incrementara en uno la clase reproductora del padre.
+Si el padre es clase 1, (solo puede modificar el digito 1 de la cadena para crear hijos) 
+entonces,
+sus hijos seran de clase 2, (y modificaran el digito 2 de la cadena para crear hijos)
+y sus nietos seran de clase 3.
+
+Veamoslo graficamente.
+
+
+
+
+
+
+
+

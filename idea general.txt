@@ -1,0 +1,6 @@
+- celulas de una unica criatura
+
+- mantener un paquete de informacion y modificarlo con el objetivo de resolver un problema
+
+- ADN y reproduccion
+

@@ -1,0 +1,55 @@
+ok.
+
+Antes de continuar,
+es necesario definir algunas reglas que nos proporcionen una base lógica común para que podamos razonar del mismo modo.
+
+Llamemosles "axiomas".
+
+https://es.wikipedia.org/wiki/Axioma
+
+
+Un axioma es algo que todos aceptamos como VERDADERO sin necesidad de demostracion.
+Así los axiomas nos sirven como base para razonar y demostrar las otras teorías o afirmaciones en discusion.
+
+
+En nuestros razonamientos vamos a conferirle a la palabra "ADN", las siguientes caracteristicas:
+(que utilizaremos mas adelante como axiomas)
+
+- el ADN define al individuo (en cierto modo, el ADN es el individuo)
+- el ADN de un individuo no puede modificarse, 
+	de modo que 
+	Andrea, será siempre Andrea (no es posible transformarla en Bill Gates)
+
+- No es posible fabricar o modificar ADN.
+	Solo podemos obtener una nueva cadena de ADN, 
+		por copia,
+		o por reproduccion.
+		(ambas, tanto copia como reproduccion, solo puede realizarlas el individuo propietario del ADN)
+	Una COPIA, generará una cadena identica a la anterior,
+	La REPRODUCCION, generará una cadena diferente, un hijo, y por lo tanto un individuo diferente del padre.
+
+--------------------------------------------
+
+
+Ejemplo, 
+
+El pelo de Andrea crece.
+Un nuevo pelo de Andrea contiene el ADN de Andrea (y el del pelo).
+Un analisis de ADN nos dirá que el pelo pertenece a Andrea.
+
+Ningún otro pelo, nunca, podrá parecerse a este.
+
+No es posible construir un pelo de Andrea.
+Solo Andrea puede.
+
+No es posible repetir a Andrea.
+Es única.
+
+No es posible transformar a Andrea en otro individuo.
+Siempre será Andrea.
+
+------------------------------------------
+
+Utilizaremos esta ideas como 'axiomas'.
+Nos servirán como base para los futuros razonamientos.
+

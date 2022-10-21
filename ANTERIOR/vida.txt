@@ -1,0 +1,90 @@
+Digamos que tengo un tablero con una ficha colocada en la posicion 'A1'.
+(dibujo-1)
+Y que este tablero está vivo.
+Cuando pase el tiempo, tendrá hijos.
+Sus hijos serán igual que el, un tablero con una ficha.
+Pero deben ser diferentes, así que la ficha estará en otra posicion.
+Digamos que la ficha solo puede moverse una casilla, en cualquier direccion.
+
+De modo que,
+si tiene todos los hijos posibles,
+sus hijos serán,
+'A2' (dibujo-2),
+'B2' (dibujo-3),
+y 'B1' (dibujo-4).
+
+--------------------------------------------
+
+
+Ahora voy a utilizar esta logica para resolver problemas.
+
+Empecemos con un problema facil, solo para ver como funciona.
+
+Digamos que el tablero de juego es un laberinto.
+Como los que salen en el diario del domingo.
+Y quiero encontrar la solucion, 
+la pregunta es : 
+¿ cual es el camino que me lleva desde la entrada hasta la salida ?
+
+Para hacerlo muy simple, no voy a poner paredes esta vez,
+solo voy a indicar cual es la entrada y cual es la salida.
+
+Diré que la entrada está en la casilla 'A1',
+y la salida está en la casilla 'H8',
+como en el dibujo 5.
+
+------------------------------------------------------
+
+
+Como resuelvo el problema ?
+
+Muy facil.
+Creo un tablero con una ficha en la entrada del laberinto, 'A1' (dibujo 6).
+
+Con mi toque mágico,
+lo doto de vida, y le llamo Adan.
+ 
+Y le digo: 
+
+- que viva una larga vida
+- que no piense en nada y solo haga lo que quiera hacer
+- que tenga tantos hijos como pueda
+- y que igual hagan sus hijos
+- y los hijos de sus hijos
+- por toda la eternidad
+
+No importa que el sepa cual es el problema que debo resolver, solo debe vivir, disfrutar, y nada mas.
+Esta vida es un regalo que yo le hago,
+solo con una condicion.
+
+Si alguno de sus descendientes esta posicionado en la casilla 'H8', debe hacermelo saber.
+
+Y entonces, 
+sucede lo siguiente ...
+
+-----------------------------------------------------------
+
+
+Que ha sucedido ?
+
+Podriamos decir que el problema se ha resuelto solo.
+
+Nadie ha pensado.
+
+No se ha utilizado un cerebro para resolver el problema.
+
+Ninguno de los individuos involucrados en la resolucion 
+conocia el problema que queríamos resolver,
+y ninguno de ellos tenía un cerebro.
+
+Solo es reproduccion.
+
+-----------------------------------------
+
+Piensalo unos días.
+
+
+La proxima semana empezaremos a sacar conclusiones.
+Este sencillo experimento tiene muchas e importantes implicaciones.
+
+

@@ -1,0 +1,39 @@
+Antes de continuar con el experimento 
+quiero comentar algunas ideas a modo de resumen de lo que hemos visto hasta ahora.
+
+Aprovecharé la respuesta que has dado a la pregunta de 
+porque han sido creados los individuos.
+
+Es una buena respuesta y creo que nos servirá para entender mejor lo que ha pasado.
+
+Experimentalmente hemos visto como el sistema encuentra la salida del laberinto.
+La salida estaba a una distancia de 7 casillas.
+Y para alcanzar esta distancia, explorando el tablero, han sido creados alrededor de 2 millones de individuos.
+
+Tu comentabas que, 
+en tu opinion lo que crea a los individuos es el amor.
+
+En cambio, yo decia que,
+habian sido creados por mi deseo de encontrar la solucion a un problema.
+
+Y el amor ? 
+No es importante ?
+
+Imagino que tu hablas del amor que estos individuos sientes el uno por el otro.
+Sin embargo, no está claro que sientan nada.
+Aun sin amor, habrían sido creados, porque yo los he creado.
+
+Observa que no es su voluntad, sino la mía.
+Y yo no soy de su especie. No soy uno de ellos.
+
+Y yo no tengo porque sentir amor por ellos, son para mí piezas de una maquina.
+
+Recuerda tambien que yo los he diseñado.
+Yo he decidido que serían un tablero con una ficha.
+Yo he decidido que informacion debían almacenar en su ADN.
+
+Si yo no quisiera resolver el problema del laberinto, nunca habrían existido.
+
+Hemos visto tambien que el coste de este sistema es muy elevado.
+
+
