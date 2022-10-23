@@ -1,0 +1,20 @@
+Las computadoras, las maquinas que realizan calculos,
+procesan informacion para resolver problemas.
+
+Por ejemplo,
+cuando queremos resolver un problema fisico partimos de un conjunto de datos conocidos sobre el que haremos calculos.
+
+Por ejemplo, para averiguar el tiempo que tarda en tocar el suelo un cuerpo en caida libre,
+necesitaremos conocer,
+cual es la altura desde donde cae,
+y cual es la aceleracion de la gravedad.
+
+Sobre estos datos realizamos calculos y obtenemos la respuesta al problema.
+
+Asi, para crear una maquina que resuelva problemas,
+como un computador, 
+necesitaremos 2 cosas,
+un soporte de memoria, adonde almacenaremos los datos,
+y una forma de modificar estos datos,
+procesarlos, para obtener el resultado.
+
