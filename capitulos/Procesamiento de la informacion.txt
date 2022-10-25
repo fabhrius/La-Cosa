@@ -18,3 +18,41 @@ un soporte de memoria, adonde almacenaremos los datos,
 y una forma de modificar estos datos,
 procesarlos, para obtener el resultado.
 
+Es posible utilizar seres vivientes para resolver problemas ?
+
+
+El ADN almacena la informacion necesaria para construir un individuo.
+El ADN puede almacenar una gran cantidad de informacion.
+
+Esto podria servir como el soporte de la informacion que necesitamos.
+La informacion debe ser procesada, es decir, modificada.
+
+La informacion contenida en el ADN de un individuo no debe cambiar durante la vida del individuo.
+Es un conjunto de informacion inmutable, ya que el individuo debe continuar siendo el mismo hasta el final.
+
+Sin embargo, la informacion contenida en el ADN del individuo 'A' se modificara cuando cree un hijo.
+El hijo de 'A' no debe ser igual que el padre, es una copia del ADN del padre, si, pero una copia no identica.
+Ha sido ligeramente modificada.
+
+Asi podemos pensar en la reproduccion como en un paso hacia adelante en un proceso de calculo.
+en donde, una generacion, representa un unico paso simple.
+
+para resolver un problema, normalmente, deberiamos realizar una serie de pasos.
+cuanto mas complejo sea el problema mas pasos de calculo seran necesarios.
+y una generacion representaria un unico paso simple.
+
+un individuo no puede resolver el problema.
+tampoco puede hacerlo su hijo, ni su nieto.
+el problema sera resuelto por toda la familia, por toda la especie, o por todo el conjunto de seres vivientes que forman la vida.
+
+un individuo solo representa uno de los estados por los que debe atravesar el proceso de calculo hasta encontrar la solucion.
+
+-----------------------------------------------
+
+En resumen, 
+lo que intento decir con esto es que seria posible utilizar 
+ADN y reproduccion
+para resolver problemas.
+
+Intentare explicarlo con ejemplos practicos
+en los proximos capitulos.
