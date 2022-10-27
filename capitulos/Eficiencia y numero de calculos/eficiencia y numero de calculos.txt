@@ -1,0 +1,5 @@
+en el ejemplo del laberinto
+la salida se encuentra a una distancia de 7 casillas desde la entrada.
+en una jugada la ficha solo puede avanzar una casilla.
+por lo tanto, moviendose en linea recta hacia la salida 
+podria recorrer esa distancia en 7 movimientos, 7 pasos de calculo.
