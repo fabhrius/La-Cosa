@@ -26,3 +26,131 @@ la poda
 - VISION PERSPECTIVA
 - CONJETURAS POSIBLES
 
+------------------------------------
+
+PROLOGO :
+
+- Objetivos del libro
+- publico
+- descripcion del temario
+- alcance
+
+------------------------------------
+
+IDEA GENERAL :
+
+- el individuo como organismo aislado
+- la vida como un unico organismo
+- el individuo como celula
+- descripcion general de la  maquina
+
+-----------------------------------
+
+PROCESAMIENTO DE LA INFORMACION :
+
+- descripcion del algoritmo general 
+- datos y proceso
+- modificar los datos para obtener un resultado
+- estructura basica de una maquina de procesamiento de informacion
+
+-----------------------------------
+
+ESTADOS DE UN PROCESO :
+
+- descripcion de la exploracion en grafos
+- estado inicial final e intermedios
+- creacion de diferentes caminos de exploracion 
+
+-------------------------------------
+
+RESOLVER UN PROBLEMA SIMPLE :
+
+- descripcion del juego del laberinto
+- desarrollo del calculo
+- obtener el resultado
+- el rol de los individuos en la resolucion del problema
+
+-------------------------------------
+
+OTROS EJEMPLOS DE RESOLUCION DE PROBLEMAS MAS COMPLEJOS :
+
+- combinacion numerica de una caja fuerte
+- partida de ajedrez
+
+
+------------------------------------------
+
+EFICIENCIA Y NUMERO DE CALCULOS :
+
+- analisis de la resolucion del laberinto
+- analisis de la resolucion de la caja fuerte
+
+----------------------------------------
+
+COMPLEJIDAD DE UN PROBLEMA :
+
+- decision y complejidad
+- decision como bifurcacion del camino
+- numero de caminos posibles y recursos
+- ejemplo del laberinto
+- ejemplo de la combinacion numerica
+- ejemplo del ajedrez
+
+-------------------------------------------
+
+POTENCIA DEL SISTEMA :
+
+- la complejidad como incremento en el numero de caminos a explorar
+- exploracion secuencial
+- la reproduccion como mecanismo de exploracion concurrente
+- destruccion de la complejidad
+- todos los problemas son simples
+- comparacion con otros sistemas de calculo
+- numero de pasos necesarios
+- complejidad de cada paso de calculo
+- imposibilidad de superar la potencia del sistema
+
+-------------------------------------------
+
+COSTE :
+
+- numero de individuos creados 
+- coste de recrear la maquina con individuos fisicos
+- nada es gratis
+- la necesidad de afrontar coste elevados
+
+--------------------------------------------
+
+REDUNDANCIA :
+
+- necesidad de redundancia en el negocio
+- la familia
+- rol y capacidad del individuo aislado
+- multiples maquinas trabajando en la resolucion del mismo problema de forma independiente
+
+
+-------------------------------------------
+
+LA PODA :
+
+- es posible mantener una vida indefinidamente ?
+- porque morimos ?
+- que sucede si ningun individuo muere ?
+- asegurar que el calculo avanza hacia su resolucion
+- la poda
+
+---------------------------------------------
+
+ESPIRITU :
+
+- objetivo de la accion
+- 
+
+
+
+
+
+
+
+
+
