@@ -1,6 +1,28 @@
 Las computadoras, las maquinas que realizan calculos,
 procesan informacion para resolver problemas.
 
+Es decir,
+partimos de un conjunto de datos conocidos.
+sobre estos datos realizamos calculos, modificaciones, y asi vamos obteniendo nueva informacion que incluimos en el conjunto de datos conocidos.
+normalmente podriamos realizar una serie de calculos secuenciales sobre los datos hasta encontrar el resultado esperado.
+asi resolver un problema podria requerir mas de un paso de calculo.
+
+Por ejemplo, 
+si queremos sumar una lista de 5 numeros, 
+el conjunto de datos iniciales es la lista que queremos sumar,\
+lo primero que haremos es sumar el primer numero de la lista con el segundo, y ese sera el primer paso del proceso.
+con esto habremos obtenido un nuevo dato, un resultado parcial,
+
+El siguiente paso sera sumar este resultado parcial con el tercer numero de la lista.
+El siguiente paso sera sumar el resultado que tenemos hasta ahora con el siguiente numero de la lista.
+Y continuaremos asi, paso a paso hasta obtener el resultado final.
+
+esta podria ser la descripcion general de cualquier calculo.
+un conjunto de datos que mantenemos y sobre la que realizamos calculos.
+la informacion.
+y el conjunto de calculos que realizamos sobre la informacion, el procesamiento.
+
+
 Por ejemplo,
 cuando queremos resolver un problema fisico partimos de un conjunto de datos conocidos sobre el que haremos calculos.
 
@@ -13,12 +35,34 @@ Sobre estos datos realizamos calculos y obtenemos la respuesta al problema.
 
 Asi, para crear una maquina que resuelva problemas,
 como un computador, 
-necesitaremos 2 cosas,
+necesitaremos 2 cosas basicas,
 un soporte de memoria, adonde almacenaremos los datos,
 y una forma de modificar estos datos,
 procesarlos, para obtener el resultado.
 
+------------------------------------------------------
+
+existe una gran variedad de arquitecturas de computadores.
+podemos comparar 2 computadores diferentes en terminos de eficiencia, potencia, capacidad, etc.
+unos computadores son mas rapidos que otros.
+algunos realizan mas calculos con menos consumo de energia.
+otros son capaces de resolver problemas muy complejos.
+ 
+cual es sera el mas potente de todos ellos.
+
+la vida parece contener inteligencia.\
+no hablo de las criaturas vivientes, de los individuos de una especie,
+sino de la vida en su conjunto.
+el disenyo de las criaturas es sorprendente.
+
+es posible utilizar el mecanismo de la vida para resolver problemas ?
+y de ser posible utilizar vida como un computador,
+como quedaria cuando lo comparamos con las arquitecturas de ordenadores que conocemos ?
+
+
 Es posible utilizar seres vivientes para resolver problemas ?
+
+-----------------------------------------------------------------
 
 
 El ADN almacena la informacion necesaria para construir un individuo.
