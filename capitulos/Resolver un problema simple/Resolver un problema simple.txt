@@ -27,6 +27,66 @@ bastaria con,
 Para verlo en accion voy a proponer un problema facil.
 
 
+---------------------------------------------------------------------------
+/******************************************************************************/
+
+\
+
+Propongo un juego simple.
+Lo jugaremos sobre un tablero con una cuadricula de 8 por 8 casillas, como el tablero de ajedrez.
+Sobre el tablero pondre una sola ficha redonda, como una moneda.
+Imaginaremos que el tablero es un laberinto,
+con una entrada, que situare en la casilla 'A1',
+y una salida, que estara en la casilla 'H8'.
+Inicialmente la ficha estara colocada en la entrada del laberinto, 'A1'.
+con cada jugada, la ficha puede moverse una casilla.
+Y el objetivo sera colocar la ficha en la casilla de salida del laberinto, 'H8'.
+
+Para ganar la partida, sera necesario responder a la pregunta :
+cual es el camino que va desde la entrada hasta la salida ?
+
+para a esta pregunta, construire una maquina que resuelva el problema automaticamente.
+ 
+----------------------------------------------------------------------
+
+para construir la maquina de calculo,
+utilizare una especie de seres vivientes simulados.
+una nueva especie de laboratorio que resolvera el problema por nosotros utilizando los recursos que utiliza la vida.
+
+he comentado antes que,
+para resolver problemas de tipo matematico, fisicos, logicos,
+seran necesarios 2 recursos basicos.
+
+- un soporte de memoria, adonde almacenar datos
+- y un mecanismo que nos permita procesar la informacion de forma adecuada.
+
+los seres vivientes nos proporcionaran estos recursos.
+en el ADN puede almacenarse informacion, 
+y la informacion contenida en este soporte no sera alterada en toda la vida del individuo.
+se mantendra, inmutable.
+
+en la reproduccion, la informacion contenida en el ADN del padre, sera modificada para crear al hijo.
+el hijo no es igual al padre,
+es muy parecido, pero no igual.
+Este sera el mecanismo que utilizaremos para procesar la informacion, la reproduccion.
+
+El proceso de calculo avanzara un unico paso con cada generacion.
+Y generacion tras generacion el proceso ira avanzando hasta la resolucion del problema.
+
+
+
+Ya tenemos las 2 cosas que necesitamos,
+el soporte de memoria,
+y el procesador.
+
+veamos como funciona.
+
+
+/*************************************************************************/
+----------------------------------------------------------------------------
+
+
+
 
 Digamos que tengo un tablero de ajedrez, 8 por 8 casillas.
 y sobre el tablero una ficha, una unica ficha redonda y plana, como una moneda.
