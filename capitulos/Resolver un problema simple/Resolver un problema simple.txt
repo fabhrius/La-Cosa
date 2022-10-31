@@ -30,7 +30,7 @@ Para verlo en accion voy a proponer un problema facil.
 ---------------------------------------------------------------------------
 /******************************************************************************/
 
-\
+
 
 Propongo un juego simple.
 Lo jugaremos sobre un tablero con una cuadricula de 8 por 8 casillas, como el tablero de ajedrez.
@@ -71,7 +71,7 @@ es muy parecido, pero no igual.
 Este sera el mecanismo que utilizaremos para procesar la informacion, la reproduccion.
 
 El proceso de calculo avanzara un unico paso con cada generacion.
-Y generacion tras generacion el proceso ira avanzando hasta la resolucion del problema.
+Y generacion tras generacion el proceso ira avanzando, paso a paso, hasta la resolucion del problema.
 
 
 
@@ -86,16 +86,49 @@ veamos como funciona.
 ----------------------------------------------------------------------------
 
 
+hemos comentado anteriormente que 
 
+el proceso de resolucion de un problema atravesara difentes estados, desde el estado incial hasta el estado final, y que cambiara de estado cada vez que se realice un calculo simple sobre los datos.
 
-Digamos que tengo un tablero de ajedrez, 8 por 8 casillas.
-y sobre el tablero una ficha, una unica ficha redonda y plana, como una moneda.
+en el problema del laberinto sobre el tablero
+el estado inicial sera el inicio del juego, es decir, la ficha esta colocada en la entrada del laberinto.
+cada vez que se realice una jugada (la ficha mueve una casilla) el juego cambiara de estado.
+y cambiara de estado jugada a jugada hasta alcanzar el estado final, la ficha en la salida del laberinto.
 
-La ficha puede moverse una casilla en cualquier direccion en cada jugada, siempre que la casilla este libre.
-Una casilla puede estar ocupada por un obstaculo.
+De modo que,
+una maquina que procese un problema de estas caracteristicas tendra que poder,
+almacenar el estado en que el juego se encuentra en un momento dado,
+y ser capaz de procesar la informacion de un estado para generar el estado siguiente.
 
-El problema que queremos resolver es :
-cual es el camino que deberia recorrer la ficha para llegar del punto A al punto B ?
+Para esto,
+crearemos una especie de seres vivientes en donde un individuo
+almacenara en su ADN la informacion que describe un estado del juego.
 
-(grafico)
+y en la reproduccion,
+esta informacion sera procesada para producir el siguiente estado posible.
+
+Asi, 
+un individuo representa un estado del calculo,
+y un hijo representa el siguiente estado.
+
+que informacion necesitamos almacenar para representar un estado del juego ?
+veamoslo con el estado inicial,
+digamos que el padre representa el estado incial del juego.
+el estado inicial es un tablero de 8 por 8 casillas con una ficha en la posicion 'A1'
+como el tablero siempre sera de 8 por 8 no es necesario almacenar esta informacion, pero si la posicion de la ficha.
+Tambien queremos guardar informacion de sus antepasados, todo el arbol genealogico.
+Con eso sera suficiente.
+
+Entonces,
+la informacion que guardaremos en el ADN para representar un estado del juego sera:
+- la posicion de la ficha
+- el nombre de todos los antepasados
+
+En el caso del estado inicial quedara asi :
+"
+posicion= 'A1'
+antepasados= '-'
+"
+
+el individuo 'A1' no tiene antepasados, es el primero de su especie
 
