@@ -45,7 +45,7 @@ Y el objetivo sera colocar la ficha en la casilla de salida del laberinto, 'H8'.
 Para ganar la partida, sera necesario responder a la pregunta :
 cual es el camino que va desde la entrada hasta la salida ?
 
-para a esta pregunta, construire una maquina que resuelva el problema automaticamente.
+para responder a esta pregunta, construire una maquina que resuelva el problema automaticamente.
  
 ----------------------------------------------------------------------
 
@@ -53,8 +53,10 @@ para construir la maquina de calculo,
 utilizare una especie de seres vivientes simulados.
 una nueva especie de laboratorio que resolvera el problema por nosotros utilizando los recursos que utiliza la vida.
 
+individuos, ADN y reproduccion.
+
 he comentado antes que,
-para resolver problemas de tipo matematico, fisicos, logicos,
+para resolver problemas que requieren calculos, como pueden ser los de tipo matematico, fisicos, logicos, etc,
 seran necesarios 2 recursos basicos.
 
 - un soporte de memoria, adonde almacenar datos
@@ -68,6 +70,8 @@ se mantendra, inmutable.
 en la reproduccion, la informacion contenida en el ADN del padre, sera modificada para crear al hijo.
 el hijo no es igual al padre,
 es muy parecido, pero no igual.
+la informacion del padre habra sido modificada en el hijo.
+
 Este sera el mecanismo que utilizaremos para procesar la informacion, la reproduccion.
 
 El proceso de calculo avanzara un unico paso con cada generacion.
@@ -88,7 +92,8 @@ veamos como funciona.
 
 hemos comentado anteriormente que 
 
-el proceso de resolucion de un problema atravesara difentes estados, desde el estado incial hasta el estado final, y que cambiara de estado cada vez que se realice un calculo simple sobre los datos.
+el proceso de resolucion de un problema atravesara difentes estados, desde el estado incial hasta el estado final, 
+y cambiara de estado cada vez que se realice un calculo simple sobre los datos.
 
 en el problema del laberinto sobre el tablero
 el estado inicial sera el inicio del juego, es decir, la ficha esta colocada en la entrada del laberinto.
@@ -121,8 +126,8 @@ Con eso sera suficiente.
 
 Entonces,
 la informacion que guardaremos en el ADN para representar un estado del juego sera:
-- la posicion de la ficha
-- el nombre de todos los antepasados
+- la posicion de la ficha (como nombre del individuo)
+- el nombre de todos los antepasados (como firma del individuo), que nos mostrara el camino que ha recorrido la ficha para llegar hasta adonde esta ahora.
 
 En el caso del estado inicial quedara asi :
 "
@@ -130,5 +135,8 @@ posicion= 'A1'
 antepasados= '-'
 "
 
-el individuo 'A1' no tiene antepasados, es el primero de su especie
+el individuo 'A1' no tiene antepasados, porque es el primero de su especie
+
+===============================================
+
 
