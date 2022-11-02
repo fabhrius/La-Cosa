@@ -57,8 +57,9 @@ PROCESAMIENTO DE LA INFORMACION :
 
 ESTADOS DE UN PROCESO :
 
-- descripcion de la exploracion en grafos
+- el proceso de resolucion de un problema como una sucesion de estados
 - estado inicial final e intermedios
+- descripcion de la exploracion en grafos
 - creacion de diferentes caminos de exploracion 
 
 -------------------------------------

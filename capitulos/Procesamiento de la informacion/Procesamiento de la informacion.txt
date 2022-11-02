@@ -3,13 +3,13 @@ procesan informacion para resolver problemas.
 
 Es decir,
 partimos de un conjunto de datos conocidos.
-sobre estos datos realizamos calculos, modificaciones, y asi vamos obteniendo nueva informacion que incluimos en el conjunto de datos conocidos.
-normalmente podriamos realizar una serie de calculos secuenciales sobre los datos hasta encontrar el resultado esperado.
-asi resolver un problema podria requerir mas de un paso de calculo.
+sobre estos datos realizamos operaciones y obtenemos nueva informacion que incluimos en el conjunto de datos conocidos.
+normalmente realizariamos una serie de calculos sobre los datos hasta encontrar el resultado esperado.
+y resolver un problema podria requerir mas de un paso de calculo.
 
 Por ejemplo, 
-si queremos sumar una lista de 5 numeros, 
-el conjunto de datos iniciales es la lista que queremos sumar,\
+si queremos sumar una lista de 3 numeros, 
+el conjunto de datos iniciales es la lista que queremos sumar,
 lo primero que haremos es sumar el primer numero de la lista con el segundo, y ese sera el primer paso del proceso.
 con esto habremos obtenido un nuevo dato, un resultado parcial,
 
