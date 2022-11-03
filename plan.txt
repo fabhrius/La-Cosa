@@ -50,6 +50,9 @@ PROCESAMIENTO DE LA INFORMACION :
 
 - descripcion del algoritmo general 
 - datos y proceso
+- los recursos de la vida - ADN y reproduccion
+- el rol del individuo
+- la familia
 - modificar los datos para obtener un resultado
 - estructura basica de una maquina de procesamiento de informacion
 
