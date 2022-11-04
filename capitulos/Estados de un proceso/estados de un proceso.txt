@@ -1,4 +1,4 @@
-
+he comentado antes que,
 Normalmente, no sera posible resolver un problema complejo de un solo paso, sino que debemos realizar una serie de pasos hasta obtener el resultado final.
 Por ejemplo, 
 si queremos sumar una lista de 5 numeros, lo primero que haremos es sumar el primer numero de la lista con el segundo, y ese sera el primer paso del proceso.
@@ -33,3 +33,9 @@ Veamos un ejemplo grafico con un problema mas simple.
 Cual es el camino que me lleva a ganar una partida de 3 en raya ?
 
 (grafico "estados de un proceso.pdf")
+
+
+---------------------------------------------------------------------------
+
+Como he dicho antes,
+resolver un problema podria requerir mas de un paso.
