@@ -65,6 +65,73 @@ Es posible utilizar seres vivientes para resolver problemas ?
 -----------------------------------------------------------------
 
 
+Estos 2 recursos,
+el soporte de memoria que mantiene los datos,
+y el mecanismo que procesa la informacion
+
+son 2 recursos que la vida utiliza.
+
+ADN y reproduccion.
+
+El ADN almacena la informacion necesaria para construir a un individuo.
+Es por lo tanto, un soporte de memoria que contiene datos.
+El ADN es capaz de almacenar una gran cantidad de informacion,
+para nuestros propositos, podemos considerarlo  infinito, 
+es un soporte de memoria con mas capacidad de la que vamos a necesitar para los experimentos que voy a proponer aqui.
+
+En los siguientes experimentos, 
+consideraremos la informacion contenida en el ADN como inmutable.
+Es decir, que no puede ser modificada.
+La informacion contenida en el ADN permanecera inalterable durante toda la vida del individuo.
+De modo que el individuo, siempre sera el mismo.
+Con las mismas huellas digitales, con las mismas caracteristicas que lo diferenciaran de otros individuos,
+durante toda su vida.
+
+La informacion contenida en el ADN de un individuo permanece constante dentro del individuo,
+pero se modifica en la reproduccion.
+
+Cuando el individuo se reproduce, sus hijos no seran copias exactas del padre.
+Seran muy parecidos pero no iguales.
+No existen 2 individuos iguales.
+
+En la reproduccion la informacion contenida en el padre ha sido modificada para crear al hijo.
+
+La reproduccion sera el mecanismo que utilizaremos para procesar la informacion.
+
+
+
+/***************************************************************************************************/
+
+
+la funcion de Un individuo, en este modelo,
+es la de mantener un conjunto de datos.
+
+Podemos pensar en un individuo como en un CD en el que han sido grabados datos y que no puede ser modificado.
+Pero,
+Podemos leer la informacion contenida, procesarla y grabar el resultado del proceso en un nuevo CD, el hijo.
+
+En este modelo, si consideramos que la informacion se procesa durante la reproduccion, 
+este sera un paso unico, simple, en el proceso.
+
+
+he comentado que, en general, la resolucion de un problema requerira de una serie de pasos.
+Normalmente, mas de uno.
+
+De modo que,
+el padre no encontrara la solucion al problema, 
+ni tampoco el hijo.
+sera el trabajo de toda la familia, o de toda la especie.
+
+el proceso de resolucion del problema avanzara paso a paso,
+generacion tras generacion.
+
+
+
+
+
+
+/*************************************************************************************************/
+
 El ADN almacena la informacion necesaria para construir un individuo.
 El ADN puede almacenar una gran cantidad de informacion.
 
