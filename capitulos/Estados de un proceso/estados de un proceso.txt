@@ -39,3 +39,25 @@ Cual es el camino que me lleva a ganar una partida de 3 en raya ?
 
 Como he dicho antes,
 resolver un problema podria requerir mas de un paso.
+
+
+-------------------------------------------------------
+
+Un proceso es algo que cambia de estado con el tiempo.
+El proceso de resolucion de un problema cambiara de estado cada vez que realizamos una operacion sobre los datos.
+
+Y podemos distinguir, 
+un estado incial,
+un estado final,
+y un conjunto de estados intermedios.
+
+Si pensamos en una partida de ajedrez,
+el estado inicial sera,
+ un tablero con las fichas colocadas en la posicion de salida.
+El estado final sera,
+cuando se ha dado "jaque-mate".
+y partiendo del estado incial,
+la partida cambiara de estado
+cada vez que un jugador mueva una ficha.
+Estos seran estados intermedios.
+

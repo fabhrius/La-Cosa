@@ -139,4 +139,39 @@ el individuo 'A1' no tiene antepasados, porque es el primero de su especie
 
 ===============================================
 
+Es el momento de ver como aplicar estas ideas en la practica.
+
+Construire una maquina que resuelva un problema automaticamente.
+Como ejemplo, la maquina resolvera un problema de poca complejidad para ver en detalle el funcionamiento de la maquina.
+
+El problema a resolver es el de un juego de mesa.
+
+Sobre un tablero de ajedrez (una cuadricula de 8 por 8 casillas)
+pondre una unica ficha.
+
+esta ficha podra moverse una unica casilla con cada jugada.
+
+imaginare que el tablero es un laberinto, 
+con una entrada y una salida.
+
+y lo que quiero saber es,
+cual es el camino que la ficha debe recorrer para ir desde la entrada hasta la salida ?
+
+
+Para responder a la pregunta,
+creare una nueva especie de seres vivientes, 
+en donde los individuos
+representaran estados del juego.
+y cuando un individuo se reproduzca, 
+generara los siguientes estados posibles.
+
+
+
+
+
+
+
+
+
+
 
