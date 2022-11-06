@@ -168,7 +168,23 @@ generara los siguientes estados posibles.
 
 
 
+--------------------------------------------------------------
 
+
+Definire ahora las caracteristicas de la maquina que encontrara la solucion.
+
+
+he comentado que los recursos basicos que una maquina de calculo necesita son 
+-  memoria, para mantener la informacion
+- y el procesador
+
+
+he comentado tambien que la vida puede proporcionar estos recursos.
+- el ADN es un soporte de informacion que podemos utilizar para almacenar los datos necesarios.
+- y en la reproduccion, los datos contenidos en el ADN del individuo se modifican para crear un nuevo individuo, diferente del anterior. 
+
+ADN como soporte de memoria y 
+reproduccion como mecanismo de procesamiento de datos.
 
 
 
