@@ -169,7 +169,7 @@ generara los siguientes estados posibles.
 
 
 --------------------------------------------------------------
-
+-
 
 Definire ahora las caracteristicas de la maquina que encontrara la solucion.
 
@@ -185,6 +185,28 @@ he comentado tambien que la vida puede proporcionar estos recursos.
 
 ADN como soporte de memoria y 
 reproduccion como mecanismo de procesamiento de datos.
+
+
+con este objetivo,
+creare una nueva especie de seres vivientes.
+
+En donde,
+un individuo representara un estado del juego
+y al reproducirse
+creara todos los siguientes estados posibles.
+
+la informacion que el ADN del individuo debera contener sera la siguiente:
+= la posicion de la ficha en el tablero
+= la posicion que sus antepasados directos tenian en el tablero.
+
+Veamoslo en la practica.
+
+
+
+
+
+
+
 
 
 
