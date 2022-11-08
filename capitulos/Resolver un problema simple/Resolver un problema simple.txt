@@ -196,10 +196,66 @@ y al reproducirse
 creara todos los siguientes estados posibles.
 
 la informacion que el ADN del individuo debera contener sera la siguiente:
-= la posicion de la ficha en el tablero
-= la posicion que sus antepasados directos tenian en el tablero.
+= la posicion de la ficha en el tablero (le llamaremos 'NOMBRE')
+= la posicion que sus antepasados directos tenian en el tablero (le llamare 'ANTEPASADOS')
 
-Veamoslo en la practica.
+
+en el ADN se almacena la informacion necesaria para construir a un individuo.
+y Un individuo de esta especie representa un estado del juego.
+
+
+
+por ejemplo, 
+este individuo, representa un punto del juego en donde la ficha se encuentra en la posicion 'B3' (nombre), y el camino que ha recorrido hasta ahora es 
+'A1-A2-B2'(antepasados).
+
+Podria dejar el juego ahora y retomarlo otro dia, con la informacion que he grabado sera facil retomarlo en este punto.
+Esta informacion es suficiente para reconstruir el estado en que habia quedado el juego.
+
+
+
+
+
+--------------------------------------
+
+Procesar la informacion.
+
+el mecanismo de reproduccion sera el procesador.
+Definire ahora las operaciones que debe realizar sobre los datos.
+
+Los individuos de esta especie representan estados del juego.
+el juego cambia de estado cada vez que se realiza una jugada.
+en cada jugada la ficha se mueve una distancia de una casilla.
+
+cuando un individuo tiene descendencia, sus hijos representaran estados vecinos, o 
+todas las jugadas validas que puedan realizarse a partir de la posicion del padre.
+
+en este caso,
+la posicion del hijo estara a una distancia de una casilla desde la posicion del padre.
+
+
+para calcular la nueva posicion de forma automatica hare lo siguiente :
+
+la posicion esta codificada como una letra y un numero, por ejemplo 'B3'
+son jugadas validas,
+LETRA - 1 o LETRA o LETRA + 1
+MAS
+NUMERO - 1 o NUMERO o NUMERO + 1
+
+siempre que
+
+el hijo no sea igual que el padre y la ficha no quede fuera del tablero.
+
+es decir, 
+la letra no puede ser menor que A ni mayor que H
+y el numero no debe ser menor que 1 ni mayor que 8
+y el hijo generado no tenga el mismo nombre que el padre, en este caso 'B3'
+
+seran jugadas validas,
+A2, A3, A4, 
+B2, B4,
+C2, C3, C4
+
 
 
 
