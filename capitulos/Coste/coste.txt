@@ -1,0 +1,61 @@
+	aHablemos de costes.
+
+podemos hablar del coste de la maquina.
+podemos hablar tambien del coste que tendria resolver un problema, en terminos de recursos consumidos, como energia, tiempo, memoria, hardware, infraestructuras, etc.
+Es natural, que un problema complejo requerira un mayor consumo de recursos que un problema simple.
+
+El coste de la maquina en muchos casos es independiente del coste de resolver un problema.
+En el caso de esta arquitectura, sin embargo, 
+el coste de la maquina y el coste de resolver un problema estan estrechamente relacionados.
+
+Para entender esta relacion, Veamos lo que ha pasado con la resolucion del problema del laberinto.
+
+queriamos saber que camino deberia recorrer una ficha para ir desde la entrada hasta la salida.
+para responder a esta pregunta hemos creado una especie de seres vivientes disenyados a la medida.
+en donde un individuo almacena la informacion de un estado del proceso.
+y en la reproduccion el proceso avanza un paso, creando el siguiente estado posible.
+
+la maquina tiene una estructura celular.
+el individuo es la unidad formadora.
+la maquina es un tejido de inviduos.
+y no existe otro componente, solo individuos.
+
+el individuo se disenya a la medida del problema,
+los individuos se reproducen,
+y se crearan mas y mas individuos
+hasta se encuentre la solucion al problema.
+
+Y cuanto mas complejo sea el problema, mas individuos deberan ser creados.
+
+en el ejemplo del laberinto,
+hemos creado individuos en nuestra imaginacion.
+
+Intentemos ahora, crearlos realmente, fisicamente, 
+con el objetivo de calcular, de forma aproximada, cual podria ser el coste de la maquina.
+
+
+la informacion necesaria para construir una criatura viviente esta grabada en su ADN.
+digamos que para construir los individuos que resolveran el problema utilizamos bacterias.
+Intento reducir costes, 
+y una bacteria parece tener un coste menor que un mamifero.
+
+mmm
+sin embargo, 
+el coste sigue siendo elevado, 
+disenyar y construir una bacteria esta fuera de mi alcance en este momento.
+
+Veamos una solucion mas barata.
+Digamos que grabo la informacion de un individuo en un CD.
+un CD cumplira la funcion del ADN, almacenando la informacion.
+grabare un CD por cada individuo que sera creado.
+Los individuos no pueden reproducirse por si solos, tendre que simular la reproduccion manualmente.
+
+Esta solucion sin duda es la mas barata de las posibles.
+Sin duda, mucho mas barata que la creacion de seres vivientes.
+
+Pero podemos calcular el coste de un CD,
+y esta aproximacion nos dara una cota inferior, muy inferior, al coste que tendrian los organismos vivientes.
+Es decir, sin duda, el coste que vamos a calcular sera muy inferior al que tendria la creacion del sistema con bacterias.
+
+Veamos ahora como el sistema ha encontrado la solucion al problema del laberinto.
+

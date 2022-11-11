@@ -258,6 +258,15 @@ C2, C3, C4
 
 
 
+Dire tambien que la reproduccion de estos individuos es asexual, un individuo de esta especie generara a sus hijos por si solo.
+Digamos tambien que una generacion se produce cada segundo, 
+asi
+todos los individuos vivos generaran todos los hijos posibles un segundo despues de nacer.
+
+una vez creada la descendencia el individuo ya no es necesario.
+
+El sistema ya esta definido.
+Podemos ponerlo en marcha.
 
 
 
