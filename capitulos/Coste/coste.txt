@@ -59,3 +59,82 @@ Es decir, sin duda, el coste que vamos a calcular sera muy inferior al que tendr
 
 Veamos ahora como el sistema ha encontrado la solucion al problema del laberinto.
 
+-------------------------------------------------------------------
+
+Para iniciar la busqueda de la solucion hemos creado un primer individuo que representa el estado inicial del proceso.
+Es decir, el tablero con una ficha colocada en la entrada, A1.
+Y este individuo con capacidad de reproducirse.
+Al reproducirse, ha creado con la primera generacion, todos los hijos posibles.
+Es decir, todos los estados en los que podria quedar el problema despues de hacer un unico movimiento.
+
+En la siguiente generacion, estos hijos se han reproducido, creando los siguientes estados.
+y generacion tras generacion el proceso ha ido avanzando hacia la solucion.
+
+Recordemos tambien, que han sido necesarias 7 generaciones para encontrar la respuesta.
+(ver cap XX pag xx dib xx)
+
+Cuantos individuos han sido creados para encontrar la solucion ?
+ 
+teniendo en cuenta que
+
+un individuo que esta en un angulo del tablero, tendria 3 hijos
+un individuo que esta en un borde del tablero, tendria 5 hijos
+y un individuo que esta alejado del borde del tablero tendria 8 hijos.
+
+el calculo es complejo
+y solo queremos una idea aproximada
+de modo que 
+para simplificar el calculo vamos a pensar que
+un individuo tendria 8 hijos (y la mayor parte de los individuos se encontraran en esta situacion)
+
+si cada individuo tiene 8 hijos en cada generacion 
+(y un individuo tiene hijos una sola vez, evitaremos que continue ya que repetiria el trabajo ya hecho incrementando los costes) 
+entonces despues de 7 generaciones
+habrian nacido 
+8 elevado a 7 = 2 millones de individuos aproximadamente
+
+Es decir que,
+han tenido que ser creados alrededor de 2 millones de individuos para recorrer 7 casillas en el tablero.
+
+-------------------------------------------------------------
+
+
+volvamos ahora al punto adonde intentamos materializar el sistema.
+Construirlo fisicamente.
+
+he propuesto grabar a cada individuo en un CD como una solucion economica.
+Asi, 
+habrian sido necesarios 2 millones de CDs para recorrer 7 casillas del tablero.
+
+Esto nos permite hacernos una idea del elevado coste del sistema.
+
+Y cuantos CDs habrian sido necesarios para recorrer 10 casillas ?
+El problema del laberinto es extremadamente simple.
+Que pasaria con un problema mas complejo ?
+Cuantos individuos deberiamos construir para el caso de una partida de ajedrez ?
+
+Esta claro que el coste es exorbitante.
+
+-----------------------------------------------------------
+
+No olvidemos que el sistema esta vivo.
+Los individuos son seres vivientes.
+
+he utilizado la solucion con CDs porque es mas economica.
+Un CD es plastico, es barato.
+Me resulta imposible estimar el coste que crear una especie de seres vivientes podria tener.
+
+Quiero que se vea claramente el contraste.
+Porque lo que intento decir es,
+que no importa lo economica que pueda ser la solucion que encontremos, 
+
+aun adonde el coste de una unidad tiende a cero,
+el coste del sistema tiende rapidamente a infinito.
+
+Y el coste del sistema se incrementa exponencialmente 
+cuando aumenta la complejidad del problema que se quiere resolver.
+ 
+
+
+
+
