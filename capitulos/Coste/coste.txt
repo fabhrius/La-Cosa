@@ -13,22 +13,22 @@ Para entender esta relacion, Veamos lo que ha pasado con la resolucion del probl
 queriamos saber que camino deberia recorrer una ficha para ir desde la entrada hasta la salida.
 para responder a esta pregunta hemos creado una especie de seres vivientes disenyados a la medida.
 en donde un individuo almacena la informacion de un estado del proceso.
-y en la reproduccion el proceso avanza un paso, creando el siguiente estado posible.
+y en la reproduccion el proceso avanza un paso, creando el siguiente estado posible como un nuevo individuo.
 
 la maquina tiene una estructura celular.
-el individuo es la unidad formadora.
+en donde el individuo es la celula, la unidad estructural.
 la maquina es un tejido de inviduos.
 y no existe otro componente, solo individuos.
 
 el individuo se disenya a la medida del problema,
-los individuos se reproducen,
-y se crearan mas y mas individuos
-hasta se encuentre la solucion al problema.
+y los individuos se reproducen,
+creando mas y mas individuos
+hasta que se encuentre la solucion al problema.
 
 Y cuanto mas complejo sea el problema, mas individuos deberan ser creados.
 
 en el ejemplo del laberinto,
-hemos creado individuos en nuestra imaginacion.
+hemos creado los individuos necesarios en nuestra imaginacion.
 
 Intentemos ahora, crearlos realmente, fisicamente, 
 con el objetivo de calcular, de forma aproximada, cual podria ser el coste de la maquina.
@@ -44,16 +44,16 @@ sin embargo,
 el coste sigue siendo elevado, 
 disenyar y construir una bacteria esta fuera de mi alcance en este momento.
 
-Veamos una solucion mas barata.
+Veamos una solucion mas economica.
 Digamos que grabo la informacion de un individuo en un CD.
 un CD cumplira la funcion del ADN, almacenando la informacion.
 grabare un CD por cada individuo que sera creado.
 Los individuos no pueden reproducirse por si solos, tendre que simular la reproduccion manualmente.
 
-Esta solucion sin duda es la mas barata de las posibles.
-Sin duda, mucho mas barata que la creacion de seres vivientes.
+Esta solucion es
+Sin duda, mucho mas economica que la creacion de seres vivientes.
 
-Pero podemos calcular el coste de un CD,
+Y tiene la ventaja de que podemos cuantificar el coste de un CD,
 y esta aproximacion nos dara una cota inferior, muy inferior, al coste que tendrian los organismos vivientes.
 Es decir, sin duda, el coste que vamos a calcular sera muy inferior al que tendria la creacion del sistema con bacterias.
 
