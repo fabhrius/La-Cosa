@@ -60,6 +60,9 @@ Es decir, sin duda, el coste que vamos a calcular sera muy inferior al que tendr
 Veamos ahora como el sistema ha encontrado la solucion al problema del laberinto.
 
 -------------------------------------------------------------------
+/*****************************************************************/
+
+
 
 Para iniciar la busqueda de la solucion hemos creado un primer individuo que representa el estado inicial del proceso.
 Es decir, el tablero con una ficha colocada en la entrada, A1.
@@ -131,6 +134,8 @@ que no importa lo economica que pueda ser la solucion que encontremos,
 aun adonde el coste de una unidad tiende a cero,
 el coste del sistema tiende rapidamente a infinito.
 
+
+-------------------------------------------------------------
 Y el coste del sistema se incrementa exponencialmente 
 cuando aumenta la complejidad del problema que se quiere resolver.
  
