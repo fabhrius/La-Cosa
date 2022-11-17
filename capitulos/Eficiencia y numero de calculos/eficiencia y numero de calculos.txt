@@ -3,3 +3,87 @@ la salida se encuentra a una distancia de 7 casillas desde la entrada.
 en una jugada la ficha solo puede avanzar una casilla.
 por lo tanto, moviendose en linea recta hacia la salida 
 podria recorrer esa distancia en 7 movimientos, 7 pasos de calculo.
+
+----------------------------------------------------
+
+
+
+
+Algoritmo y numero de calculos.
+
+
+
+Veamos ahora el algoritmo que este sistema utiliza para resolver problemas.
+
+Un algoritmo es un conjunto ordenado de pasos u operaciones que describen el proceso que se utiliza para resolver un problema.
+
+Por ejemplo,
+para ordenar un mazo de cartas podriamos utilizar diferentes metodos (o algoritmos)
+algunos metodos ordenaran el mazo de naipes con menos operaciones que otros.
+
+Por ejemplo,
+para ordenar una baraja de 50 naipes
+
+comentare 2 metodos diferentes (existen muchos mas)
+
+en el primero,
+revisare los 50 naipes comparandolos para separar el de valor mas bajo.
+despues de revisar los 50 tengo ya el naipe de menor valor separado de la baraja.
+ahora repito la operacion con los 49 naipes restantes, y separo la segunda de menor valor.
+repito la operacion con los 48 restantes para obtener la tercera.
+y reviso otra vez el mazo para extraer otra.
+y continuo repitiendo este proceso hasta que ya no queden cartas.
+entonces tendre el mazo ordenado de menor a mayor.
+
+cuantas operaciones han sido necesarias ?
+
+50 + (50 - 1) + (50 - 2) + (50 - 3) + ... + (50 - 49) 
+
+Si el numero de elementos a ordenar es "N",
+Podemos decir que el coste de este metodo es del ordeN de N*N
+
+Es decir, en el caso de esta baraja deberiamos pensar en algo como 50 por 50 operaciones.
+
+Veamos otro metodo.
+sobre la mesa reservamos espacio para todas las cartas con un rectangulo para cada carta.
+miro la primera carta, es un 10, la coloco en el espacio reservado para el 10.
+miro la segunda carta, es un 5, la coloco en el espacio reservado para el 5.
+y continuo con todas las cartas.
+
+Despues de revisar el mazo una vez, todas las cartas han quedado ordenadas.
+Si el numero de elementos a ordenar es "N", 
+podemos decir que el coste de este metodo es del orden de N.
+
+
+Comparando los 2 metodos,
+el primero ha ordenado el mazo despues de 50 por 50 operaciones
+el segundo ha ordenado el mazo despues de 50 operaciones.
+
+el segundo necesita menos operaciones para realizar el mismo trabajo.
+el segundo metodo es mas eficiente que el primero.
+
+ 
+-------------------------------------------------------------
+
+
+veamos ahora como el sistema de seres vivientes ha resuelto el problema del laberinto,
+y veamos como podemos mejorarlo para que resuelva el problema con menos pasos,
+haciendolo mas eficiente.
+
+
+-------------------------------------------
+
+
+Recordemos que 
+el sistema no sabe a priori adonde se encuentra la salida.
+Y tendra que explorar el tablero para encontrarla.
+
+Existen muchas formas diferentes de explorar el tablero,
+por ejemplo, 
+
+
+
+
+
+
+
