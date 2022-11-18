@@ -82,6 +82,19 @@ Existen muchas formas diferentes de explorar el tablero,
 por ejemplo, 
 
 
+-------------------------------------------------
+
+Recordemos ahora como ha resuelto el problema.
+
+Hemos creado un individuo, el primero de su especie, como un tablero con una ficha colocada en la entrada del laberinto.
+Representa el estado inicial.
+Digamos tambien que los individuos de esta especie se reproducen un segundo despues de nacer.
+y que al reproducirse, generan todos los hijos posibles de una vez, en la primera generacion.
+
+Se produce una generacion cada segundo.
+
+Y ha sucedido lo siguiente,
+
 
 
 
