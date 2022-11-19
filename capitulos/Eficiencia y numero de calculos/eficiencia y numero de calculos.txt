@@ -96,6 +96,29 @@ Se produce una generacion cada segundo.
 Y ha sucedido lo siguiente,
 
 
+----------------------------------------------------
+
+
+
+el sistema ha encontrado la respuesta despues de 7 generaciones.
+el sistema avanza un paso en el proceso en cada generacion.
+
+Y con cada generacion, 
+avanza un paso en la direccion correcta.
+No se pierde, no duda,
+se mueve hacia el objetivo como supiera adonde se encuentra.
+
+
+hemos establecido que son necesarios al menos 7 pasos para alcanzar la salida,
+ya que se encuentra a una distancia de 7 casillas y la ficha no puede moverse mas de 1 casilla en cada jugada.
+
+de modo que,
+el sistema ha encontrado la respuesta con el  minimo numero de pasos necesarios.
+
+No sera posible mejorarlo.
+Jamas existira un sistema mas eficiente que este, 
+porque el problema no puede resolverse en un menor numero de pasos.
+
 
 
 
