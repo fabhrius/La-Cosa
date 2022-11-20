@@ -1,3 +1,18 @@
+
+
+No todos los problemas son iguales.
+Algunos pueden resolverse facilmente, otros seran mas dificiles de resolver y otros podrian ser irresolubles o inabordables.
+Asi podriamos clasificar a los problemas de acuerdo con su complejidad.
+
+Y en particular, 
+las decisiones,
+juegan un papel importante en la complejidad del problema.
+
+Podemos ver a una decision como,
+la bifurcacion del camino,
+por donde debo continuar ?
+
+
 la complejidad de un problema aumenta con el numero de decisiones que deben tomarse para resolverlo.
 
 las decisiones tienen coste.
@@ -29,7 +44,7 @@ Resolver este problema requerira recursos como tiempo y memoria.
 Recorrer todos los posibles caminos que podria tomar una partida de ajedrez requerira tiempo,  mucho, y memoria, mucha, para recordarlos todos y poder compararlos para elegir el mejor.
 
 
-las bifurcaciones, las decisiones, incrementan la complejidad del problema.
+las decisiones, incrementan la complejidad del problema.
 
 
 
