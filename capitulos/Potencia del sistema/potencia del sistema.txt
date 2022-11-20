@@ -1,0 +1,58 @@
+
+
+Y en cuanto a la complejidad.
+
+Un sistema inteligente basado en especies de seres vivientes,
+que clase de problemas podria resolver, 
+o 
+como de complejo puede ser el problema ?
+
+Veamos de nuevo como ha resuelto el problema del laberinto.
+Inicialmente creamos un individuo que representa el estado inicial.
+Un tablero con una ficha en la entrada del laberinto, 'A1'.
+
+Desde esta posicion, 
+existen 3 caminos posibles, que empiezan en 
+'A2', 'B1', 'B2'.
+
+Cual de ellos sera el mejor ?
+Como decidir por cual de ellos continuar la exploracion ?
+
+El sistema coloca a un individuo en la entrada de cada camino,
+y encarga a cada uno de ellos la exploracion de 1 unico camino.
+
+El sistema no decide.
+Simplemente los recorre en paralelo.
+No importa cuantos caminos nuevos aparezcan.
+continua avanzando como si no existiera mas que un unico camino.
+
+pare el caso de un individuo colocado en 'B2' existen 8 posibles caminos.
+la complejidad es mayor, 
+pero no decide,
+simplemente coloca a un hijo en la entrada de cada nuevo camino 
+y todos los caminos se exploran en paralelo, 
+al mismo tiempo.
+
+hasta llegar a la salida habran aparecido una gran cantidad de caminos diferentes posibles.
+Habra sido necesario tomar una gran cantidad de decisiones
+
+Para un sistema que explora los diferentes caminos secuencialmente,
+el coste en tiempo y memoria seria elevado.
+
+para un sistema como este basado en una colonia de seres vivientes,
+las decisiones no incrementaran el tiempo necesario para resolver el problema.
+
+el sistema ha encontrado la solucion despues de 7 generaciones.
+en 7 pasos ha llegado a la salida.
+como si no existiera mas que un unico camino.
+el efecto es el de no existir la complejidad, no existen las decisiones.
+
+
+la exploracion se realiza en paralelo, concurrentemente,
+como si cada individuo fuera una nueva maquina que inicia la exploracion por su cuenta, 
+independientemente del resto de la colonia.
+Y el trabajo de cada individuo no encuentra complejidad, no recorrera todo el camino, no tendra que enfrentarse a todas las decisiones que se prentaran en el futuro,
+se reduce a dar un unico paso simple.
+
+
+
