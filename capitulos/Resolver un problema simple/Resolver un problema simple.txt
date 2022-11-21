@@ -271,6 +271,17 @@ Podemos ponerlo en marcha.
 
 
 
+-----------------------------------------------------------------------
+
+
+Los individuos representan estados del problema.
+Se reproducen generando todos los estados posibles.
+No existen 2 individuos iguales.
+continuan reproduciendose y generando estados diferentes,
+hasta que, con el tiempo, nace un individuo que representa el estado final del problema.
+Entonces, este individuo, el estado final, conoce la solucion al problema.
+y todos sus hijos, y su descendencia, heredaran este conocimiento.
+
 
 
 
