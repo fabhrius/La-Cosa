@@ -1,11 +1,27 @@
-la vida es un proceso.
-puede un proceso ejecutarse infinitamente ?
-si
+Podemos pensar en la vida como en un proceso.
+La vida no puede ser algo estatico, el cambio de estado es su principal caracteristica.
+El cambio de estado permite,
+encontrar solucion a los problemas,
+aprender,
+evoulucionar.
 
+Olvidemos por un momento la complejidad organica.
+para quedarnos solo con la funcionalidad.
+Pensemos que 
+el organismo es el vehiculo, una herramienta para realizar una funcion.
+La funcion es lo importante.
+
+El proceso.
+
+Y si la vida es un proceso.
+puede un proceso ejecutarse sin fin ?
+
+si.
 mientras tenga los recursos necesarios.
 
 entonces porque morimos ?
 morimos porque es necesario.
+
 estamos construidos como unidades desechables con un tiempo de vida ajustado a las necesidades del proceso.
 una generacion en los humanos se produce cada 20 anyos de media.
 cuando un hombre tiene alrededor de 20 anyos tendra un hijo
@@ -48,4 +64,84 @@ porque podria morir
 o vivir para siempre.
 Imagino que esto depende de 
 si sera capaz de encontrar la solucion al problema.
+
+
+
+------------------------------------------------------------------
+
+
+
+Para que un sistema de este tipo funcione,
+es necesario que los individuos 
+que ya han hecho su trabajo 
+sean eliminados.
+
+En este sistema de procesamiento de la informacion, un individuo, guarda la informacion que representa un estado del proceso de calculo.
+Y realiza, al reproducirse, un paso simple en el proceso de calculo, generando el siguiente estado del proceso.
+Una vez generado el siguiente estado, el individuo ya no es necesario, y debe ser eliminado del proceso.
+
+La vida del individuo, desde la perspectiva del proceso de calculo,
+consiste en, 
+nacer, reproducirse y morir.
+
+Con la resolucion del juego del laberinto,
+puede verse con claridad,
+la necesidad del nacimiento y de la reproduccion.
+
+Si los individuos no se reproducen,
+no se generan los estados siguientes.
+Si no nacen individuos,
+no se encontrara la solucion al problema.
+
+Pero la necesidad de eliminar aquellos individuos que representan estados que han sido superados,
+todavia no se ve claramente.
+
+Se vera mas claramente si hablamos de reproduccion sexual.
+En el experimento del laberinto,
+la reproduccion ha sido asexual.
+Este tipo de reproduccion era suficiente para el objetivo del juego.
+
+Sin embargo,
+existen problemas mas complejos,
+en donde,
+para avanzar mas rapidamente hacia su resolucion,
+nos interesara que el conocimiento, los avances de las diferentes ramas de la familia
+sean comunicados a las otras ramas.
+De este modo,
+un individuo no solamente estara procesando la informacion heredada de su familia,
+y continuando con el camino de los suyos,
+sino que podra, al mismo tiempo, 
+continuar avanzando por el camino que estaba explorando otra familia.
+
+Esta forma de distribuir la informacion, nos permitiria avanzar mas rapidamente en la resolucion de ciertos problemas particularmente complejos.
+
+
+-----------------------------------------------------------
+
+
+
+Socrates
+
+
+
+-----------------------------------------
+
+
+media movil
+
+
+---------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
 
