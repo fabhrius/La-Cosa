@@ -65,7 +65,7 @@ o vivir para siempre.
 Imagino que esto depende de 
 si sera capaz de encontrar la solucion al problema.
 
-
+ 
 
 ------------------------------------------------------------------
 
@@ -93,12 +93,25 @@ no se generan los estados siguientes.
 Si no nacen individuos,
 no se encontrara la solucion al problema.
 
+he comentado, que para recorrer 7 casillas en el tablero, el sistema ha creado alrededor de 2 millones de individuos,
+sin embargo, en realidad, han sido creados 2 millones de individuos "utiles", todos ellos diferentes.
+Pero, que sucede si, el primer individuo, 'A1', despues de generar a sus 3 hijos posibles, vuelve a generar descendientes en la siguiente generacion ?
+sucederia que volveria a crear a los  mismos 3 hijos anteriores, y estos no serian utiles sino "redundantes"
+si todos los individuos creados continuan generando los mismos hijos ya creados anteriormente, una y otra vez, 
+para recorrer 7 casillas, se habrian creado muchos, muchos mas que los 2 millones anteriores.
+el coste del sistema se incrementaria enormemente consumiendo recursos.
+
+De modo que cuando un individuo ha hecho su trabajo, debe ser eliminado.
+
 Pero la necesidad de eliminar aquellos individuos que representan estados que han sido superados,
 todavia no se ve claramente.
 
 Se vera mas claramente si hablamos de reproduccion sexual.
+
 En el experimento del laberinto,
 la reproduccion ha sido asexual.
+La reporduccion asexual es utilizada en la naturaleza por ciertas especies, como por ejemplo, las bacterias.
+
 Este tipo de reproduccion era suficiente para el objetivo del juego.
 
 Sin embargo,
@@ -113,7 +126,7 @@ y continuando con el camino de los suyos,
 sino que podra, al mismo tiempo, 
 continuar avanzando por el camino que estaba explorando otra familia.
 
-Esta forma de distribuir la informacion, nos permitiria avanzar mas rapidamente en la resolucion de ciertos problemas particularmente complejos.
+Esta forma de distribuir la informacion, permitiria avanzar mas rapidamente en la resolucion de ciertos problemas particularmente complejos.
 
 
 -----------------------------------------------------------
@@ -122,12 +135,79 @@ Esta forma de distribuir la informacion, nos permitiria avanzar mas rapidamente 
 
 Socrates
 
+fue un filosofo griego que vivio hace unos 2500 anyos.
+supongamos que los individuos de una especie no mueren y se mantienen siempre jovenes.
+Socrates continuaria generando hijos.
+pero Socrates representa un estado de la humanidad ya pasado.
+Los hijos de Socrates cancelarian 2500 anyos de evolucion.
+No parece mucho, sin embargo, si ningun individuo muere, entonces, los antepasados de Socrates tambien tendrian hijos en nuestros dias.
+
+Si nadie muere, vivirian hoy todos los individuos que han sido creados desde el principio.
+Y al igual que en el ejemplo de la media aritmetica, el proceso se estancaria en un valor medio.
+
+Esto haria que el proceso se estancase en un punto medio, impidiendo que el proceso avance hacia su resolucion.
+Si los individuos no mueren, entonces, el sistema no conseguira avanzar y no encontrara la solucion que busca.
+El sistema simplemente no funciona.
+De modo que, el sistema deja de tener sentido.
+
+Para evitar que el sistema se estanque, es necesario evitar volver a estados ya superados.
+Es por este motivo que los estados pasados son eliminados.
+
+El proceso de eliminar las ramas que no son productivas se llama "poda".
+
+
 
 
 -----------------------------------------
 
 
 media movil
+
+
+digamos que quiero saber cuantos problemas son detectados en un sistema de negocio.
+cuando el numero de problemas sea bajo, pensare que el sistema funciona aceptablemente.
+cuando el numero de problemas sea alto, pensare que el sistema no esta funcionando como seria deseable.
+
+para tener una medida del numero de problemas detectados ultimamente que nos sirva de referencia,
+utilizare la media aritmetica de los ultimos 7  dias.
+
+el primer dia se registran 10 problemas, el segundo dia se registran 15 problemas, el tercer dia se registran 5 problemas, etc, etc.
+
+en un instante del tiempo tengo los siguientes datos
+
+[20, 10, 25, 20, 30, 15, 20] la media de estos 7 dias es 20 problemas
+
+5 dias despues, los datos son los siguientes
+ 
+[15, 20, 0, 0, 0, 0, 0] y la media de estos 7 dias es 5
+
+
+Utilizando este dato como indicador podemos interpretar que 
+hace 5 dias la media de problemas era 20
+hoy la media de problemas es 5
+
+el sistema esta fucionando mejor, ya que el numero medio de problemas se ha reducido.
+este indicador proporciona visibilidad y es un dato util.
+
+observad que estamos tomando datos de 7 dias.
+al octavo dia eliminamos el primero de la lista para introducir un nuevo dato y de este modo mantenemos el listado con los ultimos 7 dias.
+
+que sucede si no eliminamos los mas viejos ?
+que la lista de datos crece hasta hacerse muy grande.
+
+Cuando el listado es muy grande, a partir de cierto limite,
+la media aritmetica tendera a estancarse en un valor,
+y el ultimo dato que agregaremos hoy sera despreciable y ya no hara variar el resultado
+
+si esto sucede,
+el indicador de problemas del sistema de negocio dejara de funcionar,
+dejara de ser util.
+cuando en la lista se hayan acumulado los datos de los ultimos diez anyos, el resultado no nos ayudara a entender si el sistema esta funcionando mejor o peor,
+porque dia tras dia dara el mismo resultado, insensible a las variaciones diarias.
+
+
+
+
 
 
 ---------------------------------------
