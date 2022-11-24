@@ -131,6 +131,8 @@ Esta forma de distribuir la informacion, permitiria avanzar mas rapidamente en l
 
 -----------------------------------------------------------
 
+En el caso de las especies con reproduccion sexual el problema se agrava.
+
 
 
 Socrates
@@ -204,6 +206,14 @@ el indicador de problemas del sistema de negocio dejara de funcionar,
 dejara de ser util.
 cuando en la lista se hayan acumulado los datos de los ultimos diez anyos, el resultado no nos ayudara a entender si el sistema esta funcionando mejor o peor,
 porque dia tras dia dara el mismo resultado, insensible a las variaciones diarias.
+
+
+--------------------------------------
+
+En este ejemplo,
+el indicador es util cuando solo consideramos los datos que son mas relevantes, los ultimos.
+si no eliminamos los datos viejos y los incluimos en el calculo
+el indicador deja de funcionar.
 
 
 
