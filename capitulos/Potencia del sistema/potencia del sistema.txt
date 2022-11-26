@@ -1,3 +1,53 @@
+en fisica,
+la potencia se define como 
+la cantidad de trabajo que puede entregarse por unidad de tiempo.
+
+Si hablamos de computadoras,
+las mas potentes seran las maquinas que llamamos "super-computadoras", creadas para resolver problemas muy complejos que requeriran una gran cantidad de calculos.
+
+En este sentido,
+el computador basado en seres vivientes, del que estamos hablando,
+como sera de potente ?
+sera comparable en potencia a los super-computadores ?
+
+que tipo de problemas podria resolver ?
+o, 
+problemas de que complejidad podria resolver ?
+
+Intentare averiguarlo.
+
+--------------------------------------------------------
+
+he comentado que las decisiones incrementan la complejidad de los problemas.
+y que una decision puede verse como una bifurcacion en el camino.
+
+Veamos como ha sido resulto el problema del laberinto,
+y en especial,
+cuantas decisiones han debido ser tomadas,
+o cuantos diferentes caminos posibles existen.
+
+
+La posicion de salida, el comienzo del juego, esta en 'A1'.
+cuantos posibles caminos se ven desde este punto ?
+3.
+Podria ir por 'A2', o por 'B1', o por 'B2'.
+si inicia la marcha por 'A2', apareceran 5 nuevos caminos posibles.
+si inicia la marcha por 'B1', apareceran 5 nuevos caminos posibles.
+si inicia la marcha por 'B2', apareceran 8 nuevos caminos posibles.
+
+y en cualquiera de estas 18 posibilidades, se encontrara con la necesidad de decidir nuevamente entre varias opciones posibles.
+y lo mismo sucedera con cada paso que avance en cualquier direccion.
+
+Cuantas decisiones deberan tomarse, entonces hasta encontrar la solucion ?
+Muchas.
+
+Y sin ninguna restriccion,
+si esta permitido retroceder y dar vueltas en circulos, nos encontrariamos con una cantidad de caminos diferentes que tiende a infinito.
+
+--------------------------------------------------------
+
+
+
 
 
 Y en cuanto a la complejidad.
