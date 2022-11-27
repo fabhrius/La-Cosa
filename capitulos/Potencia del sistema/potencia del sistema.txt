@@ -46,9 +46,11 @@ si esta permitido retroceder y dar vueltas en circulos, nos encontrariamos con u
 
 --------------------------------------------------------
 
+Un computador personal
 
 
 
+-----------------------------------------------------
 
 Y en cuanto a la complejidad.
 
@@ -72,7 +74,7 @@ El sistema coloca a un individuo en la entrada de cada camino,
 y encarga a cada uno de ellos la exploracion de 1 unico camino.
 
 El sistema no decide.
-Simplemente los recorre en paralelo.
+Simplemente los recorre todos en paralelo.
 No importa cuantos caminos nuevos aparezcan.
 continua avanzando como si no existiera mas que un unico camino.
 

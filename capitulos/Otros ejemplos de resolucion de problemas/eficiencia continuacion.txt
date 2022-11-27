@@ -22,6 +22,30 @@ Digamos que el estado inicial del problema es una combinacion de 6 ceros
 0-0-0-0-0-0
 
 
+creare una especie de individuos que representen estados de este problema.
+La informacion que un individuo necesita guardar para representar un estado es,
+el valor de los 6 digitos de la combinacion.
+y cual es el digito que sera modificado en la reproduccion para crear hijos.
+
+digamos que creo un individuo que representa el estado inicial.
+la combinacion de numeros que almacena sera, 
+0-0-0-0-0-0
+
+y al generar hijos modificara el primer digito de la combinacion con todos los posibles, 
+
+sus hijos,
+almacenaran la combinacion de digitos que les ha asignado su padre,
+y a su vez, al generar a sus hijos, modificaran el segundo digito
+
+
+y a su vez,
+sus hijos,
+almacenaran la combinacion de digitos que les ha asignado su padre,
+y al generar a sus propios hijos, modificaran el tercer digito
+
+-------------------------------------------------------------------
+
+
 digamos tambien que tiene una clase de reproduccion igual a : 1
 esta clase indica el digito de la cadena que puede modificar para crear hijos
 el hijo incrementara en uno la clase reproductora del padre.
