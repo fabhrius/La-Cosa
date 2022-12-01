@@ -5,6 +5,13 @@ la cantidad de trabajo que puede entregarse por unidad de tiempo.
 Si hablamos de computadoras,
 las mas potentes seran las maquinas que llamamos "super-computadoras", creadas para resolver problemas muy complejos que requeriran una gran cantidad de calculos.
 
+estas maquinas estan disenyadas para realizar una gran cantidad de operaciones por unidad de tiempo.
+Y disponen de una gran cantidad de memoria para poder almacenar y utilizar una gran cantidad de informacion en los calculos.
+
+
+
+
+
 En este sentido,
 el computador basado en seres vivientes, del que estamos hablando,
 como sera de potente ?
@@ -14,7 +21,7 @@ que tipo de problemas podria resolver ?
 o, 
 problemas de que complejidad podria resolver ?
 
-Intentare averiguarlo.
+
 
 --------------------------------------------------------
 
@@ -31,9 +38,9 @@ La posicion de salida, el comienzo del juego, esta en 'A1'.
 cuantos posibles caminos se ven desde este punto ?
 3.
 Podria ir por 'A2', o por 'B1', o por 'B2'.
-si inicia la marcha por 'A2', apareceran 5 nuevos caminos posibles.
-si inicia la marcha por 'B1', apareceran 5 nuevos caminos posibles.
-si inicia la marcha por 'B2', apareceran 8 nuevos caminos posibles.
+si inicia la marcha por 'A2', apareceran 5 nuevos caminos posibles. (grafico)
+si inicia la marcha por 'B1', apareceran 5 nuevos caminos posibles. (grafico)
+si inicia la marcha por 'B2', apareceran 8 nuevos caminos posibles. (grafico)
 
 y en cualquiera de estas 18 posibilidades, se encontrara con la necesidad de decidir nuevamente entre varias opciones posibles.
 y lo mismo sucedera con cada paso que avance en cualquier direccion.
@@ -46,7 +53,23 @@ si esta permitido retroceder y dar vueltas en circulos, nos encontrariamos con u
 
 --------------------------------------------------------
 
-Un computador personal
+en los computadores que utilizamos a diario
+el metodo utilizado para resolver problemas de este tipo seria explorar secuencialmente los diferentes caminos posibles 
+y despues de recorrerlos todos 
+compararia cual de todos es el mejor 
+
+pero para recorrerlos todos secuencialmente (uno tras otro) se necesita tiempo
+y cuando los caminos son muchos y largos el tiempo podria ser demasiado, mas del disponible, y entonces el problema se consideraria inabordable
+
+para compararlos todos y tomar una decision
+es necesario almacenar la informacion que vamos recogiendo de cada uno a medida que los recorremos,
+y para esto es necesario tener memoria,
+una vez mas, cuando los caminos tienden a infinito, la memoria necesaria tiende a infinito tambien.
+
+para que nuestras computadoras sean capaces de abordar problemas de este tipo
+se necesita una estrategia que evite recorrer todos los caminos de principio a fin.
+
+
 
 
 
