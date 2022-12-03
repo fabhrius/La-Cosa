@@ -6,7 +6,7 @@ Si hablamos de computadoras,
 las mas potentes seran las maquinas que llamamos "super-computadoras", creadas para resolver problemas muy complejos que requeriran una gran cantidad de calculos.
 
 estas maquinas estan disenyadas para realizar una gran cantidad de operaciones por unidad de tiempo.
-Y disponen de una gran cantidad de memoria para poder almacenar y utilizar una gran cantidad de informacion en los calculos.
+Y disponen de una gran cantidad de memoria para poder almacenar y utilizar una gran cantidad de informacion.
 
 
 
@@ -42,7 +42,7 @@ si inicia la marcha por 'A2', apareceran 5 nuevos caminos posibles. (grafico)
 si inicia la marcha por 'B1', apareceran 5 nuevos caminos posibles. (grafico)
 si inicia la marcha por 'B2', apareceran 8 nuevos caminos posibles. (grafico)
 
-y en cualquiera de estas 18 posibilidades, se encontrara con la necesidad de decidir nuevamente entre varias opciones posibles.
+y en cualquiera de estas 18 posibilidades, se encontrara con la necesidad de decidir nuevamente entre varias opciones posibles para seguir adelante.
 y lo mismo sucedera con cada paso que avance en cualquier direccion.
 
 Cuantas decisiones deberan tomarse, entonces hasta encontrar la solucion ?
@@ -58,19 +58,17 @@ el metodo utilizado para resolver problemas de este tipo seria explorar secuenci
 y despues de recorrerlos todos 
 compararia cual de todos es el mejor 
 
-pero para recorrerlos todos secuencialmente (uno tras otro) se necesita tiempo
+pero para recorrerlos todos secuencialmente (uno tras otro) se necesita tiempo, 
+y cuando el numero de caminos posibles tiende a infinito, el tiempo necesario para recorrerlos todos tambien tiende a infinito.
 y cuando los caminos son muchos y largos el tiempo podria ser demasiado, mas del disponible, y entonces el problema se consideraria inabordable
 
 para compararlos todos y tomar una decision
 es necesario almacenar la informacion que vamos recogiendo de cada uno a medida que los recorremos,
 y para esto es necesario tener memoria,
-una vez mas, cuando los caminos tienden a infinito, la memoria necesaria tiende a infinito tambien.
+una vez mas, cuando los caminos tienden a infinito, la memoria necesaria para recordarlos tiende a infinito tambien.
 
 para que nuestras computadoras sean capaces de abordar problemas de este tipo
 se necesita una estrategia que evite recorrer todos los caminos de principio a fin.
-
-
-
 
 
 -----------------------------------------------------
@@ -93,7 +91,7 @@ existen 3 caminos posibles, que empiezan en
 Cual de ellos sera el mejor ?
 Como decidir por cual de ellos continuar la exploracion ?
 
-El sistema coloca a un individuo en la entrada de cada camino,
+El sistema coloca a un nuevo individuo en la entrada de cada camino,
 y encarga a cada uno de ellos la exploracion de 1 unico camino.
 
 El sistema no decide.
@@ -139,7 +137,7 @@ Y cada computadora realiza un unico proceso elemental, trivial
 
 si pensamos en los individuos de la colonia como en computadores,
 entonces,
-el procesador no necesita conocer un gran conjunto de operaciones, porque solo realiza una unica, siempre la misma, genera cualquiera de los siguientes estados posibles.
+el procesador no necesita conocer un gran conjunto de operaciones, porque solo realiza una unica operacion, siempre la misma, genera cualquiera de los siguientes estados posibles.
 tampoco necesita ser capaz de realizar una gran cantidad de calculos por unidad de tiempo,
 porque solo realizar una unica operacion, una.
 
@@ -149,6 +147,67 @@ eso requeriria una cantidad infinita de memoria.
 en cambio, solo necesita recordar el camino que su familia ha recorrido para llegar hasta el, eso es un unico camino.
 
 
+---------------------------------------------------------------
+
+volviendo a la comparacion con los super-computadores, 
+hemos ya establecido que la complejidad de los problemas no es importante y podria abordar problemas de cualquier complejidad,
+entonces en este sentido sera, igual o mejor que un super-computador,
+hemos comentado que la memoria tampoco es un problema porque un individuo no tiene que recordar todas las posibles ramificaciones del calculo,
+sino solo su camino
+de este modo podria abordar problemas de complejidad que tiende a infinito,
+con una cantidad de memoria discreta.
+en este aspecto, tampoco puede ser superado por un super-computador.
+
+queda por ver,
+la velocidad de proceso, o en el caso de un super-computador, la cantidad de operaciones que puede ejecutar por unidad de tiempo.
+
+tratandose de un modelo teorico, no es posible a priori establecer cual seria el numero de operaciones que podria ejecutar por unidad de tiempo, 
+como en el caso de un computador real que puede ser medido,
+sin embargo, podemos aproximarlo.
+
+hemos visto ya, en el capitulo dedicado a la eficiencia, que siempre resolvera los problemas en el menor numero de operaciones posibles,
+por lo tanto en este sentido no puede ser superado, 
+
+pero veamos a que velocidad ejecutaria esas operaciones.
+
+
 y cuanto tiempo sera necesario para resolver el problema.
 el computador basado en seres vivientes resultara mas rapido que un super-computador, o mas lento ?
+
+Un NIS ejecuta un paso en el proceso de resolucion con cada generacion.
+es en la reproduccion que la informacion se modifica.
+Por lo tanto sera capaz de ejecutar un paso simple en el proceso con cada generacion.
+
+dicho asi, podria parecer lento.
+en el caso de algunas especies de mamiferos, el tiempo parece enorme,
+una generacion en la especie humana requiere unos 20 anyos de media.
+sin embargo,
+recordemos que, 
+a diferencia de los computadores electronicos,
+todos los caminos se recorreran en paralelo, al mismo tiempo,
+y mientras que con computadores electronicos es posible utilizar cierto grado de concurrencia, tendra un limite.
+en el caso de un NIS la concurrencia tiende a infinito,
+de modo que no importa cuando posibles caminos existan, 
+se recorreran todos al mismo tiempo que un unico camino, 
+esto no puede ser igualado por un computador electronico.
+
+y aunque al principio puede parecer lento, 
+el numero de individuos crece exponencialmente con el tiempo.
+es decir, 
+al principio, partimos de un unico individuo,
+pero el numero de individuos de la familia crece rapidamente,
+y en poco tiempo tiende a infinito.
+De modo que, 
+despues de un tiempo de "puesta en marcha"
+la velocidad de proceso parece tender a infinito, y sera dificilmente superada.
+
+no todas las especies requeriran 20 anyos para producir una generacion, pero aun asi,
+cuando hablamos de problemas de gran complejidad,
+que llevarian muchos millones de anyos resolver para un computador electronico,
+un NIS tendria ventaja.
+
+
+
+
+
 
