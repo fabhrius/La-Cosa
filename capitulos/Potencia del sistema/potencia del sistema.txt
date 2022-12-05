@@ -99,6 +99,8 @@ Simplemente los recorre todos en paralelo.
 No importa cuantos caminos nuevos aparezcan.
 continua avanzando como si no existiera mas que un unico camino.
 
+-----------------------------
+
 pare el caso de un individuo colocado en 'B2' existen 8 posibles caminos.
 la complejidad es mayor, 
 pero no decide,
