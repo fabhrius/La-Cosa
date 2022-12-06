@@ -212,7 +212,27 @@ un NIS tendria ventaja.
 -----------------------------------------------------------------
 
 un computador electronico,
-no puede abordar problemas del mundo real.
+no puede abordar problemas del universo real.
+solo problemas que pertenezcan a un dominio discreto, acotado.
+
+las principales limitaciones de los computadores electronicos se encuentran en
+la memoria disponible,
+y el tiempo disponible.
+
+
+la realidad es demasiado grande,
+inabarcable.
+
+La vida, sin embargo,
+como sistema inteligente,
+debe ser capaz de realizar calculos,
+que le permitan, entender, aprender, mejorar, adaptarse, sobrevivir,
+dentro de un dominio que a priori, 
+se muestra, 
+infinito.
+
+
+
 
 
 
