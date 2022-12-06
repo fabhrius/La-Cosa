@@ -57,7 +57,103 @@ porque no existen dos criaturas iguales
 publico :
 
 el relato esta dirigido a todas las personas.
-y aunque gran parte del contenido esta basado en matematicas y ciencias de la computacion, no es necesario ningun conocimiento previo
+y aunque gran parte del contenido esta basado en matematicas y ciencias de la computacion, 
+no es necesario poseer ningun conocimiento previo para entenderlo.
+
+Si puedes leerlo, podras entenderlo.
+En especial,
+esta dirigido a aquellas personas con curiosidad, ingenio, y libertad de pensamiento.
+
+Es posible que lo que comento en estas paginas sea verdad ?
+Quien sabe ?
+
+Sera el lector quien lo decida.
+
+El genero literario es ciencia, o ciencia-ficcion ?
+Es una novela de aventuras ?
+Es un cuento para ninyos ?
+Es un relato mistico ?
+
+
+No sabria decirlo.
+
+A grandes razgos, 
+se trata de la descripcion de un modelo de computador, teorico.
+
+Lo definire en sus detalles,
+lo pondre a prueba, resolviendo un problema de poca dificultad, simple.
+
+y despues de verlo en accion,
+analizaremos sus caracteristicas.
+
+Dicho asi,
+suena bastante tecnico.
+
+
+En cualquier caso,
+no se trata de un computador ordinario.
+no.
+
+se trata de una maquina fantastica,
+escapada de las entranyas del universo.
+
+Es, en mi opinion,
+la inteligencia en estado natural.
+
+Y creo que,
+el verla en funcionamiento, podria abrir los ojos del lector a un universo diferente.
+
+
+Quizas,
+si construimos un computador muy potente,
+podriamos averiguar la respuesta a los misterios de la vida.
+
+Y podriamos preguntarle :
+
+Es posible que exista una inteligencia tal,
+capaz de disenyar a todas las criaturas vivientes en su sorprendente complejidad ?
+
+Y de ser asi,
+esa inteligencia adonde esta ?
+Es posible verla, analizarla, medirla, tomar contacto real con ella ?
+
+y las criaturas vivientes,
+
+Que somos ?
+Porque estamos aqui ?
+Debemos cumplir una mision importante ?
+Porque morimos ?
+
+Y toda esta variedad de criaturas vivientes que es ?
+Porque sucede ?
+
+Existe la vida en otros lugares del universo ?
+Y vida inteligente ?
+
+
+tal vez.
+Y tal vez el computador nos daria todas las respuestas que resuelven los misterios mas ocultos.
+
+tal vez,
+O tal vez no.
+
+----------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ----------------------------------------------------
