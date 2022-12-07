@@ -1,28 +1,51 @@
 
-Se que estoy vivo.
-Se tambien que morire.
+Podria un computador dar respuesta a los misterios de la vida que siguen sin respuesta ?
 
-A lo largo de la vida he intentado entender, descubrir,
-que es lo que sucede en realidad.
-Porque sucede.
 
-Puedo imaginar muchas teorias.
-Siempre fantasias, nunca certezas.
+existe una inteligencia tal que es capaz de disenyar a todas las criaturas vivientes ?
+Y de ser asi, esa inteligencia adonde esta ?
 
-Porque sucede todo esto, que esta pasando en realidad.
-porque estoy aqui.
-sera que tengo que cumplir una mision ?
+que somos ?
+porque estamos aqui ?
+porque morimos ?
+tengo una mision ?
 
-tal vez.
-o quizas no haya ningun motivo y todo sea casual.
 
-no sabria decirlo con certeza.
+El contenido de estas paginas es,
+a grandes razgos,
+la descripcion de un  modelo teorico de computador.
 
-en las siguientes paginas voy a proponer ideas.
-Un modelo, algo asi como una maquina, que igual que muchas otras teorias podria explicarlo.
-Sin embargo,
-solo es otra fantasia.
-Lo que sigue, no es real.
+que sera definido en detalle,
+puesto a prueba
+y analizado en sus caracteristicas mas relevantes.
+
+
+Y aunque el contenido principal se encuentra dentro del dominio de las ciencias de la computacion,
+El relato esta dirigido a todas las personas,
+y no es necesario ningun conocimiento previo para entenderlo.
+
+
+Se trata de un modelo conceptual,
+extremadamente simple,
+que posee una inteligencia dificilmente superable.
+
+Un tipo de inteligencia que podria llamarse,
+inteligencia natural.
+
+La maquina ademas,
+esta viva.
+
+Seguramente,
+no sera el tipo de computador que se vende en las tiendas.
+
+Y en mi opinion,
+imaginarlo en funcionamiento,
+podria abrir los ojos del lector a un universo diferente
+y dar respuesta, quizas, a alguno de los enigmas de la existencia.
+
+
+
+
 
 
 --------------------------------------------------------------
