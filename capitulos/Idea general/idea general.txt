@@ -7,4 +7,58 @@
 ------------------------------------------------------------
 
 
+Antes de empezar, 
+resumire los temas que seran tratados.
+
+Empezare describiendo, en el capitulo "Procesamiento de la informacion",
+a que llamamos procesar informacion, como se realiza y que recursos necesitaremos 
+para construir una maquina que pueda procesar informacion automaticamente.
+
+En el capitulo "Estados de un proceso",
+describire el proceso como una sucesion de estados,
+caracterizare los diferentes tipos de estados.
+
+con las ideas anteriores, 
+en el capitulo "Implementacion", 
+veremos como construir, teoricamente,
+una maquina que resolvera problemas automaticamente 
+procesando informacion.n
+
+Una vez implementada la maquina,
+la pondremos a prueba,
+en el capitulo "Resolver un problema simple"
+
+
+en el capitulo "coste", 
+analizaremos cual seria el coste tanto de construir la maquina,
+como el coste que tendria el proceso de resolver problemas con ella.
+
+
+una de las caracteristicas importantes de esta maquina es
+la redundancia.
+Definiremos a que llamamos redundancia y cual es el valor que tiene en este caso.
+en el capitulo "Redundancia"
+
+
+Comentare algun otro ejemplo de resolucion de problemas con el prototipo.
+Nos servira para ampliar la pespectiva, y aportara mas informacion util para medir las caracteristicas tecnicas del modelo,
+en el capitulo "Otros ejemplos de resolucion de problemas"
+
+
+Una de las caracteristicas relevantes del modelo es la eficiencia,
+analizaremos como se comporta el modelo,
+en el capitulo "Eficiencia y numero de calculos"
+
+
+no todos los problemas son iguales,
+algunos son mas complejos que otros, 
+en el capitulo "Complejidad de un problema", describire una caracteristica que nos permitira tener una idea de la complejidad a la que nos enfrentamos cuando abordamos la resolucion.
+
+
+En el capitulo "Potencia del sistema",
+confrontaremos al sistema con otros computadores, analizando la complejidad de los problemas que podria abordar,
+el tiempo que necesitaria para resolverlos. 
+
+
+
 
