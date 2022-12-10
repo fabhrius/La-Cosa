@@ -1,0 +1,12 @@
+veamos ahora como utilizar las ideas comentadas hasta ahora para crear una maquina que resuelva problemas automaticamente.
+
+he comentado que es posible resolver problemas procesando informacion.
+y que para hacer esto, 
+son necesarios 2 recursos,
+
+memoria para almacenar la informacion,
+y un mecanismo que ejecute las operanciones necesarias sobre los datos, un procesador.
+
+he comentado tambien que, 
+la vida,
+utiliza estos recursos para 
