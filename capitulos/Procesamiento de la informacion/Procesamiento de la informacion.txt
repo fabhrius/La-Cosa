@@ -167,3 +167,17 @@ para resolver problemas.
 
 Intentare explicarlo con ejemplos practicos
 en los proximos capitulos.
+
+
+---------------------------------------------
+
+
+fen la reproducction
+la informacion que define al padre es modificada
+para crear al hijo
+
+el hijo es una nueva version del individuo.
+una version mejorada.
+
+el individuo ha cambiado de estado para acercarse un poco mas al estado ideal,
+al estado deseado.
