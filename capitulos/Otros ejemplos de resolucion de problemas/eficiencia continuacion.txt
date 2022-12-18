@@ -1,5 +1,5 @@
 Veamos otro problema.
-
+ 
 Queremos averiguar la combinacion de una caja fuerte de 6 digitos.
 Cuantos pasos debemos dar para resolver el problema ?
 
@@ -12,8 +12,9 @@ Podria probar
 una a una todas las combinaciones posibles hasta dar con la que abre la caja fuerte.
 
 si utilizo este sistema para averiguar convinaciones, necesitaria, en promedio, unos 
-(10*10*10*10*10*10)/2 pasos
+(10*10*10*10*10*10)/2 = 1000000/2 = 500 mil pasos
 para resolver el problema.
+
 
 Veamos como lo haria un sistema de individuos que se reproducen, como en los ejemplos anteriores.
 
@@ -27,11 +28,18 @@ La informacion que un individuo necesita guardar para representar un estado es,
 el valor de los 6 digitos de la combinacion.
 y cual es el digito que sera modificado en la reproduccion para crear hijos.
 
+Podemos indicarlo asi, 
+"combinacion= 0-0-0-0-0-0"
+"generacion= 1"
+
+en donde el campo 'generacion' indica cual es el digito que se modificara en la reproduccion,
+y el campo 'combinacion', es la combinacion que representa este individuo.
+
 digamos que creo un individuo que representa el estado inicial.
 la combinacion de numeros que almacena sera, 
 0-0-0-0-0-0
 
-y al generar hijos modificara el primer digito de la combinacion con todos los posibles, 
+y al generar hijos modificara el primer digito de la combinacion con todos los posibles, es decir, 10 hijos.
 
 sus hijos,
 almacenaran la combinacion de digitos que les ha asignado su padre,
@@ -43,18 +51,24 @@ sus hijos,
 almacenaran la combinacion de digitos que les ha asignado su padre,
 y al generar a sus propios hijos, modificaran el tercer digito
 
+Veamos graficamente.
+
+
 -------------------------------------------------------------------
 
 
-digamos tambien que tiene una clase de reproduccion igual a : 1
-esta clase indica el digito de la cadena que puede modificar para crear hijos
-el hijo incrementara en uno la clase reproductora del padre.
-Si el padre es clase 1, (solo puede modificar el digito 1 de la cadena para crear hijos) 
-entonces,
-sus hijos seran de clase 2, (y modificaran el digito 2 de la cadena para crear hijos)
-y sus nietos seran de clase 3.
+en este caso ha encontrado la solucion en 6 generacion, es decir, 6 pasos de calculo.
+el efecto es el de necesitar un paso para averiguar cada digito de la combinacion.
 
-Veamoslo graficamente.
+si la combinacion que se queria averiguar era "5-5-5-5-5-5",
+lo habria averiguado en el primera generacion, un unico paso en el calculo.
+de modo que este sistema 
+para averiguar una combinacion
+necesitara de media
+un numero de calculos igual a 
+(numero de digitos de la combinacion)/2
+
+
 
 
 
