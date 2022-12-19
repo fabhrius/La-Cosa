@@ -51,7 +51,7 @@ sus hijos,
 almacenaran la combinacion de digitos que les ha asignado su padre,
 y al generar a sus propios hijos, modificaran el tercer digito
 
-Veamos graficamente.
+Veamoslo graficamente.
 
 
 -------------------------------------------------------------------
