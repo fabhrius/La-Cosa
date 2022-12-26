@@ -198,6 +198,8 @@ el numero de individuos crece exponencialmente con el tiempo.
 es decir, 
 al principio, partimos de un unico individuo,
 pero el numero de individuos de la familia crece rapidamente,
+
+
 y en poco tiempo tiende a infinito.
 De modo que, 
 despues de un tiempo de "puesta en marcha"
@@ -235,11 +237,23 @@ infinito.
 ----------------------------------------------------------------------------
 
 
-imaginad cuantos individuos existen hoy sumando todos los que forman las diferentes especies de criaturas vivientes,
+cuantos individuos existen hoy sumando todos los que forman las diferentes especies de criaturas vivientes ?,
 plantas, peces, bacterias, insectos, aves, reptiles, todos.
 todos ellos descendientes de la primera criatura que ha cobrado vida,
 todos ellos buscando la respuesta a las mismas preguntas,
 todos ellos por caminos diferentes.
+
+todos los individuos son diferentes, no existen 2 iguales,
+para evitar que 2 realicen el mismo trabajo,
+todos ellos buscan la respuesta por caminos diferentes.
+y todos ellos inician una nueva busqueda, creando una nueva familia que buscara la respuesta por su propio camino.
+
+cuantos nuevos individuos naceran en 1 segundo ?
+Como referencia, 
+dentro del organismos de un ser humano, viven varias decenas de billones de bacterias.
+
+un super computador puede realizar miles de millones de operaciones por segundo.
+no es comparable con el numero de operaciones que realiza la vida en el mismo tiempo.
 
 
 
