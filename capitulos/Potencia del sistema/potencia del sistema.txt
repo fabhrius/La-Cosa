@@ -239,21 +239,36 @@ infinito.
 
 cuantos individuos existen hoy sumando todos los que forman las diferentes especies de criaturas vivientes ?,
 plantas, peces, bacterias, insectos, aves, reptiles, todos.
-todos ellos descendientes de la primera criatura que ha cobrado vida,
-todos ellos buscando la respuesta a las mismas preguntas,
-todos ellos por caminos diferentes.
+
+todos ellos son descendientes de la primera criatura que ha cobrado vida.
+
+Y por lo tanto,
+todos forman parte del mismo proceso.
+
+todos ellos buscan respuesta a las mismas preguntas,
+pero todos ellos por caminos diferentes.
 
 todos los individuos son diferentes, no existen 2 iguales,
-para evitar que 2 realicen el mismo trabajo,
-todos ellos buscan la respuesta por caminos diferentes.
+para asegurar que no hay 2 realizando el mismo trabajo.
+
 y todos ellos inician una nueva busqueda, creando una nueva familia que buscara la respuesta por su propio camino.
 
-cuantos nuevos individuos naceran en 1 segundo ?
-Como referencia, 
-dentro del organismos de un ser humano, viven varias decenas de billones de bacterias.
+cada individuo que nace representa un paso hacia adelante en el proceso, una nueva operacion sobre los datos.
+y todos ellos representas operaciones diferentes.
 
-un super computador puede realizar miles de millones de operaciones por segundo.
-no es comparable con el numero de operaciones que realiza la vida en el mismo tiempo.
+cuantas operaciones por segundo podria ejecutar esta maquina viviente ?
+tantas como nuevos individuos naceran en 1 segundo
+
+
+Como referencia, 
+dentro del organismo de un unico ser humano, viven varias decenas de billones de bacterias.
+
+y un super computador puede realizar miles de millones de operaciones por segundo.
+
+mirando alrededor, e intentando adivinar cuantos individuos naceran en un segundo en la tierra,
+es evidente que ningun computador electronico conseguira nunca competir
+con la potencia de calculo que la vida tiene.
+
 
 
 
