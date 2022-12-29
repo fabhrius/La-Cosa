@@ -69,6 +69,8 @@ un numero de calculos igual a
 (numero de digitos de la combinacion)/2
 
 
+---------------------------------------------------------------
+
 
 
 
