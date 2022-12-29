@@ -35,6 +35,58 @@ pero los individuos de las diferentes especies difieren en su configuracion.
 Reproduccion sexual vs reproduccion asexual
 
 
+en el caso del juego del laberinto,
+los individuos se reproducian asexualmente.
+y el individuo generaba sus hijos espontaneamente.
+
+en este caso la reproduccion asexual era suficiente
+porque solo esperabamos a un individuo que representase el estado final del problema.
+Este individuo,
+conoce la solucion al problema, como hemos visto almacena la trajectoria de la familia,
+y esta trajectoria muestra el camino desde la entrada hasta la salida.
+
+El individuo que representa el estado final tiene esta informacion,
+pero solo el,
+no tienen esta informacion el resto de individuos que han sido creado en el proceso.
+
+la reproduccion asexual es suficiente para resolver el problema,
+porque solo queremos un individuo que nos de la respuesta.
+
+En cualquier caso,
+el individuo que tiene la respuesta,
+la compartira con su descendencia, es decir que el conocimiento sera heredado.
+
+Cada familia explorara su propio camino y su conocimiento sera exclusivo de la familia,
+no sera compartido con otras familias.
+
+Este tipo de reproduccion, es suficiente para cierta clase de problemas.
+
+Otro ejemplo es el de la combinacion numerica.
+No es necesario que todos los individuos conozcan la combinacion, basta con uno.
+
+Las bacterias se reproducen asexualmente.
+Podemos ver como las bacterias con el paso de las generaciones aprenden a sobrevivir a los antibioticos.
+
+Del mismo modo que los individuos del laberinto han encontrado la salida,
+las bacterias que aprendan a sobrevivir a los antibioticos compartiran el conocimiento con su descendencia,
+pero no con otras familias.
+
+aquellas familias que no hayan aprendido a adaptarse moriran.
+aquellas familias que se hayan adaptado sobreviviran formando una cepa resistente.
+toda la descendencia heredara este conocimiento.
+
+
+Existen otros problemas, sin embargo,
+en donde este tipo de reproduccion no es suficiente.
+
+Por ejemplo, 
+en el juego del ajedrez.
+
+------------------------------------------------------------
+
+
+
+
 laberinto, combinacion numerica, como reproduccion asexual
 bacterias y antibioticos
 
