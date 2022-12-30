@@ -26,6 +26,7 @@ una especie a la medida.
 
 los individuos de una especie son ligeramente diferentes de
 los individuos de otra especie.
+
 La maquina es la misma,
 el sistema es el mismo,
 pero los individuos de las diferentes especies difieren en su configuracion.
@@ -33,6 +34,23 @@ pero los individuos de las diferentes especies difieren en su configuracion.
 --------------------------------------
 
 Reproduccion sexual vs reproduccion asexual
+
+
+la reproduccion asexual es mas simple,
+un individuo puede reproducirse por si solo, espontaneamente.
+
+la reproduccion sexual es mas compleja y por lo tanto
+tiene un coste mayor.
+
+en ingenieria, se buscara optimizar la solucion encontrada,
+y el coste es un punto importante.
+en general se buscara
+maximizar la calidad y las prestaciones
+y minimizar los costes.
+Sera necesario encontrar el equilibrio ideal entre prestaciones, calidad y coste.
+
+la reproduccion sexual brinda mejores prestaciones, pero tiene un coste mas elevado.
+por lo tanto, solo la utilizaremos cuando sea necesario.
 
 
 en el caso del juego del laberinto,
@@ -84,7 +102,31 @@ en el juego del ajedrez.
 
 ------------------------------------------------------------
 
+en el ejemplo del laberinto, 
+existen mas de una solucion posible.
+es decir, existe mas de 1 camino que lleva a la salida.
 
+hemos detenido el experimento cuando el primero ha encontrado una solucion, pero si dejamos que continue el proceso
+algunos individuos encontraran la salida despues de dar un rodeo.
+
+el segundo individuo que encuentre la salida, conocera un camino diferente del primero,
+pero no los 2 caminos.
+porque la informacion no se comparte con el resto de la especie, sino solo con los descendientes.
+
+en el juego de ajedrez sucedera lo mismo.
+existen muchas formas de ganar la partida.
+Algunos individuos entraran estados finales, pero no conoceran todas las posibles formas de ganar,
+solo conoceran el camino que ha seguido su familia.
+cuando la reproduccion es asexual.
+
+Pero queremos una maquina que sepa ganar una partida de ajedrez en cualquier situacion.
+
+Veamos lo que sucede cuando la reproduccion  es sexual.
+
+
+
+
+------------------------------------------------------------
 
 
 laberinto, combinacion numerica, como reproduccion asexual
