@@ -43,7 +43,8 @@ la reproduccion sexual es mas compleja y por lo tanto
 tiene un coste mayor.
 
 en ingenieria, se buscara optimizar la solucion encontrada,
-y el coste es un punto importante.
+y el coste es algo que se debe tener en cuenta.
+
 en general se buscara
 maximizar la calidad y las prestaciones
 y minimizar los costes.
@@ -115,13 +116,77 @@ porque la informacion no se comparte con el resto de la especie, sino solo con l
 
 en el juego de ajedrez sucedera lo mismo.
 existen muchas formas de ganar la partida.
-Algunos individuos entraran estados finales, pero no conoceran todas las posibles formas de ganar,
+Algunos individuos encontraran estados finales, pero no conoceran todas las posibles formas de ganar,
 solo conoceran el camino que ha seguido su familia.
 cuando la reproduccion es asexual.
 
 Pero queremos una maquina que sepa ganar una partida de ajedrez en cualquier situacion.
 
 Veamos lo que sucede cuando la reproduccion  es sexual.
+
+
+cuantas posibles configuraciones podria tener un tablero de ajedrez en un instante de una partida ?
+muchas.
+podrian formarse muchos distintos tableros diferentes.
+y cuantas formas distintas de ganar una partida podria haber ?
+muchas.
+
+si creamos una especie en donde un individuo representa una estado cualquiera en un instante de una partida de ajedrez,
+es posible que exista un individuo de esta especie que conozca todos los posibles tableros y todas las posibles formas de ganar una partida ?
+
+no si la reproduccion es asexual.
+pero veamos los que sucede con la reproduccion sexual.
+
+en la reproduccion sexual son necesarios 2 individuos.
+y el hijo obtiene la informacion que han recopilado 2 familias diferentes.
+
+digamos que un individuo alcanza un estado final, y conoce una forma de ganar la partida,
+tambien conoce todos los tableros que le llevan a ese estado final, la trajectoria de su familia.
+
+pero solo conoce el camino que ha seguido su familia.
+desde cualquiera de los tablero conocidos podria encontrar el camino hacia el estado final que el conoce,
+pero existen infinitos tableros desconocidos para el.\
+
+desde cualquiera de estos tableros desconocidos no sabria porque camino continuar para ganar la partida.
+
+supongamos entonces que
+este individuo que conoce una forma de ganar particular
+se reproduce sexualmente con otro individuo que conoce otra forma de ganar la partida,
+entonces el hijo, y los futuros descendientes, 
+conoceran los 2 caminos que llevan a ganar la partida de 2 formas diferentes.
+
+digamos que uno de estos descendientes,
+se reproduce sexualmente con otro individuo que conoce otra forma diferente de ganar la partida.
+entonces el hijo, y los descendientes, conoceran 3 formas diferentes de ganar la partida, 
+3 caminos distintos que llevan a distintos estados finales.
+
+y el proceso de asimilar conocimiento de otras familias continuara.
+y con el tiempo,
+un individuo conocera todas las posibles formas de ganar la partida,
+conocera todos los posibles tableros que puedan configurarse en una partida de ajedrez.
+
+este individuo,
+no importa en que situacion se encuentre,
+siempre estara en un tablero conocido,
+y siempre sabra cual es la siguiente jugada que le pondra en camino a ganar la partida.
+
+el sistema al principio no sabe nada,
+pero pasado el tiempo de "puesta en marcha"
+el sistema lo sabe todo.
+
+Y un individuo con este conocimiento es potencialmente "imbatible".
+
+
+
+
+
+
+...
+
+
+
+
+
 
 
 
