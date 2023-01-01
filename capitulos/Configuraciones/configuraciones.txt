@@ -4,7 +4,7 @@ Un individuo debe representar un estado del proceso de resolucion del problema.
 asi, crearemos especies diferentes,
 dependiendo del problema que se quiera abordar.
 
-el el caso del laberinto,
+en el caso del laberinto,
 es necesario recordar en que estado habia quedado el juego en un instante del tiempo,
 de modo que un tablero con una ficha, una posicion y la trayectoria pasada,
 es lo mas adecuado.
@@ -32,6 +32,11 @@ el sistema es el mismo,
 pero los individuos de las diferentes especies difieren en su configuracion.
 
 --------------------------------------
+
+una diferencia en la configuracion de las especies es la forma de reproduccion.
+
+
+
 
 Reproduccion sexual vs reproduccion asexual
 
@@ -66,7 +71,7 @@ y esta trajectoria muestra el camino desde la entrada hasta la salida.
 
 El individuo que representa el estado final tiene esta informacion,
 pero solo el,
-no tienen esta informacion el resto de individuos que han sido creado en el proceso.
+no tienen esta informacion el resto de individuos que han sido creados en el proceso.
 
 la reproduccion asexual es suficiente para resolver el problema,
 porque solo queremos un individuo que nos de la respuesta.
@@ -99,6 +104,7 @@ Existen otros problemas, sin embargo,
 en donde este tipo de reproduccion no es suficiente.
 
 Por ejemplo, 
+veamos lo que sucede si queremos que el sistema sea capaz de ganar 
 en el juego del ajedrez.
 
 ------------------------------------------------------------
@@ -127,7 +133,7 @@ Veamos lo que sucede cuando la reproduccion  es sexual.
 
 cuantas posibles configuraciones podria tener un tablero de ajedrez en un instante de una partida ?
 muchas.
-podrian formarse muchos distintos tableros diferentes.
+podrian formarse muchos tableros diferentes.
 y cuantas formas distintas de ganar una partida podria haber ?
 muchas.
 
@@ -145,7 +151,7 @@ tambien conoce todos los tableros que le llevan a ese estado final, la trajector
 
 pero solo conoce el camino que ha seguido su familia.
 desde cualquiera de los tablero conocidos podria encontrar el camino hacia el estado final que el conoce,
-pero existen infinitos tableros desconocidos para el.\
+pero existen muchos tableros desconocidos para el.
 
 desde cualquiera de estos tableros desconocidos no sabria porque camino continuar para ganar la partida.
 
@@ -168,13 +174,16 @@ conocera todos los posibles tableros que puedan configurarse en una partida de a
 este individuo,
 no importa en que situacion se encuentre,
 siempre estara en un tablero conocido,
-y siempre sabra cual es la siguiente jugada que le pondra en camino a ganar la partida.
+y siempre sabra cual es la siguiente jugada que le pondra en camino de ganar la partida.
 
 el sistema al principio no sabe nada,
 pero pasado el tiempo de "puesta en marcha"
-el sistema lo sabe todo.
+el sistema llegara a saberlo todo.
 
 Y un individuo con este conocimiento es potencialmente "imbatible".
+
+la reproduccion sexual tiene un coste elevado.
+pero dota a la especie que la utiliza de una gran inteligencia.
 
 
 
