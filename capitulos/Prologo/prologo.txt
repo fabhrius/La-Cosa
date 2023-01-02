@@ -1,3 +1,92 @@
+imagino que todos alguna vez nos hemos preguntado que es todo esto.
+la vida.
+
+es fantastico ver a las criaturas vivientes en accion.
+Y es una maravilla ver el verde de las plantas
+y sentir el calor del sol sobre la piel en una manyana fresca de primavera.
+
+si.
+ciertamente la vida es una experiencia que puede ser disfrutada.
+
+un ninyo que nace.
+y las flores que cubren el jardin en temporada.
+
+pero
+que sucede ?
+porque estamos aqui ?
+
+y toda esta variedad de criaturas vivientes,
+que es ?
+de donde sale ?
+porque ?
+
+es posible que exista una inteligencia tal
+que disenye a todas estas criaturas tan complejas ?
+
+
+como saberlo ?
+quizas,
+podria un computador encontrar las respuestas a estas preguntas ?
+
+este es el objetivo de este relato.
+y lo que sigue,
+es la descripcion de un modelo de computador.
+
+Hablaremos de ciencias de la computacion,
+sin embargo, 
+el relato esta dirigido a todas las personas,
+y no es necesario ningun conocimiento previo para entenderlo.
+
+Desarrollaremos una maquina imaginaria, 
+que puesta en marcha
+demostrara una inteligencia notable.
+
+un tipo de inteligencia que yo llamaria "inteligencia natural"
+
+y la pondremos a prueba, 
+haciendo que resuelva un problema simple.
+
+y viendo como lo hace, 
+intentaremos medirla para determinar,
+que puede y que no puede hacer.
+
+y la compararemos con los computadores conocidos, 
+para ver adonde queda en relacion.
+
+
+Y finalmente,
+podra dar una respuesta que tenga sentido
+a las preguntas que he planteado al principio ?
+
+que soy yo ?
+porque existo ?
+y porque debo morir ?
+
+
+Lo veremos.
+Pero creo que es posible.
+Porque a diferencia de otros computadores,
+esta maquina, igual que nosotros,
+esta viva.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------------
 
 Podria un computador dar respuesta a los misterios de la vida que siguen sin respuesta ?
 
