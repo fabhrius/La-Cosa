@@ -181,3 +181,18 @@ una version mejorada.
 
 el individuo ha cambiado de estado para acercarse un poco mas al estado ideal,
 al estado deseado.
+
+
+--------------------------------------------
+
+
+En resumen,
+
+crearemos un computar basado en criaturas vivientes.
+en donde, 
+un individuo representa el estado del calculo en un instante del tiempo,
+y en donde,
+la memoria que almacena los datos que queremos procesar sera el ADN del individuo,
+y la informacion sera procesada durante el proceso de reproduccion,
+el mecanismo de reproduccion sera el procesador.
+

@@ -61,3 +61,13 @@ la partida cambiara de estado
 cada vez que un jugador mueva una ficha.
 Estos seran estados intermedios.
 
+
+---------------------------------------------------
+
+
+y entre todos los posibles estados que puedan generarse,
+existe un camino
+que lleva desde el estado inicial 
+hasta el estado final.
+
+
