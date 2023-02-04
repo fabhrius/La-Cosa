@@ -8,7 +8,7 @@ todos hacia el otro,
 y al proximo anyo, 
 nacian mas patos.
 
-no me ha precido que hicieran mas cosas.
+no me ha parecido que hicieran mas cosas.
 solo ir de un lado al otro,
 quizas comer, dormir,
 y reproducirse.
@@ -17,7 +17,7 @@ cosas que tienen sentido en su interior.
 
 
 Porque la vida los crea ?
-para que vallan de una lado al otro ?
+para que vayan de una lado al otro ?
 esa es su funcion ?
 
 quizas porque son bonitos ?
@@ -34,20 +34,44 @@ porque son creados ?
 
 
 quizas porque son necesarios para mantener el equilibrio del ecosistema.
+quizas.
+
 pero cual es la importancia de mantener el equilibrio del ecosistema, despues de todo ?
 
-quizas para mantener con vida a las criaturas vivientes.
+quizas mantener el equilibrio del ecosistema es necesario
+para mantener con vida a las criaturas vivientes.
+
+si, quizas.
+
 pero cual es la importancia de mantener con vida a las criaturas vivientes, despues de todo ?
 
-quizas porque es necesario mantener el equilibrio del ecosistema.
+quizas mantener con vida a las criaturas vivientes es necesario
+para mantener el equilibrio del ecosistema.
+
+eso no tiene mucho sentido.
 
 --------------------------------
 
 la vida que es ?
 porque estamos aqui ?
 
-intuitivamente sentimos que debemos ser necesarios por algun motivo.
-Debemos luchar para mantenernos con vida.
+
+al parecer, 
+en este sistema biologico,
+lo que se necesita, se crea, 
+y lo que ya no es necesario,
+es eliminado.
+
+De modo que,
+si es estamos aqui, 
+posiblemente sea porque somos necesarios por algun motivo.
+
+Tal vez.
+Tal vez formamos parte de algo mas grande, 
+y somos una pieza importante de algun tipo de maquinaria,
+algo que, 
+desde nuestra posicion, no podemos ver con claridad.
+
 
 porque ?
 la vida esta haciendo algo ?
@@ -57,8 +81,27 @@ las criaturas vivientes,
 de pronto, despertamos a la vida, como de un suenyo.
 y nos vemos obligados a luchar para mantenernos con vida en un mundo hostil.
 intentamos mantenernos con vida para hace cosas sin sentido aparente.
+
+si le dices a un ninyo que un dia se casara y creara una familia,
+el posiblemente no lo creera.
+el no necesita eso y no esta en sus planes.
+
+y sin embargo, 
+cuando llegue el momento,
+querra formar una familia, igual que todas las personas.
+
+y a lo largo de nuestras vidas, 
+hacemos lo que queremos hacer.
+es  nuestra voluntad la que nos guia.
+
+es esa voluntad, realmente nuestra ?
+o es otra, 
+la voluntad que toma las decisiones ?
+
 igual que los patos que van hacia un lado, y despues hacia el otro,
 y asi consumen otro dia de vida.
+
+lo mismo hacemos todas las criaturas vivientes.
 
 que esta pasando ?
 porque hacemos lo que hacemos ?
@@ -73,15 +116,15 @@ porque siempre ha sido asi.
 
 y el roble.
 crece.
-anyo tras anyo se cubre de flores.
-y cada anyo, crea semillas.
+y anyo tras anyo se cubre de flores.
+y cada anyo, crea semillas, y las esparce por la tierra.
 
 inmobil.
 crece.
 durante mil anyos.
 y un dia, muere.
 
---------------------------------------------
+--------------------------
 
 que somos ?
 porque estamos aqui ?
@@ -92,6 +135,38 @@ podemos analizar la composicion quimica de los seres vivientes.
 como estan formados.
 podemos imaginar cuando se inicio la vida.
 en que condiciones.
+
+pero 
+porque ?
+porque se crean mas y mas individuos, mas y mas especies.
+
+y de forma intiutiva 
+presentimos que no es casual.
+y casi parece que hubiera una inteligencia, disenyando a todas las criaturas en cada detalle
+y decidiendo,
+que seran, que haran, cuanto viviran.
+
+es posible que exista una inteligencia semejante ?
+
+porque sucede todo esto ?
+tiene algun sentido ?
+
+y yo, 
+que soy ?
+porque estoy aqui ?
+porque debo morir ?
+
+y la vida, en su conjunto, como una unica entidad,
+que es ?
+
+-----------------------
+
+en los capitulos siguientes, 
+llevare a cabo un experimento de laboratorio orientado a encontrar estas respuestas.
+
+no utilizare material biologico sino 
+una simulacion,
+mas en la linea de las matematicas, la logica matematica, y las ciencias de la computacion.
 
 
 

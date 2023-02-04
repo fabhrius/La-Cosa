@@ -1,0 +1,6 @@
+un conjunto de datos
+un conjunto de operaciones.
+
+una memoria para mantener los datos.
+un procesador que ejecuta las operacion sobre los datos.
+
