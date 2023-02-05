@@ -9,8 +9,9 @@ todo esto no es posible sin inteligencia.
 
 si las raices crecen libremente sin control, entonces crecen en todas direcciones.
 pero no es asi.
-existe una logica que controla hacia donde se orientaran.
-del mismo modo el tallo sin control creceria tumbado sobre la tierra.
+un sistema de control logico decide hacia adonde deben orientarse las raices a medida que crecen.
+
+del mismo modo, el tallo sin ningun control, creceria tumbado sobre la tierra.
 un mecanismo de control fuerza al arbol a hacer lo que se espera de el.
 
 si intentamos crear algo parecido en un laboratorio,
@@ -27,6 +28,29 @@ es magia.
 la celula original del primer dia, se ha dividido una y otra vez, durante 21 dias para dar forma a un individuo complejo, un ave.
 la celula original estaba programada para hacer exactamente eso.
 el huevo es un puzzle.
+
+---------------------------------------------
+
+
+
+el disenyo, el comportamiento, de las criaturas, es extremadamente complejo.
+
+basta intentar crear algo parecido en un laboratorio, para ver que solo se conseguiria con inteligencia.
+mucha.
+un recurso que nosotros, no tenemos.
+nuestro comportamiento es inteligente, si.
+igual que el comportamiento del arbol.
+como todas las criaturas vivientes, la inteligencia es parte de nosotros.
+
+sin embargo, 
+no somos tan inteligentes para crear mecanismos semejantes.
+para crear criaturas vivientes, es necesaria una gran cantidad de inteligencia, mucha.
+
+
+y es esta la caracteristica de la vida en la que voy a enfocar el relato.
+la inteligencia.
+
+
 
 
 
