@@ -1,0 +1,32 @@
+Una caracteristica notable de la vida, es la inteligencia.
+
+los arboles crecen en vertical, manteniendo el equilibrio.
+las raices crecen hacia el centro de la tierra.
+el tallo crece en sentido opuesto, en vertical.
+las hojas se orientan hacia la luz, hacia el sol.
+
+todo esto no es posible sin inteligencia.
+
+si las raices crecen libremente sin control, entonces crecen en todas direcciones.
+pero no es asi.
+existe una logica que controla hacia donde se orientaran.
+del mismo modo el tallo sin control creceria tumbado sobre la tierra.
+un mecanismo de control fuerza al arbol a hacer lo que se espera de el.
+
+si intentamos crear algo parecido en un laboratorio,
+veremos que no es facil.
+el comportamiento del arbol no es casual, y debe ser implementado un mecanismo de control logico, inteligente.
+
+
+dentro de un huevo de gallina, originalmente hay una sola celula.
+el huevo esta cerrado, nada entra y nada sale,
+y al cabo de 21 dias se rompe y del huevo sale un animal completo, caminando, observando el entorno a traves de sus ojos, analizando el sonido del ambiente, 
+pensando, comiendo, pidiendo ayuda con la fuerza de su voz.
+es magia.
+
+la celula original del primer dia, se ha dividido una y otra vez, durante 21 dias para dar forma a un individuo complejo, un ave.
+la celula original estaba programada para hacer exactamente eso.
+el huevo es un puzzle.
+
+
+
