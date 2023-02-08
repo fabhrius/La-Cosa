@@ -21,11 +21,12 @@ del mismo modo, el tallo sin control, creceria posiblemente tumbado sobre la tie
 
 crear algo parecido en un laboratorio,
 no sera una tarea facil.
-el comportamiento del arbol no es aleatorio, ni es casual.
-
+el comportamiento del arbol no es casual, ni es aleatorio.
 Esta guiado.
+
 es mas evidente cuando vemos las hojas de una planta orientandose hacia la luz de una ventana.
 si la giramos, volvera a orientarse hacia la luz de la ventana, en unas pocas horas.
+no es casual, sino voluntario.
 
 una planta puede sentir adonde esta el sol.
 puede sentir adonde esta el centro de la tierra.
@@ -58,13 +59,12 @@ ejemplos de inteligencia, los encontraremos en todas las criaturas vivientes, en
 la vida, es inteligente.
 
 
-diria que,
 no solo es inteligente la vida, 
 sino que contiene toda la inteligencia existente.
 la vida, es inteligencia.
 y la inteligencia, es la vida.
 
-Y no existe ninguna inteligencia, fuera de la vida.
+Y no existe ninguna otra inteligencia, fuera de la vida.
 Y solo existe una inteligencia, y esa es la vida.
 
 
@@ -73,7 +73,18 @@ Y solo existe una inteligencia, y esa es la vida.
 he hablado de vida e inteligencia.
 y en estos dos sujetos se enfocara el relato.
 
-pero la inteligencia que es ?
+vida e inteligencia.
+
+he visto algunas definiciones de inteligencia, pero no se ajustan a "la inteligencia" de la que estoy hablando ahora.
+sino que intentan definir o describir, que cosa es la inteligencia del hombre.
+
+la inteligencia de la que hablo no es la del hombre, sino toda la inteligencia de forma generica.
+
+
+para ponernos de acuerdo, antes de continuar,
+es necesaria una definicion. 
+
+la inteligencia que es ?
 en este relato,
 la inteligencia sera 
 
@@ -81,13 +92,19 @@ la inteligencia sera
 la capacidad de comprender el estado de un sistema o contexto
 a traves del analisis de indicadores
 
-junto a la capacidad de detectar problemas (situacion adversa, inconveniente, indeseable)
+junto a la capacidad de detectar problemas (situacion adversa, indeseable, inconveniente)
 y disenyar e implementar soluciones, como cambios de mejora,
 para superar, eliminar o mitigar los problemas, 
 
-con el objetivo de modificar el estado del sistema, cuando no se el deseado para convertirlo en, o acercarlo hacia, el estado deseado.
+con el objetivo de modificar el estado del sistema, cuando no sea el deseado para convertirlo en, o acercarlo hacia, el estado deseado.
 
 la entidad inteligente tiene objetivos y buscara la forma de conseguirlos, modificando cuando sea necesario el contexto actual.
+implica que,
+la entidad inteligente, 
+analiza, planifica, actua
+
+
+--------------------------------------
 
 
 
