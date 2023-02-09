@@ -80,6 +80,16 @@ sino que intentan definir o describir, que cosa es la inteligencia del hombre.
 
 la inteligencia de la que hablo no es la del hombre, sino toda la inteligencia de forma generica.
 
+algunas personas hablan de explorar el espacio en busca de vida inteligente.
+en aquel contexto, 
+que significa "vida inteligente" ?
+
+"vida inteligente", en aquel contexto, significa algo asi como encontrar en otros planetas, criaturas que hablan ingles.
+
+sin embargo, 
+la frase "vida inteligente", 
+es en si misma, redundante.
+porque toda la vida es inteligente, y no existe vida de otra clase.
 
 para ponernos de acuerdo, antes de continuar,
 es necesaria una definicion. 
@@ -95,16 +105,55 @@ a traves del analisis de indicadores
 junto a la capacidad de detectar problemas (situacion adversa, indeseable, inconveniente)
 y disenyar e implementar soluciones, como cambios de mejora,
 para superar, eliminar o mitigar los problemas, 
-
 con el objetivo de modificar el estado del sistema, cuando no sea el deseado para convertirlo en, o acercarlo hacia, el estado deseado.
 
-la entidad inteligente tiene objetivos y buscara la forma de conseguirlos, modificando cuando sea necesario el contexto actual.
+la entidad inteligente tiene objetivos y la voluntad de conseguirlos, modificando cuando sea necesario el contexto actual.
 implica que,
 la entidad inteligente, 
 analiza, planifica, actua
+la entidad inteligente, ademas, aprende, volviendose mas eficiente a medida que obtiene informacion.
+
 
 
 --------------------------------------
+
+
+la vida es una formacion natural.
+y esta afirmacion, podria sugerir que es una formacion casual, accidental.
+y que el disenyo tan complejo y exacto de las criaturas es,
+un accidente "afortunado".
+
+el canyon del colorado, es una formacion natural tambien.
+pero no esta planeado, es puramente accidental.
+
+el disenyo de las criaturas vivientes, en cambio,
+no es casual, no se trata de un accidente.
+es razonado,
+y esta cuidadosamente calculado.
+
+y sin embargo, es una formacion natural.
+como es posible ?
+como ha sido desarrollado ?
+adonde esta la inteligencia creadora ?
+
+
+-----------------------------------------
+
+lo mostrare con un experimento, 
+en donde desarrollare un sistema computacional, 
+una maquina de calculo, puramente teorica,
+que resolvera problemas logicos, 
+utilizando recursos y procedimientos utilizado por la vida.
+esta maquina sera una simulacion de la vida.
+ 
+nos mostrara, como funciona, como piensa la vida, 
+y nos permitira, medir su inteligencia de forma aproximada.
+
+entenderemos entonces como  consigue disenyar crituras vivientes tan complejas y exactas.
+y veremos adonde se encuentra la inteligencia creadora.
+
+
+
 
 
 
