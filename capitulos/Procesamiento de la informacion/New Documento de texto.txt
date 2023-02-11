@@ -1,0 +1,163 @@
+Las computadoras,
+procesan informacion para resolver problemas.
+
+Es decir,
+parten de un conjunto de datos conocidos.
+Y sobre estos datos realizan operaciones para obtener nueva informacion que se incluira en el conjunto de datos conocidos.
+
+normalmente resolver un problema podria requerir mas de un paso de calculo.
+
+Por ejemplo, 
+si queremos sumar una lista de varios numeros,
+ 
+el conjunto de datos iniciales sera la lista de numeros que queremos sumar,
+
+El primer paso sera sumar el primer numero de la lista con el segundo, 
+con esto habremos obtenido un nuevo dato, un resultado parcial,
+
+El siguiente paso sera sumar este resultado parcial con el siguiente numero de la lista.
+
+Y repetiremos este procedimiento con todos los numeros de la lista para obtener el resultado final.
+
+----------------------------
+
+Esto describe el procedimiento que utilizaremos para resolver problemas matemáticos, y lógicos, en general.
+
+para procesar informacion de la forma que he descrito, 
+necesitariamos 
+
+3 recursos basicos.
+
+- Los datos 
+- un mecanismo que realize las operaciones necesarias sobre los datos.
+- y un programa que describa la forma en que las operaciones se aplicaran sobre los datos.
+
+
+Ahora nos proponemos construir una maquina que resuelva problemas de este tipo automáticamente
+
+De modo que necesitaremos estos 3 recursos básicos.
+
+veamoslo con mas detalle.
+
+1 - Los datos: para almacenar información y leerla o modificarla, cada vez que sea necesario, 
+la maquina necesitara un soporte fisico de datos, la memoria.
+en el ejemplo anterior, la suma de un listado de numeros, los datos iniciales son el listado de numeros, y esto es lo que almacenaremos en la memoria de la maquina.
+
+2 - Realizar operaciones sobre los datos: la maquina debera estar dotada de un mecanismo que sepa como realizar las operaciones necesarias, un procesador.
+en el ejemplo anterior, la suma de un listado de numeros, el procesador realizaba una unica operacion, suma.
+para sumar un listado de numeros, necesitamos un procesador que sepa como sumar 2 numeros.
+
+3 - el programa: algoritmo o secuencia de pasos que deben seguirse para obtener el resultado final,
+el programa describe como resolver el problema paso a paso.
+en el ejemplo anterior, la suma de un listado de numeros, el programa podria ser asi:
+	- leer el primer numero de la lista.
+	- ponerlo en la entrada del procesador como "operando A"
+	- leer el "resultado parcial"
+	- ponerlo en la entrada del procesador como "operando B"
+	- ordenar al procesador que realice una operacion de suma sobre los datos
+	- recoger el resultado arrojado por el procesador
+	- escribir el resultado como "resultado parcial"
+	- borrar el primer numero de la lista
+	- volver a ejecutar todo el programa desde el principio, hasta que no queden datos en la lista de numeros
+
+
+en la descripcion que he dado, 
+participan 4 elementos, 
+los datos
+la memoria
+el procesador 
+y el programa
+
+observad que, 
+la memoria y el procesador, son parte de la maquina, son fisicos (es decir que, si los golpeo con fuerza podria romperlos)
+mientras que,
+los datos y el programa, no son elementos fisicos sino logicos (no podras romperlos a golpes)
+
+la maquina fisica es "hardware"
+la parte logica del sistema es "software"
+
+
+entonces, el computador que me propongo construir debera tener
+memoria y procesador
+
+
+-----------------------------
+
+
+ADN y reproduccion.
+
+
+El ADN 
+almacena la informacion necesaria para construir a un individuo.
+Es por lo tanto, un soporte de memoria que contiene datos.
+El ADN es capaz de almacenar una gran cantidad de informacion,
+
+En los siguientes experimentos, 
+consideraremos la informacion contenida en el ADN como inmutable.
+
+Es decir, que no puede ser modificada.
+La informacion contenida en el ADN permanecera inalterable durante toda la vida del individuo.
+
+De modo que el individuo, siempre sera el mismo.
+Con las mismas huellas digitales, con las mismas caracteristicas que lo diferenciaran de otros individuos,
+durante toda su vida.
+
+La informacion contenida en el ADN de un individuo 
+permanece constante dentro del individuo, 
+pero se modifica en la reproduccion para generar al hijo.
+
+------------------------------
+
+
+Cuando el individuo se reproduce, 
+sus hijos no seran copias exactas del padre.
+
+Seran muy parecidos pero no iguales.
+No existen 2 individuos iguales.
+
+En la reproduccion 
+la informacion contenida en el padre ha sido modificada 
+para crear al hijo.
+
+El hijo es una nueva version del padre.
+
+La reproduccion sera el mecanismo que utilizaremos para procesar la informacion.
+
+-----------------------------
+
+la funcion de Un individuo, en este modelo,
+es la de mantener un conjunto de datos.
+
+Podemos pensar en un individuo como en un CD en el que han sido grabados datos y que no puede ser modificado.
+Pero,
+Podemos leer la informacion contenida, procesarla y grabar el resultado del proceso en un nuevo CD, el hijo.
+
+En este modelo, si consideramos que la informacion se procesa durante la reproduccion, 
+este sera un paso unico, simple, en el proceso.
+
+
+he comentado que, en general, la resolucion de un problema requerira de una serie de pasos.
+Normalmente, mas de uno.
+
+De modo que,
+el padre no encontrara la solucion al problema, 
+ni tampoco el hijo.
+sera el trabajo de toda la familia, o de toda la especie.
+
+el proceso de resolucion del problema avanzara paso a paso,
+generacion tras generacion.
+
+----------------------------
+
+En resumen,
+
+crearemos un computar basado en criaturas vivientes.
+en donde, 
+un individuo representa el estado del calculo en un instante del tiempo,
+y en donde,
+la memoria que almacena los datos que queremos procesar sera el ADN del individuo,
+y la informacion sera procesada durante el proceso de reproduccion,
+el mecanismo de reproduccion sera el procesador.
+
+-----------------------------
+
