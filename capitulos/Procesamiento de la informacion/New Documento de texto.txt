@@ -91,6 +91,7 @@ El ADN
 almacena la informacion necesaria para construir a un individuo.
 Es por lo tanto, un soporte de memoria que contiene datos.
 El ADN es capaz de almacenar una gran cantidad de informacion,
+utilizaremos el ADN como memoria del sistema.
 
 En los siguientes experimentos, 
 consideraremos la informacion contenida en el ADN como inmutable.
@@ -116,12 +117,15 @@ Seran muy parecidos pero no iguales.
 No existen 2 individuos iguales.
 
 En la reproduccion 
-la informacion contenida en el padre ha sido modificada 
+la informacion contenida en el ADN del padre ha sido modificada 
 para crear al hijo.
 
 El hijo es una nueva version del padre.
 
+el mecanismo de reproduccion, modifica la informacion, la procesa
+
 La reproduccion sera el mecanismo que utilizaremos para procesar la informacion.
+utilizaremos el mecanismo de reproduccion como procesador.
 
 -----------------------------
 
@@ -160,4 +164,18 @@ y la informacion sera procesada durante el proceso de reproduccion,
 el mecanismo de reproduccion sera el procesador.
 
 -----------------------------
+
+en resumen, 
+crearemos un computador con seres vivientes, imaginarios, en donde
+el ADN, sera la memoria, 
+y el mecanismo de reproduccion, sera el procesador.
+
+observad que un individuo no es un computador, 
+sino unicamente la representacion de un estado del proceso.
+la maquina de calculo estara formada por todos los individuos de la especie.
+
+pero veamoslo mas despacio, paso a paso.
+
+he dicho que un individuo representa un estado del calculo.
+Veamos a que llamaremos estados del proceso.
 
