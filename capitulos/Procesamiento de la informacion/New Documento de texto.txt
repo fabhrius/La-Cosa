@@ -39,9 +39,12 @@ De modo que necesitaremos estos 3 recursos básicos.
 
 veamoslo con mas detalle.
 
-1 - Los datos: para almacenar información y leerla o modificarla, cada vez que sea necesario, 
+1 - Los datos: representan la informacion conocida del problema que queremos resolver, para gestionar los datos
 la maquina necesitara un soporte fisico de datos, la memoria.
-en el ejemplo anterior, la suma de un listado de numeros, los datos iniciales son el listado de numeros, y esto es lo que almacenaremos en la memoria de la maquina.
+para almacenar información y leerla o modificarla, cada vez que sea necesario, 
+
+en el ejemplo anterior, la suma de un listado de numeros, los datos iniciales son el listado de numeros, y esto es lo que almacenaremos en la memoria de la maquina,
+asi como los resultados temporales que obtendremos a medida que avanzamos en el proceso.
 
 2 - Realizar operaciones sobre los datos: la maquina debera estar dotada de un mecanismo que sepa como realizar las operaciones necesarias, un procesador.
 en el ejemplo anterior, la suma de un listado de numeros, el procesador realizaba una unica operacion, suma.
@@ -80,6 +83,12 @@ la parte logica del sistema es "software"
 entonces, el computador que me propongo construir debera tener
 memoria y procesador
 
+----------------------------
+
+veamos ahora si
+la vida
+podria funcionar como un computador 
+y resolver automaticamente problemas logicos
 
 -----------------------------
 
@@ -90,6 +99,7 @@ ADN y reproduccion.
 El ADN 
 almacena la informacion necesaria para construir a un individuo.
 Es por lo tanto, un soporte de memoria que contiene datos.
+
 El ADN es capaz de almacenar una gran cantidad de informacion,
 utilizaremos el ADN como memoria del sistema.
 
@@ -138,6 +148,7 @@ Podemos leer la informacion contenida, procesarla y grabar el resultado del proc
 
 En este modelo, si consideramos que la informacion se procesa durante la reproduccion, 
 este sera un paso unico, simple, en el proceso.
+la diferencia entre el padre y el hijo, sera la minima de todas las posibles.
 
 
 he comentado que, en general, la resolucion de un problema requerira de una serie de pasos.
@@ -159,19 +170,16 @@ crearemos un computar basado en criaturas vivientes.
 en donde, 
 un individuo representa el estado del calculo en un instante del tiempo,
 y en donde,
-la memoria que almacena los datos que queremos procesar sera el ADN del individuo,
+la memoria que almacena los datos que queremos procesar estara en el ADN de los individuos,
 y la informacion sera procesada durante el proceso de reproduccion,
 el mecanismo de reproduccion sera el procesador.
 
------------------------------
 
-en resumen, 
-crearemos un computador con seres vivientes, imaginarios, en donde
-el ADN, sera la memoria, 
-y el mecanismo de reproduccion, sera el procesador.
+
+-----------------------------------
 
 observad que un individuo no es un computador, 
-sino unicamente la representacion de un estado del proceso.
+sino unicamente la representacion de un estado en el proceso de calculo.
 la maquina de calculo estara formada por todos los individuos de la especie.
 
 pero veamoslo mas despacio, paso a paso.
