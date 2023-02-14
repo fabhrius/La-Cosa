@@ -8,6 +8,8 @@ Digamos que se trata de un juego de mesa, con un tablero cuadriculado y una fich
 Utilizare un tablero de ajedrez, es decir, cuadriculado con 8 casillas de alto por 8 casillas de ancho.
 Y sobre este tablero, colocare una unica ficha
 esta ficha podra moverse una casilla en cualquier direccion con cada jugada.
+eso es lo que consideraremos como una jugada valida.
+con cada jugada la ficha se movera a una casilla contigua.
 
 Para darle un objetivo al juego,
 imaginaremos que el tablero es un laberinto, 
@@ -58,7 +60,7 @@ pero querriamos continuar manyana desde el mismo punto en donde lo dejamos ahora
 para continuar manayana en el  mismo punto, 
 necesitariamos guardar informacion que nos ayude a recuperar el juego en el mismo estado en que lo habiamos dejado, 
 una foto.
-Seria suficiente con apuntar la posicion en que habian quedado todas las fichas y quien mueve la proxima ficha.
+Seria suficiente con apuntar la posicion en que habian quedado todas las fichas y cual de los jugadores debe hacer la siguiente jugada.
 con esa informacion bastaria para reconstruir el estado del juego, en el caso del ajedrez.
 
 en el caso del juego que estamos planteando ahora, el laberinto sobre el tablero, 
@@ -103,7 +105,9 @@ ahora veamos como se reproducira.
 
 Procesar la informacion.
 
+como he comentado, la informacion sera procesada durante la reproduccion.
 el mecanismo de reproduccion sera el procesador.
+
 Definire ahora las operaciones que debe realizar sobre los datos.
 
 Los individuos de esta especie representan estados del juego.
