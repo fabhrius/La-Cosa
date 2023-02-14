@@ -5,7 +5,7 @@ Para ello, disenyaremos una maquina que resuelva un problema automáticamente.
 Empezare por definir el problema.
 
 Digamos que se trata de un juego de mesa, con un tablero cuadriculado y una ficha.
-Utilizare un tablero de ajedrez, es decir, cuadriculado con 8 casillas de alto por 8 casillas de largo.
+Utilizare un tablero de ajedrez, es decir, cuadriculado con 8 casillas de alto por 8 casillas de ancho.
 Y sobre este tablero, colocare una unica ficha
 esta ficha podra moverse una casilla en cualquier direccion con cada jugada.
 
@@ -83,7 +83,8 @@ con esta informacion podremos construir un individuo de esta especie.
 
 
 
-
+ya tenemos definido como es un individuo de esta especie.
+ahora veamos como se reproducira.
 
 
 
