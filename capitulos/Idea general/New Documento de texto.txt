@@ -32,6 +32,9 @@ como se ha formado ?
 
 es casual ?
 
+O es que existe una inteligencia, en alguna parte, que lo organiza todo ?
+
+
 Creo que el lector estara de acuerdo conmigo en que no parece casual,
 y que lo mas prudente, seria pensar que existe alguna inteligencia, en alguna parte, que lo organiza todo.
 Pero adonde esta ?
@@ -240,6 +243,29 @@ entenderemos entonces como  consigue disenyar crituras vivientes tan complejas y
 y veremos adonde se encuentra la inteligencia creadora.
 
 
+
+
+
+
+----------------------------------------------
+
+Para responder a estas preguntas,
+
+realizaremos un experimento de laboratorio.
+construiremos una maquina que resuelva problemas logicos automaticamente.
+
+
+la vida proporciona un modelo de gran potencia que ademas es conceptualmente simple.
+sera facil de entender.
+
+utilizaremos caracteristicas que vemos en la vida para construir una maquina que encuentre soluciones a problemas.
+una simulacion de vida.
+Una inteligencia que encontrara respuestas.
+
+Inteligencia "natural".
+
+
+Veamos, para empezar ya, que necesitamos para procesar informacion.
 
 
 
