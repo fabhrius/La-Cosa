@@ -52,80 +52,12 @@ y ademas necesitaremos un programa, que proporcione la secuencia de pasos que de
 ----------------------------------------------------------------------
 
 
+veamos como obtenemos estos recursos de la vida.
+porque como he comentado antes, la idea es utilizar vida como un computador, y que sea la vida la que procese la informacion para nosotros.
+suena complicado pero en realidad es inmediato, al menos conceptualmente.
 
 
 
-
-
-
-para procesar informacion de la forma que he descrito, 
-necesitariamos 
-
-3 recursos basicos.
-
-- Los datos 
-- un mecanismo que realize las operaciones necesarias sobre los datos, o procesador.
-- y un programa que describa la forma en que las operaciones se aplicaran sobre los datos.
-
-
-Ahora nos proponemos construir una maquina que resuelva problemas de este tipo automáticamente
-
-De modo que necesitaremos estos 3 recursos básicos.
-
-veamoslo con mas detalle.
-
-1 - Los datos: representan la informacion conocida del problema que queremos resolver, para gestionar los datos
-la maquina necesitara un soporte fisico de datos, la memoria.
-para almacenar información y leerla o modificarla, cada vez que sea necesario, 
-
-en el ejemplo anterior, la suma de un listado de numeros, los datos iniciales son el listado de numeros, y esto es lo que almacenaremos en la memoria de la maquina,
-asi como los resultados temporales que obtendremos a medida que avanzamos en el proceso.
-
-2 - Realizar operaciones sobre los datos: la maquina debera estar dotada de un mecanismo que sepa como realizar las operaciones necesarias, un procesador.
-en el ejemplo anterior, la suma de un listado de numeros, el procesador realizaba una unica operacion, suma.
-para sumar un listado de numeros, necesitamos un procesador que sepa como sumar 2 numeros.
-
-3 - el programa: algoritmo o secuencia de pasos que deben seguirse para obtener el resultado final,
-el programa describe como resolver el problema paso a paso.
-en el ejemplo anterior, la suma de un listado de numeros, el programa podria ser asi:
-	- leer el primer numero de la lista.
-	- ponerlo en la entrada del procesador como "operando A"
-	- leer el "resultado parcial"
-	- ponerlo en la entrada del procesador como "operando B"
-	- ordenar al procesador que realice una operacion de suma sobre los datos
-	- recoger el resultado arrojado por el procesador
-	- escribir el resultado como "resultado parcial"
-	- borrar el primer numero de la lista
-	- volver a ejecutar todo el programa desde el principio, hasta que no queden datos en la lista de numeros
-
-
-en la descripcion que he dado, 
-participan 4 elementos, 
-los datos
-la memoria
-el procesador 
-y el programa
-
-observad que, 
-la memoria y el procesador, son parte de la maquina, son fisicos (es decir que, si los golpeo con fuerza podria romperlos)
-mientras que,
-los datos y el programa, no son elementos fisicos sino logicos (no podras romperlos a golpes)
-
-la maquina fisica es "hardware"
-la parte logica del sistema es "software"
-
-
-entonces, el computador que me propongo construir debera tener
-memoria y procesador
-
-----------------------------
-
-veamos ahora si
-la vida
-podria funcionar como un computador 
-y resolver automaticamente problemas logicos
-
------------------------------
 
 
 ADN y reproduccion.
@@ -147,6 +79,8 @@ La informacion contenida en el ADN permanecera inalterable durante toda la vida 
 De modo que el individuo, siempre sera el mismo.
 Con las mismas huellas digitales, con las mismas caracteristicas que lo diferenciaran de otros individuos,
 durante toda su vida.
+
+Pensaremos en esta memoria como de "solo lectura".
 
 La informacion contenida en el ADN de un individuo 
 permanece constante dentro del individuo, 
@@ -173,6 +107,13 @@ La reproduccion sera el mecanismo que utilizaremos para procesar la informacion.
 utilizaremos el mecanismo de reproduccion como procesador.
 
 -----------------------------
+
+y al parecer, lo que queriamos construir, ya esta hecho.
+la vida proporciona todos los recursos necesarios.
+no ha sido necesario modificar nada.
+la vida es un computador natural.
+
+---------------------------
 
 la funcion de Un individuo, en este modelo,
 es la de mantener un conjunto de datos.

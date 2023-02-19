@@ -2,15 +2,15 @@ hablare de vida e inteligencia.
 en estos 2 temas se enfocara el relato.
 
 El concepto de inteligencia podria ser interpretado de formas diferentes.
-no hablare de la inteligencia del hombre, sino de la capacidad para resolver problemas, 
-superar obstaculos, adaptarse, aprender, y en general de aquello que podemos calificar como una respuesta inteligente.
+no hablare de la inteligencia del hombre, sino de inteligencia como la capacidad para resolver problemas, 
+superar obstaculos, adaptarse, aprender, y en general de aquello que podemos calificar como una respuesta inteligente a una situacion determinada.
 
 algunos dias atras, alguien me comentaba que la inteligencia estaba relacionada con la conciencia de la propia existencia.
 no. no estoy hablando de ese tipo de inteligencia.
 
 una maquina puede resolver problemas, su respuesta es inteligente, pero no tiene conciencia de su propia existencia.
-el hormiguero, puede resolver problemas, que una hormiga no podria resolver por si misma, el sistema es inteligente, 
-el sistema encuentra el camino, y el sistema no es conciente de su propia existencia.
+el hormiguero, puede resolver problemas que una hormiga no podria resolver por si misma, el sistema es inteligente, 
+el hormiguero encuentra el camino, pero este sistema no es conciente de su propia existencia.
 
 en los siguientes capitulos desarrollaremos un sistema inteligente que resolvera problemas, un poco en la linea de la inteligencia artificial.
 hablaremos de ciencias de la computacion.
@@ -31,7 +31,7 @@ digamos que, todas las criaturas vivientes estan formadas por celulas.
 la vida construye estructuras celulares, en donde la celula es el bloque de construccion.
 
 
-ahora imaginemos a los individuos, como las celulas de un tejido mas grande.
+ahora imaginemos a los individuos, como celulas de un tejido mas grande.
 y a toda la vida, como a un unico individuo.
 en donde, todos los individuos de todas las especies, son las celulas que lo forman.
 
@@ -45,8 +45,9 @@ veremos que ademas esta relacion es estrecha.
 lo veremos desarrollando una maquina que resolvera problemas logicos automaticamente.
 para desarrollar este sistema computacional utilizaremos caracteristica observables en la vida.
 el sistema sera algo asi como un simulador de vida.
+y simulando vida, obtenemos un computador.
 
-el verlo en funcionamiento, creo que podria ayudarnos a entender un poco mejor lo que sucede.
+el verlo en funcionamiento, creo que podria ayudarnos a entender un poco mejor lo que sucede con la vida.
 
 digo esto porque, al menos para mi, la vida siempre ha resultado bastante misteriosa.
 porque estoy aqui ?
@@ -58,6 +59,7 @@ todo esto tiene algun proposito ?
 existe una inteligencia que disena a todos los seres vivientes ?
 
 las preguntas que yo personalmente tengo acerca de la vida parecen no tener fin.
+
 
 
 asi que empezamos ya.
