@@ -1,0 +1,385 @@
+Ahora bien, demos un vistazo a cómo podemos llevar a la práctica las ideas que hemos estado discutiendo hasta este momento. Para ello, diseñaremos una máquina que resuelva un problema y la veremos en pleno funcionamiento. Será conveniente optar por un problema sencillo, que nos permita enfocarnos en ver cómo trabaja la máquina sin distraernos con detalles innecesarios.
+
+En este caso, el problema que abordaremos consiste en un juego de mesa que utilizaremos como ejemplo. Usaremos un tablero cuadriculado de 8 por 8 casillas, al estilo del utilizado en el juego de ajedrez. En el tablero, colocaremos una única ficha.
+
+Imaginaremos que el tablero representa un laberinto, con una entrada y una salida bien definidas. La ficha podrá moverse en cualquier dirección, siempre y cuando su movimiento se limite a una casilla por jugada. De esta manera, consideraremos válidas aquellas jugadas que no superen dicha distancia.
+
+Con todo esto en mente, nuestro objetivo es encontrar el camino que la ficha debe recorrer para llegar desde la entrada hasta la salida del laberinto.
+
+Ese sera el problema.
+
+----
+
+Ahora, analicemos cuáles son las características que debe poseer la máquina que nos permitirá resolver el problema en cuestión.
+
+Como ya hemos mencionado, la vida nos ofrece los recursos necesarios para procesar información, 
+en particular, utilzaremos el ADN y la reproduccion.
+
+el ADN, funciona como la memoria del sistema al almacenar información. Es aqui adonde almacenaremos la informacion que debe ser procesada. debemos configurarla adecuadamente.
+Recordemos que esta memoria es de solo lectura.
+
+Y el mecanismo de reproduccion, funcionara como el procesador.
+que extraerá la información almacenada en la memoria y la procesara, siguiendo el programa que configuraremos.
+El resultado del proceso sera almacenado en el ADN de un nuevo individuo, el hijo.
+
+
+Si queremos utilizar esta computadora natural para solucionar el problema que hemos planteado, debemos configurarla adecuadamente.
+Para ello crearemos una nueva especie de seres vivientes a la medida del problema.
+como todas las criaturas vivientes, los individuos de esta nueva especie, 
+nacen, se reproducen y mueren.
+la vida ya nos proporciona la infraestructura basica, solo tenemos que adaptarla al problema concreto que nos ocupa, 
+conseguiremos este ajuste configurando,
+
+
+los datos que debe contener la memoria, 
+y el programa que debe ejecutarse durante el procesamiento de la informacion.
+
+----
+
+Veamos primero los datos que debe contener la memoria.
+en el ADN de las criaturas vivientes, se almacena la informacion necesaria para contruir un individuo.
+en la nueva especie que estamos creando ahora, un individuo, representa un estado del problema.
+por lo tanto, esa es la informacion que debe contener, 
+la informacion necesaria para reconstruir un estado cualquiera del problema.
+
+
+
+
+
+
+
+
+//////////////////////////////////////////////////////////////////////
+
+
+ahora veamos las caracteristicas que debe tener de la maquina que resolvera el problema.
+
+he comentado que la vida proporciona los recursos necesarios para procesar informacion.
+el ADN almacena informacion, y cumple la funcion de memoria del sistema.
+esta memoria es de solo lectura.
+solo puede ser modificada durante la reproduccion.
+sera el mecanismo de reproduccion el que procesara la informacion contenida en la memoria, el procesador.
+
+para utilizar esta computadora natural para resolver el problema concreto que hemos planteado, debemos configurarla adecuadamente.
+
+para esto, crearemos una nueva especie de seres vivientes a la  medida del problema.
+los individuos de esta nueva especie, nacen, se reproducen y mueren.
+Como en todas las especies de seres vivientes.
+
+para adaptar esta especie al problema debemos configurar 2 cosas.
+
+- los datos que contiene la memoria
+- y como modificamos la informacion cuando la procesamos.
+
+
+el ADN almacena la informacion necesaria para construir a un individuo.
+Y los individuos de esta especie representan estados del problema que queremos resolver.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////
+
+Es el momento de ver como aplicar estas ideas en la practica.
+
+Para ello, disenyaremos una maquina que resuelva un problema automáticamente.
+
+Empezare por definir el problema.
+
+Digamos que se trata de un juego de mesa, con un tablero cuadriculado y una ficha.
+Utilizare un tablero de ajedrez, es decir, cuadriculado con 8 casillas de alto por 8 casillas de ancho.
+Y sobre este tablero, colocare una unica ficha
+esta ficha podra moverse una casilla en cualquier direccion con cada jugada.
+eso es lo que consideraremos como una jugada valida.
+con cada jugada la ficha se movera a una casilla contigua.
+
+Para darle un objetivo al juego,
+imaginaremos que el tablero es un laberinto, 
+con una entrada y una salida.
+
+Digamos que la entrada esta en la casilla A1,
+y que la salida esta en la casilla H8.
+
+y lo que quiero saber es,
+cual es el camino que la ficha debe recorrer para ir desde la entrada hasta la salida ?
+
+---------------------------------------
+
+Definire ahora las caracteristicas de la maquina que encontrara la solucion.
+
+He comentado que la vida posee recursos que podrian utilizarse para resolver problemas logicos.
+el ADN podria hacer las funciones de un soporte de memoria como el que utilizan los computadores
+y en la reproduccion la informacion del ADN es modificada, procesada, de modo que podriamos utilizar este mecanismo a modo de procesador.
+
+de modo que,
+la maquina que resolvera el problema sera una nueva especie (imaginaria) de criaturas vivientes.
+en donde, los individuos de esta nueva especie, tienen las siguientes caracteristicas,
+
+un individuo, representa un estado en el proceso de resolucion del problema
+(un estado del juego)
+
+como en todas las especies de seres vivientes, los individuos de esta especie
+nacen, se reproducen y mueren.
+
+aunque por ahora, en este primer experimento, ignoraremos la muerte, 
+digamos que solo nacen y se reproducen, con eso bastara.
+
+en la reproduccion, un individuo, tendra tantos hijos como jugadas validas puedan realizarse desde la posicion del padre.
+y cada hijo representara uno de los siguientes estados posibles.
+
+-------------------------------------------------
+
+bien, como en todas las especies,
+en el ADN se almacena la informacion necesaria para construir a un individuo.
+y un individuo en esta especie, representa un estado en el proceso de resolucion del problema.
+(un estado del juego)
+
+cual es la informacion que el ADN debera contener para representar un estado en este problema ?
+
+
+digamos que estamos jugando una partida de ajedrez, y en mitad de la partida decidimos dejarla, 
+pero querriamos continuar manyana desde el mismo punto en donde lo dejamos ahora.
+para continuar manayana en el  mismo punto, 
+necesitariamos guardar informacion que nos ayude a recuperar el juego en el mismo estado en que lo habiamos dejado, 
+una foto.
+Seria suficiente con apuntar la posicion en que habian quedado todas las fichas y cual de los jugadores debe hacer la siguiente jugada.
+con esa informacion bastaria para reconstruir el estado del juego, en el caso del ajedrez.
+
+en el caso del juego que estamos planteando ahora, el laberinto sobre el tablero, 
+solo hay una ficha en el tablero.
+bastaria entonces con apuntar su posicion, 
+y ademas, el camino que ha recorrido la ficha desde el inicio hasta la posicion actual.
+con eso bastara para reconstruir el estado del juego.
+
+entonces, 
+la informacion necesaria para representar un estado cualquiera en este juego podria ser la siguiente.
+
+posicion de la ficha = 'C3'
+camino recorrido = 'A1-B2'
+
+
+y esta es la informacion que se incluira en el ADN.
+con esta informacion podremos construir un individuo de esta especie.
+
+
+
+--------------------------------------------------------------
+
+
+
+ya tenemos definido como es un individuo de esta especie.
+ahora veamos como se reproducira.
+
+
+
+
+
+
+/****************************************************>>>>>>>>>>>>>>>>
+
+
+
+
+
+
+---------------------------------------------
+
+
+Procesar la informacion.
+
+como he comentado, la informacion sera procesada durante la reproduccion.
+el mecanismo de reproduccion sera el procesador.
+
+Definire ahora las operaciones que debe realizar sobre los datos.
+
+Los individuos de esta especie representan estados del juego.
+el juego cambia de estado cada vez que se realiza una jugada.
+en cada jugada la ficha se mueve una distancia de una casilla.
+
+cuando un individuo tiene descendencia, sus hijos representaran estados vecinos, o 
+todas las jugadas validas que puedan realizarse a partir de la posicion del padre.
+
+en este caso,
+la posicion del hijo estara a una distancia de una casilla desde la posicion del padre.
+
+para calcular la nueva posicion el procesador hara lo siguiente :
+
+la posicion esta codificada como una letra y un numero, 
+por ejemplo, 'B3'
+
+son jugadas validas,
+((LETRA - 1) o (LETRA) o (LETRA + 1)
+MAS
+(NUMERO - 1) o (NUMERO) o (NUMERO + 1))
+
+siempre que
+
+el hijo no sea igual que el padre y la ficha no quede fuera del tablero.
+
+---------------------------------------------
+
+
+
+es decir, 
+la letra no puede ser menor que A ni mayor que H
+y el numero no debe ser menor que 1 ni mayor que 8
+
+y el hijo generado no debe tener la misma posicion que el padre, 
+en este caso 'B3'
+
+Por lo tanto, a partir de B3
+seran jugadas validas,
+A2, A3, A4, 
+B2, B4,
+C2, C3, C4
+
+----------------------------------
+
+
+Dire tambien que la reproduccion de estos individuos es asexual, un individuo de esta especie generara a sus hijos por si solo.
+Digamos tambien que una generacion se produce cada segundo, 
+asi
+todos los individuos vivos generaran todos los hijos posibles un segundo despues de nacer.
+
+una vez creada la descendencia el individuo ya no es necesario.
+
+El sistema ya esta definido.
+Podemos ponerlo en marcha.
+
+---------------------------------
+
+Como hemos dicho,
+El proceso atravesara por una serie de estados, desde el estado inicial hasta llegar al estado final.
+Por lo tanto el primer individuo que crearemos representara el estado inicial.
+El tablero de juego con una ficha en la posicion de salida, A1.
+
+--------------------------------
+
+La ficha esta en la entrada del laberinto.
+
+El individuo representa un estado del proceso.
+Y lo que esperamos de el no es que resuelva el problema, 
+Sino que se reproduzca.
+
+Al reproducirse generara los siguientes estados posibles.
+Ese sera su trabajo.
+
+Si A1 tiene todos los hijos posibles, estos seran, A2, B2 y B1.
+Y estos hijos a su vez, 
+Se reproducirán, generando otros estados del proceso.
+
+---------------------------------
+
+Todos los hijos posibles para ‘A1’, serán aquellos en donde la ficha se encuentre a una distancia de una casilla, es decir :
+(grafico)
+
+------------------------------
+
+
+Con estas ideas,
+veamos ahora, paso a paso, como el sistema encuentra la solución al problema.
+
+Creamos al primer individuo de la especie.
+Uno que representa el estado inicial del proceso.
+En este caso ‘A1’
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Este individuo no resolverá el problema.
+
+Tampoco es necesario que conozca el problema que se quiere resolver.
+
+Su objetivo es reproducirse y nada mas.
+Y eso es lo que hará, tendrá  todos los hijos posibles.
+Y lo mismo harán todos los individuos de esta especie.
+
+
+
+
+
+Y entonces, 
+			sucede lo siguiente ...
+
+------------------------------------------
+
+(desarrollo grafico)
+
+--------------------------------------
+
+Este individuo ‘H8’ representa el estado final que queríamos alcanzar.
+Y tiene la respuesta al problema.
+
+Su lista de antepasados es :
+-”A1-B2-C3-D4-E5-F6-G7-H8”-
+
+Y esa es la respuesta al problema,
+el camino que va desde la entrada, hasta la salida del laberinto.
+
+----------------------------
+
+Que ha sucedido ?
+
+
+
+
+
+Podríamos decir que el problema se ha resuelto solo.
+
+Nadie ha pensado.
+
+No se ha utilizado un cerebro para resolver el problema.
+
+Ninguno de los individuos involucrados en la resolución 
+conocía el problema que queríamos resolver,
+y ninguno de ellos tenía un cerebro.
+
+Solo es reproducción
+
+
+
+
+Los individuos representan estados del problema.
+Se reproducen generando diferentes estados posibles.
+No existen 2 individuos iguales.
+continuan reproduciendose y generando estados diferentes,
+hasta que, con el tiempo, nace un individuo que representa el estado final del problema.
+Entonces, este individuo, el estado final, conoce la solucion al problema.
+y todos sus hijos, y su descendencia, heredaran este conocimiento.
+
+--------------------------------------------------
+
+--------------------------------------------------
+
