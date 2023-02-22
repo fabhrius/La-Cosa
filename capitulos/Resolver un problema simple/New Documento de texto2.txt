@@ -1,4 +1,6 @@
-Ahora bien, demos un vistazo a cómo podemos llevar a la práctica las ideas que hemos estado discutiendo hasta este momento. Para ello, diseñaremos una máquina que resuelva un problema y la veremos en pleno funcionamiento. Será conveniente optar por un problema sencillo, que nos permita enfocarnos en ver cómo trabaja la máquina sin distraernos con detalles innecesarios.
+Ahora bien, demos un vistazo a cómo podemos llevar a la práctica las ideas que hemos estado discutiendo hasta este momento. 
+Para ello, diseñaremos una máquina que resuelva un problema y la veremos en pleno funcionamiento. 
+Será conveniente optar por un problema sencillo, que nos permita enfocarnos en ver cómo trabaja la máquina sin distraernos con detalles innecesarios.
 
 En este caso, el problema que abordaremos consiste en un juego de mesa que utilizaremos como ejemplo. Usaremos un tablero cuadriculado de 8 por 8 casillas, al estilo del utilizado en el juego de ajedrez. En el tablero, colocaremos una única ficha.
 
@@ -15,7 +17,7 @@ Ahora, analicemos cuáles son las características que debe poseer la máquina q
 Como ya hemos mencionado, la vida nos ofrece los recursos necesarios para procesar información, 
 en particular, utilzaremos el ADN y la reproduccion.
 
-el ADN, funciona como la memoria del sistema al almacenar información. Es aqui adonde almacenaremos la informacion que debe ser procesada. debemos configurarla adecuadamente.
+el ADN, funciona como la memoria del sistema al almacenar información. Es aqui adonde almacenaremos la informacion que debe ser procesada. veremos como configurarla adecuadamente.
 Recordemos que esta memoria es de solo lectura.
 
 Y el mecanismo de reproduccion, funcionara como el procesador.
@@ -42,8 +44,39 @@ en la nueva especie que estamos creando ahora, un individuo, representa un estad
 por lo tanto, esa es la informacion que debe contener, 
 la informacion necesaria para reconstruir un estado cualquiera del problema.
 
+recordemos que, 
+como he comantado en el capitulo, "estados de un proceso", 
+el proceso de resolucion del problema cambiara de estado,
+desde el estado incial, hasta el estado final, pasando por un conjunto de estados intermedios.
+en el caso de un juego de mesa, el estado del juego cambiara cada vez que se realice una jugada.
+
+cual es la informacion que describe un estado?
+si se tratase de una partida de ajedrez, y decidieramos interrumpirla ahora, para continuar manyana,
+seria suficiente con recordar la posicion de cada ficha sobre el tablero, para reconstruir la partida manyana y continuar desde el mismo punto en que lo habiamos dejado.
+un listado con la posicion de cada ficha nos permitiria devolver la partida al estado en que se encontraba cuando la habiamos dejado.
+
+en el caso del juego del laberinto, solo hay una ficha sobre el tablero.
+recordar la posicion de la ficha, y el camino que la ficha ha recorrido hasta ahora sera suficiente para reconstruir el estado.
+y esta es la informacion que almacenaremos en el ADN del individuo.
+por ejemplo,
 
 
+(grafico)
+
+
+----
+
+ahora veamos como debe ser procesada la informacion.
+
+los individuos de esta especie representan estados del juego.
+la diferencia entre padre e hijo debe ser la menor de las posibles.
+padre e hijo seran estados del juego, pero deben ser estados contiguos.
+el juego cambia de estado cada vez que se realiza una jugada.
+el hijo es el siguiente estado posible.
+el que se obtiene despues de realizar una jugada valida desde la posicion del padre.
+el procesador o programa, debe saber como realizar una jugada valida, para generar un hijo.
+
+hemos dicho que una jugada valida consiste en mover la ficha una casilla en cualquier direccion.
 
 
 
