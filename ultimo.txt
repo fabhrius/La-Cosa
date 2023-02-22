@@ -4,4 +4,7 @@ efstados de un proceso
 
 eficiencia
 
+coste
+
+
 

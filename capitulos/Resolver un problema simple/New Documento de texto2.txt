@@ -78,10 +78,43 @@ el procesador o programa, debe saber como realizar una jugada valida, para gener
 
 hemos dicho que una jugada valida consiste en mover la ficha una casilla en cualquier direccion.
 
+por ejemplo, 
+
+(grafico, hijos posibles)
 
 
 
 
+----------------------
+
+muy bien.
+ya tenemos definidas las ideas mas importantes.
+cual sera la infomacion que almacenaremos en el ADN y cual sera la funcion que nos permitira generar un hijo durante la reproduccion.
+
+pero antes de poner el sistema en marcha, 
+es un buen momento para hacer algunas observaciones y definir los ultimos detalles.
+
+digamos que la reproduccion de esta especie es asexual, 
+un individuo de esta especie generara a sus hijos por si solo.
+Digamos tambien que una generacion se produce cada segundo, 
+asi
+todos los individuos vivos generaran todos los hijos posibles un segundo despues de nacer.
+Y una vez creada la descendencia el individuo ya no es necesario.
+
+Ahora podemos poner la maquina en funcionamiento.
+Para arrancar el proceso,
+crearemos un primer individuo, que representara el estado inicial del problema, es decir, 
+la ficha esta en la entrada del laberinto.
+
+
+
+
+
+
+
+
+
+/**********************************************************************/
 //////////////////////////////////////////////////////////////////////
 
 
