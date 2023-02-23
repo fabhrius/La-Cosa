@@ -1,0 +1,20 @@
+Observad que 
+desde el estado incial, existen 9 posibles jugadas, de modo que la partida podria empezar de 9 formas diferentes.
+una vez iniciada, existen 8 posibles respuestas, de modo que estos 9 tableros iniciales podrian continuar de 8 formas diferentes, cada una.
+es decir,
+9 por 8.
+
+cuantos posibles estados podrian generarse ?
+en este juego de 3 en raya las diferentes posibles configuraciones de tablero diferentes son 362.880.
+9*8*7*6*5*4*3*2
+
+el juego no podra terminar hasta que un jugador no tenga al menos 3 fichas sobre el tablero.
+antes de que un jugador tenga 3 fichas sobre el tablero se habran generado 
+15.120 estados
+
+este el caso mas afortunado, cuando un jugador gana sin dificultad.
+
+el numero medio de estados que se generaran, teniendo en cuenta las partidas mas cortas y las mas largas es
+(362880 - 15120)/2 = 173880
+
+
