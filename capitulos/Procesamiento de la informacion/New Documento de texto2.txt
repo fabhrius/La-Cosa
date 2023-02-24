@@ -24,13 +24,13 @@ Y repetiremos este procedimiento con todos los numeros de la lista para obtener 
 
 Esto describe el procedimiento que utilizaremos para resolver problemas matemáticos, y lógicos, en general.
 la suma que he comentado resultara familiar para todos.
-del mismo modo resolvemos problemas de fisica en el colegio, partimos de un conjunto de datos que describen la situacion inicial, 
+de forma parecida resolvemos problemas de fisica en el colegio, partimos de un conjunto de datos que describen la situacion inicial, 
 y realizamos calculos sobre estos datos iniciales o contexto, en una cierta secuencia o pasos, hasta encontrar la respuesta.
 
-en resumen, 
+en resumen, los elementos que intervienen en este procedimiento son,
 los datos, 
 las operaciones que realizamos sobre los datos, 
-y la secuencia de pasos que debemos realizar para obtener el resultado deseado, o programa.
+y la secuencia de pasos que debemos realizar para obtener el resultado deseado, a esta secuencia de instruccines podemos llamarle algoritmo o programa.
 
 
 ya sabemos como resolver problemas.
@@ -39,9 +39,9 @@ ahora veamos como construimos una maquina que haga esto automaticamente, resolve
 para que una maquina pueda gestionar datos, debe poder almacenar datos en algun dispositivo fisico, a esto le llamamos "memoria".
 
 existen distintos tipos de memoria, voy a comentar solo 2 de forma generica.
-la memoria de lectura y escritura, es la que vemos en la mayoria de los dispositivos electronicos, y conceptualmente podemos verlas como un soporte separado en celdas, en donde podemos acceder a cualquiera de las celdas para, 
-escribir informacion, leer o borrar el contenido. En estas memorias el contenido puede ser modificado.
-y la memoria de solo lectura, como en un disco CD, en estas memorias una vez grabada la informacion ya no puede modificarse, es posible acceder a cualquier celda para leer la informacion, pero no puede borrarse o modificarse.
+el primero es, la "memoria de lectura y escritura", es la que vemos en la mayoria de los dispositivos electronicos, y conceptualmente podemos verlas como un soporte separado en celdas, en donde podemos acceder a cualquiera de las celdas para, 
+escribir, leer o borrar informacion. En estas memorias el contenido puede ser modificado.
+y el segundo tipo es, "la memoria de solo lectura", como en un disco CD, en estas memorias una vez grabada la informacion ya no puede modificarse, es posible acceder a cualquier celda para leer la informacion, pero no puede borrarse o modificarse.
 
 
 ademas de la memoria, necesitamos un mecanismo que sepa como realizar operaciones sobre los datos, a esto le llamamos "procesador"
@@ -72,19 +72,18 @@ utilizaremos el ADN como memoria del sistema.
 
 En los siguientes experimentos, 
 consideraremos la informacion contenida en el ADN como inmutable.
-
 Es decir, que no puede ser modificada.
+
+Es un tipo de memoria de "solo lectura"
 La informacion contenida en el ADN permanecera inalterable durante toda la vida del individuo.
 
 De modo que el individuo, siempre sera el mismo.
 Con las mismas huellas digitales, con las mismas caracteristicas que lo diferenciaran de otros individuos,
 durante toda su vida.
 
-Pensaremos en esta memoria como de "solo lectura".
-
 La informacion contenida en el ADN de un individuo 
 permanece constante dentro del individuo, 
-pero se modifica en la reproduccion para generar al hijo.
+Sin embargo, se modificara en la reproduccion para generar al hijo.
 
 ------------------------------
 
@@ -101,10 +100,11 @@ para crear al hijo.
 
 El hijo es una nueva version del padre.
 
-el mecanismo de reproduccion, modifica la informacion, la procesa
+el mecanismo de reproduccion, modifica la informacion, la procesa de algun modo para producir un nuevo individuo, un individuo diferente de todos los que han existido hasta ahora, un individuo mejorado.
+No es, por lo tanto, una modificacion aleatoria, es una modificacion calculada cuidadosamente.
 
-La reproduccion sera el mecanismo que utilizaremos para procesar la informacion.
-utilizaremos el mecanismo de reproduccion como procesador.
+La reproduccion sera entonces el mecanismo que utilizaremos para procesar la informacion.
+es decir que, utilizaremos el mecanismo de reproduccion como "procesador".
 
 -----------------------------
 
@@ -135,8 +135,8 @@ el padre no encontrara la solucion al problema,
 ni tampoco el hijo.
 sera el trabajo de toda la familia, o de toda la especie.
 
-el proceso de resolucion del problema avanzara paso a paso,
-generacion tras generacion.
+el proceso de resolucion del problema avanzara paso a paso, lentamente, generacion tras generacion.
+un paso a la vez.
 
 ----------------------------
 
@@ -160,6 +160,6 @@ la maquina de calculo estara formada por todos los individuos de la especie.
 
 pero veamoslo mas despacio, paso a paso.
 
-he dicho que un individuo representa un estado del calculo.
-Veamos a que llamaremos estados del proceso.
+he dicho que un individuo representa un "estado" del calculo.
+Veamos a que llamaremos "estados del proceso".
 

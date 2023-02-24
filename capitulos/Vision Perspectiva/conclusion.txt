@@ -11,3 +11,27 @@ individuos, familias, especies.
 
 pero no son otra cosa que celulas de un tejido.
 
+----------------------------------------------
+
+
+1 - Evolucion de las especies.
+
+en el modelo que hemos visto el hijo debe ser diferentes del padre, no deben ser iguales.
+porque si el hijo es igual al padre el proceso no avanza.
+si los hijos son iguales a los padres la maquina no encontrara la solucion al problema.
+si la maquina no encontrara la solucion al problema, entonces el sistema no tiene sentido, es inutil.
+
+y un sistema improductivo debe ser eliminado.
+
+
+
+
+
+2 - Mortalidad
+
+
+3 - Felicidad
+
+
+ 4 - Lo importante
+
