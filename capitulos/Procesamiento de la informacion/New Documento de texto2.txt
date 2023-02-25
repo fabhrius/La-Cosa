@@ -1,63 +1,40 @@
 Las computadoras,
 procesan informacion para resolver problemas.
-
-Es decir,
-parten de un conjunto de datos conocidos.
-Y sobre estos datos realizan operaciones para obtener nueva informacion que se incluira en el conjunto de datos conocidos.
-
-normalmente resolver un problema podria requerir mas de un paso de calculo.
-
-Por ejemplo, 
-si queremos sumar una lista de varios numeros,
- 
+el proceso se inicia con la declaracion de un conjunto de datos conocidos que definen el contexto del problema.
+sobre estos datos se realizaran operaciones que aportaran nueva informacion que se incluira, a su vez, en el conjunto de datos conocidos.
+a medida que agregamos nueva informacion al conjunto de datos, el contexto cambia de estado.
+problemas triviales podrian resolverse de inmediato, en un unico paso, pero problemas de mayor complejidad requeriran una secuencia de pasos para encontrar la solucion.
+a la secuencia de pasos que deben ser realizados para encontrar la solucion podemos llamarle, "metodo", "algoritmo" o "programa".
+si hablamos de ordenar un mazo de naipes,
+diferentes personas podran sugerir diferentes "metodos" de ordenacion.
+y el conjunto de datos iniciales, o contexto, sera la posicion que ocupan los naipes en la baraja en este momento.
+si se desea sumar una lista de varios numeros, 
 el conjunto de datos iniciales sera la lista de numeros que queremos sumar,
-
 El primer paso sera sumar el primer numero de la lista con el segundo, 
 con esto habremos obtenido un nuevo dato, un resultado parcial,
-
 El siguiente paso sera sumar este resultado parcial con el siguiente numero de la lista.
-
 Y repetiremos este procedimiento con todos los numeros de la lista para obtener el resultado final.
-
-----------------------------
-
-
 Esto describe el procedimiento que utilizaremos para resolver problemas matemáticos, y lógicos, en general.
 la suma que he comentado resultara familiar para todos.
 de forma parecida resolvemos problemas de fisica en el colegio, partimos de un conjunto de datos que describen la situacion inicial, 
 y realizamos calculos sobre estos datos iniciales o contexto, en una cierta secuencia o pasos, hasta encontrar la respuesta.
-
 en resumen, los elementos que intervienen en este procedimiento son,
-los datos, 
-las operaciones que realizamos sobre los datos, 
-y la secuencia de pasos que debemos realizar para obtener el resultado deseado, a esta secuencia de instruccines podemos llamarle algoritmo o programa.
-
-
+los datos, o contexto,
+las operaciones, que realizamos sobre los datos, 
+y el metodo, o secuencia de pasos que debemos realizar para obtener el resultado deseado.
 ya sabemos como resolver problemas.
-ahora veamos como construimos una maquina que haga esto automaticamente, resolver problemas con este mismo procedimiento.
-
+ahora veamos como construimos una maquina que haga esto automaticamente, resolver problemas procesando informacion.
 para que una maquina pueda gestionar datos, debe poder almacenar datos en algun dispositivo fisico, a esto le llamamos "memoria".
-
 existen distintos tipos de memoria, voy a comentar solo 2 de forma generica.
 el primero es, la "memoria de lectura y escritura", es la que vemos en la mayoria de los dispositivos electronicos, y conceptualmente podemos verlas como un soporte separado en celdas, en donde podemos acceder a cualquiera de las celdas para, 
 escribir, leer o borrar informacion. En estas memorias el contenido puede ser modificado.
 y el segundo tipo es, "la memoria de solo lectura", como en un disco CD, en estas memorias una vez grabada la informacion ya no puede modificarse, es posible acceder a cualquier celda para leer la informacion, pero no puede borrarse o modificarse.
-
-
 ademas de la memoria, necesitamos un mecanismo que sepa como realizar operaciones sobre los datos, a esto le llamamos "procesador"
-
 y ademas necesitaremos un programa, que proporcione la secuencia de pasos que deben realizarse para resolver un problema determinado.
-
-
-----------------------------------------------------------------------
-
 
 veamos como obtenemos estos recursos de la vida.
 porque como he comentado antes, la idea es utilizar vida como un computador, y que sea la vida la que procese la informacion para nosotros.
 suena complicado pero en realidad es inmediato, al menos conceptualmente.
-
-
-
 
 
 ADN y reproduccion.
@@ -66,58 +43,42 @@ ADN y reproduccion.
 El ADN 
 almacena la informacion necesaria para construir a un individuo.
 Es por lo tanto, un soporte de memoria que contiene datos.
-
 El ADN es capaz de almacenar una gran cantidad de informacion,
 utilizaremos el ADN como memoria del sistema.
 
 En los siguientes experimentos, 
 consideraremos la informacion contenida en el ADN como inmutable.
 Es decir, que no puede ser modificada.
-
 Es un tipo de memoria de "solo lectura"
 La informacion contenida en el ADN permanecera inalterable durante toda la vida del individuo.
-
 De modo que el individuo, siempre sera el mismo.
 Con las mismas huellas digitales, con las mismas caracteristicas que lo diferenciaran de otros individuos,
 durante toda su vida.
-
 La informacion contenida en el ADN de un individuo 
 permanece constante dentro del individuo, 
 Sin embargo, se modificara en la reproduccion para generar al hijo.
 
-------------------------------
-
 
 Cuando el individuo se reproduce, 
 sus hijos no seran copias exactas del padre.
-
 Seran muy parecidos pero no iguales.
 No existen 2 individuos iguales.
-
 En la reproduccion 
-la informacion contenida en el ADN del padre ha sido modificada 
+la informacion contenida en el ADN del padre habra sido modificada 
 para crear al hijo.
-
 El hijo es una nueva version del padre.
 
 el mecanismo de reproduccion, modifica la informacion, la procesa de algun modo para producir un nuevo individuo, un individuo diferente de todos los que han existido hasta ahora, un individuo mejorado.
-No es, por lo tanto, una modificacion aleatoria, es una modificacion calculada cuidadosamente.
-
+No es, por lo tanto, una modificacion aleatoria, es una modificacion calculada cuidadosamente, podemos decir que es una modificacion programada, ya que sobre los datos del padre se ha aplicado algun tipo "metodo", para conseguir un resultado especifico.
 La reproduccion sera entonces el mecanismo que utilizaremos para procesar la informacion.
-es decir que, utilizaremos el mecanismo de reproduccion como "procesador".
 
------------------------------
-
-y al parecer, lo que queriamos construir, ya esta hecho.
+y con esto, lo que queriamos construir, ya esta hecho.
 la vida proporciona todos los recursos necesarios.
-no ha sido necesario modificar nada.
+y no hemos tenido que modificar nada.
 la vida es un computador natural.
-
----------------------------
 
 la funcion de Un individuo, en este modelo,
 es la de mantener un conjunto de datos.
-
 Podemos pensar en un individuo como en un CD en el que han sido grabados datos y que no puede ser modificado.
 Pero,
 Podemos leer la informacion contenida, procesarla y grabar el resultado del proceso en un nuevo CD, el hijo.
@@ -126,40 +87,64 @@ En este modelo, si consideramos que la informacion se procesa durante la reprodu
 este sera un paso unico, simple, en el proceso.
 la diferencia entre el padre y el hijo, sera la minima de todas las posibles.
 
-
 he comentado que, en general, la resolucion de un problema requerira de una serie de pasos.
 Normalmente, mas de uno.
-
 De modo que,
 el padre no encontrara la solucion al problema, 
 ni tampoco el hijo.
 sera el trabajo de toda la familia, o de toda la especie.
-
 el proceso de resolucion del problema avanzara paso a paso, lentamente, generacion tras generacion.
 un paso a la vez.
 
-----------------------------
-
-En resumen,
-
-crearemos un computar basado en criaturas vivientes.
+en los proximos capitulos crearemos un computador basado en criaturas vivientes, o mejor dicho, en familias o especies de seres vivientes
 en donde, 
-un individuo representa el estado del calculo en un instante del tiempo,
+la especie ha sido creada a la medida del problema.
+la nueva especie es el computador, y este computador solo es util para resolver este problema y ningun otro, 
 y en donde,
-la memoria que almacena los datos que queremos procesar estara en el ADN de los individuos,
-y la informacion sera procesada durante el proceso de reproduccion,
-el mecanismo de reproduccion sera el procesador.
-
-
-
------------------------------------
+un individuo representa el estado del calculo en un instante puntual del tiempo.
 
 observad que un individuo no es un computador, 
 sino unicamente la representacion de un estado en el proceso de calculo.
 la maquina de calculo estara formada por todos los individuos de la especie.
 
 pero veamoslo mas despacio, paso a paso.
-
 he dicho que un individuo representa un "estado" del calculo.
 Veamos a que llamaremos "estados del proceso".
 
+
+
+
+
+//////////////////////////////////////////////////////////////
+
+
+
+"Computers process information to solve problems. The process begins with the declaration of a set of known data that defines the context of the problem. Operations will be performed on these data that will provide new information, which in turn will be included in the set of known data. As we add new information to the data set, the context changes state. Trivial problems may be solved immediately in a single step, but more complex problems will require a sequence of steps to find the solution. We can call the sequence of steps that must be performed to find the solution a "method," "algorithm," or "program." If we talk about sorting a deck of cards, different people may suggest different sorting "methods." And the initial data set, or context, will be the position that the cards occupy in the deck at this moment. If we want to add a list of several numbers, the initial data set will be the list of numbers we want to add. The first step will be to add the first number in the list to the second. This will give us a new piece of data, a partial result. The next step will be to add this partial result to the next number in the list. We will repeat this procedure with all the numbers in the list to get the final result. This describes the procedure we will use to solve mathematical and logical problems in general. The addition that I mentioned will be familiar to everyone. Similarly, we solve physics problems in school. We start with a set of data that describes the initial situation and perform calculations on this initial data or context in a certain sequence or steps until we find the answer. In summary, the elements that are involved in this procedure are the data, or context, the operations that we perform on the data, and the method, or sequence of steps that we must perform to obtain the desired result. We now know how to solve problems. Now let's see how we build a machine that does this automatically, solving problems by processing information. For a machine to be able to handle data, it must be able to store data on some physical device. We call this "memory." There are different types of memory; I will discuss only two of them in a general way. The first is "read-write memory," which we see in most electronic devices, and we can conceptually see it as a separate support in cells where we can access any of the cells to write, read, or erase information. In these memories, the content can be modified. The second type is "read-only memory," such as on a CD, in which the information cannot be modified once it has been recorded. It is possible to access any cell to read the information, but it cannot be erased or modified. In addition to memory, we need a mechanism that knows how to perform operations on data; we call this a "processor." And we will also need a program that provides the sequence of steps that must be performed to solve a particular problem. Let's see how we obtain these resources from life. Because, as I mentioned before, the idea is to use life as a computer, and that life processes information for us. It sounds complicated, but it is actually immediate, at least conceptually.
+
+
+
+
+
+DNA and Reproduction.
+
+DNA stores the information necessary to construct an individual. Therefore, it is a memory support that contains data. DNA is capable of storing a large amount of information, and we will use DNA as the memory of the system.
+
+In the following experiments, we will consider the information contained in DNA as immutable. That is, it cannot be modified. It is a type of "read-only" memory. The information contained in an individual's DNA will remain unchanged throughout their life. So the individual will always be the same, with the same fingerprints and distinguishing characteristics, throughout their life. The information contained in an individual's DNA remains constant within the individual. However, it will be modified in reproduction to generate the child.
+
+When an individual reproduces, their children will not be exact copies of the father. They will be very similar but not identical. There are no two identical individuals. In reproduction, the information contained in the father's DNA will have been modified to create the child. The child is a new version of the father.
+
+The mechanism of reproduction modifies the information, processes it in some way to produce a new individual, an individual different from all that have existed so far, an improved individual. Therefore, it is not a random modification but a carefully calculated modification. We can say that it is a programmed modification, since some "method" has been applied to the father's data to achieve a specific result. Reproduction will then be the mechanism we use to process the information.
+
+With this, what we wanted to build is already done. Life provides all the necessary resources, and we haven't had to modify anything. Life is a natural computer.
+
+The function of an individual in this model is to maintain a set of data. We can think of an individual as a CD on which data has been recorded and cannot be modified. But we can read the information contained, process it, and record the result of the process on a new CD, the child.
+
+In this model, if we consider that the information is processed during reproduction, this will be a single, simple step in the process. The difference between the father and the child will be minimal of all possible differences.
+
+I have mentioned that, in general, solving a problem will require a series of steps. Normally, more than one. Therefore, the father will not find the solution to the problem, nor will the child. It will be the work of the whole family, or the whole species. The process of solving the problem will advance step by step, slowly, generation after generation. One step at a time.
+
+In the next chapters, we will create a computer based on living creatures, or rather, on families or species of living beings where the species has been created to fit the problem. The new species is the computer, and this computer is only useful for solving this problem and no other. And where an individual represents the state of the calculation at a specific moment in time.
+
+Note that an individual is not a computer but only the representation of a state in the calculation process. The computing machine will be made up of all individuals in the species.
+
+But let's take it slowly, step by step. I said that an individual represents a "state" of the calculation. Let's see what we will call "states of the process".
