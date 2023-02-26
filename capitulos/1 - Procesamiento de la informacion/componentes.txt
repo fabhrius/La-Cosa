@@ -1,0 +1,46 @@
+un conjunto de datos
+un conjunto de operaciones.
+
+una memoria para mantener los datos.
+un procesador que ejecuta las operacion sobre los datos.
+
+
+------------------------
+
+
+nosotros procesaremos informacion 
+utilizando una abstraccion matematica, un objeto logico, que crearemos basandonos lo ciertas caracteristicas que podemos observar en las criaturas vivientes.
+sera una simulacion de vida.
+
+el objeto es de gran simplicidad, muy lejos de la gran complejidad de los seres vivos reales.
+pero servira como modelo conceptual, y podremos ver como la vida podria estar procesando informacion.
+
+de la vida utilizaremos solo 2 caracteristicas.
+los datos que definen al individuo,
+y la capacidad de reproducirse.
+
+todas las criaturas vivientes se reproducen.
+y todas las criaturas vivientes poseen un set de datos que definen al individuo, algo asi como los planos de construccion del individuo.
+
+la abstraccion que utilizaremos, sera un objeto que llamaremos "Individuo", y el computador estara formado por una coleccion de individuos, o familia, o especie.
+el computador logico que construiremos estara formado por individuos, unicamente.
+el individuo es el bloque de construccion, y es el unico componente del sistema.
+
+
+si lo traducimos a software, el pseudocodigo podria ser algo como esto
+
+
+interface Individuo<T> implements Runnable{
+	T getEstructuraDeDatosQueDefinenAlIndividuo();
+	List<Individuo<T>> generateSons();	
+
+	default void run() {
+		System.out.println("alive");
+		for(Individuo<T> son : generateSons()){
+			executor.submit(son);
+		}
+		System.out.println("dead");
+	}
+
+}
+
