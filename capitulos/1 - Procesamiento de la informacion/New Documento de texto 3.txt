@@ -1,0 +1,105 @@
+
+en el capitulo 3, realizaremos un experimento en donde procesaremos informacion 
+utilizando una abstraccion matematica, un objeto logico, que crearemos basandonos en ciertas caracteristicas que podemos observar en las criaturas vivientes.
+sera una simulacion de vida.
+
+la abstraccion que utilizaremos, sera un objeto que llamaremos "Individuo", y el computador estara formado por una coleccion de individuos, familia o especie.
+la maquina que construiremos estara formada por individuos, unicamente.
+en donde, el individuo es el bloque de construccion, y es el unico componente del sistema.
+
+El objeto "Individuo" es de gran simplicidad, muy lejos de la gran complejidad de los seres vivientes reales.
+pero servira como modelo conceptual, y podremos ver como la vida podria estar procesando informacion.
+
+para construir a este objeto "Individuo" utilizaremos solo 2 caracteristicas de la vida.
+que son,
+los datos que definen al individuo,
+y la capacidad de reproducirse.
+
+todas las criaturas vivientes se reproducen.
+y todas las criaturas vivientes poseen un set de datos que definen al individuo, algo asi como los planos de construccion del individuo.
+
+Esquematicamente, para nosotros, un individuo sera algo como el dibujo XX.
+
+(dibujo aqui)
+
+
+Pero antes de lanzarnos a realizar el experimento, 
+sera mejor analizar en detalle las ideas basicas en las que esta basado este modelo.
+
+Veremos a continuacion, 
+a que llamaremos procesar informacion,
+como se realiza este proceso,
+y porque una familia de criaturas vivientes podria sera adecuada para realizar esta tarea.
+
+
+----------
+
+Las computadoras procesan informacion para resolver problemas.
+
+el proceso se inicia con la declaracion de un conjunto de datos que definen el contexto del problema.
+Es sobre estos datos que se realizaran operaciones, y estas aportaran nueva informacion que se incluira, a su vez, en el conjunto de datos conocidos.
+
+a medida que agregamos nueva informacion al conjunto de datos, el contexto cambia de estado.
+y con cada nueva operacion obtenemos mas informacion, sabemos mas, y estamos mas cerca de encontrar la solucion.
+
+problemas triviales podrian resolverse de inmediato, en un unico paso, pero 
+problemas de mayor complejidad requeriran una secuencia de pasos para encontrar la solucion.
+a la secuencia de pasos que deben ser realizados para encontrar la solucion podemos llamarle, "metodo", "algoritmo" o "programa".
+
+Y no solo las computadoras resuelven los problemas de este modo, nosotros tambien.
+
+si pregunto, lanzando una piedra, a que distancia caera ?
+no es posible dar una respuesta, sin conocer el contexto.
+
+si pregunto, cuanto hemos gastado en total ?
+sera imposible dar una respuesta sin conocer la lista de gastos.
+Debemos tener cierta informacion para llevar a cabo el calculo.
+
+en ambos problemas, el conjunto de informacion inicial es diferente.
+y ambos problemas, las operaciones, y los pasos que seguiremos para encontrar la respuesta, son diferentes.
+tanto el conjunto de datos, como el metodo, estan estrechamente ligados al problema.
+
+A modo de ejemplo, 
+veamos detenidamente como sumamos una lista de numeros.
+Datos de contexto :
+el conjunto de datos iniciales sera la lista de numeros que queremos sumar.
+Metodo :
+El primer paso sera sumar el primer numero de la lista con el segundo, 
+con esto habremos obtenido un nuevo dato, un resultado parcial,
+El siguiente paso sera sumar este resultado parcial con el siguiente numero de la lista.
+Y repetiremos este procedimiento con todos los numeros de la lista para obtener el resultado final.
+
+
+diferentes problemas tendran diferentes soluciones,
+no podremos resolver del mismo modo, la suma de un listado de numeros, la distancia que recorre una piedra lanzada, o como ordenar una baraja de naipes.
+son problemas diferentes con soluciones diferentes.
+
+sin embargo, en el procedimiento de procesar informacion, visto de forma generica, 
+se pueden distinguir algunos elementos basicos comunes a todos los problemas.
+
+esto son:
+el conjunto de datos, que describe el contexto,
+y el metodo, que describe los pasos necesarios para encontrar la solucion.
+
+
+
+Ahora bien, 
+nuestra intencion es construir una maquina que procese informacion automaticamente.
+De modo que, sera necesario que pueda almacenar la informacion del contexto,
+y sera necesario que puede ejecutar el metodo sobre los datos.
+
+los computadores electronicos que utilizamos a diario, disponen de un dispositivo de memoria, adonde mantienen la informacion sobre la que estan trabajando,
+y pueden ejecutar un programa.
+
+En cuanto a los dispositivos de memoria, comentare que existen 2 tipos diferentes.
+la memoria de "lectura y escritura", como la de los dispositivos electronicos que utilizamos a diario (PC - SMARTPHONE), en donde la informacion puede grabarse, leerse, borrarse, y es especialmente la posibilidad de modificacion lo que nos interesa de estas memorias.
+y por otra parte, las memorias de "solo lectura", es estas memorias, una vez grabada la informacion no puede ser modificada.
+Ejemplos de memoria de solo lectura son los discos CDs, o lo viejos discos de vinilo, en donde no es posible modificar la informacion grabada.
+
+
+Bien.
+Hemos hablado acerca de como procesar informacion y hemos visto cuales son los elementos principales en los que se basa este procedimiento.
+Veamos ahora como la vida podria proporcionar estos recursos, y como una familia de criaturas vivientes podria ser adecuada para realizar esta tarea de forma automatica.
+
+
+---------------------
