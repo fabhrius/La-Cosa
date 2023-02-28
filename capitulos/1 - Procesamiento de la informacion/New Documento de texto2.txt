@@ -118,6 +118,88 @@ suena complicado pero en realidad es inmediato, al menos conceptualmente.
 ADN y reproduccion.
 
 
+Una caracteristica de todos los seres vivientes es que en todos ellos esta presente una gigantesca molecula que almacena la informacion necesaria para construir a un individuo.
+En este relato utilizaremos la idea de que se trata de una estructura molecular grande y compleja en forma de cadena que llamamos ADN
+Este ADN, es diferente en todos los individuos.
+Dos individuos de la misma especie tendran muchOs razgos en comun, pero diferiran en detalles que les haran diferentes.
+Del mismo modo el ADN sera diferente en los detalles.
+
+No es el objetivo de este relato describir el ADN de forma precisa.
+Solo utilizaremos una idea de forma muy general, pensaremos que todos los individuos llevan la informacion que los define en su interior, y llamaremos a esto ADN a efectos de este relato. Solo eso.
+Bien.
+la idea es la siguiente, 
+si el ADN contiene la informacion necesaria para construir a un individuo, entonces esta funcionando como un soporte de informacion, o memoria.
+Y esta es la utilidad que tendra para nosotros, la de funcionar como memoria del sistema.
+El ADN tiene capacidad para almacenar una gran cantidad de informacion.
+Y pensaremos en el ADN como una memoria de "solo lectura"
+De este modo, la informacion que describe al individuo permanecera constante durante toda la vida del individuo,
+y asi, el individuo sera siempre el mismo, Con las mismas huellas digitales, con las mismas caracteristicas que lo diferenciaran de otros individuos,
+durante toda su vida.
+
+he comentado que cuando procesamos informacion, el contexto cambiara de estado a medida que realizamos operaciones sobre los datos.
+la nueva informacion que obtenemos debe ser incluida en el contexto, modificando el estado.
+Si vamos a utilizar el ADN del individuo como memoria del sistema, el conjunto de datos no podra ser modificado, por tratarse de una memoria de solo lectura.
+Veamos como podemos superar este obstaculo.
+
+
+Otra caracteristica que poseen tambien todos los seres vivientes es que todos ellos pueden reproducirse.
+
+Veamos que pasa con la REPRODUCCION.
+
+
+Cuando un individuo se reproduce, sus hijos no seran copias exactas del padre.
+Los hijos seran muy parecidos pero no iguales al padre.Esto es asi porque no existen 2 individuos iguales.
+En la reproduccion la informacion contenida en el ADN del padre sera modificada para crear al hijo.
+El hijo sera una nueva version del padre.
+
+el mecanismo de reproduccion, modifica la informacion, la procesa de algun modo para producir un nuevo individuo, un individuo diferente de todos los que han existido hasta ahora, un individuo mejorado.
+No es, por lo tanto, una modificacion aleatoria, es una modificacion calculada cuidadosamente, podemos decir que es una modificacion programada, ya que sobre los datos del padre se ha aplicado algun tipo "metodo", o funcion, para conseguir un resultado especifico.
+La reproduccion sera entonces el mecanismo que utilizaremos para procesar la informacion.
+
+De modo que, la informacion contenida en el padre no puede ser modificada por tratarse de una memoria de solo lectura, 
+sin embargo, puede ser leida, puede extraerse la informacion durante el proceso de reproduccion, puede modificarse aplicando el metodo, y el resultado puede ser grabado en una nueva memoria de solo lectura, el hijo.
+
+De este modo podemos hacer que el contexto cambie de estado generacion tras generacion.
+
+y con esto, lo maquina que queriamos construir ya existe.
+la vida proporciona todos los recursos necesarios, y no ha sido necesario modificar nada.
+la vida es un computador natural.
+
+la funcion de Un individuo, en este modelo, es la de mantener un conjunto de datos.
+
+
+Si consideramos que la informacion se procesa durante la reproduccion, este sera un paso unico, simple, en el proceso.
+la diferencia entre el padre y el hijo, sera la minima de todas las posibles.
+
+he comentado que, en general, la resolucion de un problema requerira de una serie de pasos, normalmente, mas de uno.
+De modo que, el padre no encontrara la solucion al problema, ni tampoco el hijo.
+sera el trabajo de toda la familia, o de toda la especie.
+el proceso de resolucion del problema avanzara paso a paso, lentamente, generacion tras generacion.
+un paso a la vez.
+
+en los proximos capitulos crearemos un computador basado en criaturas vivientes, o mejor dicho, en familias o especies de seres vivientes
+en donde, 
+la especie ha sido creada a la medida del problema.
+la nueva especie es el computador, y este computador solo es util para resolver un problema concreto y ningun otro, 
+y en donde,
+un individuo representa el estado del calculo en un instante puntual del tiempo.
+
+observad que un individuo no es un computador, 
+sino unicamente la representacion de un estado en el proceso de calculo.
+la maquina de calculo estara formada por todos los individuos de la especie.
+
+pero veamoslo mas despacio, paso a paso.
+he dicho que un individuo representa un "estado" del calculo.
+Veamos a que llamaremos "estados del proceso".
+
+
+
+
+
+
+
+--------------------------------------------
+
 El ADN 
 almacena la informacion necesaria para construir a un individuo.
 Es por lo tanto, un soporte de memoria que contiene datos.
