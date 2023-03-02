@@ -1,0 +1,99 @@
+Veamos otra vez la suma de un listado de numeros, que hemos utilizado de ejemplo en el capitulo anterior.
+inicialmente la lista contiene 5 numeros, y esa es toda la informacion que tenemos del problema hasta ese momento.
+Llamaremos al conjunto de datos, "contexto" del problema.
+Hemos encontrado la solucion despues de realizar 4 operaciones de suma entre 2 numeros.
+Han sido 4 pasos.
+Observad que, en cada paso, despues de cada suma, el conjunto de datos ha cambiado.
+El contexto es diferente, y vuelve a cambiar en cada paso.
+Cada vez que realizamos una operacion sobre los datos, el contexto cambia de estado.
+
+-------------
+
+Y entre los estados posibles de un proceso, voy a distinguir 
+- un estado incial,
+- un estado final, y
+- un conjunto de estados intermedios.
+
+Por ejemplo, en el caso de una partida de ajedrez.
+El estado incial sera cuando las fichas estan colocadas en la posicion de salida, antes de que se haya realizado ningun movimiento.
+El estado final sera cuando se ha dado jaque-mate, la partida termina, este es el estado al que queremos llegar.
+Entre el estado inicial y el estado final, la partida cambiara de estado cada vez que un jugador realice un movimiento, estos son los estados intermedios.
+
+Imaginemos ahora que en mitad de una partida de ajedrez, quisieramos dejar de jugar hoy, para continuar manyana desde mismo punto en que lo hemos dejado.
+Para poder continuar manyana desde el mismo punto, sera necesario recordar el estado en que la partida habia quedado.
+Para recordar el estado del juego podriamos escribir en un listado la posicion de las fichas sobre el tablero, asi podriamos reconstruir la partida para continuar desde el mismo punto.
+En este caso, la informacion del estado sera la posicion de las fichas, y este es el conjunto de datos que definen el contexto.
+
+Utilizaremos la idea de estados del proceso porque para resolver el problema, buscaremos un camino que nos lleve desde el estado inicial hasta el estado final.
+Podria existir un gran numero de estados posibles, pero queremos saber cuales de todos los posibles, son los que forman el camino que va desde el estado incial hasta el estado final.
+
+el juego de ajedrez es de gran complejidad, y la partida podria atravesar por una elevado numero de estados diferentes.
+Algo asi como 10 elevado a 120.
+
+Veamos graficamente un ejemplo mas simple.
+
+(grafico 3 en linea)
+
+
+
+
+
+
+
+
+
+he comentado antes que,
+Normalmente, no sera posible resolver un problema complejo de un solo paso, sino que sera necesario realizar una serie de pasos hasta obtener el resultado final.
+
+Por ejemplo, 
+para sumar una lista de 5 numeros, empezare sumando el primer numero de la lista con el segundo, 
+y ese sera el primer paso del proceso.
+
+El siguiente paso sera sumar este resultado parcial con el tercer numero de la lista.
+
+El siguiente paso sera sumar el resultado que tenemos hasta ahora con el siguiente numero de la lista.
+
+Y continuaremos asi, paso a paso hasta obtener el resultado final.
+
+podemos pensar que 
+el conjunto de datos (o contexto)
+cambia de estado 
+cada vez que avanzamos un paso en el calculo.
+
+----------------
+
+Un proceso es algo que cambia de estado con el tiempo.
+
+El proceso de resolucion de un problema 
+cambiara de estado 
+cada vez que realizamos una operacion sobre los datos.
+
+Y podemos distinguir, 
+- un estado incial,
+- un estado final,
+- y un conjunto de estados intermedios.
+
+Si pensamos en una partida de ajedrez,
+
+el estado inicial sera,
+ un tablero con las fichas colocadas en la posicion de salida.
+
+El estado final sera,
+cuando se ha dado "jaque-mate".
+
+y partiendo del estado incial,
+la partida cambiara de estado
+cada vez que un jugador mueva una ficha.
+Estos seran estados intermedios.
+
+
+--------------------
+
+y entre todos los posibles estados que puedan generarse,
+
+Se trata de encontrar 
+un camino
+que va desde el estado inicial 
+hasta el estado final.
+
+-------------
