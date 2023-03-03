@@ -13,7 +13,7 @@ Cada vez que realizamos una operacion sobre los datos, el contexto cambia de est
 
 -------------
 
-Y entre los estados posibles de un proceso, voy a distinguir 
+Y entre los estados posibles de un proceso, distinguiremos 
 - un estado incial,
 - un estado final, y
 - un conjunto de estados intermedios.
