@@ -1,0 +1,91 @@
+Capitulo 2
+estados de un proceso
+Veamos otra vez la suma de un listado de numeros, que hemos utilizado de ejemplo en el capitulo anterior.
+Inicialmente la lista contiene 5 numeros, y esa es toda la informacion que tenemos del problema hasta ese momento. Llamaremos al conjunto de datos, "contexto" del problema.
+Hemos encontrado la solucion despues de realizar 4 operaciones de suma entre 2 numeros. Han sido 4 pasos.
+
+
+Observad que, en cada paso, despues de cada suma, el conjunto de datos ha cambiado.
+Cada vez que realizamos una operacion sobre los datos, el contexto cambia de estado.
+Y entre los posibles estados de un proceso, distinguiremos 
+- un “estado incial”,
+- un “estado final”, y
+- un conjunto de “estados intermedios”.
+
+Iniciamos la suma con el listado de numeros que queremos sumar, este es el “estado inicial”.
+El objetivo es obtener el resultado total de la suma de todos los numeros de la lista, ese es el “estado final”.
+
+En el caso de una partida de ajedrez.
+El “estado incial” sera cuando las fichas estan colocadas en la posicion de salida, antes de que se haya realizado ningun movimiento.
+El “estado final” sera cuando se ha dado jaque-mate, la partida termina, este es el estado al que queremos llegar. Y entre el estado inicial y el estado final, la partida cambiara de estado cada vez que un jugador realice un movimiento, estos seran los “estados intermedios”.
+
+Imaginemos ahora que en mitad de una partida de ajedrez, quisieramos dejar el juego por hoy, para continuar manyana desde el mismo punto en que lo hemos dejado.
+Para poder continuar manyana desde el mismo punto, sera necesario recordar el estado en que la partida habia quedado.
+Para recordar el estado del juego podriamos escribir en un listado la posicion de las fichas sobre el tablero, asi podriamos reconstruir la partida para continuar desde el mismo punto.
+En este caso, la informacion del estado sera la posicion de las fichas, y este es el conjunto de datos que definen el contexto en este caso.
+Utilizaremos la idea de estados del proceso para resolver el problema, buscando un camino que nos lleve desde el estado inicial hasta el estado final a traves de estados intermedios.
+Podrian existir un gran numero de estados posibles, pero queremos saber cuales de todos los posibles, son los que forman el camino que va desde el estado incial hasta el estado final.
+El juego de ajedrez es de gran complejidad, y si quisieramos generar todos los estados posibles, nos encontrariamos con un elevado numero de estados diferentes. Algo asi como 10 elevado a 120.
+Para verlo graficamente utilizaremos un ejemplo mas simple.
+Tic-Tac-Toe ( 3 en linea)
+
+El dibujo muestra en el juego de 3 en linea, el camino a traves de distintos estados que va desde el estado inicial hasta uno de los posibles estados finales.
+
+Para resolver problemas, utilizaremos el concepto de "estados", junto con una estructura llamada
+ "Grafo".
+En matemáticas y ciencias de la computación, un "grafo" es una estructura abstracta que representa relaciones entre objetos. 
+Un grafo consiste en un conjunto de nodos y un conjunto de aristas que conectan pares de nodos.
+
+
+(grafico grafo)
+
+Los grafos se utilizan de muchas formas diferentes para el analisis de muchos tipos de problemas diferentes, pero nosotros construiremos un grafo del siguiente modo.
+Dentro de los nodos, colocaremos un estado del proceso, y las aristas que unen los nodos nos mostraran la relacion entre padres e hijos.
+Veamos por ejemplo, como iniciariamos la construccion de un grafo con los estados del juego de 3 en linea.
+Empezaremos poniendo el estado incial dentro de un nodo.
+Los hijos del estado inicial mostraran todas las jugadas posibles, en este caso el tablero esta vacio y puede colocarse una ficha en cualquier casilla, y por lo tanto existen 9 jugadas posibles, crearemos los 9 hijos del estado inicial y los uniremos al padre con aristas.
+
+
+
+
+A partir de estos nuevos estados tambien pueden realizarse jugadas validas, en todos estos tableros existen 8 casillas vacias y podemos colocar una ficha en cualquiera de ellas, generaremos todos los hijos de estos estados, los pondremos dentro de un nuevo nodo y uniremos el padre con el hijo a traves de una arista.
+Lo mostrare para uno solo de los hijos.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+El grafo empieza a transformarse en una gran red de nodos y aristas. Si continuamos con este proceso de generar hijos por cada jugada valida desde cada nodo, la red final sera grande y compleja.
+En el caso de este juego existen 
+9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 = 362.880 estados posibles.
+es decir que el grafo tendra 362.880 nodos.
+Una vez generados todos los posibles estados podremos ver entre ellos cuales son los estados finales, y podremos ver el camino entre estados que llevan desde el estado inicial hasta un estado final.
+Como en el ejemplo anterior.
+
+
+
+
+
+
+
+
+
+
+En resumen,  hemos comentado 
+a que llamamos estados de un proceso, 
+que cosa es un grafo, y 
+como es posible encontrar, entre todos los posibles, los "caminos" que nos llevan a la solucion de un problema.
+Con estas ideas, estamos ya preparados para iniciar el experimento.
