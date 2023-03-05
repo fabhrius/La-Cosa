@@ -163,7 +163,7 @@ Y los individuos de esta especie representan estados del problema que queremos r
 
 
 
-
+//*****************************************************//
 ///////////////////////////////////////////////////////
 
 Es el momento de ver como aplicar estas ideas en la practica.
