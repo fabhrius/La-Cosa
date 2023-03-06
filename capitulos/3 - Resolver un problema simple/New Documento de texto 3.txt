@@ -11,8 +11,8 @@ Sobre el tablero colocaremos una unica ficha, que se movera una casilla en cada 
 
 El tablero representara un laberinto, con una entrada y una salida.
 La entrada estara situada en la casilla 'A1' y la salida en la casilla 'H8'.
-Para referenciar a una casilla determinada utilizaremos un sistema de coordenadas, en donde las filas del tablero se referencian por una letra desde la 'A', hasta la 'H',
-y las columnas por numeros desde el '1', hasta el '8'.
+Para referenciar a una casilla determinada utilizaremos un sistema de coordenadas, en donde las columnas del tablero se referencian por una letra desde la 'A', hasta la 'H',
+y las filas por numeros desde el '1', hasta el '8'.
 
 (dibujo tablero)
 
@@ -23,7 +23,7 @@ El problema al que el sistema debe encontrar una solucion es :
 -------------------------------------------------
 
 
-Veamos ahora la maquina que encontrara la solucion.
+Veamos ahora como sera la maquina que encontrara la solucion.
 
 
 hemos comentado que es posible describir el proceso de resolucion de un problema como una sucesion de estados en forma de cadena que va desde el estado incial hasta el estado final atravesando un conjunto de estados intermedios relacionados.
@@ -36,10 +36,64 @@ una memoria en donde mantener el conjunto de datos que describen el contexto del
 y debe disponer tambien de una forma de modificar el conjunto de datos de forma productiva, aplicando transformaciones metodicas que acerquen el conjunto de datos hacia la solucion.
 
 hemos comentado tambien que la vida dispone de recursos que podemos utilizar con este objetivo.
+En particular, el ADN que utilizaremos como memoria del sistema, y la reproduccion que sera el mecanismo que transforme la informacion aplicando una funcion especifica.
 Para utilizar estos recursos en la resolucion del problema que hemos planteado,
-debemos crear una nueva especie de seres vivientes, adaptados especialmente al problema que queremos resolver.
+crearemos una nueva especie de seres vivientes, adaptados especialmente al problema que queremos resolver.
 
-Veamos como.
+hemos comentado que es posible describir el proceso de resolucion de un problema como una sucesion de estados en forma de cadena que va desde el estado incial hasta el estado final atravesando un conjunto de estados intermedios relacionados.
+
+Pensar en terminos de estados nos ayudara.
+El problema que queremos abordar es el de un juego de mesa.
+el estado de un juego es, la situacion en que se encuentra en un instante puntual del tiempo.
+el juego cambiara de estado cada vez que se realice un movimiento.
+
+con todo esto tenemos lo que necesitamos para implementar el sistema.
+veamos.
+la informacion que debemos mantener y modificar, el contexto, es la informacion que describe un estado cualquiera del juego.
+el juego cambia de estado cuando se realiza una jugada valida, de modo que, la funcion que se aplicara para modificar la informacion es la que realiza jugadas validas desde la situacion actual.
+
+
+Deciamos entonces que,
+crearemos una nueva especie de seres vivientes en donde,
+como en todas las especies de seres vivientes, el ADN, almacena la informacion que describe al individuo, y en esta especie, un individuo representa un estado del juego.
+y como en todas las especies de seres vivientes, los individuos de esta especie se reproducen,durante la reproduccion, se aplicara sobre los datos contenidos en el ADN una funcion que transformara los datos para producir el siguiente estado del proceso de calculo, y en un juego de mesa, el estado cambia cada vez que se realiza una jugada valida.
+
+en la reproduccion, un individuo, tendra tantos hijos como jugadas validas puedan realizarse desde la posicion del padre.
+y cada hijo representara uno de los siguientes estados posibles
+
+
+
+las criaturas vivientes tienen ciertas caracteristicas en comun en todas las especies, 
+los seres vivos, 
+nacen, se reproducen y mueren.
+todos hacen esto.
+otra caracteristica comun es que la descripcion del individuo esta almacenada en ADN.
+
+Todo esto lo proporciona la vida.
+la maquina.
+los individuos tienen un ciclo de vida definido, estos nacen, se reproducen y mueren.
+los individuos mantienen un set de informacion.
+la informacion se transforma con cada generacion.
+Y la evolucion de la especie, es la evolucion del proceso de calculo.
+
+La maquina esta hecha, la ha creado la naturaleza, para utilizarla solo nos queda, introducir el conjunto de datos que queremos que sea procesado, y
+la funcion que se utilizara para transformar los datos.
+
+Veamos.
+Un individuo de esta especie representa un estado del juego.
+para representar un estado del juego utilizaremos 2 datos.
+- la posicion de la ficha en el tablero, y
+- el camino que la ficha ha recorrido
+
+Por ejemplo, 
+
+(grafico)
+
+
+
+
+
+La funcion de transformacion, 
 
 
 
