@@ -26,10 +26,6 @@ El problema al que el sistema debe encontrar una solucion es :
 Veamos ahora como sera la maquina que encontrara la solucion.
 
 
-hemos comentado que es posible describir el proceso de resolucion de un problema como una sucesion de estados en forma de cadena que va desde el estado incial hasta el estado final atravesando un conjunto de estados intermedios relacionados.
-
-
-
 
 hemos comentado que una maquina que resuelve problemas procesando informacion debe disponer de 
 una memoria en donde mantener el conjunto de datos que describen el contexto del problema,
@@ -41,8 +37,8 @@ Para utilizar estos recursos en la resolucion del problema que hemos planteado,
 crearemos una nueva especie de seres vivientes, adaptados especialmente al problema que queremos resolver.
 
 hemos comentado que es posible describir el proceso de resolucion de un problema como una sucesion de estados en forma de cadena que va desde el estado incial hasta el estado final atravesando un conjunto de estados intermedios relacionados.
+Pensar en terminos de estados nos ayudara en la implementacion.
 
-Pensar en terminos de estados nos ayudara.
 El problema que queremos abordar es el de un juego de mesa.
 el estado de un juego es, la situacion en que se encuentra en un instante puntual del tiempo.
 el juego cambiara de estado cada vez que se realice un movimiento.
@@ -63,20 +59,20 @@ y cada hijo representara uno de los siguientes estados posibles
 
 
 
-las criaturas vivientes tienen ciertas caracteristicas en comun en todas las especies, 
+las criaturas vivientes, de todas las especies, comparten ciertas caracteristicas en comun. 
 los seres vivos, 
 nacen, se reproducen y mueren.
 todos hacen esto.
 otra caracteristica comun es que la descripcion del individuo esta almacenada en ADN.
 
 Todo esto lo proporciona la vida.
-la maquina.
+es basicamente, una maquina de calculo.
 los individuos tienen un ciclo de vida definido, estos nacen, se reproducen y mueren.
 los individuos mantienen un set de informacion.
 la informacion se transforma con cada generacion.
 Y la evolucion de la especie, es la evolucion del proceso de calculo.
 
-La maquina esta hecha, la ha creado la naturaleza, para utilizarla solo nos queda, introducir el conjunto de datos que queremos que sea procesado, y
+La maquina esta hecha, para utilizarla solo nos queda, introducir el conjunto de datos que queremos que sea procesado, y
 la funcion que se utilizara para transformar los datos.
 
 Veamos.
@@ -94,6 +90,10 @@ Por ejemplo,
 
 
 La funcion de transformacion, 
+para generar el siguiente estado del juego, bastara con mover una ficha en una jugada valida.
+el mecanismo de reproduccion realizara una jugada valida desde el estado actual, asi generara el siguiente estado,
+y la informacion que describe este nuevo estado se almacenara en el hijo.
+
 
 
 
