@@ -36,11 +36,11 @@ En particular, el ADN que utilizaremos como memoria del sistema, y la reproducci
 Para utilizar estos recursos en la resolucion del problema que hemos planteado,
 crearemos una nueva especie de seres vivientes, adaptados especialmente al problema que queremos resolver.
 
-hemos comentado que es posible describir el proceso de resolucion de un problema como una sucesion de estados en forma de cadena que va desde el estado incial hasta el estado final atravesando un conjunto de estados intermedios relacionados.
+hemos comentado que es posible describir el proceso de resolucion de un problema como una sucesion de "estados" en forma de cadena que va desde el "estado incial" hasta el "estado final" atravesando un conjunto de "estados intermedios" relacionados.
 Pensar en terminos de estados nos ayudara en la implementacion.
 
 El problema que queremos abordar es el de un juego de mesa.
-el estado de un juego es, la situacion en que se encuentra en un instante puntual del tiempo.
+y el estado de un juego es, la situacion en que se encuentra en un instante puntual del tiempo.
 el juego cambiara de estado cada vez que se realice un movimiento.
 
 con todo esto tenemos lo que necesitamos para implementar el sistema.
@@ -49,15 +49,8 @@ la informacion que debemos mantener y modificar, el contexto, es la informacion 
 el juego cambia de estado cuando se realiza una jugada valida, de modo que, la funcion que se aplicara para modificar la informacion es la que realiza jugadas validas desde la situacion actual.
 
 
-Deciamos entonces que,
-crearemos una nueva especie de seres vivientes en donde,
-como en todas las especies de seres vivientes, el ADN, almacena la informacion que describe al individuo, y en esta especie, un individuo representa un estado del juego.
-y como en todas las especies de seres vivientes, los individuos de esta especie se reproducen,durante la reproduccion, se aplicara sobre los datos contenidos en el ADN una funcion que transformara los datos para producir el siguiente estado del proceso de calculo, y en un juego de mesa, el estado cambia cada vez que se realiza una jugada valida.
-
-en la reproduccion, un individuo, tendra tantos hijos como jugadas validas puedan realizarse desde la posicion del padre.
-y cada hijo representara uno de los siguientes estados posibles
-
-
+Deciamos entonces que, para resolver el problema, crearemos una nueva especie de seres vivientes.
+Haremos esto porque,
 
 las criaturas vivientes, de todas las especies, comparten ciertas caracteristicas en comun. 
 los seres vivos, 
@@ -65,17 +58,19 @@ nacen, se reproducen y mueren.
 todos hacen esto.
 otra caracteristica comun es que la descripcion del individuo esta almacenada en ADN.
 
-Todo esto lo proporciona la vida.
-es basicamente, una maquina de calculo.
+Todo esto lo proporciona la vida, y es basicamente, una maquina de calculo.
 los individuos tienen un ciclo de vida definido, estos nacen, se reproducen y mueren.
 los individuos mantienen un set de informacion.
 la informacion se transforma con cada generacion.
 Y la evolucion de la especie, es la evolucion del proceso de calculo.
 
-La maquina esta hecha, para utilizarla solo nos queda, introducir el conjunto de datos que queremos que sea procesado, y
-la funcion que se utilizara para transformar los datos.
+La maquina esta hecha, y para utilizarla solo nos queda,
+- introducir el conjunto de datos que queremos que sea procesado, y
+- la funcion que se utilizara para transformar los datos.
 
-Veamos.
+Veamos cuales son los datos.
+los datos queremos procesar son los estados del juego, 
+partiendo del estado incial la maquina debe generar todos los estados intermedios hasta alcanzar el estado final.
 Un individuo de esta especie representa un estado del juego.
 para representar un estado del juego utilizaremos 2 datos.
 - la posicion de la ficha en el tablero, y
@@ -89,13 +84,16 @@ Por ejemplo,
 
 
 
-La funcion de transformacion, 
-para generar el siguiente estado del juego, bastara con mover una ficha en una jugada valida.
-el mecanismo de reproduccion realizara una jugada valida desde el estado actual, asi generara el siguiente estado,
-y la informacion que describe este nuevo estado se almacenara en el hijo.
+Veamos cual es la funcion de transformacion, 
+durante la reproduccion, la funcion de transformacion debe generar el siguiente estado.
+y para generar el siguiente estado del juego, bastara con realizar una jugada valida.
+el mecanismo de reproduccion realizara una jugada valida desde el estado actual, de este modo generara el siguiente estado,
+y la informacion que describe este nuevo estado generado se almacenara en un hijo.
 
 
+el siguiente grafico muestra todos los hijos posibles para el individuo del ejemplo anterior, 'B3'
 
+(grafico)
 
 
 
