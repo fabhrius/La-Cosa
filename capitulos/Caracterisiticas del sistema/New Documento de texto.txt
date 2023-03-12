@@ -1,0 +1,23 @@
+
+En el capitulo anterior hemos visto como funciona el sistema, y el mecanismo que ha utilizado para encontrar la solucion al problema.
+Lo hemos visto en accion y ya tenemos una primera impresion.
+
+Pero, 
+que es exactamente esta cosa.
+que tipo de problemas puede resolver.
+que podemos esperar de un sistema como este
+
+En los siguientes capitulos, analizaremos algunas de sus caracteristicas.
+En particular,
+su eficiencia, en terminos de, cuantos calculos necesita para encontrar la solucion ?
+es mas eficiente que otros sistemas, o menos ?
+su potencia, en terminos de, cual es la dificultad de los problemas que puede abordar ?
+puede resolver problemas mas complejos que otros sistemas, o menos ?
+su coste, en terminos de, cual es el coste de resolver un problema utilizando un sistema de este tipo ?
+
+
+Con esta informacion podremos entender mejor lo que esta cosa es.
+Podremos encontrar su lugar dentro del universo de los sistemas inteligentes.
+Y podremos entender la necesidad de ciertos detalles que ahora pasan desapercibidos.
+
+Empecemos hablando de eficiencia.
