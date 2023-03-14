@@ -1,0 +1,87 @@
+
+Los sistemas computacionales, asi como los procedimientos que se utilizan para resolver problemas logicos, 
+pueden ser medidos y comparados.
+
+No todos los computadores son iguales, algunos pueden abordar problemas de mayor complejidad que otros.
+Y un mismo problema puede ser abordado de diferentes formas, utilizando distintos procedimientos.
+
+En este capitulo, nos proponemos obtener una medida de  
+la Eficiencia algoritmica
+del sistema computacional basado en especies de criaturas vivientes que estamos analizando, para compararlo posteriormente con los computadores electronicos que utilizamos a diario.
+
+Evitaremos el uso de matematicas complejas, ya que como he comentado anteriormente, el relato esta dirigido a todas las personas.
+No tendremos problemas en establecer una medida aproximada pero rigurosa de la eficiencia del sistema, 
+razonando sobre los hechos que hemos podido observar en el experimento del capitulo anterior.
+
+
+Hablaremos de Eficiencia Algoritmica.
+
+Un algoritmo es un conjunto ordenado de pasos que describen el procedimiento utilizado para resolver un problema.
+Por ejemplo, si queremos ordenar una baraja de naipes,
+como lo haremos ?
+Es posible que 2 personas propongan formas diferentes de conseguir el mismo resultado.
+Porque existen diferentes formas de ordenar una baraja, existen diferentes procedimientos, algoritmos.
+
+sin embargo, algunos procedimientos ordenaran la baraja con mas operaciones que otros.
+Ante la posibilidad de utilizar distintos algoritmos para realizar el trabajo, preferiremos aquel que consiga el objetivo con un menor numero de pasos.
+Porque hacer el trabajo con menos operaciones se traduce en un menor consumo de recursos, como tiempo y energia.
+
+Realizar el trabajo con un menor consumo de recursos es lo que llamaremos, Eficiencia.
+Diremos, por lo tanto que, el algoritmo que hace el trabajo con menor numero de operaciones es, el mas eficiente.
+
+Veamos, por ejemplo, 2 algoritmos diferentes de ordenacion.
+
+en el primero, reviso toda la baraja para extraer el naipe de menor valor, y una vez localizado lo separo de la baraja.
+repito el procedimiento con los naipes que han quedado en la baraja para obtener el segundo naipe de menor valor y separarlo de la baraja, y repito el procedimiento para obtener la tercera, y otra vez para la siguiente hasta el final.
+
+en el segundo algoritmo, preparo espacio sobre la mesa para cada naipe en una cuadricula.
+extraigo el primer naipe de la baraja y lo coloco directamente en el lugar que tiene reservado en la cuadricula, y lo mismo hago con el segundo, el tercero y todos los demas.
+
+Veamos ahora cual de estos 2 algoritmos es mas eficiente.
+
+el primer algoritmo, compara todas los naipes de la baraja para extraer la de menor valor.
+si la baraja tiene 50 naipes, se habran realizado 50 comparaciones.
+despues de realizar 50 comparaciones tenemos 1 naipe ordenado, y 49 sin ordenar.
+Para extraer el segundo naipe de menor valor repetiremos el procedimiento anterior con los 49 naipes que todavia estan sin ordenar, y eso requerira otras 49 comparaciones.
+repetiremos el procedimiento para extraer el tercer naipe con los 48 todavia sin ordenar, y esto requerira otras 48 comparaciones,
+repetiremos el procedimiento una y otra vez hasta que no queden naipes sin ordenar.
+cuantas comparaciones seran necesarias ?
+50 + (50 - 1) + (50 - 2) + (50 - 3) + (50 - 4) ...  + (50 - 49)
+
+si al numero de elementos que queremos ordenar le llamamos 'N', en este caso N=50, el numero de operaciones necesarias seran
+aproximadamente N * (N-1)
+Podemos afirmar que el coste en tiempo de ejecutar este algoritmo es de "el orden de" N cuadrado.
+
+Veamos ahora el segundo algoritmo.
+
+Sobre una superficie, dibujamos una cuadricula, reservando un lugar para cada naipe de la baraja.
+Extraemos un naipe, digamos que es el cinco de treboles,
+y lo colocamos dentro de la cuadricula, en el lugar reservado para el cinco de treboles.
+Extremos el segundo naipe, digamos que es el dos de diamantes,
+lo colocaremos dentro de la cuadricula, en el lugar reservado para el dos de diamantes.
+Hemos extraido 2 naipes y tenemos 2 naipes ordenados.
+Repetimos el procedimiento con el tercero, y con los restantes.
+cuantas operaciones son necesarias para ordenar la baraja ?
+una operacion por naipe.
+si el numero de naipes es N, entonces el coste en tiempo de este algoritmo es del orden de N.
+
+
+Ahora que tenemos una medida del coste en tiempo de ambos algoritmos podemos compararlos.
+el primero es del orden de N cuadrado.
+el segundo es del orden de N.
+
+el segundo algoritmo hace el trabajo con menos operaciones, y por lo tanto es mas eficiente.
+
+Ahora que hemos visto como pueden compararse 2 metodos, 
+volvamos al sistema inteligente formado por seres vivientes que estamos analizando.
+
+Veamos como podemos caracterizar el sistema en terminos de eficiencia algoritmica, e intentemos compararlo con otros sistemas.
+Lo hace bien, o lo hace mal ?
+Es mejor o peor que el laptop que utilizo a diario ?
+Podriamos sugerir cambios en el procedimiento para mejorar su eficiencia ?
+
+
+
+
+
+
