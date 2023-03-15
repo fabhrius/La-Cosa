@@ -2,18 +2,18 @@
 Los sistemas computacionales, asi como los procedimientos que se utilizan para resolver problemas logicos, 
 pueden ser medidos y comparados.
 
-No todos los computadores son iguales, algunos pueden abordar problemas de mayor complejidad que otros.
-Y un mismo problema puede ser abordado de diferentes formas, utilizando distintos procedimientos.
+No todos los computadores son iguales, algunos pueden abordar problemas de mayor complejidad que otros, o consumir menos recursos.
+Tambien podemos encontrar diferencias entre los metodos que utilizamos para resolver problemas.
+Un mismo problema puede ser abordado de diferentes formas, utilizando distintos procedimientos.
 
 En este capitulo, nos proponemos obtener una medida de  
 la Eficiencia algoritmica
-del sistema computacional basado en especies de criaturas vivientes que estamos analizando, para compararlo posteriormente con los computadores electronicos que utilizamos a diario.
+del sistema computacional basado en especies de criaturas vivientes que estamos analizando.
 
-Evitaremos el uso de matematicas complejas, ya que como he comentado anteriormente, el relato esta dirigido a todas las personas.
 No tendremos problemas en establecer una medida aproximada pero rigurosa de la eficiencia del sistema, 
 razonando sobre los hechos que hemos podido observar en el experimento del capitulo anterior.
 
-
+																																								aaaaaaaaaaaaaaaaaaaaaaaaaq`
 Hablaremos de Eficiencia Algoritmica.
 
 Un algoritmo es un conjunto ordenado de pasos que describen el procedimiento utilizado para resolver un problema.
@@ -29,7 +29,7 @@ Porque hacer el trabajo con menos operaciones se traduce en un menor consumo de 
 Realizar el trabajo con un menor consumo de recursos es lo que llamaremos, Eficiencia.
 Diremos, por lo tanto que, el algoritmo que hace el trabajo con menor numero de operaciones es, el mas eficiente.
 
-Veamos, por ejemplo, 2 algoritmos diferentes para ordenar una baraja.
+Para dejar clara esta idea, veamos, por ejemplo, 2 algoritmos diferentes que podriamos usar para ordenar una baraja.
 
 en el primero, reviso toda la baraja para extraer el naipe de menor valor, y una vez localizado lo separo de la baraja.
 repito el procedimiento con los naipes que han quedado en la baraja para obtener el segundo naipe de menor valor y separarlo de la baraja, y repito el procedimiento para obtener la tercera, y otra vez para la siguiente, y repito el proceso una y otra vez hasta tener la baraja ordenada.
@@ -79,10 +79,27 @@ Veamos como podemos caracterizar el sistema en terminos de eficiencia algoritmic
 Lo hace bien, o lo hace mal ?
 Podriamos sugerir cambios en el procedimiento para mejorar su eficiencia ?
 
+Para responder a estas preguntas revisemos el experimento del capitulo anterior.
+
+El tablero es un laberinto, con una entrada y una salida,
+sobre el tablero tenemos una unica ficha.
+el objetivo del juego es llevar la ficha desde la entrada hasta la salida.
+la ficha puede desplazarse a una distancia de una sola casilla cada vez, y este es el unico movimiento valido.
+Y lo que queremos saber es, 
+cual es el camino que la ficha debe recorrer para ir desde la entrada hasta la salida ?
+
+La entrada la hemos situado en la casilla 'A1', y la salida en la casilla 'H8'
+
+La distancia que separa la entrada de la salida es de 7 casillas.
+
+(dibujo)
 
 
+La ficha solo puede moverse una casilla cada vez, por lo tanto, para alcanzar la salida seran necesarios al menos 7 movimientos.
+7 movimientos como minimo, en el caso de que encuentre el camino mas corto, 
+pero pueden ser mas, dependiendo del metodo que utilice para explorar el tablero.
 
-
+	``````````````````````
 
 
 
