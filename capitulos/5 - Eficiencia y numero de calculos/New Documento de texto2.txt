@@ -29,24 +29,24 @@ Porque hacer el trabajo con menos operaciones se traduce en un menor consumo de 
 Realizar el trabajo con un menor consumo de recursos es lo que llamaremos, Eficiencia.
 Diremos, por lo tanto que, el algoritmo que hace el trabajo con menor numero de operaciones es, el mas eficiente.
 
-Veamos, por ejemplo, 2 algoritmos diferentes de ordenacion.
+Veamos, por ejemplo, 2 algoritmos diferentes para ordenar una baraja.
 
 en el primero, reviso toda la baraja para extraer el naipe de menor valor, y una vez localizado lo separo de la baraja.
-repito el procedimiento con los naipes que han quedado en la baraja para obtener el segundo naipe de menor valor y separarlo de la baraja, y repito el procedimiento para obtener la tercera, y otra vez para la siguiente hasta el final.
+repito el procedimiento con los naipes que han quedado en la baraja para obtener el segundo naipe de menor valor y separarlo de la baraja, y repito el procedimiento para obtener la tercera, y otra vez para la siguiente, y repito el proceso una y otra vez hasta tener la baraja ordenada.
 
 en el segundo algoritmo, preparo espacio sobre la mesa para cada naipe en una cuadricula.
 extraigo el primer naipe de la baraja y lo coloco directamente en el lugar que tiene reservado en la cuadricula, y lo mismo hago con el segundo, el tercero y todos los demas.
 
 Veamos ahora cual de estos 2 algoritmos es mas eficiente.
 
-el primer algoritmo, compara todas los naipes de la baraja para extraer la de menor valor.
+el primer algoritmo, revisa cuidadosamente la baraja comparando uno a uno todas los naipes para extraer el de menor valor.
 si la baraja tiene 50 naipes, se habran realizado 50 comparaciones.
 despues de realizar 50 comparaciones tenemos 1 naipe ordenado, y 49 sin ordenar.
 Para extraer el segundo naipe de menor valor repetiremos el procedimiento anterior con los 49 naipes que todavia estan sin ordenar, y eso requerira otras 49 comparaciones.
 repetiremos el procedimiento para extraer el tercer naipe con los 48 todavia sin ordenar, y esto requerira otras 48 comparaciones,
 repetiremos el procedimiento una y otra vez hasta que no queden naipes sin ordenar.
 cuantas comparaciones seran necesarias ?
-50 + (50 - 1) + (50 - 2) + (50 - 3) + (50 - 4) ...  + (50 - 49)
+50 + (50 - 1) + (50 - 2) + (50 - 3) + (50 - 4) + ... + (50 - 49)
 
 si al numero de elementos que queremos ordenar le llamamos 'N', en este caso N=50, el numero de operaciones necesarias seran
 aproximadamente N * (N-1)
@@ -77,8 +77,9 @@ volvamos al sistema inteligente formado por seres vivientes que estamos analizan
 
 Veamos como podemos caracterizar el sistema en terminos de eficiencia algoritmica, e intentemos compararlo con otros sistemas.
 Lo hace bien, o lo hace mal ?
-Es mejor o peor que el laptop que utilizo a diario ?
 Podriamos sugerir cambios en el procedimiento para mejorar su eficiencia ?
+
+
 
 
 
