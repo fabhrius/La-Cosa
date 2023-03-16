@@ -13,7 +13,7 @@ del sistema computacional basado en especies de criaturas vivientes que estamos 
 No tendremos problemas en establecer una medida aproximada pero rigurosa de la eficiencia del sistema, 
 razonando sobre los hechos que hemos podido observar en el experimento del capitulo anterior.
 
-																																								aaaaaaaaaaaaaaaaaaaaaaaaaq`
+
 Hablaremos de Eficiencia Algoritmica.
 
 Un algoritmo es un conjunto ordenado de pasos que describen el procedimiento utilizado para resolver un problema.
@@ -75,13 +75,12 @@ el segundo algoritmo hace el trabajo con menos operaciones, y por lo tanto es ma
 Ahora que hemos visto como pueden compararse 2 metodos, 
 volvamos al sistema inteligente formado por seres vivientes que estamos analizando.
 
-Veamos como podemos caracterizar el sistema en terminos de eficiencia algoritmica, e intentemos compararlo con otros sistemas.
-Lo hace bien, o lo hace mal ?
+y veamos el metodo que ha utilizado el sistema en terminos de eficiencia algoritmica.
 Podriamos sugerir cambios en el procedimiento para mejorar su eficiencia ?
 
 Para responder a estas preguntas revisemos el experimento del capitulo anterior.
 
-El tablero es un laberinto, con una entrada y una salida,
+El tablero representa un laberinto, con una entrada y una salida,
 sobre el tablero tenemos una unica ficha.
 el objetivo del juego es llevar la ficha desde la entrada hasta la salida.
 la ficha puede desplazarse a una distancia de una sola casilla cada vez, y este es el unico movimiento valido.
@@ -98,6 +97,10 @@ La distancia que separa la entrada de la salida es de 7 casillas.
 La ficha solo puede moverse una casilla cada vez, por lo tanto, para alcanzar la salida seran necesarios al menos 7 movimientos.
 7 movimientos como minimo, en el caso de que encuentre el camino mas corto, 
 pero pueden ser mas, dependiendo del metodo que utilice para explorar el tablero.
+
+(dibujos)
+
+
 
 	``````````````````````
 
