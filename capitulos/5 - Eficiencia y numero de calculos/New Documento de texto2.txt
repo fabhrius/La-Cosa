@@ -16,7 +16,7 @@ razonando sobre los hechos que hemos podido observar en el experimento del capit
 
 Hablaremos de Eficiencia Algoritmica.
 
-Un algoritmo es un conjunto ordenado de pasos que describen el procedimiento utilizado para resolver un problema.
+Un algoritmo es la descripcion de el procedimiento utilizado para resolver un problema, como un conjunto ordenado de pasos.
 Por ejemplo, si queremos ordenar una baraja de naipes,
 como lo haremos ?
 Es posible que 2 personas propongan formas diferentes de conseguir el mismo resultado.
