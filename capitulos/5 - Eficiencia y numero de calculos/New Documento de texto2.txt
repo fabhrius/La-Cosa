@@ -101,8 +101,31 @@ pero pueden ser mas, dependiendo del metodo que utilice para explorar el tablero
 (dibujos)
 
 
+-----------------------------------
 
-	``````````````````````
+
+Recordemos ahora como ha resuelto el problema.
+
+Hemos creado un individuo, el primero de su especie, representando el estado inicial del problema.
+el tablero con una ficha colocada en la entrada del laberinto, 'A1'
+todos los individuos de esta especie, cumpliran con un ciclo de vida que consiste en, 
+nacer, reproducirse y morir.
+
+Cuando hemos dotado de vida a este primer individuo, el ha llevado a cabo las etapas de su ciclo de vida.
+Se ha reproducido, generando todos los hijos posibles, e inmediatamente despues ha muerto, eliminandose del sistema.
+Al cumplir con su ciclo de vida, ha iniciado un proceso mas complejo, que va mas alla de su propia vida, y que continuara aun cuando el ya no forma parte del sistema.
+El proceso que ha desencadenado con su existencia le sobrevivira.
+
+Y sucede lo siguiente...
+
+
+Digamos tambien que los individuos de esta especie se reproducen un segundo despues de nacer.
+y que al reproducirse, generan todos los hijos posibles de una vez, en la primera generacion.
+
+Se produce una generacion cada segundo.
+
+Y ha sucedido lo siguiente,
+
 
 
 
