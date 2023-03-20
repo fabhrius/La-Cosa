@@ -129,3 +129,25 @@ Y ha sucedido lo siguiente,
 
 
 
+-------------------------------------------------
+
+Los posibles hijos de ‘A1’ ocuparan las posiciones marcadas con X.
+Todos ellos naceran con la primera generacion, y entre ellos ‘B2’.
+
+Los posible hijos de ‘B2’ ocuparan las posiciones marcadas con X.
+Todos ellos naceran con la segunda generacion, y entre ellos ‘C3’.
+
+Los posibles hijos de ‘C3’ ocuparan las posiciones marcadas con X.
+Todos ellos naceran con la tercera generacion, y entre ellos ‘D4’.
+
+Los posibles hijos de ‘D4’ ocuparan las posiciones marcadas con X. Todos ellos naceran con la cuarta generacion, y entre ellos ‘E5’.
+
+Los posibles hijos de ‘E5’ ocuparan las posiciones marcadas con X. Todos ellos naceran con la quinta generacion, y entre ellos ‘F6’. 
+
+Los posibles hijos de ‘F6’ ocuparan las posiciones marcadas con X. Todos ellos naceran con la sexta generacion, y entre ellos ‘G7’.
+
+Los posibles hijos de ‘G7’ ocuparan las posiciones marcadas con X. Todos ellos naceran con la septima generacion, y entre ellos ‘H8’. 
+
+Este individuo, ‘H8’, representa el estado final que queríamos alcanzar, y tiene la respuesta al problema, el camino que va desde la entrada hasta la salida del laberinto.
+
+
