@@ -151,3 +151,53 @@ Los posibles hijos de ‘G7’ ocuparan las posiciones marcadas con X. Todos ell
 Este individuo, ‘H8’, representa el estado final que queríamos alcanzar, y tiene la respuesta al problema, el camino que va desde la entrada hasta la salida del laberinto.
 
 
+------------------------------------------------
+
+el sistema ha encontrado la respuesta despues de 7 generaciones.
+el sistema avanza un paso en el proceso en cada generacion.
+
+Y con cada generacion, 
+avanza un paso en la direccion correcta.
+No se pierde, no duda, no se equivoca.
+se mueve hacia el objetivo como si supiera adonde se encuentra.
+
+Con cada paso, avanza hacia el objetivo,
+Por el camino mas corto.
+
+
+hemos establecido que son necesarios al menos 7 pasos para alcanzar la salida,
+ya que se encuentra a una distancia de 7 casillas y la ficha no puede moverse mas de 1 casilla en cada jugada.
+
+de modo que,
+el sistema ha encontrado la respuesta con el  minimo numero de pasos necesarios.
+
+No sera posible mejorarlo.
+Jamas existira un sistema mas eficiente que este, 
+porque el problema no puede resolverse en un menor numero de pasos.
+
+-------------------------------
+
+el sistema ha encontrado la solucion en la septima generacion.
+
+Nos preguntabamos como podemos mejorar el procedimiento que utiliza el sistema para hacerlo mas eficiente.
+Veamoslo.
+
+Con cada generacion la ficha realiza un movimiento, una jugada valida.
+Hemos establecido que una jugada valida consiste en desplazar la ficha a una distancia de una casilla.
+Tambien hemos establecido que la distancia entre la entrada y la salida es de 7 casillas, y por lo tanto, no puede ser recorrida en menos de 7 movimientos.
+
+el sistema ha alcanzado la salida en la septima generacion, es decir, con 7 movimientos.
+y si como hemos dicho, esa distancia no puede ser recorrida con menos movimientos, entonces, la eficiencia del sistema no puede ser mejorada.
+
+lo que ha sucedido es que, el sistema con cada generacion, avanza un paso en la direccion correcta.
+No se pierde, no duda, no se equivoca.
+Se mueve hacia el objetivo como si supiera adonde esta.
+
+No existira jamas un sistema mas eficiente que este, porque el problema no puede ser resuelto con un menor numero de pasos.
+
+
+
+
+ 
+
+
