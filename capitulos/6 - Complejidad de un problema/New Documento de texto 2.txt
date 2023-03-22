@@ -1,0 +1,31 @@
+Como hemos visto, una familia de seres vivientes forman una maquina que puede resolver problemas logicos.
+al estar la maquina formada por un numero de piezas que trabajan juntas para alcanzar un objetivo comun, podemos llamarle "sistema".
+Asi podemos decir que una especie de seres vivos forman un sistema inteligente.
+
+Ahora intentamos establecer algunas caracteristicas que nos permitan comparar este sistema con otros.
+queremos saber si es mejor o peor, que otros sistemas inteligentes,
+es mejor o es peor que los computadores electronicos que utilizamos a diario ?
+
+Para compararlo primero tenemos que entender lo que puede hacer y lo que no.
+
+En el capitulo anterior hablabamos de eficiencia.
+Lo que nos proponemos ahora es averiguar que tipo de problemas este sistema puede abordar.
+
+
+-----------------------------------------
+
+
+No todos los problemas son iguales.
+
+Algunos pueden resolverse facilmente, 
+otros seran mas dificiles de resolver 
+y otros podrian ser irresolubles o inabordables.
+
+Asi podriamos clasificar a los problemas de acuerdo con su complejidad.
+Para establecer una medida de la complejidad de un problema, hablaremos de "decisiones".
+las decisiones, juegan un papel importante en la complejidad del problema.
+
+Podemos ver a una decision como, la bifurcacion del camino.
+por donde debo continuar ?
+
+y en lo que sigue pensaremos que, la complejidad de un problema aumenta con el numero de decisiones que deben tomarse para resolverlo.
