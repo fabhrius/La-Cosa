@@ -1,3 +1,32 @@
+En este capitulo nos proponemos hacer una estimacion de 
+la potencia de calculo que un sistema de este tipo podria tener.
+
+La potencia puede ser definida como 
+cantidad de trabajo entregada por unidad de tiempo.
+Pero esta definicion no es suficiente para medir la potencia de un sistema de computo.
+Podemos pensar en el numero de operaciones que un procesador puede realizar por unidad de tiempo.
+Pero eso no es exactamente lo que queremos saber.
+
+La velocidad esta bien, es un buen indicador, pero ademas, nos gustaria saber que tipo de problemas es capaz de abordar.
+De modo que, en cuanto a potencia, queremos saber,
+cual es la complejidad de los problemas que puede resolver,
+cual es la complejidad de las operaciones que puede realizar por unidad de tiempo, 
+y finalmente, a que velocidad puede realizar el calculo.
+
+
+-----------------------------------------
+
+para iniciar la discusion, veamos como podemos determinar de forma aproximada, cual podria ser la complejidad de un problema.
+
+
+
+
+
+
+
+-------------------
+
+
 Como hemos visto, una familia de seres vivientes forman una maquina que puede resolver problemas logicos.
 al estar la maquina formada por un numero de piezas que trabajan juntas para alcanzar un objetivo comun, podemos llamarle "sistema".
 Asi podemos decir que una especie de seres vivos forman un sistema inteligente.
@@ -29,3 +58,33 @@ Podemos ver a una decision como, la bifurcacion del camino.
 por donde debo continuar ?
 
 y en lo que sigue pensaremos que, la complejidad de un problema aumenta con el numero de decisiones que deben tomarse para resolverlo.
+
+
+------------------------------
+
+las decisiones tienen coste.
+
+con cada decision el camino se bifurca 
+y a medida que aumenta el numero de decisiones que deben tomarse aumentan el numero de caminos posibles que debemos recorrer para encontrar la solucion del problema.
+
+rapidamente el numero de caminos tiende a infinito, 
+o dicho de otro modo, 
+El numero de caminos se vuelve demasiado grande para recorrerlos todos con el tiempo y recursos disponibles.
+
+Digamos que queremos saber 
+como ganar una partida de ajedrez.
+
+partiendo del estado inicial 
+(el tablero con las fichas en su posicion de salida), 
+cuantas posibles jugadas pueden hacerse a partir de aqui ?
+
+Desde la posicion inicial, 
+puede moverse alguno de los peones o alguno de los caballos.
+Y esto significa, 20 posibles movimientos diferentes.
+Cual sera el mejor de ellos ?
+
+Tendre que probarlos todos para decidir.
+
+Solo para comenzar la partida, desde el punto de salida pueden verse 20 posibles caminos.
+
+--------------------
