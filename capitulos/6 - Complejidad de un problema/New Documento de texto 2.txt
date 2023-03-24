@@ -46,18 +46,15 @@ Lo que nos proponemos ahora es averiguar que tipo de problemas este sistema pued
 
 No todos los problemas son iguales.
 
-Algunos pueden resolverse facilmente, 
-otros seran mas dificiles de resolver 
-y otros podrian ser irresolubles o inabordables.
+Algunos pueden resolverse facilmente, otros seran mas dificiles de resolver, mientras que otros podrian considerarse inabordables o incluso irresolubles.
 
 Asi podriamos clasificar a los problemas de acuerdo con su complejidad.
-Para establecer una medida de la complejidad de un problema, hablaremos de "decisiones".
-las decisiones, juegan un papel importante en la complejidad del problema.
+Y cuando hablamos de complejidad, un buen indicador del grado de complejidad del problema, es el numero de decisiones que deben tomarse para encontrar la solucion.
 
 Podemos ver a una decision como, la bifurcacion del camino.
 por donde debo continuar ?
 
-y en lo que sigue pensaremos que, la complejidad de un problema aumenta con el numero de decisiones que deben tomarse para resolverlo.
+En lo que sigue pensaremos que, la complejidad de un problema aumenta con el numero de decisiones que deben tomarse para resolverlo.
 
 
 ------------------------------
