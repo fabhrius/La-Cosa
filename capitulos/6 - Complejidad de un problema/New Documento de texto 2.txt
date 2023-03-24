@@ -85,3 +85,37 @@ Tendre que probarlos todos para decidir.
 Solo para comenzar la partida, desde el punto de salida pueden verse 20 posibles caminos.
 
 --------------------
+
+Cuantos movimientos diferentes podrian hacer las negras 
+para responder a esta primera jugada de las blancas ?
+
+Otros 20.
+
+Esto creara 
+20 por 20 = 400 escenarios diferentes.
+
+Y solo se han movido 2 fichas, una blanca y una negra.
+Y con cada nuevo movimiento el numero de posibles caminos se multiplica.
+
+Cual de todos estos caminos me llevara al estado final deseado ?
+Cual de todos ellos me llevara a ganar la partida ?
+
+Tendre que recorrerlos todos para saberlo.
+
+Resolver este problema requerira recursos 
+como tiempo y memoria.
+
+Tiempo, para recorrer todos los posibles caminos,
+Y memoria, para recordarlos todos y poder compararlos
+Solo así sabre cual es el mejor.
+
+las decisiones, incrementan la complejidad del problema,
+Los recursos necesarios para resolverlo 
+Y eso se traduce en un incremento en el coste.
+
+Podemos decir que las decisiones son el problema,
+Y cuantas mas decisiones,
+Mayor es el problema.
+
+Los problemas se vuelven mas complejos a medida que aumenta el numero de decisiones que deben tomarse para resolverlo.
+
