@@ -1,0 +1,31 @@
+Cuando hablamos de computadoras, las mas potentes seran las maquinas que llamamos "super-computadoras".
+
+Estas maquinas estan disenyadas para realizar una gran cantidad de operaciones por unidad de tiempo.
+Disponen tambien de mucha memoria para poder almacenar y utilizar una gran cantidad de informacion.
+
+En comparacion, el sistema de calculo basado en especies de seres vivientes que estamos analizando, como sera de potente ?
+sera comparable en potencia a los super-computadores ?
+Podra entregar resultados a mayor o menor velocidad ?
+Podra abordar problemas de mayor o menor complejidad ?
+
+-----------------------------------------------
+
+Para responder a estas preguntas tengamos presente lo que hemos dicho acerca de las deciciones.
+- las  decisiones incrementan la complejidad
+- el numero de decisiones es un buen indicador de la complejidad
+- las decisiones pueden verse como una bifurcacion en el camino
+
+Con esto en mente, volvamos a ver como ha sido resuelto el problema del laberinto, y en especial, cuantas decisiones han debido ser tomadas,
+o cuantos diferentes caminos posibles existen en ese problema.
+
+La posicion de salida, el comienzo del juego, esta en 'A1'.
+cuantos posibles caminos se ven desde este punto ?
+
+Desde 'A1', pueden verse 3 posibles caminos.
+
+Podria ir por 'A2', 'B1', o 'B2'.
+
+(dibujo)
+
+
+
