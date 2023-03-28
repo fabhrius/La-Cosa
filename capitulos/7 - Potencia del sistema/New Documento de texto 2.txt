@@ -32,7 +32,7 @@ Podria ir por 'A2', 'B1', o 'B2'.
 y en cualquiera de estas 18 posibilidades, se encontrara con la necesidad de decidir nuevamente entre varias opciones posibles para seguir adelante.
 y lo mismo sucedera con cada paso que avance en cualquier direccion.
 
-Cuantas decisiones deberan tomarse, entonces hasta encontrar la solucion ?
+Cuantas decisiones deberan tomarse entonces hasta encontrar la solucion ?
 
 ------------------------------
 
@@ -46,9 +46,47 @@ existen distintas soluciones al problema, asi como existen distintos caminos que
 El camino mas corto se compone de 7 casillas, y esta sera la primera solucion que encontrara el sistema.
 Observad que para avanzar una casilla desde la entrada, el estado inicial, exiten 3 posibles caminos, 3 decisiones (un digito)
 Para avanzar una segunda casilla, deberan tomarse, 3 + 5 + 5 + 8 decisiones, esto es 21 (2 digitos)
-El calculo se complica a partir de aqui, pero adelantare que para recorrer 7 casillas deberan tomarse del orden de 20 millones de decisiones.
+El calculo se complica a partir de aqui, pero adelantare que para recorrer 7 casillas deberan tomarse alrededor de 20 millones de decisiones.
 Para recorrer una casilla mas, el numero de decisiones se habra incrementado hasta los 160 millones aproximadamente.
-Y si quisieramos recorrer 100 casillas, el numero de decisiones que habria que tomar seria aproximadamente un uno seguido por 100 ceros, que ya es un numero dificil de expresar con palabras.
+Y si quisieramos recorrer 100 casillas, el numero de decisiones que habria que tomar seria aproximadamente un digito seguido por 100 ceros, que ya es un numero dificil de expresar con palabras.
+
+-----------------------------------
+
+
+en los computadores que utilizamos a diario
+el metodo utilizado para resolver problemas de este tipo seria explorar secuencialmente los diferentes caminos posibles 
+y despues de recorrerlos todos 
+Deberia ser capaz de compararlos para decidir
+cual de todos es el mejor 
+
+pero para recorrerlos todos secuencialmente (uno tras otro) 
+se necesita tiempo, 
+
+y cuando el numero de caminos posibles tiende a infinito, 
+el tiempo necesario para recorrerlos todos tambien 
+tiende a infinito.
+
+y el tiempo necesario
+ podria ser demasiado, mas del disponible, 
+y entonces el problema debe considerarse, inabordable
+
+para compararlos todos y tomar una decision
+es necesario almacenar la informacion que vamos recogiendo 
+a medida que los recorremos,
+y para esto es necesario tener memoria,
+
+una vez mas, 
+cuando el numero de caminos posibles tiende a infinito, 
+la memoria necesaria para recordarlos tambien,
+tiende a infinito.
+
+para que los computadores electronicos 
+sean capaces de abordar problemas de este tipo
+se necesita una estrategia que evite recorrer todos los caminos de principio a fin.
+
+Porque no sera posible dotar a una maquina de una cantidad de memoria infinita.
+
+-----------------------
 
 
 
