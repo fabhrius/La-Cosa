@@ -27,5 +27,30 @@ Podria ir por 'A2', 'B1', o 'B2'.
 
 (dibujo)
 
+------------------------------
+
+y en cualquiera de estas 18 posibilidades, se encontrara con la necesidad de decidir nuevamente entre varias opciones posibles para seguir adelante.
+y lo mismo sucedera con cada paso que avance en cualquier direccion.
+
+Cuantas decisiones deberan tomarse, entonces hasta encontrar la solucion ?
+
+------------------------------
+
+El numero de decisiones que deberan tomarse para encontrar la solucion crece exponencialmente, es decir que tendera a infinito rapidamente.
+Como crece de rapido ?
+aproximadamente en un digito cada vez que la ficha avanza una casilla.
+lo veremos con mas detalle mas adelante cuando hablemos de costes.
+
+existen distintas soluciones al problema, asi como existen distintos caminos que unen la entrada con la salida del laberinto, unos caminos seran mas cortos que otros.
+
+El camino mas corto se compone de 7 casillas, y esta sera la primera solucion que encontrara el sistema.
+Observad que para avanzar una casilla desde la entrada, el estado inicial, exiten 3 posibles caminos, 3 decisiones (un digito)
+Para avanzar una segunda casilla, deberan tomarse, 3 + 5 + 5 + 8 decisiones, esto es 21 (2 digitos)
+El calculo se complica a partir de aqui, pero adelantare que para recorrer 7 casillas deberan tomarse del orden de 20 millones de decisiones.
+Para recorrer una casilla mas, el numero de decisiones se habra incrementado hasta los 160 millones aproximadamente.
+Y si quisieramos recorrer 100 casillas, el numero de decisiones que habria que tomar seria aproximadamente un uno seguido por 100 ceros, que ya es un numero dificil de expresar con palabras.
+
+
+
 
 
