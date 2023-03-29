@@ -89,6 +89,80 @@ Porque no sera posible dotar a una maquina de una cantidad de memoria infinita.
 -----------------------
 
 
+Y en cuanto a la complejidad de los problemas.
+
+Un sistema inteligente basado en familias de seres vivientes, que clase de problemas podria resolver?, o dicho de otra forma, problemas de que complejidad podria abordar?
+
+Veamos otra vez como ha resuelto el problema del laberinto.
+
+Inicialmente creamos un individuo que representa el estado inicial.
+Un tablero con una ficha en la entrada del laberinto, 'A1'.
+
+Desde esta posicion, 
+existen 3 caminos posibles, que empiezan en 
+'A2', 'B1', 'B2'.
+
+Cual de ellos sera el mejor ?
+Como decidir por cual de ellos continuar la exploracion ?
+
+El individuo genera tantos hijos como caminos posibles existan, coloca a un nuevo individuo en la entrada de cada camino,
+y encarga a cada uno de ellos la exploracion de 1 unico camino.
+
+El sistema no decide.
+Simplemente los recorre todos a la vez, en paralelo.
+
+No importa cuantos caminos nuevos aparezcan.
+continua avanzando como si no existiera mas que un unico camino.
 
 
+--------------------
+
+
+Hasta llegar a la salida habran aparecido una gran numero de caminos diferentes posibles.
+Habra sido necesario tomar una gran cantidad de decisiones.
+Para un computador que explora los diferentes caminos de forma secuencial, el coste en tiempo y memoria seria elevado.
+
+Para un sistema inteligente basado en familias de criaturas vivientes, las decisiones no incrementaran el tiempo necesario para resolver el problema.
+La familia ha encontrado la solucion despues de 7 generaciones. En 7 movimientos ha llegado a la salida. Como si no existiera mas que un unico camino.
+
+El efecto es el de no existir la complejidad. La forma en que el sistema trabaja disuelve la complejidad, la desmenuza, haciendo que las decisiones, no existan.
+
+La exploracion se realiza en paralelo, de forma concurrente, como si cada individuo fuera una nueva maquina que inicia la exploracion por su cuenta, independientemente del resto de la colonia.
+Y el trabajo de cada individuo no encontrara complejidad, porque el individuo no recorrera todo el camino, el individuo no tendra que enfrentarse a todas las decisiones que se prentaran en el futuro, porque el trabajo de un individuo se reduce a dar un unico paso simple.
+
+------------------------------
+
+
+Asi, todos los problemas son simples, triviales.
+Independientemente de la complejidad intrinsica.
+
+El problema se desmenuza en pequenyos problemas triviales,
+y se crean tantas computadoras 
+como pasos elementales tenga el problema.
+
+Y cada computadora realiza un unico proceso elemental, trivial.
+
+si pensamos en los individuos de la colonia como en computadores,
+entonces,
+el procesador no necesita conocer un gran conjunto de operaciones, 
+porque solo realiza una unica operacion, siempre la misma,
+
+Consiste en generar 
+cualquiera de los siguientes estados posibles.
+
+tampoco es necesario que sea capaz de realizar 
+una gran cantidad de calculos por unidad de tiempo,
+porque solo realizara una unica operacion, una.
+
+en el caso de la memoria,
+no es necesario que sea capaz de recordar 
+todos los infinitos posibles caminos 
+en los que pueda descomponerse el problema 
+para tomar una decision despues de haberlos recorrido todos.
+
+eso podria requerir una gran cantidad de memoria.
+en cambio, 
+solo necesita recordar el camino que su familia ha recorrido 
+para llegar hasta el, 
+eso es un unico camino finito.
 
