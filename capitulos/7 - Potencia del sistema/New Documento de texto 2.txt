@@ -166,3 +166,39 @@ solo necesita recordar el camino que su familia ha recorrido
 para llegar hasta el, 
 eso es un unico camino finito.
 
+--------------------------------------------------
+
+
+volviendo a la comparacion con los super-computadores,
+ 
+si la complejidad de los problemas no es importante para un “NIS” 
+y podria abordar problemas de cualquier complejidad,
+entonces en este sentido 
+No puede ser superado.
+
+si la memoria tampoco es un problema 
+porque un individuo no tiene que recordar todas las posibles ramificaciones del calculo,
+sino solo su camino
+
+Ademas, en el momento de crear a un hijo, ya sabe cuanta memoria necesitara, porque ya tiene los datos que debe almacenar, y la memoria una vez creada no se modificara.
+Esto hace que la cantidad de  memoria necesaria siempre sea discreta, no tendra problemas de memoria, independientemente de la complejidad que pueda tener el problema.
+
+entonces podria abordar problemas de complejidad que tiende a infinito,
+con una cantidad de memoria discreta.
+en este aspecto, tampoco puede ser superado.
+
+queda por ver,
+la velocidad de proceso.
+
+En el caso de un super-computador, 
+Una medida de la velocidad de proceso nos la daria 
+la cantidad de operaciones que puede ejecutar por unidad de tiempo.
+
+En el caso de un “NIS”,
+Por tratarse de un modelo teorico,
+No podemos medirlo como el caso de un computador real,
+sin embargo, podemos aproximarlo.
+
+
+-----------------------------------------
+
