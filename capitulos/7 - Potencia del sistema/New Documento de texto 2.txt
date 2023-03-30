@@ -202,3 +202,107 @@ sin embargo, podemos aproximarlo.
 
 -----------------------------------------
 
+hemos visto ya, en el capitulo dedicado a la eficiencia, que siempre resolvera los problemas en el menor numero de operaciones posibles,
+por lo tanto en este sentido no puede ser superado, 
+
+pero veamos a que velocidad ejecutaria esas operaciones.
+y cuanto tiempo sera necesario para resolver el problema.
+
+el computador basado en seres vivientes resultara mas rapido que un super-computador, o mas lento ?
+
+Un NIS ejecuta un paso en el proceso de resolucion 
+con cada generacion.
+
+es en la reproduccion cuando la informacion se modifica.
+
+dicho asi, podria parecer lento.
+en el caso de algunas especies de mamiferos, 
+el tiempo parece enorme,
+una generacion en la especie humana requiere 
+unos 20 anyos de media.
+
+Existen especies que se reproducen mas rapidamente, 
+como las bacterias que podrian producir una nueva generacion cada 15 minutos.
+
+Pero digamos que utilizamos humanos, con una generacion cada  20 anyos.
+Y por otro lado, tenemos un computador electronico que puede ejecutar muchos millones operaciones por segundo.
+
+A simple vista puede parecer mas rapido 
+el computador electronico, 
+sin embargo,
+Lo realmente importante es,
+
+Cual de los 2 resuelve el problema antes ?
+Cual de los 2 encontrara la solucion en menos tiempo ?
+
+------------------------------------------------------
+
+recordemos que,
+
+Un sistema basado en familias de seres vivientes, un “NIS”,
+Recorrera todos los caminos a la vez, en paralelo.
+
+Y mientras que,
+Los computadores electronicos aunque pueden utilizar cierto grado de concurrencia, esta siempre tendra un limite.
+
+En el caso de un “NIS”,
+La concurrencia tiende a infinito,
+De modo que no importa cuantos caminos posibles existan,
+Seran recorridos todos al mismo tiempo,
+Los recorrera todos en el mismo tiempo que recorre uno.
+Esto no puede ser igualado por un computador electronico.
+
+Y aunque al principio puede parecer lento, 
+el numero de individuos crece exponencialmente con el tiempo.
+es decir, 
+al principio, partimos de un unico individuo,
+pero el numero de individuos de la familia crece rapidamente,
+El crecimiento es exponencial,
+y en poco tiempo el numero de individuos de la familia tendera a infinito.
+
+
+
+
+De modo que, 
+despues de un tiempo de "puesta en marcha"
+la velocidad de proceso parece tender a infinito, y sera dificilmente superada.
+
+--------------------------------------------
+
+
+no todas las especies requeriran 20 anyos para producir una generacion, pero aun asi,
+
+cuando hablamos de problemas de una complejidad tal 
+En donde un computador electronico necesitaria muchos millones de anyos para encontrar una solucion
+
+En ese caso,
+un NIS tendria ventaja.
+
+
+
+
+cuantos individuos existen hoy sumando todos los que forman las diferentes especies de criaturas vivientes ?,
+plantas, peces, bacterias, insectos, aves, reptiles, todos.
+
+todos ellos son descendientes de la primera criatura que ha cobrado vida.
+
+Y por lo tanto,
+todos forman parte del mismo proceso.
+
+todos ellos buscan respuesta a las mismas preguntas,
+pero todos ellos por caminos diferentes.
+
+todos los individuos son diferentes, no existen 2 iguales,
+para asegurar que no hay 2 realizando el mismo trabajo.
+
+y todos ellos inician una nueva busqueda, creando una nueva familia que buscara la respuesta por su propio camino.
+
+cada individuo que nace representa un paso hacia adelante en el proceso, una nueva operacion sobre los datos.
+y todos ellos representas operaciones diferentes.
+
+---------------------------------------
+
+
+
+
+
