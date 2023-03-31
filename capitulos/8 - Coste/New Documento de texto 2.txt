@@ -1,0 +1,21 @@
+Continuando con el analisis comparativo del sistema veremos ahora otra de sus caracteristicas.
+El coste.
+
+Intentaremos establecer de forma aproximada cual podria ser el coste de un sistema inteligente de este tipo.
+Por un lado nos gustaria estimar cual podria ser el coste de la maquina.
+Y por otra parte, quisieramos saber cual podria ser el coste de resolver un problema utilizando esta tecnologia.
+
+Es natural que un problema complejo requiera una mayor consumo de recursos que un problema simple, lo que tendria impacto en el coste.
+Por ejemplo, un problema mas complejo podria requerir,
+mayor consumo de energia, de tiempo, de memoria, un hardware mas especializado, infraestructuras mas costosas, etc.
+
+En algunas arquitecturas, el coste de la maquina es, hasta cierto punto independiente del coste de resolver un problema.
+En esta arquitectura, un sistema de inteligencia natural, un N.I.S., el coste de la maquina y el coste de resolver un problema estan estrechamente relacionados.
+
+Si pensamos en que por cada paso elemental  en el calculo crearemos un nuevo individuo, entonces esta claro que cuanto mas calculos requiera la resolucion del problema, mayor sera la colonia de individuos necesaria para encontrar la solucion.
+
+Pero veamoslo con mas detalle.
+Veamos como el sistema a encontrado la solucion al problema del laberinto, y cual podria ser el coste de resolver ese problema.
+
+
+-----------------------------------------------------------
