@@ -304,5 +304,47 @@ y todos ellos representas operaciones diferentes.
 
 
 
+cuantas operaciones por segundo podria ejecutar esta maquina viviente ?
+tantas como nuevos individuos naceran en 1 segundo
+
+
+Como referencia, 
+dentro del organismo de un unico ser humano, viven varias decenas de billones de bacterias.
+
+y un super computador puede realizar miles de millones de operaciones por segundo.
+
+mirando alrededor, e intentando adivinar cuantos individuos naceran en un segundo en la tierra,
+es evidente que ningun computador electronico conseguira nunca competir
+con la potencia de calculo que la vida tiene.
+
+--------------------------------------
+
+
+un computador electronico,
+no puede abordar problemas del universo real.
+solo problemas que pertenezcan a un dominio discreto, acotado.
+
+las principales limitaciones de los computadores electronicos 
+se encuentran en
+la memoria disponible,
+y el tiempo disponible.
+
+
+la realidad es demasiado grande,
+inabarcable.
+
+La vida, sin embargo,
+como sistema inteligente,
+debe ser capaz de realizar calculos,
+que le permitan, entender, aprender, mejorar, adaptarse, sobrevivir,
+dentro de un dominio que a priori, 
+se muestra,
+ 
+infinito.
+
+----------------------------------
+
+
+
 
 
