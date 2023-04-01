@@ -19,3 +19,51 @@ Veamos como el sistema a encontrado la solucion al problema del laberinto, y cua
 
 
 -----------------------------------------------------------
+
+
+Recordemos el problema.
+Se trata de averiguar cual es el camino que una ficha debe recorrer en un tablero de juego cuadriculado, para ir desde una casilla determinada hasta otra.
+Para esto hemos creado una especie de seres vivientes a la medida del problema, en donde, 
+los individuos de la especie representan los estados del juego.
+Los individuos, nacen se reproducen y mueren.
+Y en la reproduccion se generaran los siguientes estados posibles, que ese obtienen realizando jugadas validas.
+
+
+
+La maquina tiene una estructura celular, en donde el individuo es la unidad estructural o celula.
+La maquina esta formada por un tejido de individuos, formando una colonia en forma de red,
+y no existe ningun otro componente, solo individuos.
+
+Los individuos se reproduciran, creando mas y mas individuos, hasta que se encuentre la solucion al problema.
+Y cuanto mas complejo sea el problema, mas individuos deberan ser creados.
+
+
+-----------------------------------------------
+
+en el ejemplo del laberinto,
+hemos creado los individuos necesarios en nuestra imaginacion.
+
+Pensaremos ahora como podriamos,
+crearlos realmente, fisicamente, 
+con el objetivo de calcular, de forma aproximada, 
+cual podria ser el coste de la maquina.
+
+
+He comentado antes que,
+la informacion necesaria para construir una criatura viviente 
+esta grabada en su ADN.
+Y digamos que para construir los individuos que resolveran el problema utilizamos bacterias.
+Intento reducir costes, 
+y una bacteria parece tener un coste inferior al de un mamifero.
+
+Y sin embargo, 
+el coste sigue siendo elevado, 
+
+disenyar y construir una bacteria esta fuera de mi alcance en este momento.
+
+Veamos una solucion mas economica.
+Digamos que grabo la informacion de un individuo en un CD.
+un CD cumplira la funcion del ADN, almacenando la informacion.
+
+
+-------------------------------
