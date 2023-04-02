@@ -40,30 +40,34 @@ Y cuanto mas complejo sea el problema, mas individuos deberan ser creados.
 
 -----------------------------------------------
 
-en el ejemplo del laberinto,
-hemos creado los individuos necesarios en nuestra imaginacion.
+hasta ahora hemos visto el funcionamiento de la maquina sobre el papel, es decir, de forma teorica.
+En el ejemplo del laberinto hemos creado individuos en nuestra imaginacion, y solo algunos de ellos, no todos los que habrian sido creados, sino solo los relevantes para el analisis.
 
-Pensaremos ahora como podriamos,
-crearlos realmente, fisicamente, 
-con el objetivo de calcular, de forma aproximada, 
-cual podria ser el coste de la maquina.
+Pensaremos ahora en como podemos llevar a cabo estas ideas en el mundo real.
+En como podriamos construir una maquina fisica, real.
+Esto nos ayudara a establecer, al menos de forma aproximada, cual podria ser el coste de construir una maquina de estas caracteristicas.
+
+Cualquier implementacion que construyamos deberia incluir las siguientes caracteristicas:
+-la maquina esta compuesta de individuos
+-los individuos cumpliran con un ciclo de vida que consiste en : nacer-reproducirse-morir
+-los individuos contienen un conjunto inmutable de datos unico (ADN)
+-en la reproduccion los datos son modificados para crear otro conjunto unico que define al individuo hijo
 
 
-He comentado antes que,
-la informacion necesaria para construir una criatura viviente 
-esta grabada en su ADN.
-Y digamos que para construir los individuos que resolveran el problema utilizamos bacterias.
-Intento reducir costes, 
-y una bacteria parece tener un coste inferior al de un mamifero.
-
-Y sin embargo, 
-el coste sigue siendo elevado, 
-
-disenyar y construir una bacteria esta fuera de mi alcance en este momento.
+Digamos que para implementar a los individuos utilizamos bacterias.
+Digo bacterias porque intento reducir los costes.
+Y construir un mamifero, seguramente, tendra un coste muy superior al de una bacteria. 
+Las bacterias parecen una solucion economica cuando hablamos de seres vivos, y sin embargo, el coste sigue siendo elevado.
+No puedo cuantificar el coste exacto, pero puedo afirmar sin temor a equivocarme que,
+disenar y construir una bacteria esta fuera de mi alcance en este momento.
 
 Veamos una solucion mas economica.
-Digamos que grabo la informacion de un individuo en un CD.
-un CD cumplira la funcion del ADN, almacenando la informacion.
+
+Digamos que grabo la informacion de un individuo en un disco de plastico como un CD.
+Un CD cumplira la funcion del ADN almacenando la informacion.
 
 
--------------------------------
+
+
+
+
