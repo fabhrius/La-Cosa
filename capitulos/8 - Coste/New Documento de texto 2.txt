@@ -67,6 +67,41 @@ Digamos que grabo la informacion de un individuo en un disco de plastico como un
 Un CD cumplira la funcion del ADN almacenando la informacion.
 
 
+-----------------------------------------------
+
+Digamos que grabo un CD por cada individuo que sea necesario en el proceso de calculo.
+Estos individuos no estan vivos como seria deseable, son de plastico, y por lo tanto no podran reproducirse por si solos, 
+y tendre que simular la reproduccion manualmente,
+sin embargo, esta solucion es mucho mas economica que la creacion de seres vivientes, y tiene la ventaja de que podremos cuantificar el valor en dinero de cada CD,
+lo que nos ayudara en el analisis de costes.
+
+Veamos ahora como el sistema ha encontrado la solucion al problema del laberinto.
+
+--------------------------
+
+Para iniciar la busqueda de la solucion 
+hemos creado un primer individuo que representa 
+el estado inicial del proceso.
+
+Es decir, el tablero con una ficha colocada en la entrada, A1.
+
+Y este individuo con capacidad de reproducirse.
+Al reproducirse, ha creado con la primera generacion, todos los hijos posibles.
+Es decir, todos los estados en los que podria quedar el problema despues de hacer un unico movimiento.
+
+En la siguiente generacion, 
+estos hijos se han reproducido, creando los siguientes estados.
+
+y generacion tras generacion el proceso ha ido avanzando 
+hacia la solucion.
+
+Recordemos tambien, que han sido necesarias 7 generaciones para encontrar la respuesta.
+(ver cap XX pag xx dib xx)
+
+Cuantos individuos han sido creados para encontrar la solucion ?
+
+-------------------------------
+
 
 
 
