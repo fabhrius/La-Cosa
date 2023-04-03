@@ -98,7 +98,7 @@ Cuantos individuos han sido creados durante el proceso ?
 -----------------------------------------------
 
 
-teniendo en cuenta que
+Para realizar el calculo debemos tener en cuenta que
 
 un individuo que esta en un angulo del tablero, tendría 3 hijos
 
@@ -108,6 +108,10 @@ un individuo que esta en un borde del tablero, tendria 5 hijos
 
 y un individuo que esta alejado del borde del tablero tendria 8 hijos.
 
+
+Sin embargo el calculo en detalle es complicado y no es importante tener una cifra exacta en este momento, sino que, 
+nos servira con tener una idea aproximada, de modo que simplificaremos el calculo.
+Lo que necesitamos ahora es hacernos una idea de como crecen las poblaciones se seres vivientes.
 
 
 
