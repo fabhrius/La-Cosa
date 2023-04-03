@@ -79,28 +79,35 @@ Veamos ahora como el sistema ha encontrado la solucion al problema del laberinto
 
 --------------------------
 
-Para iniciar la busqueda de la solucion 
-hemos creado un primer individuo que representa 
-el estado inicial del proceso.
 
-Es decir, el tablero con una ficha colocada en la entrada, A1.
 
-Y este individuo con capacidad de reproducirse.
-Al reproducirse, ha creado con la primera generacion, todos los hijos posibles.
-Es decir, todos los estados en los que podria quedar el problema despues de hacer un unico movimiento.
+Para iniciar el proceso hemos creado un primer individuo que representa el estado inicial del juego.
+Es decir, una ficha sobre el tablero colocada en la entrada del laberinto, que hemos situado en la casilla 'A1'.
 
-En la siguiente generacion, 
-estos hijos se han reproducido, creando los siguientes estados.
+Cuando llegue el tiempo de producir la siguiente generacion, el individuo se reproducira creando todos las hijos posibles.
+Todos los hijos son diferentes, y representan movimientos validos desde el estado del juego que representa el padre.
+Los hijos representan los estados del juego alcanzables despues de realizar un unico movimiento.
 
-y generacion tras generacion el proceso ha ido avanzando 
-hacia la solucion.
+Despues de crear a toda su descendencia el padre ya no es necesario y es eliminado.
+En la siguiente generacion, los nuevos individuos creados a su vez se reproduciran creando todos los hijos posibles, moviendo el juego hacia el siguiente estado.
+Y generacion tras generacion, el proceso continuara avanzando hacia su resolucion.
 
-Recordemos tambien, que han sido necesarias 7 generaciones para encontrar la respuesta.
-(ver cap XX pag xx dib xx)
+Recordemos tambien, que han sido necesarias 7 generaciones para encontrar la solucion.
+Cuantos individuos han sido creados durante el proceso ?
 
-Cuantos individuos han sido creados para encontrar la solucion ?
+-----------------------------------------------
 
--------------------------------
+
+teniendo en cuenta que
+
+un individuo que esta en un angulo del tablero, tendría 3 hijos
+
+
+un individuo que esta en un borde del tablero, tendria 5 hijos
+
+
+y un individuo que esta alejado del borde del tablero tendria 8 hijos.
+
 
 
 
