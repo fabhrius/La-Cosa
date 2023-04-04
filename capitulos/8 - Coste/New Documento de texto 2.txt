@@ -113,6 +113,87 @@ Sin embargo el calculo en detalle es complicado y no es importante tener una cif
 nos servira con tener una idea aproximada, de modo que simplificaremos el calculo.
 Lo que necesitamos ahora es hacernos una idea de como crecen las poblaciones se seres vivientes.
 
+---------------------------------------
+
+Veamos como crece la descendencia de un individuo, es decir, cuantos seran creados a partir de un unico individuo con el paso de las generaciones.
+Con la primera generacion, nacen 8 hijos.
+En la segunda generacion, los 8 hijos tendran 8 hijos cada uno, y por lo tanto, nacen 64 nuevos individuos con la segunda generacion.
+En la tercera generacion, los 64 nuevos individuos tendran 8 hijos cada uno, y por lo tanto, nacen 512 nuevos individuos con la tercera generacion.
+En la cuarta generacion, los 512 nuevos individuos tendran 8 hijos cada uno, y por lo tanto, nacen 4096 nuevos individuos con la cuarta generacion.
+
+El numero de individuos que son creados en cada generacion no se mantiene constante, sino que crece mucho, de una generacion a la siguiente.
+Hemos dicho que serian necesarias 7 generaciones para encontrar la solucion al problema del laberinto.
+Pues bien, en la primera generacion nacen 8 individuos, mientras que en la septima generacion nacen
+1 * 8 * 8 * 8 * 8 * 8 * 8 * 8, aproximadamente unos 2.000.000 
+
+Diremos que el crecimiento de la poblacion es EXPONENCIAL.
+Porque podemos calcular el numero de individuos que nacen en cada generacion como una potencia.
+En este caso es 8 elevado a 7.
+
+Observad que estos no son todos los individuos que han sido creados despues de 7 generaciones, solo son los que nacen en la septima.
+el numero total es, 8 elevado a 7 + 8 elevado a 6 + 8 elevado a 5 + ... etc.
+
+Lo importante aqui es que son muchos en pocas generaciones.
+Cuantos nacen en la octava generacion ? pues 8 elevado a 8, que seran aproximadamente unos 16 millones.
+
+La idea que quiero transmitir es que las poblaciones de seres vivientes crecen exponencialmente con el tiempo.
+En el caso del problema que hemos planteado como ejemplo, solo han sido necesarias 7 generaciones para encontrar la solucion.
+Pero que pasaria con problemas mas complejos que requieran mas calculos ?
+Que pasaria si hubieran sido necesarias 100  generaciones para encontrar la respuesta ?
+Pues que en la generacion numero 100 el numero de individuos que naceran se contarian como un numero de 100 digitos.
+Intentad expresar un numero como ese con palabras, para entender la magnitud.
+
+ 
+----------------------------------------
+
+
+Volvamos ahora al punto adonde yo intento materializar el sistema, construirlo fisicamente.
+
+He propuesto grabar a cada individuo en un disco de plastico como un CD, buscando una solucion economica.
+
+Asi, habrian sido necesarios 2 millones de CDs para recorrer 7 casillas del tablero.
+Esto nos permite hacernos una idea del elevado coste del sistema.
+
+Y cuantos CDs habrian sido necesarios para recorrer 10 casillas ?
+
+Pues, 8 elevado a 10, es decir, alrededor de 1000 millones de Cds.
+
+Solo incrementando en 3 casillas la distancia a recorrer
+Hemos pasado de 2 millones a 1000 millones.
+
+Y si las casillas a recorrer fueran 20 ?
+En ese caso, 8 elevado a 20 es 1.152.921.504.606.846.976
+
+El problema del laberinto es extremadamente simple.
+Que pasaria con un problema mas complejo ? Cuantos individuos deberiamos construir para el caso de una partida de ajedrez ?
+
+Muchos.
+Porque el numero de individuos necesarios (igual que el coste del sistema) se incrementa exponencialmente cuando aumenta la complejidad del problema que se quiere resolver.
+
+
+
+-----------------------------------------
+
+
+No olvidemos que el sistema esta vivo.
+Los individuos son seres vivientes.
+
+He utilizado la solucion con CDs porque es economica.
+Un CD es plastico, es barato.
+
+Me resulta imposible estimar el coste que podria tener crear una especie de seres vivientes.
+
+Quiero que se vea claramente el contraste.
+Porque lo que intento decir es que 
+
+no importa lo economica que pueda ser la solucion que encontremos, 
+
+aun cuando el coste de una unidad tiende a cero,
+el coste del sistema tiende a infinito rapidamente.
+
+
+
+
 
 
 
