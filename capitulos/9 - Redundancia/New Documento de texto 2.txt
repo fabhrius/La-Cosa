@@ -1,0 +1,41 @@
+
+la redundancia es una tecnica ampliamente utilizada en ciencias de la computacion.
+Consiste en hacer replicas de componentes criticos, software o hardware, o de informacion importante.
+Con el objetivo de incrementar la disponibilidad y protegerlos contra fallos o perdidas.
+
+
+Veamos un ejemplo.
+Digamos que tenemos un negocio que vende productos en Internet.
+Para vender nuestros productos tenemos un sistema informatico compuesto por una tienda (comercio electronico), que esta alojada en un computador que llamamos "Servidor".
+El servidor esta alojado en un edificio de oficinas.
+
+El negocio va bien hasta que un dia un terremoto destruye el edificio, y con el nuestro servidor.
+Todo nuestro negocio estaba en ese servidor, la plataforma software que mostraba la tienda en Internet, la informacion de los clientes, proveedores, las ventas, en fin, todo.
+Destruido el servidor, todo se ha perdido y ya no tenemos negocio.
+
+Para evitar esta situacion podriamos replicar el sistema, y colocar copias de la tienda en otros servidores, en otras ciudades.
+Digamos que tenemos un servidor en San Francisco, otro servidor en Orlando y otro servidor en Cleveland.
+Los 3 proporcionan los mismos servicios y trabajan juntos como una unidad.
+Y si alguno de ellos tuviera algun problema, podria ser eliminado de la red sin que el negocio se vea afectado.
+Los clientes que compran nuestros productos en la tienda no saben cual de los servidores les esta atendiendo.
+
+En esta situacion, habiendo redundado el sistema, la probabilidad de que un desastre natural destruya nuestro negocio es mas baja.
+
+
+-------------------------------------------------------
+
+Ahora volvamos al juego del laberinto.
+
+Hemos visto que después de 7 generaciones habían sido creados 2 millones de individuos.
+
+Veamos mas despacio como sucede esto.
+
+Pondré todas las fichas sobre un único tablero
+solo para ver como se ocupan las posiciones con el tiempo
+
+
+
+
+
+
+
