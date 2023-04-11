@@ -26,7 +26,9 @@ En esta situacion, habiendo redundado el sistema, la probabilidad de que un desa
 Ahora volvamos al juego del laberinto.
 
 Hemos visto que después de 7 generaciones habían sido creados algo asi como 2 millones de individuos.
-Veamos como sucede esto. Para ver como se van ocupando con el tiempo las diferentes posiciones, pondré todas las fichas sobre un único tablero .
+Veamos como sucede esto. Pondré las fichas de las jugadas que se iran generando sobre un único tablero juego para ver como se van ocupando las diferentes posiciones con el tiempo, y como evoluciona la poblacion.
+
+
 
 
 
