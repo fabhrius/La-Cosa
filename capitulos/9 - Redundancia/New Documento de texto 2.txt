@@ -1,4 +1,24 @@
 
+definicion
+ejemplo
+
+juego
+recordatorio coste
+crecimiento poblacion
+caracteristicas individuo
+destruccion de la poblacion
+reconstruccion
+valor
+
+
+
+
+
+
+
+------------------------------------------
+
+
 la redundancia es una tecnica ampliamente utilizada en ciencias de la computacion.
 Consiste en hacer replicas de componentes criticos, software o hardware, o de informacion importante.
 Con el objetivo de incrementar la disponibilidad y protegerlos contra fallos o perdidas.
@@ -25,15 +45,51 @@ En esta situacion, habiendo redundado el sistema, la probabilidad de que un desa
 
 Ahora volvamos al juego del laberinto.
 
+En el capitulo anterior, "Coste", hemos comentado que la poblacion crece exponencialmente.
+
+A medida que el tiempo avanza, cada vez se crean mas individuos por unidad de tiempo.
+haciendo que el numero de individuos de la poblacion tienda a infinito rapidamente.
+
+Esta caracteristica es de gran valor, lo veremos en el juego.
+
 Hemos visto que después de 7 generaciones habían sido creados algo asi como 2 millones de individuos.
-Veamos como sucede esto. Pondré las fichas de las jugadas que se iran generando sobre un único tablero juego para ver como se van ocupando las diferentes posiciones con el tiempo, y como evoluciona la poblacion.
+
+Veamos como sucede esto. Pondré las fichas de las jugadas que se iran generando sobre un único tablero de juego para ver como se van ocupando las diferentes posiciones con el tiempo, y ver como evoluciona la poblacion.
 
 
+(graficos)
+
+--------------------------------------
 
 
+Digamos que en este punto, un desastre natural destruye la poblacion.
+Esta es una posibilidad que es necesario tener en cuenta cuando hablamos del entorno natural.
+En general, el entorno natural, aunque hermoso, debe ser considerado un entorno hostil.
+
+la vida se expande explorando el entorno, sin saber con que se encontrara en el futuro.
+Es posible que no se encuentre con un escenario ideal y que tenga que luchar por la supervivencia.
+
+Supongamos entonces que se produce un cataclismo y que todos los individuos mueren, 
+todos excepto uno.
+
+Podemos simular esto en el juego eliminando a todos los individuos y dejando solo uno, 
+digamos que sobrevive un individuo en la posicion 'D5'.
+
+--------------------------
 
 
+Que sucedera ahora ?
+Lo que sucedera es que este único individuo se reproducirá y creará una familia.
+La familia continuara la exploracion y alguno de los descendientes encontrara la solución
 
+Porque cada uno de ellos tiene la capacidad de reproducirse y formar una familia.
+Cada uno de ellos iniciara una nueva búsqueda de la solución.
+Cada uno de ellos es un sistema completo, e independiente.
+
+Y en poco tiempo se crean millones de sistemas independientes todos buscando la misma solución por su cuenta.
+Esto hace que el sistema se altamente resistente.
+
+Una vez lanzado un proceso se vuelve imposible de detener.
 
 
 
