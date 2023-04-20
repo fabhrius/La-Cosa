@@ -1,0 +1,53 @@
+Definicion:
+
+La redundancia es una tecnica ampliamente utilizada en ciencias de la computacion que consiste en hacer replicas de componentes criticos, software o hardware, o de informacion importante, con el objetivo de incrementar la disponibilidad y protegerlos contra fallos o perdidas.
+
+-----------------------------
+
+
+Ejemplo:
+
+
+Veamos un ejemplo.
+Digamos que tenemos un negocio que vende productos en Internet.
+Para dar soporte al negocio  disponemos de un sistema informatico compuesto por una tienda virtual, o comercio electronico, y una base de datos, que almacena toda la informacion necesaria.
+Tanto la tienda virtual como la base de datos estan alojadas en un unico computador, que llamamos "servidor".
+Y el servidor esta alojado en un edificio de oficinas.
+
+Es un sistema simple, facilmente mantenible y economico.
+Sin embargo, presenta algunos problemas.
+
+Al ser un unico computador el que hace todo el trabajo, podria tener problemas de disponibilidad.
+Algunos clientes podrian no ser atendidos cuando el servidor se encuentra ocupado.
+Por el mismo motivo, al ser un unico computador el que hace todo el trabajo, el negocio podria dejar de trabajar, en caso de averia de la maquina.
+
+Un problema mas grave, es el de la perdida de la base de datos, que tambien esta alojada en este unico computador.
+La base de datos contiene toda la informacion del negocio, la ventas que hemos realizado, la informacion de los provedores, el producto disponible, etc.
+En caso de averia del servidor podriamos no poder recuperar la informacion, y en ese caso habriamos perdido el negocio completamente.
+
+Bastaria un accidente, como un incendio, para encontrarnos en el peor escenario.
+Pero recordemos que estamos hablando de la vida esforzandose por sobrevivir en el entorno natural.
+De modo que debemos pensar en algo mas parecido a los cataclismos naturales a lo que debe enfrentarse la vida.
+Digamos entonces que se produce un terremoto que destruye el edificio adonde se encuentra nuestro servidor.
+Asi, el servidor ha sido destruido por la naturaleza, y es irrecuperable.
+
+Esta situacion podria evitarse utilizando la redundancia.
+
+en el ejemplo anterior, un unico computador haciendo todo el trabajo podria presentar distintos problemas de disponibilidad,
+y almacenar toda la informacion en una unica base de datos, alojada fisicamente en un unico computador, podria  dar problemas de perdida de la informacion.
+Sera aconsejable por lo tanto redundar servidores y bases de datos.
+
+Digamos que colocamos 3 servidores en 3 edificios diferentes, en 3 ciudades diferentes.
+San Francisco, New York City y Chicago.
+
+Y con esta nueva configuracion, se produce otra catastrofe natural, un terremoto o un huracan o un gran incendio.
+La probabilidad de que los 3 servidores alojados en ciudades diferentes sean destruidos al mismo tiempo es ahora mucho mas baja.
+
+
+---------------------------
+
+Juego:
+
+
+
+

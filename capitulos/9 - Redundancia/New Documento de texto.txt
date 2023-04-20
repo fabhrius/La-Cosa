@@ -19,9 +19,7 @@ valor
 ------------------------------------------
 
 
-la redundancia es una tecnica ampliamente utilizada en ciencias de la computacion.
-Consiste en hacer replicas de componentes criticos, software o hardware, o de informacion importante.
-Con el objetivo de incrementar la disponibilidad y protegerlos contra fallos o perdidas.
+La redundancia es una tecnica ampliamente utilizada en ciencias de la computacion que consiste en hacer replicas de componentes criticos, software o hardware, o de informacion importante, con el objetivo de incrementar la disponibilidad y protegerlos contra fallos o perdidas.
 
 
 Veamos un ejemplo.
@@ -80,16 +78,54 @@ digamos que sobrevive un individuo en la posicion 'D5'.
 
 Que sucedera ahora ?
 Lo que sucedera es que este único individuo se reproducirá y creará una familia.
-La familia continuara la exploracion y alguno de los descendientes encontrara la solución
+La familia continuara la exploracion y alguno de los descendientes encontrara la solución al problema.
 
 Porque cada uno de ellos tiene la capacidad de reproducirse y formar una familia.
 Cada uno de ellos iniciara una nueva búsqueda de la solución.
 Cada uno de ellos es un sistema completo, e independiente.
 
-Y en poco tiempo se crean millones de sistemas independientes todos buscando la misma solución por su cuenta.
-Esto hace que el sistema se altamente resistente.
+Y en poco tiempo se crearan millones de sistemas independientes todos buscando la misma solución por su cuenta.
+Esto hace que el sistema sea altamente resistente.
 
-Una vez lanzado un proceso se vuelve imposible de detener.
+
+Una vez que un proceso es lanzado se vuelve cada vez mas dificil de detener con el paso del tiempo.
+
+Si pensamos en la extincion de los dinosaurios como el resultado de una catastrofe natural, vemos que la vida no se ha extinguido.
+Y que aunque es posible que desaparezcan especies, incluso un gran numero de ellas como ha pasado con los dinosaurios, es posible que no tenga un gran impacto sobre el proceso general.
+el calculo sigue adelante practicamente sin notar la diferencia.
+
+------------------------------------------
+
+
+
+En un capitulo anterior, dedicado a analizar el coste, comentábamos que un sistema de estas caracteristica tenía un coste muy elevado.
+
+En general, en ingenieria, un incremento en la calidad tendra impacto sobre los costes.
+La calidad tiene precio.
+
+Sin embargo, en el caso de sistemas vivientes, es mas importante encontrar la solución al problema, que los costes.
+En el caso de la vida, encontrar soluciones es una cuestion de vida o muerte.
+La vida intentara reducir costes alli adonde sea posible, pero siempre y cuando la calidad no se vea afectada.
+Porque si se trata de mantener la propia vida entonces la calidad debe ser la mas alta de las posibles, porque la vida no tiene reemplazo.
+
+Un ahorro en los costes tiene poco sentido cuando se pierde la vida a cambio.
+Del mismo modo, la redundancia del sistema permitira que el sistema continue funcionando hasta encontrar las respuestas que necesita, aunque deba buscar eternamente.
+
+Así, el sistema debe estar preparado para trabajar en un entorno desconocido y hostil.
+Para alcanzar este objetivo sera necesario un sistema a toda prueba, construido con la mas alta calidad posible.
+Lo que es incompatible con escatimar en los costes.
+
+A medida que pasa el tiempo se agregan mas y mas individuos al sistema, que son en realidad, mas y mas maquinas, que no son otra cosa que, mas y mas sistemas redundantes.
+Y el sistema se redunda hasta el infinito.
+
+El sistema no sabe lo que encontrará, ni lo que pasará en el futuro, pero aun en condiciones catastróficas debe continuar adelante.
+
+
+
+
+Ahora vemos que 
+la solidez del sistema justifica los costes.
+
 
 
 
