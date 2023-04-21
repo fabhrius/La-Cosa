@@ -46,7 +46,41 @@ La probabilidad de que los 3 servidores alojados en ciudades diferentes sean des
 
 ---------------------------
 
-Juego:
+Juego del laberinto:
+
+veamos otra vez como el sistema ha encontrado la solucion en el juego del laberinto para ver como 
+la redundancia se aplica en sistemas de este tipo y como se transforma en una caracteristica de gran valor.
+
+Recordemos que la busqueda de la solucion se inicia con la creacion del primer individuo de la especie.
+En este punto, la especie es vulnerable, y la muerte de este primer individuo destruye la maquina por completo.
+Sin embargo, el individuo inicial se reproduce, creando nuevos componentes con la misma capacidad de trabajo, funcionalmente identicos, al primer individuo.
+Podemos llamar a esto redundancia.
+
+
+Coste:
+
+en el capitulo dedicado a costes, hemos comentado como con el paso del tiempo, se generaban mas y mas individuos.
+Hemos visto como en apenas 7 generaciones la poblacion estaba compuesta por millones de individuos, partiendo de un unico individuo.
+Comentamos que sucede de esta forma porque la poblacion crece exponencialmente con el tiempo, y del mismo modo crece el coste, exponencialmente.
+Este tipo de crecimiento hara que el numero de individuos tienda a infinito rapidamente, al igual que el coste.
+
+Se trata por lo tanto de un sistema con un coste muy elevado.
+
+------------
+
+
+Crecimiento de la poblacion:
+
+Pero veamos como se han ido creando estos individuos.
+simulare las 3 primeras generaciones y colocare todas las fichas sobre un unico tablero para ver como se van cubriendo las posiciones con el tiempo y hacernos una idea de la forma en que crece la poblacion.
+
+
+Graficos y recuento.
+
+
+------------
+
+
 
 
 
