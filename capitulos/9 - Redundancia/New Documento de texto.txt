@@ -130,3 +130,8 @@ la solidez del sistema justifica los costes.
 
 
 
+------------------
+
+3 gen :
+
+3*3 + 8*5 + 7*8 = 9 + 40 + 56 = 105

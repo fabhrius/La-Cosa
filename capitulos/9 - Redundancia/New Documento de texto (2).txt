@@ -72,13 +72,43 @@ Se trata por lo tanto de un sistema con un coste muy elevado.
 Crecimiento de la poblacion:
 
 Pero veamos como se han ido creando estos individuos.
-simulare las 3 primeras generaciones y colocare todas las fichas sobre un unico tablero para ver como se van cubriendo las posiciones con el tiempo y hacernos una idea de la forma en que crece la poblacion.
+simulare las 3 primeras generaciones y colocare todas las fichas sobre un unico tablero para ver como se van cubriendo las posiciones con el tiempo y, al mismo tiempo, hacernos una idea de la forma en que crece la poblacion.
 
 
 Graficos y recuento.
 
 
 ------------
+
+Rasgos caracteristicos de los individuos:
+
+observad que existen varios individuos ocupando las mismas posiciones en el tablero.
+Estan superpuestos.
+Esto puede crear la ilusion de que algunos individuos estan repetidos, pero no es asi.
+Todos los individuos son diferentes, no existen 2 individuos iguales.
+Aunque muchos ocupan las mismas posiciones en el tablero, sus padres son diferentes, y el camino que su familia ha recorrido para llegar hasta este punto es diferente.
+Esta informacion esta grabada en su ADN, y por lo tanto, los individuos son diferentes.
+Diferentes en cuanto a la informacion que contienen.
+
+Y sin embargo, identicos, en cuanto a su funcionalidad.
+Todos los individuos se reproducen, todos almacenan informacion que los describe, todos moriran, todos buscan la misma respuesta, todos ellos tendran el mismo ciclo de vida y actuaran del mismo modo.
+
+El sistema se compone de la poblacion total de individuos, todos ellos juntos forman el sistema.
+Sin embargo, al principio, en el estado inicial, el sistema esta formado por un unico individuo con la capacidad de lanzar el proceso de busqueda y formar un sistema complejo.
+Todos los individuos del sistema tienen estas mismas capacidades, y cada uno de ellos es un nuevo sistema independiente.
+
+
+---------------
+
+Destruccion de la poblacion:
+
+En la tienda online que propuse al principio de este capitulo como ejemplo de redundancia, un desastre natural destruia el unico servidor que daba soporte al negocio.
+Posteriormente agregamos otros servidores identicos al primero en otras ciudades para reducir la probabilidad de perdida del negocio en caso de producirse un imprevisto catastrofico.
+Y asi, utilizando la redundancia, incrementamos la resistencia del sistema a los accidentes.
+
+Haremos lo mismo ahora con el sistema de seres vivientes y el problema del laberinto.
+Simularemos una catastrofe natural para ver como funciona la redundancia en este caso.
+
 
 
 
