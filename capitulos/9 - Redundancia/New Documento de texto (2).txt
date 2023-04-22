@@ -109,9 +109,44 @@ Y asi, utilizando la redundancia, incrementamos la resistencia del sistema a los
 Haremos lo mismo ahora con el sistema de seres vivientes y el problema del laberinto.
 Simularemos una catastrofe natural para ver como funciona la redundancia en este caso.
 
+Esta es una posibilidad que es necesario tener presente cuando hablamos de seres vivientes en el entorno natural.
+Muchas cosas podrian pasar como fuertes variaciones en la temperatura ambiente, sequias, huracanes, inundaciones, etc.
+Digamos entonces que se produce un terrible cataclismo, algo como lo que pudo haber pasado con los dinosaurios, y que danya severamente a la poblacion de esta especie.
+
+Y casi todos los individuos mueren, todos excepto uno.
+Un unico superviviente.
+
+Podemos simular esto en el juego eliminando todas las fichas que hemos colocado sobre el tablero y dejando solo una.
+Digamos que el unico superviviente ocupa la posicion 'D5'.
+
+
+-----------------
+
+Reconstruccion:
 
 
 
+Que sucedera ahora ?
+Lo que sucedera es que este único individuo se reproducirá y creará una familia.
+La familia continuara la exploracion y alguno de los descendientes encontrara la solución al problema.
+
+Porque cada uno de ellos tiene la capacidad de reproducirse y formar una familia.
+Cada uno de ellos iniciara una nueva búsqueda de la solución.
+Cada uno de ellos es un sistema completo, e independiente.
+
+Y en poco tiempo se crearan millones de sistemas independientes todos buscando la misma solución por su propio camino.
+Esta redundancia confiere al sistema una extraordinaria resistencia.
+
+Una vez que un proceso es lanzado se vuelve cada vez mas dificil de detener con el paso del tiempo.
+
+Si pensamos en la extincion de los dinosaurios como el resultado de una catastrofe natural, vemos que la vida no se ha extinguido.
+Y que aunque es posible que desaparezcan especies, incluso un gran numero de ellas como ha pasado con los dinosaurios, es posible que no tenga un gran impacto sobre el proceso general de la vida.
+
+
+----------------------
+
+
+Valor:
 
 
 
