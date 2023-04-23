@@ -104,21 +104,23 @@ Destruccion de la poblacion:
 
 En la tienda online que propuse al principio de este capitulo como ejemplo de redundancia, un desastre natural destruia el unico servidor que daba soporte al negocio.
 Posteriormente agregamos otros servidores identicos al primero en otras ciudades para reducir la probabilidad de perdida del negocio en caso de producirse un imprevisto catastrofico.
-Y asi, utilizando la redundancia, incrementamos la resistencia del sistema a los accidentes.
+Y de ese modo, utilizando la redundancia, incrementamos la resistencia del sistema a los accidentes.
 
 Haremos lo mismo ahora con el sistema de seres vivientes y el problema del laberinto.
 Simularemos una catastrofe natural para ver como funciona la redundancia en este caso.
 
-Esta es una posibilidad que es necesario tener presente cuando hablamos de seres vivientes en el entorno natural.
-Muchas cosas podrian pasar como fuertes variaciones en la temperatura ambiente, sequias, huracanes, inundaciones, etc.
-Digamos entonces que se produce un terrible cataclismo, algo como lo que pudo haber pasado con los dinosaurios, y que danya severamente a la poblacion de esta especie.
+Las catastrofes son una posibilidad que es necesario tener presente cuando hablamos de seres vivientes que deben sobrevivir en el entorno natural.
+Muchas cosas podrian pasar, como fuertes variaciones en la temperatura ambiente, sequias, huracanes, inundaciones, etc.
+El entorno natural es de una gran belleza, sin embargo, cuando el objetivo es asegurar la supervivencia de una colonia de seres vivientes, considerarlo un entorno hostil ayudara a gestionar el riesgo de forma mas adecuada.
 
+Digamos entonces que se produce un terrible cataclismo, algo como lo que pudo haber pasado con los dinosaurios, y que danya severamente a la poblacion de esta especie.
 Y casi todos los individuos mueren, todos excepto uno.
 Un unico superviviente.
 
-Podemos simular esto en el juego eliminando todas las fichas que hemos colocado sobre el tablero y dejando solo una.
+Podemos simular esto en el juego eliminando todas las fichas que hemos colocado sobre el tablero y dejando solo una, cualquiera de ellas.
 Digamos que el unico superviviente ocupa la posicion 'D5'.
 
+(grafico)
 
 -----------------
 
@@ -127,26 +129,60 @@ Reconstruccion:
 
 
 Que sucedera ahora ?
-Lo que sucedera es que este único individuo se reproducirá y creará una familia.
-La familia continuara la exploracion y alguno de los descendientes encontrara la solución al problema.
+Lo que sucedera es que este único individuo se reproducirá y formara una familia.
+La familia continuara la exploracion y alguno de los descendientes, eventualmente, encontrara la solución al problema.
 
 Porque cada uno de ellos tiene la capacidad de reproducirse y formar una familia.
 Cada uno de ellos iniciara una nueva búsqueda de la solución.
 Cada uno de ellos es un sistema completo, e independiente.
 
-Y en poco tiempo se crearan millones de sistemas independientes todos buscando la misma solución por su propio camino.
+Y en poco tiempo se crearan millones de sistemas independientes, todos buscando la solución al mismo problema, por su propio camino.
 Esta redundancia confiere al sistema una extraordinaria resistencia.
 
-Una vez que un proceso es lanzado se vuelve cada vez mas dificil de detener con el paso del tiempo.
+Una vez que un proceso es lanzado se vuelve, con el paso del tiempo, cada vez mas dificil de detener.
 
-Si pensamos en la extincion de los dinosaurios como el resultado de una catastrofe natural, vemos que la vida no se ha extinguido.
-Y que aunque es posible que desaparezcan especies, incluso un gran numero de ellas como ha pasado con los dinosaurios, es posible que no tenga un gran impacto sobre el proceso general de la vida.
+Si pensamos en la extincion de los dinosaurios como el resultado de una catastrofe natural, no resulta sorprendente, que la vida no se ha extinguido con ellos.
+Y que aunque es posible que desaparezcan especies, incluso un gran numero de ellas como ha pasado con los dinosaurios, tambien es posible que esta catastrofe, no tenga un gran impacto sobre el proceso general de la vida.
+
+A medida que pasa el tiempo, se crean mas y mas individuos, mas y mas especies, y el sistema se vuelve cada vez mas solido, mas estable, mas resistente.
 
 
 ----------------------
 
 
 Valor:
+
+Comentábamos que un sistema de estas caracteristica tiene un coste muy elevado.
+
+En general, en proyectos de ingenieria, un incremento en la calidad incrementara tambien los costes.
+Porque la calidad tiene precio.
+
+Sin embargo, en el caso de sistemas vivientes, la calidad es mas importante que los costes.
+La vida intentara reducir costes alli adonde sea posible, pero solo cuando la calidad no se vea afectada.
+Cuando se trata de mantener la propia vida la calidad debera ser la mas alta de las posibles, porque la vida no tiene reemplazo.
+Y un ahorro en los costes tiene poco sentido cuando se pierde la vida a cambio.
+
+
+----
+
+Del mismo modo, la redundancia del sistema permitira que el sistema continue funcionando hasta encontrar las respuestas que necesita, aunque deba buscar eternamente.
+
+Así, el sistema debe estar preparado para trabajar en un entorno desconocido y hostil.
+Para alcanzar este objetivo sera necesario un sistema a toda prueba, construido con la mas alta calidad posible.
+Lo que es incompatible con escatimar en los costes.
+
+A medida que pasa el tiempo se agregan mas y mas individuos al sistema, que son en realidad, mas y mas maquinas, que no son otra cosa que, mas y mas sistemas redundantes.
+Y el sistema se redunda hasta el infinito.
+
+El sistema no sabe lo que encontrará, ni lo que pasará en el futuro, pero aun en condiciones catastróficas debe continuar adelante.
+
+
+
+
+Ahora vemos que 
+la solidez del sistema justifica los costes.
+
+
 
 
 
