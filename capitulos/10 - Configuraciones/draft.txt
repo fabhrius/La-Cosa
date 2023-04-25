@@ -1,11 +1,15 @@
 Relacion entre especies y problemas:
 
 
-Como hemos visto el individuo se crea a la medida del problema.
-Un individuo debe representar un estado del proceso de resolucion del problema.
+Hemos visto como en este modelo, el individuo debe representar un estado en el proceso de resolucion del problema que se quiere resolver.
+Y por lo tanto, la forma del individuo estara adaptada a un problema concreto, y no sera util para abordar problemas diferentes.
+Asi, para que una maquina de este tipo pueda trabajar con diferentes problemas, sera necesario crear especies diferentes.
 
-asi, crearemos especies diferentes,
-dependiendo del problema que se quiera abordar.
+
+
+-------
+
+
 
 en el caso del laberinto,
 es necesario recordar en que estado habia quedado el juego en un instante del tiempo,
