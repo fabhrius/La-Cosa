@@ -1,0 +1,35 @@
+Relacion entre especies y problemas:
+
+
+Como hemos visto el individuo se crea a la medida del problema.
+Un individuo debe representar un estado del proceso de resolucion del problema.
+
+asi, crearemos especies diferentes,
+dependiendo del problema que se quiera abordar.
+
+en el caso del laberinto,
+es necesario recordar en que estado habia quedado el juego en un instante del tiempo,
+de modo que un tablero con una ficha, una posicion y la trayectoria pasada,
+es lo mas adecuado.
+
+en el caso de la combinacion numerica que hemos visto,
+los individuos almacenan una combinacion numerica.
+
+el individuo que representa un estado del juego del laberinto no nos serviria en este caso,
+y sera necesario crear una especie diferente.
+
+Y en el caso de una partida de ajedrez,
+un individuo tendra que almacenar un estado de la partida,
+asi como los movimientos anteriores realizados por sus antepasados.
+
+
+asi crearemos una nueva especie
+por cada nuevo problema que queramos abordar,
+una especie a la medida.
+
+los individuos de una especie son ligeramente diferentes de
+los individuos de otra especie.
+
+La maquina es la misma,
+el sistema es el mismo,
+pero los individuos de las diferentes especies difieren en su configuracion.

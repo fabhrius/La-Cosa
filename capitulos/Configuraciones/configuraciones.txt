@@ -1,4 +1,16 @@
-hemos visto como el individuo se crea a la medida del problema.
+
+Especie y problema
+tipos de reproduccion
+Reproduccion asexual
+Reproduccion sexual
+
+
+----------------------------------
+
+Relacion entre especies y problemas:
+
+
+Como hemos visto el individuo se crea a la medida del problema.
 Un individuo debe representar un estado del proceso de resolucion del problema.
 
 asi, crearemos especies diferentes,
@@ -37,6 +49,7 @@ una diferencia en la configuracion de las especies es la forma de reproduccion.
 
 
 
+Tipos de reproduccion:
 
 Reproduccion sexual vs reproduccion asexual
 
@@ -58,6 +71,9 @@ Sera necesario encontrar el equilibrio ideal entre prestaciones, calidad y coste
 la reproduccion sexual brinda mejores prestaciones, pero tiene un coste mas elevado.
 por lo tanto, solo la utilizaremos cuando sea necesario.
 
+--------------------
+
+Reproduccion asexual:
 
 en el caso del juego del laberinto,
 los individuos se reproducian asexualmente.
@@ -98,6 +114,10 @@ pero no con otras familias.
 aquellas familias que no hayan aprendido a adaptarse moriran.
 aquellas familias que se hayan adaptado sobreviviran formando una cepa resistente.
 toda la descendencia heredara este conocimiento.
+
+-----------------------------
+
+Reproduccion sexual:
 
 
 Existen otros problemas, sin embargo,
