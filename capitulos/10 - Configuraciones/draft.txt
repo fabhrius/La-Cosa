@@ -2,38 +2,31 @@ Relacion entre especies y problemas:
 
 
 Hemos visto como en este modelo, el individuo debe representar un estado en el proceso de resolucion del problema que se quiere resolver.
-Y por lo tanto, la forma del individuo estara adaptada a un problema concreto, y no sera util para abordar problemas diferentes.
-Asi, para que una maquina de este tipo pueda trabajar con diferentes problemas, sera necesario crear especies diferentes.
+Por lo tanto, la forma del individuo estara adaptada a un problema concreto, y no sera util para abordar otros problemas.
+Asi, para que una maquina de este tipo pueda trabajar con problemas diferentes, sera necesario crear especies diferentes.
+
+En el caso del problema del laberinto, es necesario recordar en que estado ha quedado el juego en un instante del tiempo,
+de modo que lo mas adecuado para resolver este problema sera, un individuo con la forma de un tablero con una ficha, e informacion acerca de, 
+la posicion en que se encuentra la ficha en el tablero y
+el camino que la ficha ha recorrido desde la posicion inicial hasta la posicion actual.
+
+Si quisieramos encontrar la forma de ganar en el juego de ajedrez
+creariamos una nueva especie en donde, 
+los individuos representan el estado en que se encuentra la partida en un instante del tiempo, 
+para esto, el individuo tendra la forma de un tablero de ajedrez con un conjunto de fichas en posiciones determinadas, 
+e informacion acerca de,
+todos los movimientos que se han realizado desde el comienzo de la partida, 
+y un indicador que muestre cual de los 2 jugadores movera a continuacion.
+
+Entonces, los individuos de 2 especies diferentes seran ligeramente diferentes.
+Aunque, la maquina es la misma, el sistema es el mismo, y los individuos, funcionalmente son identicos (contienen informacion, nacen, se reproducen y mueren), 
+son diferentes en cuanto a la informacion que contienen, que esta adaptada para modelar diferentes problemas.
+
+Esto hace que individuos de diferentes especies sean incompatibles, ya que un individuo adaptado al problema del laberinto no es util en el problema del ajedrez y biceversa.
+
+----------------
 
 
-
--------
-
+Tipos de reproduccion:
 
 
-en el caso del laberinto,
-es necesario recordar en que estado habia quedado el juego en un instante del tiempo,
-de modo que un tablero con una ficha, una posicion y la trayectoria pasada,
-es lo mas adecuado.
-
-en el caso de la combinacion numerica que hemos visto,
-los individuos almacenan una combinacion numerica.
-
-el individuo que representa un estado del juego del laberinto no nos serviria en este caso,
-y sera necesario crear una especie diferente.
-
-Y en el caso de una partida de ajedrez,
-un individuo tendra que almacenar un estado de la partida,
-asi como los movimientos anteriores realizados por sus antepasados.
-
-
-asi crearemos una nueva especie
-por cada nuevo problema que queramos abordar,
-una especie a la medida.
-
-los individuos de una especie son ligeramente diferentes de
-los individuos de otra especie.
-
-La maquina es la misma,
-el sistema es el mismo,
-pero los individuos de las diferentes especies difieren en su configuracion.
