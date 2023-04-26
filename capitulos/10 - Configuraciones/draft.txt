@@ -20,7 +20,7 @@ y un indicador que muestre cual de los 2 jugadores movera a continuacion.
 
 Entonces, los individuos de 2 especies diferentes seran ligeramente diferentes.
 Aunque, la maquina es la misma, el sistema es el mismo, y los individuos, funcionalmente son identicos (contienen informacion, nacen, se reproducen y mueren), 
-son diferentes en cuanto a la informacion que contienen, que esta adaptada para modelar diferentes problemas.
+son diferentes en cuanto a la informacion que contienen, que esta adaptada para modelar problemas diferentes.
 
 Esto hace que individuos de diferentes especies sean incompatibles, ya que un individuo adaptado al problema del laberinto no es util en el problema del ajedrez y biceversa.
 
@@ -30,3 +30,39 @@ Esto hace que individuos de diferentes especies sean incompatibles, ya que un in
 Tipos de reproduccion:
 
 
+Ademas de el conjunto de datos que da forma a los individuos, otra diferencia en la configuracion de las distintas especies es la forma de reproduccion que utiliza.
+Y podemos separar a todas las especies de seres vivientes en 2 conjuntos, los que utilizan reproduccion "asexual", y los que utlizan reproduccion "sexual".
+
+De los dos, el tipo mas simple es la reproduccion asexual.
+En donde un individuo se reproduce por si solo, esto facilita el proceso y podemos atribuirle un coste mas bajo.
+Un ejemplo de seres vivientes que utilizan reproduccion asexual son las bacterias.
+
+
+El tipo de reproduccion sexual es mas complejo.
+Un individuo no puede reproducirse por si solo, son necesarios 2 individuos de sexos diferentes, esto complica el proceso y por lo tanto podemos atribuirle un coste mas elevado.
+Ejemplos de seres vivientes que utilizan la reproduccion sexual son los mamiferos.
+
+Recordemos que estamos desarrollando un prototipo de computador, una maquina de calculo.
+De modo que, desde el punto de vista de la ingenieria buscaremos optimizar la solucion encontrada, y el coste es algo que debemos tener en cuenta.
+Nuestro deseo sera, maximizar la calidad y las prestaciones del modelo.
+Y al mismo tiempo querremos minimizar los costes.
+
+Pero sucede que, al aumentar la calidad, tambien aumenta el coste.
+Y lo mismo sucede con las prestaciones, mas prestaciones implican mayores costes.
+
+Sera necesario encontrar el equilibrio ideal entre calidad, prestaciones y coste.
+La minima calidad que sea suficiente para alcanzar los objetivos, e incluir unicamente las prestaciones que sean estrictamente necesarias.
+
+La reproduccion sexual brinda mejores prestaciones, pero tiene un coste mas elevado, y por lo tanto, utilizaremos este tipo de reproduccion solo cuando sea absolutamente necesario.
+En otro caso, nos decantaremos por la reproduccion asexual.
+
+
+---------------
+
+
+Reproduccion asexual:
+
+
+
+
+-----------------------------
