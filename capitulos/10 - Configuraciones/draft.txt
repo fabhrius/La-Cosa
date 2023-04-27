@@ -48,7 +48,7 @@ Nuestro deseo sera, maximizar la calidad y las prestaciones del modelo.
 Y al mismo tiempo querremos minimizar los costes.
 
 Pero sucede que, al aumentar la calidad, tambien aumenta el coste.
-Y lo mismo sucede con las prestaciones, mas prestaciones implican mayores costes.
+Y lo mismo sucede con las prestaciones, mas o mejores prestaciones implican costes mayores.
 
 Sera necesario encontrar el equilibrio ideal entre calidad, prestaciones y coste.
 La minima calidad que sea suficiente para alcanzar los objetivos, e incluir unicamente las prestaciones que sean estrictamente necesarias.
@@ -62,7 +62,124 @@ En otro caso, nos decantaremos por la reproduccion asexual.
 
 Reproduccion asexual:
 
+En el juego del laberinto que hemos utilizado como ejemplo, hemos creado un individuo que se reproducia asexualmente.
+Llegado el tiempo de producir la siguiente generacion, el individuo generaba sus hijos espontaneamente, por si solo.
 
+Para encontrar la solucion que buscabamos la reproduccion asexual era suficiente, porque solo queremos conocer alguno de todos los caminos que llevan a la salida del laberinto.
+No todos los caminos, sino uno cualquiera de todos los posibles.
+
+En este modelo, el individuo que ha encontrado la salida conoce el camino que va desde la entrada hasta la salida del laberinto.
+Pero esta informacion no es compartida con el resto de los individuos de la especie.
+
+Sin embargo, el individuo que ha encontrado la respuesta compartira este conocimiento con su descendencia.
+Sus descendientes heredaran el conocimiento.
+
+Cada familia explorara su propio camino y el conocimiento que adquieran con su experiencia sera exclusivo de la familia.
+No sera compartido con otras familias.
+
+Este tipo de reproduccion, es suficiente para abordar cierta clase de problemas.
+
+Las bacterias se reproducen asexualmente.
+Podemos ver como las bacterias con el paso de las generaciones aprenden a sobrevivir a los antibioticos.
+
+Del mismo modo que los individuos del laberinto han encontrado la salida,
+las bacterias que aprendan a sobrevivir a los antibioticos compartiran el conocimiento con su descendencia, pero no con otras familias.
+
+Aquellas familias que no hayan aprendido a adaptarse moriran.
+Y aquellas familias que se hayan adaptado sobreviviran formando una cepa resistente, y toda la descendencia heredara este conocimiento.
 
 
 -----------------------------
+
+Reproduccion sexual:
+
+
+Existen otros problemas, sin embargo, en donde la reproduccion asexual no sera suficiente para encontrar la solucion.
+
+Como ejemplo, veamos lo que sucede si queremos que, un sistema computacional formado por especies de seres vivientes, adquiera el conocimiento necesario para ganar 
+en el juego del ajedrez.
+El objetivo en este caso es que sepa como ganar la partida en cualquier situacion, sin importar en que estado se encuentre el juego, debe conocer el camino que le lleve a cualquiera de los posibles estados finales en donde la maquina gana.
+
+En el juego del laberinto existen mas de una solucion posible.
+Recordemos que el objetivo era encontrar el camino que va desde la entrada del laberinto hasta la salida.
+Y caminos que llevan hasta la salida existen muchos diferentes, mas de uno.
+
+Hemos detenido la simulacion cuando un individuo ha encontrado la primera solucion.
+Pero si dejamos que el proceso continue, otros individuos tambien encontraran la salida habiendo recorrido caminos diferentes del primero.
+
+
+------------------------------------------------------------
+
+
+
+el segundo individuo que encuentre la salida, conocera un camino diferente del primero,
+pero no los 2 caminos.
+porque la informacion no se comparte con el resto de la especie, sino solo con los descendientes.
+
+en el juego de ajedrez sucedera lo mismo.
+existen muchas formas de ganar la partida.
+Algunos individuos encontraran estados finales, pero no conoceran todas las posibles formas de ganar,
+solo conoceran el camino que ha seguido su familia.
+cuando la reproduccion es asexual.
+
+Pero queremos una maquina que sepa ganar una partida de ajedrez en cualquier situacion.
+
+Veamos lo que sucede cuando la reproduccion  es sexual.
+
+
+cuantas posibles configuraciones podria tener un tablero de ajedrez en un instante de una partida ?
+muchas.
+podrian formarse muchos tableros diferentes.
+y cuantas formas distintas de ganar una partida podria haber ?
+muchas.
+
+si creamos una especie en donde un individuo representa una estado cualquiera en un instante de una partida de ajedrez,
+es posible que exista un individuo de esta especie que conozca todos los posibles tableros y todas las posibles formas de ganar una partida ?
+
+no si la reproduccion es asexual.
+pero veamos los que sucede con la reproduccion sexual.
+
+en la reproduccion sexual son necesarios 2 individuos.
+y el hijo obtiene la informacion que han recopilado 2 familias diferentes.
+
+digamos que un individuo alcanza un estado final, y conoce una forma de ganar la partida,
+tambien conoce todos los tableros que le llevan a ese estado final, la trajectoria de su familia.
+
+pero solo conoce el camino que ha seguido su familia.
+desde cualquiera de los tablero conocidos podria encontrar el camino hacia el estado final que el conoce,
+pero existen muchos tableros desconocidos para el.
+
+desde cualquiera de estos tableros desconocidos no sabria porque camino continuar para ganar la partida.
+
+supongamos entonces que
+este individuo que conoce una forma de ganar particular
+se reproduce sexualmente con otro individuo que conoce otra forma de ganar la partida,
+entonces el hijo, y los futuros descendientes, 
+conoceran los 2 caminos que llevan a ganar la partida de 2 formas diferentes.
+
+digamos que uno de estos descendientes,
+se reproduce sexualmente con otro individuo que conoce otra forma diferente de ganar la partida.
+entonces el hijo, y los descendientes, conoceran 3 formas diferentes de ganar la partida, 
+3 caminos distintos que llevan a distintos estados finales.
+
+y el proceso de asimilar conocimiento de otras familias continuara.
+y con el tiempo,
+un individuo conocera todas las posibles formas de ganar la partida,
+conocera todos los posibles tableros que puedan configurarse en una partida de ajedrez.
+
+este individuo,
+no importa en que situacion se encuentre,
+siempre estara en un tablero conocido,
+y siempre sabra cual es la siguiente jugada que le pondra en camino de ganar la partida.
+
+el sistema al principio no sabe nada,
+pero pasado el tiempo de "puesta en marcha"
+el sistema llegara a saberlo todo.
+
+Y un individuo con este conocimiento es potencialmente "imbatible".
+
+la reproduccion sexual tiene un coste elevado.
+pero dota a la especie que la utiliza de una gran inteligencia.
+
+
+
