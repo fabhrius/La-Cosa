@@ -105,77 +105,58 @@ Recordemos que el objetivo era encontrar el camino que va desde la entrada del l
 Y caminos que llevan hasta la salida existen muchos diferentes, mas de uno.
 
 Hemos detenido la simulacion cuando un individuo ha encontrado la primera solucion.
-Pero si dejamos que el proceso continue, otros individuos tambien encontraran la salida habiendo recorrido caminos diferentes del primero.
+Pero si dejamos que el proceso continue, otros individuos tambien encontraran la salida habiendo recorrido caminos diferentes.
 
 El segundo individuo que encuentre la salida, conocera un camino diferente del que ha utilizado el primero, pero no los 2 caminos.
-Porque la informacion no se comparte con el resto de la especie, sino solo con los descendientes.
+Porque el conocimiento adquirido por la familia no se comparte con el resto de la especie, sino solo con los descendientes.
 
 Y sucedera algo parecido con el juego de ajedrez.
 Existen muchas formas diferentes de ganar una partida de ajedrez.
-Si adaptamos un nueva especie para encontrar la forma de ganar al ajedrez, sucedera que algunos individuos llegaran a estados finales, pero no conoceran todas las posibles formas de ganar la partida.
+Si adaptamos un nueva especie para encontrar la forma de ganar en el juego de ajedrez, sucedera que algunos individuos llegaran a estados finales, pero no conoceran todas las posibles formas de ganar la partida.
 Solo conoceran el camino que han recorrido sus antepasados y el estado final al que han conseguido llegar, pero nada mas.
-Solo una de las posibles soluciones, alcanzada por un unico camino particular.
+Solo una de las posibles soluciones, alcanzada recorriendo un unico camino particular.
 No sera suficiente para darnos la respuesta que buscamos.
 
 Y este sera el resultado que obtendremos cuando la reproduccion es asexual.
 
-Queremos una maquina que sepa como ganar una partida de ajedrez en cualquier situacion.
-Para conseguir esto, la maquina debe conocer todos las posibles configuraciones de tablero por las que podria pasar una partida, 
+Pero queremos una maquina que sepa como ganar una partida de ajedrez en cualquier situacion.
+Para conseguir esto, un individuo deberia conocer todos las posibles configuraciones de tablero por las que podria pasar una partida, 
 y todas las posibles formas de ganar.
-Solo asi, la maquina podra decir, a partir de un estado cualquiera del juego, cual es el camino a traves de los estados, que lleva a un estado final.
+Solo asi, este individuo podria decir, a partir de un estado cualquiera del juego, cual es el camino a traves de los estados, que lleva a un estado final.
 Y esto no es posible cuando la reproduccion es asexual.
 
 Veamos ahora lo que sucede cuando la maquina utiliza la reproduccion sexual.
 
+
+
 ------------------------------------------------------------
 
 
+Para llevar a cabo una reproduccion de tipo sexual son necesarios 2 individuos.
+El hijo, es el resultado de la combinacion de padre y madre, y obtiene la informacion que han recopilado 2 familias diferentes.
 
+Digamos que un individuo alcanza un estado final, y conoce una forma de ganar la partida,
+Tambien conocera todos los tableros que forman el camino que le llevan a ese estado final, la trajectoria recorrida por su familia.
 
+Pero conoce unicamente el camino que ha recorrido su familia.
+Desde cualquiera de los tableros conocidos podria encontrar el camino hacia el estado final que el conoce.
+Pero existen muchos tableros desconocidos para el, y desde cualquiera de estos tableros desconocidos no sabria porque camino continuar para ganar la partida.
 
-
-
-en la reproduccion sexual son necesarios 2 individuos.
-y el hijo obtiene la informacion que han recopilado 2 familias diferentes.
-
-digamos que un individuo alcanza un estado final, y conoce una forma de ganar la partida,
-tambien conoce todos los tableros que le llevan a ese estado final, la trajectoria de su familia.
-
-pero solo conoce el camino que ha seguido su familia.
-desde cualquiera de los tablero conocidos podria encontrar el camino hacia el estado final que el conoce,
-pero existen muchos tableros desconocidos para el.
-
-desde cualquiera de estos tableros desconocidos no sabria porque camino continuar para ganar la partida.
-
-supongamos entonces que
-este individuo que conoce una forma de ganar particular
-se reproduce sexualmente con otro individuo que conoce otra forma de ganar la partida,
-entonces el hijo, y los futuros descendientes, 
-conoceran los 2 caminos que llevan a ganar la partida de 2 formas diferentes.
+Supongamos ahora que este individuo que conoce una forma de ganar particular, se reproduce sexualmente con otro individuo que conoce otra forma diferente de ganar el juego.
+Entonces el hijo, resultado de la combinacion de los dos, y los futuros descendientes, conoceran 2 caminos que llevan a ganar la partida de 2 formas diferentes.
 
 digamos que uno de estos descendientes,
-se reproduce sexualmente con otro individuo que conoce otra forma diferente de ganar la partida.
-entonces el hijo, y los descendientes, conoceran 3 formas diferentes de ganar la partida, 
-3 caminos distintos que llevan a distintos estados finales.
+se reproduce sexualmente con otro individuo que conoce otra forma diferente de ganar el juego.
+Entonces el hijo resultante, y los descendientes de este, conoceran 3 formas diferentes de ganar la partida, 3 caminos distintos que llevan, posiblemente, a distintos estados finales.
 
-y el proceso de asimilar conocimiento de otras familias continuara.
-y con el tiempo,
-un individuo conocera todas las posibles formas de ganar la partida,
-conocera todos los posibles tableros que puedan configurarse en una partida de ajedrez.
+A partir de aqui, como podeis imaginar, el proceso de asimilar conocimiento adquirido por otras familias continuara, y con el tiempo, un individuo conocera todas las posibles formas de ganar el juego, conocera todos los posibles tableros que puedan configurarse en una partida de ajedrez, y conocera todos los caminos que llevan, desde cualquiera de los estados, hasta cualquiera de los estados finales alcanzables, en donde la maquina gana la partida.
 
-este individuo,
-no importa en que situacion se encuentre,
-siempre estara en un tablero conocido,
-y siempre sabra cual es la siguiente jugada que le pondra en camino de ganar la partida.
+Este individuo, sin importar la situacion en que se encuentre, siempre estara en un tablero conocido, y siempre sabra cual es la siguiente jugada que le pondra en camino de ganar el juego.
 
-el sistema al principio no sabe nada,
-pero pasado el tiempo de "puesta en marcha"
-el sistema llegara a saberlo todo.
-
+El sistema al principio no sabe nada, pero pasado un tiempo, que podemos llamar de "puesta en marcha", el sistema llegara a saberlo todo.
 Y un individuo con este conocimiento es potencialmente "imbatible".
 
-la reproduccion sexual tiene un coste elevado.
-pero dota a la especie que la utiliza de una gran inteligencia.
+La reproduccion sexual tiene un coste elevado, pero dota a la especie que la utiliza de una gran inteligencia, como resultado de la capacidad de adquirir conocimiento rapidamente.
 
 
 

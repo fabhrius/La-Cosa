@@ -1,0 +1,160 @@
+Relación entre especies y problemas:
+
+
+Hemos visto como en este modelo, el individuo debe representar un estado en el proceso de resolución del problema que se quiere resolver.
+Por lo tanto, la forma del individuo estará adaptada a un problema concreto, y no sera util para abordar otros problemas.
+Así, para que una maquina de este tipo pueda trabajar con problemas diferentes, sera necesario crear especies diferentes.
+
+En el caso del problema del laberinto, es necesario recordar en que estado ha quedado el juego en un instante del tiempo,
+de modo que lo mas adecuado para resolver este problema sera, un individuo con la forma de un tablero con una ficha, e información acerca de, 
+la posición en que se encuentra la ficha en el tablero y
+el camino que la ficha ha recorrido desde la posición inicial hasta la posición actual.
+
+Si quisiéramos encontrar la forma de ganar en el juego de ajedrez
+crearíamos una nueva especie en donde, 
+los individuos representan el estado en que se encuentra la partida en un instante del tiempo, 
+para esto, el individuo tendrá la forma de un tablero de ajedrez con un conjunto de fichas en sus posiciones actuales, 
+e información acerca de,
+todos los movimientos que se han realizado desde el comienzo de la partida, 
+y un indicador que muestre cual de los 2 jugadores hará el siguiente movimiento.
+
+De modo que, según esto, los individuos de 2 especies diferentes serán ligeramente diferentes en su configuración.
+Aunque, la maquina es la misma, el sistema es el mismo, y los individuos, funcionalmente son idénticos (contienen información, nacen, se reproducen y mueren), 
+son diferentes en cuanto a la información que contienen, que esta adaptada para modelar problemas diferentes.
+
+Esto hace que individuos de diferentes especies sean incompatibles, ya que un individuo adaptado al problema del laberinto no es útil en el problema del ajedrez y viceversa.
+
+----------------
+
+
+Tipos de reproducción:
+
+
+Ademas de el conjunto de datos que da forma a los individuos, otra diferencia en la configuración de las distintas especies es la forma de reproducción que utiliza.
+Y podemos separar a todas las especies de seres vivientes en 2 conjuntos, los que utilizan reproducción "asexual", y los que utilizan reproducción "sexual".
+
+De los dos, el tipo mas simple es la reproducción asexual.
+En donde un individuo se reproduce por si solo, esto facilita el proceso, requiere menos recursos y por este motivo podemos atribuirle un coste mas bajo.
+Un ejemplo de seres vivientes que utilizan reproducción asexual son las bacterias.
+
+
+El tipo de reproducción sexual es mas complejo.
+Un individuo no puede reproducirse por si solo, son necesarios 2 individuos de sexos diferentes, esto complica el proceso, requiere mas recursos y por lo tanto podemos atribuirle un coste mas elevado.
+Ejemplos de seres vivientes que utilizan la reproducción sexual son los mamíferos.
+
+Recordemos que estamos desarrollando un prototipo de computador, una maquina de calculo.
+De modo que, desde el punto de vista de la ingeniería buscaremos optimizar la solución encontrada, y el coste es algo que debemos tener en cuenta.
+Nuestro deseo sera, maximizar la calidad y las prestaciones del modelo.
+Y al mismo tiempo querremos minimizar los costes.
+
+Pero sucede que, al aumentar la calidad, también aumenta el coste.
+Y lo mismo sucede con las prestaciones, mas o mejores prestaciones implican costes mas elevados.
+
+Sera necesario encontrar el equilibrio ideal entre calidad, prestaciones y coste.
+La mínima calidad que sea suficiente para alcanzar los objetivos, e incluiremos únicamente aquellas prestaciones que sean estrictamente necesarias.
+
+La reproducción sexual brinda mejores prestaciones, pero tiene un coste mas elevado, y por lo tanto, utilizaremos este tipo de reproducción solo cuando sea absolutamente necesario.
+En otro caso, nos decantaremos por la reproducción asexual.
+
+
+---------------
+
+
+Reproducción asexual:
+
+En el juego del laberinto que hemos utilizado como ejemplo, hemos creado un individuo que se reproducía asexualmente.
+Llegado el tiempo de producir la siguiente generación, el individuo generaba sus hijos espontáneamente, por si solo.
+
+Para encontrar la solución que buscábamos la reproducción asexual era suficiente, porque solo queremos conocer alguno de todos los caminos que llevan a la salida del laberinto.
+No todos los caminos, sino uno cualquiera de todos los posibles.
+
+En este modelo, el individuo que ha encontrado la salida conoce el camino que va desde la entrada hasta la salida del laberinto, pero esta información no es compartida con el resto de los individuos de la especie.l
+
+
+Sin embargo, el individuo que ha encontrado la respuesta compartirá este conocimiento con su descendencia.
+Y todos sus descendientes heredaran el conocimiento.
+
+Cada familia explorara su propio camino y el conocimiento que adquieran con su experiencia sera exclusivo de la familia.
+No sera compartido con otras familias de la especie.
+
+Este tipo de reproducción, es suficiente para abordar cierta clase de problemas.
+
+Las bacterias se reproducen asexualmente.
+Podemos ver como las bacterias, con el paso de las generaciones, aprenden a sobrevivir a los antibióticos.
+
+Del mismo modo que los individuos del laberinto han encontrado la salida,
+las bacterias que aprendan a sobrevivir a los antibióticos compartirán el conocimiento con su descendencia, pero no con otras familias.
+
+Aquellas familias que no hayan aprendido a adaptarse moriran.
+Pero aquellas familias que se hayan adaptado sobreviviran formando una cepa resistente, porque toda la descendencia heredara este conocimiento.
+
+
+-----------------------------
+
+Reproducción sexual:
+
+
+Existen otros problemas, sin embargo, en donde la reproducción asexual no sera suficiente para encontrar la solución.
+
+Como ejemplo, veamos lo que sucede si queremos que, un sistema computacional formado por familias de seres vivientes, adquiera el conocimiento necesario para ganar 
+en el juego del ajedrez.
+El objetivo en este caso es que sepa como ganar la partida en cualquier situación, sin importar en que estado se encuentre el juego, debe conocer el camino que le lleve a cualquiera de los posibles estados finales en donde la maquina gana.
+
+En el juego del laberinto existen mas de una solución posible.
+Recordemos que el objetivo era encontrar el camino que va desde la entrada del laberinto hasta la salida.
+Y caminos que llevan hasta la salida existen muchos diferentes, mas de uno.
+
+Hemos detenido la simulación cuando un individuo ha encontrado la primera solución.
+Pero si dejamos que el proceso continúe, otros individuos también encontraran la salida habiendo recorrido caminos diferentes.
+
+El segundo individuo que encuentre la salida, conocerá un camino diferente del que ha utilizado el primero, pero no los 2 caminos.
+Porque el conocimiento adquirido por la familia no se comparte con el resto de la especie, sino solo con los descendientes.
+
+Y sucederá algo parecido con el juego de ajedrez.
+Existen muchas formas diferentes de ganar una partida de ajedrez.
+Si adaptamos un nueva especie para encontrar la forma de ganar en el juego de ajedrez, sucederá que algunos individuos llegaran a estados finales, pero no conocerán todas las posibles formas de ganar la partida.
+Solo conocerán el camino que han recorrido sus antepasados y el estado final al que han conseguido llegar, pero nada mas.
+Solo una de las posibles soluciones, alcanzada recorriendo un único camino particular.
+No sera suficiente para darnos la respuesta que buscamos.
+
+Y este sera el resultado que obtendremos cuando la reproducción es asexual.
+
+Pero queremos una maquina que sepa como ganar una partida de ajedrez en cualquier situación.
+Para conseguir esto, un individuo debería conocer todos las posibles configuraciones de tablero por las que podría pasar una partida, 
+y todas las posibles formas de ganar.
+Solo así, este individuo podría decir, a partir de un estado cualquiera del juego, cual es el camino a través de los estados, que lleva a un estado final.
+Y esto no es posible cuando la reproducción es asexual.
+
+Veamos ahora lo que sucede cuando la maquina utiliza la reproducción sexual.
+
+
+
+------------------------------------------------------------
+
+
+Para llevar a cabo una reproducción de tipo sexual son necesarios 2 individuos.
+El hijo, es el resultado de la combinación de padre y madre, y obtiene la información que han recopilado 2 familias diferentes.
+
+Digamos que un individuo alcanza un estado final, y conoce una forma de ganar la partida,
+También conocerá todos los tableros que forman el camino que le llevan a ese estado final, la trayectoria recorrida por su familia.
+
+Pero conoce únicamente el camino que ha recorrido su familia.
+Desde cualquiera de los tableros conocidos podría encontrar el camino hacia el estado final que el conoce.
+Pero existen muchos tableros desconocidos para el, y desde cualquiera de estos tableros desconocidos no sabría porque camino continuar para ganar la partida.
+
+Supongamos ahora que este individuo que conoce una forma de ganar particular, se reproduce sexualmente con otro individuo que conoce otra forma diferente de ganar el juego.
+Entonces el hijo, resultado de la combinación de los dos, y los futuros descendientes, conocerán 2 caminos que llevan a ganar la partida de 2 formas diferentes.
+
+digamos que uno de estos descendientes,
+se reproduce sexualmente con otro individuo que conoce otra forma diferente de ganar el juego.
+Entonces el hijo resultante, y los descendientes de este, conocerán 3 formas diferentes de ganar la partida, 3 caminos distintos que llevan, posiblemente, a distintos estados finales.
+
+A partir de aquí, como podéis imaginar, el proceso de asimilar conocimiento adquirido por otras familias continuara, y con el tiempo, un individuo conocerá todas las posibles formas de ganar el juego, conocerá todos los posibles tableros que puedan configurarse en una partida de ajedrez, y conocerá todos los caminos que llevan, desde cualquiera de los estados, hasta cualquiera de los estados finales alcanzables, en donde la maquina gana la partida.
+
+Este individuo, sin importar la situación en que se encuentre, siempre estará en un tablero conocido, y siempre sabrá cual es la siguiente jugada que le pondrá en camino de ganar el juego.
+
+El sistema al principio no sabe nada, pero pasado un tiempo, que podemos llamar de "puesta en marcha", el sistema llegara a saberlo todo.
+Y un individuo con este conocimiento es potencialmente "imbatible".
+
+La reproducción sexual tiene un coste elevado, pero dota a la especie que la utiliza de una gran inteligencia, como resultado de la capacidad de adquirir conocimiento rápidamente.
+
