@@ -1,0 +1,39 @@
+presentacion:
+
+
+
+----------------
+
+inevitabilidad:
+
+la opinion general es que la muerte no puede evitarse porque la vida no puede mantenerse indefinidamente.
+En la corriente de pensamiento actual, las criaturas vivientes mueren simplemente porque es inevitable.
+
+Sin embargo, hemos podido observar en la maquina de calculo que hemos analizado en los capitulos anteriores que existe otro motivo que hace que la muerte de los individuos sea necesaria.
+Los individuos de la simulacion que hemos llevado a cabo, no mueren porque sea inevitable, sino que mueren porque es necesario.
+Veremos los motivos que lo hacen necesario con mas detalle en este capitulo.
+
+Empezare analizando de forma conceptual a la vida como una unica entidad.
+Para entender lo que la vida podria ser vamos a despojarla de la parte organica que le da el soporte estructural.
+Y nos quedaremos solo con la funcionalidad.
+Queremos entender que cosa es la vida observando su funcion.
+
+La vision organica nos confunde. Los tejidos biologicos son extremadamente complejos y nos distraen.
+Cuando vemos solo el organo, entonces vemos que los tejidos organicos envejecen y se descomponen, de esto inferimos que los individuos deben morir inevitablemente.
+Del mismo modo, en la misma corriente de pensamiento, la opinion generalizada es que, las criaturas se reproducen, para perpetuar las especies.
+Pero, que sentido tiene perpetuar las especies despues de todo ?
+
+En esta vision, las cosas existen porque si.
+Quizas porque es bonito.
+
+En el experimento que hemos realizado, la simulacion de vida, como una maquina de calculo formada por colonias de seres vivientes, no hemos puesto ninguna atencion en los tejidos organicos que forman la infraestructura de soporte.
+Solo hemos visto la funcionalidad.
+Y las especies eran familias de individuos, en donde los individuos eran abstracciones matematicas, formando familias que realizaban funciones logicas.
+
+En este experimento, el objetivo de la reproduccion no es perpetuar la especie, sino procesar la informacion para avanzar en un proceso de calculo que intenta resolver un problema logico.
+
+
+
+media aritmetica:
+socrates:
+
