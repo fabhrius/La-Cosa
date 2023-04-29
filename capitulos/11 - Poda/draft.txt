@@ -13,7 +13,7 @@ Sin embargo, hemos podido observar en la maquina de calculo que hemos analizado 
 Los individuos de la simulacion que hemos llevado a cabo, no mueren porque sea inevitable, sino que mueren porque es necesario.
 Veremos los motivos que lo hacen necesario con mas detalle en este capitulo.
 
-Empezare analizando de forma conceptual a la vida como una unica entidad.
+Empezare analizando de forma conceptual, a la vida, como una unica entidad.
 Para entender lo que la vida podria ser vamos a despojarla de la parte organica que le da el soporte estructural.
 Y nos quedaremos solo con la funcionalidad.
 Queremos entender que cosa es la vida observando su funcion.
@@ -26,39 +26,62 @@ O los tejidos se deterioran con el tiempo porque los individuos deben morir ?
 Del mismo modo, en la misma corriente de pensamiento, la opinion generalizada es que, las criaturas se reproducen, para perpetuar las especies.
 Pero, que sentido tiene perpetuar las especies despues de todo ?
 
-En esta vision, las especies existen porque si. Quizas porque es bonito.
+En esta vision, las especies existen, sin necesidad de un motivo, solo por existir. Quizas porque es bonito.
 
-En el experimento que hemos realizado, la simulacion de vida, como una maquina de calculo formada por colonias de seres vivientes, no hemos puesto ninguna atencion en los tejidos organicos que forman la infraestructura de soporte.
+En el experimento que hemos realizado, la simulacion de vida como una maquina de calculo formada por colonias de seres vivientes, no hemos puesto ninguna atencion en los tejidos organicos que forman la infraestructura de soporte.
 Solo hemos visto la funcionalidad.
 Y las especies eran familias de individuos, en donde los individuos eran abstracciones matematicas, formando familias que realizaban funciones logicas.
 
 En este experimento, el objetivo de la reproduccion no es perpetuar la especie, sino procesar la informacion para avanzar en un proceso de calculo que intenta resolver un problema logico.
 La reproduccion es necesaria para procesar la informacion.
 Es verdad que al reproducirse se crean nuevos individuos, y que esto en ultima instancia perpetua la especie, pero no es ese el objetivo final, sino mas bien, un efecto secundario.
-En cualquier caso, tan pronto como se alcance el resultado esperado, la especie deja de tener sentido y podria ser condenada, experimentando la extincion.
+En cualquier caso, tan pronto como se alcance el resultado esperado, la especie dejara de tener sentido y podria ser condenada, experimentando la extincion.
 
 Ahora veamos, del mismo modo, sin la compleja capa organica, a la vida en su conjunto, intentado extraer la funcionalidad de forma conceptual.
 En la simulacion que hemos realizado, las especies estaban formadas por individuos, y este es el unico componente del sistema, individuos.
 El individuo contiene los datos que estan siendo procesados y que describen el contexto del problema.
 Todos los individuos cumplen con un ciclo de vida que consiste en nacer, reproducirse y morir.
-En la reproduccion los datos son procesados, modificando el estado del proceso que avanza un paso mas hacia la resolucion del problema.
+En la reproduccion los datos son procesados, modificando el estado del contexto, y el proceso avanza un paso mas hacia la resolucion del problema.
 
 Observando a la vida en accion, el observador vera, un conjunto de informacion que cambian de estado una y otra vez.
 Informacion cambiando de estado.
 el cambio de estado es la clave.
 
-La vida es un proceso.
-todo lo demas, tejido organico, individuos, familias, especies, son necesarios para ejecutar el proceso.
-Lo importante es el proceso.
+Segun esto, la vida seria un proceso.
+Y todo lo demas, tejido organico, individuos, familias, especies, son necesarios para ejecutar el proceso.
+Pero lo importante es el proceso.
 
-Y siendo la vida un proceso y nada mas.
+Y siendo la vida un proceso.
 Podria un proceso continuar ejecutandose eternamente, sin fin ?
 
-La respuesta es si.
+En principio si.
 Mientras tenga los recursos que necesita, no hay ninguna limitacion en su naturaleza que lo obligue a detenerse.
 
 Y asi, si pensamos en la vida como en una unica entidad formada por todos los individuos de todas las especies, resulta que,
 la vida podria ser inmortal.
+
+Mientras tenga los recursos que necesite, podria continuar viviendo eternamente.
+
+
+---------------------------
+
+
+Los individuos que forman las especies, sin embargo, no tienen esta opcion, ellos son mortales.
+Estan construidos como unidades desechables, formados con unos materiales que se degradan con el tiempo.
+La vida del individuo se prolongara el tiempo que sea necesario para cumplir con su trabajo.
+
+Por ejemplo, entre los seres humanos, una generacion se producira cada veinte anyos, o algo mas, esta es una medida aproximada.
+Si los padres mueren a los 20 anyos, el hijo no sobrevivira.
+Por lo tanto, los padres deben vivir mas que eso.
+En la siguiente generacion, unos 20 anyos despues, el padre vera nacer a su nieto.
+En este momento, el padre tendra entre 40 y 50 anyos, y el hijo tendra alrededor de 20 anyos, y por lo tanto ya no necesitara la proteccion del padre, el padre en este puento deja de ser necesario.
+
+Sin embargo, este calculo implica que los individuos conseguiran el objetivo de reproducirse tan pronto como sea posible.
+
+
+
+
+
 
 
 
