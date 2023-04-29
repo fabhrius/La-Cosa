@@ -20,17 +20,49 @@ Queremos entender que cosa es la vida observando su funcion.
 
 La vision organica nos confunde. Los tejidos biologicos son extremadamente complejos y nos distraen.
 Cuando vemos solo el organo, entonces vemos que los tejidos organicos envejecen y se descomponen, de esto inferimos que los individuos deben morir inevitablemente.
+Los individuos mueren porque los tejidos se deterioran con el tiempo ?
+O los tejidos se deterioran con el tiempo porque los individuos deben morir ?
+
 Del mismo modo, en la misma corriente de pensamiento, la opinion generalizada es que, las criaturas se reproducen, para perpetuar las especies.
 Pero, que sentido tiene perpetuar las especies despues de todo ?
 
-En esta vision, las cosas existen porque si.
-Quizas porque es bonito.
+En esta vision, las especies existen porque si. Quizas porque es bonito.
 
 En el experimento que hemos realizado, la simulacion de vida, como una maquina de calculo formada por colonias de seres vivientes, no hemos puesto ninguna atencion en los tejidos organicos que forman la infraestructura de soporte.
 Solo hemos visto la funcionalidad.
 Y las especies eran familias de individuos, en donde los individuos eran abstracciones matematicas, formando familias que realizaban funciones logicas.
 
 En este experimento, el objetivo de la reproduccion no es perpetuar la especie, sino procesar la informacion para avanzar en un proceso de calculo que intenta resolver un problema logico.
+La reproduccion es necesaria para procesar la informacion.
+Es verdad que al reproducirse se crean nuevos individuos, y que esto en ultima instancia perpetua la especie, pero no es ese el objetivo final, sino mas bien, un efecto secundario.
+En cualquier caso, tan pronto como se alcance el resultado esperado, la especie deja de tener sentido y podria ser condenada, experimentando la extincion.
+
+Ahora veamos, del mismo modo, sin la compleja capa organica, a la vida en su conjunto, intentado extraer la funcionalidad de forma conceptual.
+En la simulacion que hemos realizado, las especies estaban formadas por individuos, y este es el unico componente del sistema, individuos.
+El individuo contiene los datos que estan siendo procesados y que describen el contexto del problema.
+Todos los individuos cumplen con un ciclo de vida que consiste en nacer, reproducirse y morir.
+En la reproduccion los datos son procesados, modificando el estado del proceso que avanza un paso mas hacia la resolucion del problema.
+
+Observando a la vida en accion, el observador vera, un conjunto de informacion que cambian de estado una y otra vez.
+Informacion cambiando de estado.
+el cambio de estado es la clave.
+
+La vida es un proceso.
+todo lo demas, tejido organico, individuos, familias, especies, son necesarios para ejecutar el proceso.
+Lo importante es el proceso.
+
+Y siendo la vida un proceso y nada mas.
+Podria un proceso continuar ejecutandose eternamente, sin fin ?
+
+La respuesta es si.
+Mientras tenga los recursos que necesita, no hay ninguna limitacion en su naturaleza que lo obligue a detenerse.
+
+Y asi, si pensamos en la vida como en una unica entidad formada por todos los individuos de todas las especies, resulta que,
+la vida podria ser inmortal.
+
+
+
+
 
 
 
