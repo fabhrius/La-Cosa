@@ -1,4 +1,10 @@
 presentacion:
+inevitabilidad:
+
+necesidad:
+media aritmetica:
+socrates:
+
 
 
 
@@ -48,35 +54,59 @@ Informacion cambiando de estado.
 el cambio de estado es la clave.
 
 Segun esto, la vida seria un proceso.
-Y todo lo demas, tejido organico, individuos, familias, especies, son necesarios para ejecutar el proceso.
-Pero lo importante es el proceso.
+Y todo lo demas, tejido organico, individuos, familias, especies, seria necesario para dar soporte a la ejecucion del proceso.
 
 Y siendo la vida un proceso.
-Podria un proceso continuar ejecutandose eternamente, sin fin ?
+Podria un proceso continuar ejecutandose indefinidamente, eternamente ?
 
 En principio si.
 Mientras tenga los recursos que necesita, no hay ninguna limitacion en su naturaleza que lo obligue a detenerse.
 
 Y asi, si pensamos en la vida como en una unica entidad formada por todos los individuos de todas las especies, resulta que,
 la vida podria ser inmortal.
-
 Mientras tenga los recursos que necesite, podria continuar viviendo eternamente.
 
 
 ---------------------------
 
 
-Los individuos que forman las especies, sin embargo, no tienen esta opcion, ellos son mortales.
-Estan construidos como unidades desechables, formados con unos materiales que se degradan con el tiempo.
+Los individuos que forman las especies, sin embargo, son mortales.
+Estan construidos como unidades desechables, formados con materiales que se degradaran con el tiempo.
 La vida del individuo se prolongara el tiempo que sea necesario para cumplir con su trabajo.
 
-Por ejemplo, entre los seres humanos, una generacion se producira cada veinte anyos, o algo mas, esta es una medida aproximada.
+Por ejemplo, entre los seres humanos, una generacion se producira cada veinte anyos, o algo mas, aproximadamente.
 Si los padres mueren a los 20 anyos, el hijo no sobrevivira.
 Por lo tanto, los padres deben vivir mas que eso.
 En la siguiente generacion, unos 20 anyos despues, el padre vera nacer a su nieto.
 En este momento, el padre tendra entre 40 y 50 anyos, y el hijo tendra alrededor de 20 anyos, y por lo tanto ya no necesitara la proteccion del padre, el padre en este puento deja de ser necesario.
 
-Sin embargo, este calculo implica que los individuos conseguiran el objetivo de reproducirse tan pronto como sea posible.
+Pero que sucede si el padre, el primer individuo, no consigue el objetivo en el menor tiempo, que pasa si se retrasa por que no encuentra las mejores condiciones posibles ?
+Entonces podria no conseguir el objetivo.
+Para mejorar la probabilidad de exito, podemos duplicar el tiempo minimo necesario.
+
+Y asi, el tiempo de vida de un hombre deberia ser entre 80 y 100 anyos.
+Y no sera necesario que viva mucho mas que eso.
+
+--------------------------
+
+
+Veamos ahora como mas detalle, porque motivo nos vemos obligados a eliminar del sistema a aquellos individuos que ya no son necesarios.
+
+
+Media aritmetica:
+
+utilizaremos la idea de "media aritmetica", o "promedio", para ayudarnos en el razonamiento.
+Cuando evaluamos un periodo, a menudo, utilizamos la media aritmetica.
+Por ejemplo, el anyo pasado el negocio ha funcionado muy bien durante los primeros 3 meses, sin embargo, el resto del anyo ha tenido poca actividad.
+Y dire que el negocio el anyo pasado no ha ido tan mal despues de todo, gracias a los primeros 3 meses que han sido satisfactorios.
+El resultado del anyo es una  mezcla de todo lo que ha pasado, bueno y malo, para extraer un balance, una medida promedio.
+
+
+------------
+
+Veamos otro ejemplo.
+
+ 
 
 
 
@@ -86,9 +116,4 @@ Sin embargo, este calculo implica que los individuos conseguiran el objetivo de 
 
 
 
-
-
-
-media aritmetica:
-socrates:
 
