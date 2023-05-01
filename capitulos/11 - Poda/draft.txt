@@ -134,42 +134,36 @@ hoy la media de reclamaciones es 5
 el sistema esta fucionando mejor, ya que el numero medio de reclamaciones se ha reducido.
 este indicador proporciona visibilidad y es un dato util.
 
+Ahora bien.
+El indicador esta tomando datos solo de los ultimos 7 dias.
+
+Que sucede si tomamos todos los datos que tenemos en el registro historico ?
+Supongamos que cada dia agregamos el nuevo dato sin eliminar los mas viejos y dejamos que el listado crezca.
+Supongamos que tenemos datos de los 10 ultimos anyos.
+
+Sucede que,
+cuando el listado es muy grande, a partir de cierto limite,
+la media aritmetica tendera a estancarse en un valor,
+y el ultimo dato que agregaremos hoy sera despreciable y ya no hara variar significativamente el resultado.
+
+Si esto sucede, el indicador dejara de funcionar, perdera su utilidad,
+porque dia tras dia dara un resultado muy similar, insensible a las variaciones diarias.
+
+
+Esto nos muestra que,
+el indicador solo sera util cuando consideramos los datos que son mas relevantes, los ultimos.
+si no eliminamos los datos mas antiguos y los incluimos en el calculo, el indicador dejara de funcionar.
+
+
 
 ----------------------
 
+Bien, dejemos por un momento la media aritmetica, volveremos sobre esto un poco mas adelante.
+Consideremos ahora, nuevamente la simulacion que hemos realizado para resolver el problema del laberinto.
 
+(numero de individuos creados - generaciones - ramas improductivas - reproduccion asexual)
 
-observad que estamos tomando datos de 7 dias.
-al octavo dia eliminamos el primero de la lista para introducir un nuevo dato y de este modo mantenemos el listado con los ultimos 7 dias.
+(reproduccion sexual)
 
-que sucede si no eliminamos los mas viejos ?
-que la lista de datos crece hasta hacerse muy grande.
-
-Cuando el listado es muy grande, a partir de cierto limite,
-la media aritmetica tendera a estancarse en un valor,
-y el ultimo dato que agregaremos hoy sera despreciable y ya no hara variar el resultado
-
-si esto sucede,
-el indicador de problemas del sistema de negocio dejara de funcionar,
-dejara de ser util.
-cuando en la lista se hayan acumulado los datos de los ultimos diez anyos, el resultado no nos ayudara a entender si el sistema esta funcionando mejor o peor,
-porque dia tras dia dara el mismo resultado, insensible a las variaciones diarias.
-
-
---------------------------------------
-
-En este ejemplo,
-el indicador es util cuando solo consideramos los datos que son mas relevantes, los ultimos.
-si no eliminamos los datos viejos y los incluimos en el calculo
-el indicador deja de funcionar.
- 
-
-
-
-
-
-
-
-
-
+Socrates:
 
