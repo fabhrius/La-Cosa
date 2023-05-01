@@ -87,6 +87,9 @@ Para mejorar la probabilidad de exito, podemos duplicar el tiempo minimo necesar
 Y asi, el tiempo de vida de un hombre deberia ser entre 80 y 100 anyos.
 Y no sera necesario que viva mucho mas que eso.
 
+Pero, porque no dejar que viva para siempre ?
+porque destruirlo ?
+
 --------------------------
 
 Necesidad:
@@ -151,7 +154,7 @@ porque dia tras dia dara un resultado muy similar, insensible a las variaciones 
 
 
 Esto nos muestra que,
-el indicador solo sera util cuando consideramos los datos que son mas relevantes, los ultimos.
+el indicador solo sera util cuando consideramos un conjunto reducido de datos, y solo aquellos que son mas relevantes, en este caso, los ultimos.
 si no eliminamos los datos mas antiguos y los incluimos en el calculo, el indicador dejara de funcionar.
 
 
@@ -161,9 +164,44 @@ si no eliminamos los datos mas antiguos y los incluimos en el calculo, el indica
 Bien, dejemos por un momento la media aritmetica, volveremos sobre esto un poco mas adelante.
 Consideremos ahora, nuevamente la simulacion que hemos realizado para resolver el problema del laberinto.
 
-(numero de individuos creados - generaciones - ramas improductivas - reproduccion asexual)
+Maquina de calculo viviente:
 
-(reproduccion sexual)
+Recordemos que, para encontrar la solucion en el juego del laberinto hemos utilizado una especie de seres vivientes como una maquina de calculo.
+En este sistema de procesamiento de la informacion, un individuo, guarda la informacion que representa un estado del proceso de calculo.
+Y al reproducirse, realiza un paso simple en el proceso de calculo, generando el siguiente estado del proceso en forma de hijo.
+Una vez generado el siguiente estado, el individuo ya no es necesario.
+
+La vida del individuo, desde la perspectiva del proceso de calculo, consiste en, 
+nacer, reproducirse y morir.
+
+Si los individuos no se reproducen, no se generaran los estados siguientes.
+Si no nacen individuos, el proceso no avanzara y no se encontrara la solucion al problema.
+
+Una vez que un individuo ha generado a todos los hijos posibles, continuar reproduciendose seria realizar el mismo trabajo que habia hecho, los nuevos hijos no son necesarios, esto es un trabajo improductivo que incrementa los costes.
+Hemos comentado anteriormente que el coste de un sistema de este tipo es muy elevado, de modo que, para evitar incurrir en costes innecesarios debe evitarse realizar 2 veces el mismo trabajo.
+Y por lo tanto, un individuo solo debe generar los hijos necesarios, y ninguno mas.
+
+Digamos entonces que impedimos que siga reproduciendose, pero le permitimos continuar con vida.
+Que sucede entonces ?
+Que tendriamos una gran numero (que tiende a infinito) de individuos improductivos que continuan consumiendo recursos.
+Quizas, consumiendo los recursos que son necesarios para mantener con vida a aquellos que todavia son necesarios para el sistema.
+
+En este punto, podria parecer que es solo un problema de costes y gestion de los recursos, pero no es solo eso.
+Hay algo mas.
+
+El sistema que hemos utilizado para el juego del laberinto utilizaba reproduccion asexual.
+Veamos ahora lo que sucede cuando el sistema utiliza la reproduccion sexual.
+
+
+
+---------------------
+
 
 Socrates:
+
+
+
+
+
+
 
