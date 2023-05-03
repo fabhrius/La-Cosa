@@ -13,6 +13,10 @@ El contenido de este relato es, un experimento matematico.
 Y describe una teoria dentro del contexto de las ciencias de la computacion.
 
 El relato esta dirigido a todas las personas y no es necesario ningun conocimiento previo para entenderlo.
+Se trata de una simulacion de gran simplicidad que todas las personas podran entender sin dificultad.
+Creo ademas que, las personas de mas de 50 anos disfrutaran con las teorias acerca del comportamiento de la vida y la necesidad de los procesos que la rodean,
+y las personas mas jovenes agradeceran la vision cientifica que se propone, dentro del area de las ciencias de la computacion.
+
 Y aunque basicamente se trata de matematicas y computadores, el tema principal alrededor del cual gira el relato es una reflexion acerca de, vida e inteligencia.
 El experimento que he comentado es una simulacion de la vida, que mostrara una estrecha relacion entre la vida y la inteligencia.
 Tan estrecha es la relacion entre estas dos entidades, que resultara dificil separar una de otra.
@@ -21,6 +25,12 @@ La vida es para las personas, un fenomeno dificial de entender.
 Quizas porque lo vemos desde el interior.
 Algo asi como una bujia dentro del motor de un automovil, que mirando alrededor intenta entender que esta pasando, que es todo lo que le rodea o el porque de tanta fatiga.
 Jamas vera el automovil desde fuera, y jamas podra comprender que solo existe para que una persona se desplace hasta su lugar de trabajo cada dia.
+
+El relato contenido en este ensayo intenta mostrar una vision de alto nivel que nos muestre a la vida desde fuera, a vuelo de pajaro.
+Y desde la distancia, observar e intentar comprender,
+que es lo que la vida hace,
+y porque hace lo que hace.
+
 
 ------------------------
 
@@ -32,6 +42,47 @@ Porque hacemos lo que hacemos
 Porque sucede todo esto
 
  
+Espero que el experimento que realizaremos en los siguientes capitulos arroje algo de luz sobre estas cuestiones.
+
+-----------------
+
+
+En la actualidad, a dia de hoy, no sabemos mucho acerca de la vida.
+Hemos aprendido cosas acerca de la composicion de la materia organica.
+Hemos documentado bastante informacion acerca de muchos procesos biologicos.
+Pero muchas preguntas importantes continuan sin respuesta.
+
+Un gran avance en este sentido se produjo con La Teoria de la evolucion de las especies que propuso Charles Darwin.
+Esta teoria explica muchas cosas.
+Sin embargo, todavia quedan huecos, preguntas sin respuesta que se dejan a la imaginacion de cada uno.
+Y se responden con conjeturas.
+
+En especial los "porque", porque sucede.
+
+Si nos preguntamos: -porque las criaturas se reproducen?-
+La respuesta sera: para perpetuar las especies.
+
+Pero, que sentido tiene perpetuar las especies, despues de todo?
+
+Si nos preguntamos: -porque morimos?-
+La respuesta sera: -porque los tejidos organicos se deterioran con el tiempo-
+
+Pero, el deterioro de los tejidos es inevitable, o programado?
+
+En ambas preguntas, la cuestion sigue sin respuesta, "porque?"
+
+Del mismo modo, como se forman criaturas de tanta complejidad.
+Se forman accidentalmente ? eso es posible ?
+Intuitivamente deberia existir una inteligencia que las crea, las disenya, un ingeniero.
+Si asi fuese, la inteligencia creadora, deberia ser una inteligencia notable, asombrosa.
+Es posible que exista una inteligencia tal ?
+
+Y si existe, adonde esta, como funciona, como lo hace, como es de inteligente ?
+
+Y una vez mas la respuesta debe dejarse a la imaginacion de cada uno.
+
+
+
 
 
 
