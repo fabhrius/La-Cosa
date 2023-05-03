@@ -12,14 +12,23 @@ una maquina puede resolver problemas, su respuesta es inteligente, pero no tiene
 el hormiguero, puede resolver problemas que una hormiga no podria resolver por si misma, el sistema es inteligente, 
 el hormiguero encuentra el camino, pero este sistema no es conciente de su propia existencia.
 
+
+------------
+
 en los siguientes capitulos desarrollaremos un sistema inteligente que resolvera problemas, un poco en la linea de la inteligencia artificial.
 hablaremos de ciencias de la computacion.
+
+
+---------------
+
 
 el relato es adecuado para todas las personas y no es necesario ningun conocimiento previo para entenderlo.
 
 y decia que hablare de vida.
 la vida como una unica entidad y la relacion que podria existir entre la vida y la inteligencia.
 Pensaremos en la vida como una unica cosa.
+
+-----------
 
 normalmente, cuando miramos al mundo, a la realidad, vemos criaturas, individuos.
 y digo individuo en el sentido de, un ejemplar de una especie, no hablo de hombres, sino de individuos de cualquier especie.
@@ -40,6 +49,10 @@ tengamos en cuenta que, aunque creemos que el individuo es independiente del res
 como si dejamos una cabra en la luna.
 
 esto en cuanto a la vida como una unica entidad, como un unico organismo.
+
+----------------
+
+
 decia tambien que hablaria acerca de la relacion que podria existir entre la vida y la inteligencia.
 veremos que ademas esta relacion es estrecha.
 lo veremos desarrollando una maquina que resolvera problemas logicos automaticamente.
