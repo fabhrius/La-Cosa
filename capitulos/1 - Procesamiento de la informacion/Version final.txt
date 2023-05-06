@@ -1,0 +1,193 @@
+Algunas ideas antes de empezar:
+
+
+
+en el capitulo 3, realizaremos un experimento en donde procesaremos informacion 
+utilizando una abstraccion matematica que crearemos basandonos en ciertas caracteristicas que podemos observar en las criaturas vivientes.
+
+la abstraccion que utilizaremos, sera un objeto que llamaremos "Individuo", y con este objeto crearemos un computador que estara formado por una coleccion de individuos, como una familia o una especie de seres vivientes.
+la maquina que construiremos estara formada por individuos, unicamente, en donde, el individuo es el bloque de construccion, y es el unico componente del sistema.
+Sera algo asi como la simulacion de una colonia de criaturas vivientes, o una simulacion de vida en evolucion, creando nuevas ramas, familias, especies.
+
+El objeto "Individuo" es de gran simplicidad, muy lejos de la complejidad de los seres vivientes reales, pero servira como modelo conceptual.
+Y utilizando este objeto, y analizando su comportamiento, podremos ver como la vida podria procesar informacion, y asi, aprender, adaptarse, superar obstaculos y evolucionar.
+
+En la construccion de el objeto "Individuo" utilizaremos solo 2 caracteristicas de la vida.
+y estas seran,
+-un conjunto de datos que definen las caracteristicas del individuo, y 
+-la capacidad de reproducirse.
+
+todas las criaturas vivientes se reproducen.
+y todas las criaturas vivientes poseen un set de datos que definen al individuo, algo asi como los planos de construccion del individuo.
+Esquematicamente, para nosotros, un individuo sera algo como el dibujo XX.
+
+(dibujo aqui)
+
+
+Pero antes de lanzarnos a realizar el experimento, nos tomaremos un momento para analizar en detalle las ideas basicas en las que esta basado este modelo.
+Veremos a continuacion, a que llamaremos procesar informacion, como se realiza este proceso, y porque una familia de criaturas vivientes podria sera adecuada para realizar esta tarea.
+
+
+--------------------
+
+Como procesar informacion:
+
+
+Las computadoras procesan informacion para resolver problemas.
+
+el proceso se inicia con la declaracion de un conjunto de datos que describen el contexto del problema.
+Es sobre estos datos que se realizaran operaciones, y estas aportaran nueva informacion que se incluira, a su vez, en el conjunto de datos conocidos.
+
+a medida que agregamos nueva informacion al conjunto de datos, el contexto cambia de estado.
+y con cada nueva operacion obtenemos mas informacion, sabemos mas, e idealmente, estaremos mas cerca de encontrar la solucion.
+
+problemas triviales podrian resolverse de inmediato, en un unico paso, pero 
+problemas de mayor complejidad requeriran una secuencia de pasos para encontrar la solucion.
+a la secuencia de pasos que deben ser realizados para encontrar la solucion al problema, podemos llamarle, "metodo", "algoritmo" o "programa".
+
+En resumen, para encontrar la solucion a un problema procesando informacion sera necesario disponer de, 
+el conjunto de datos que describen el contexto del problema
+y un listado de operaciones que describen el metodo que utilizaremos.
+
+Y no solo las computadoras resuelven los problemas de este modo, las personas tambien.
+
+si pregunto, que distancia recorrera un proyectil al ser lanzado ?
+no sera posible dar una respuesta, sin conocer el contexto (informacion del proyectil, informacion del lanzamiento, informacion del entorno).
+
+si pregunto, cuanto hemos gastado en total ?
+no sera posible dar una respuesta sin conocer la lista de gastos.
+Debemos tener cierta informacion para llevar a cabo el calculo.
+
+en ambos problemas, el conjunto de datos iniciales es diferente.
+y en ambos problemas, las operaciones, y los pasos que seguiremos para encontrar la respuesta, tambien son diferentes.
+tanto el conjunto de datos, como el metodo, estan estrechamente ligados al problema.
+
+A modo de ejemplo, 
+veamos detenidamente como sumamos una lista de numeros.
+Datos:
+el conjunto de datos, en este caso, sera la lista de numeros que queremos sumar.
+Metodo :
+Ademas del listado de numeros, utilizaremos un numero auxiliar en donde iremos almacenando resultados parciales, que llamaremos "resultado parcial", este resultado parcial tendra asignado un valor de cero inicialmente.
+
+El procedimiento que utilizaremos sera, 
+sumar el primer numero de la lista con el resultado parcial, almacenar el resutado obtenido en el resultado parcial y borrar el primer numero de la lista.
+Repetiremos la operacion descrita hasta que no queden numeros en la lista.
+Entonces, el resultado parcial sera el total, y la respuesta que buscabamos.
+
+------------------------
+
+
+
+diferentes problemas tendran diferentes soluciones,
+no podremos resolver del mismo modo, la suma de un listado de numeros, la distancia que recorre una piedra lanzada, o como ordenar una baraja de naipes.
+son problemas diferentes con diferentes formas de obtener una solucion.
+
+sin embargo, en el procedimiento de procesar informacion, visto de forma generica, 
+se pueden distinguir algunos elementos basicos comunes a todos los problemas.
+
+esto son:
+- un conjunto de datos, que describe el contexto, y 
+- un metodo, que describe los pasos necesarios para encontrar la solucion.
+
+Ahora bien, nuestra intencion es construir una maquina que procese informacion automaticamente.
+De modo que, sera necesario que la maquina sea capaz de
+- almacenar la informacion del contexto, y 
+- ejecutar el metodo adecuado sobre los datos.
+
+los computadores electronicos que utilizamos a diario, disponen de un dispositivo de memoria, adonde mantienen la informacion sobre la que estan trabajando,
+y disponen ademas de otros dispositivos, entre ellos el procesador, que les permiten ejecutar un programa.
+
+En cuanto a los dispositivos de memoria, hablare de 2 tipos diferentes.
+la memoria de "lectura y escritura", como la de los dispositivos electronicos que utilizamos a diario (PC - SMARTPHONE), en donde la informacion puede grabarse, leerse, y borrarse, y sera especialmente la posibilidad de modificacion de la informacion lo que nos interesara de estas memorias.
+y por otra parte, las memorias de "solo lectura", es estas memorias, una vez grabada la informacion no puede ser modificada.
+Ejemplos de memoria de solo lectura son los discos CDs, o lo viejos discos de vinilo, en donde no es posible modificar la informacion grabada.
+
+Bien.
+Hemos hablado acerca de como procesar informacion y hemos visto cuales son los elementos principales en los que se basa este procedimiento.
+Veamos ahora como la vida podria proporcionar estos recursos, y como una familia de criaturas vivientes podria ser adecuada para realizar esta tarea de forma automatica.
+
+
+--------------------
+
+ADN y reproduccion:
+
+
+El ADN:
+
+
+
+Una caracteristica de todos los seres vivientes es que en todos ellos esta presente una gigantesca molecula que almacena la informacion necesaria para construir a un individuo.
+En este relato utilizaremos la idea de que se trata de una estructura molecular grande y compleja en forma de cadena que llamamos ADN
+Este ADN, es diferente en todos los individuos.
+Dos individuos de la misma especie tendran muchOs razgos en comun, pero diferiran en detalles que les haran diferentes.
+Del mismo modo el ADN sera diferente en los detalles.
+
+No es el objetivo de este relato describir el ADN de forma precisa.
+Solo utilizaremos una idea de forma muy general, pensaremos que todos los individuos llevan la informacion que los define en su interior, y llamaremos a esto ADN a efectos de este relato. Solo eso.
+Bien.
+la idea es la siguiente, 
+si el ADN contiene la informacion necesaria para construir a un individuo, entonces esta funcionando como un soporte de informacion, o memoria.
+Y esta es la utilidad que tendra para nosotros, la de funcionar como memoria del sistema.
+El ADN tiene capacidad para almacenar una gran cantidad de informacion.
+Ademas pensaremos en el ADN como una memoria de "solo lectura"
+De este modo, la informacion que describe al individuo permanecera constante durante toda la vida del individuo,
+y asi, el individuo sera siempre el mismo, Con las mismas huellas digitales, con las mismas caracteristicas que lo diferenciaran de otros individuos,
+durante toda su vida.
+
+he comentado que cuando procesamos informacion, el contexto cambiara de estado a medida que realizamos operaciones sobre los datos.
+la nueva informacion que obtenemos debe ser incluida en el contexto, modificando el estado.
+Si vamos a utilizar el ADN del individuo como memoria del sistema, el conjunto de datos no podra ser modificado, por tratarse de una memoria de solo lectura.
+Veamos como podemos superar este obstaculo.
+
+
+--------------
+
+La reproduccion: 
+
+
+Otra caracteristica que poseen tambien todos los seres vivientes es que todos ellos pueden reproducirse.
+
+Cuando un individuo se reproduce, sus hijos no seran copias exactas del padre.
+Los hijos seran muy parecidos pero no iguales al padre. Esto es necesario para asegurar que no existan 2 individuos iguales.
+En la reproduccion la informacion contenida en el ADN del padre sera modificada para crear al hijo.
+El hijo sera una nueva version del padre.
+
+el mecanismo de reproduccion, modifica la informacion, la procesa de algun modo para producir un nuevo individuo, un individuo diferente de todos los que han existido hasta ahora, un individuo mejorado.
+No es, por lo tanto, una modificacion aleatoria, es una modificacion calculada cuidadosamente, podemos decir que es una modificacion programada, ya que sobre los datos del padre se ha aplicado algun tipo de "metodo", o funcion, para conseguir un resultado especifico.
+La reproduccion sera entonces el mecanismo que utilizaremos para procesar la informacion.
+
+De modo que, la informacion contenida en el padre no puede ser modificada por tratarse de una memoria de solo lectura, 
+sin embargo, puede ser leida, puede extraerse la informacion durante el proceso de reproduccion, puede modificarse aplicando el metodo, y el resultado puede ser grabado en una nueva memoria de solo lectura, el hijo.
+
+De este modo podemos hacer que el contexto cambie de estado generacion tras generacion.
+
+y con esto, lo maquina que queriamos construir ya existe.
+la vida proporciona todos los recursos necesarios, y no ha sido necesario modificar nada.
+la vida es un computador natural.
+
+la funcion de Un individuo, en este modelo, es la de mantener un conjunto de datos.
+
+
+Si consideramos que la informacion se procesa durante la reproduccion, este sera un paso unico, simple, en el proceso.
+la diferencia entre el padre y el hijo, sera la minima de todas las posibles.
+
+he comentado que, en general, la resolucion de un problema requerira de una serie de pasos, normalmente, mas de uno.
+De modo que, el padre no encontrara la solucion al problema, ni tampoco el hijo.
+sera el trabajo de toda la familia, o de toda la especie.
+el proceso de resolucion del problema avanzara paso a paso, lentamente, generacion tras generacion.
+un paso a la vez.
+
+en los proximos capitulos crearemos un computador basado en criaturas vivientes, o mejor dicho, en familias o especies de seres vivientes
+en donde, 
+la especie ha sido creada a la medida del problema.
+la nueva especie es el computador, y este computador solo es util para resolver un problema concreto y ningun otro, 
+y en donde,
+un individuo representa el estado del calculo en un instante puntual del tiempo.
+
+observad que un individuo no es un computador, 
+sino unicamente la representacion de un estado en el proceso de calculo.
+la maquina de calculo estara formada por todos los individuos de la especie.
+
+pero veamoslo mas despacio, paso a paso.
+he dicho que un individuo representa un "estado" del calculo.
+Veamos a que llamaremos "estados del proceso".

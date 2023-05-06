@@ -1,3 +1,6 @@
+Algunas ideas antes de empezar:
+
+
 
 en el capitulo 3, realizaremos un experimento en donde procesaremos informacion 
 utilizando una abstraccion matematica que crearemos basandonos en ciertas caracteristicas que podemos observar en las criaturas vivientes.
@@ -31,7 +34,9 @@ como se realiza este proceso,
 y porque una familia de criaturas vivientes podria sera adecuada para realizar esta tarea.
 
 
-Como procesar informacion.
+--------------------
+
+Como procesar informacion:
 
 
 Las computadoras procesan informacion para resolver problemas.
@@ -40,11 +45,15 @@ el proceso se inicia con la declaracion de un conjunto de datos que definen el c
 Es sobre estos datos que se realizaran operaciones, y estas aportaran nueva informacion que se incluira, a su vez, en el conjunto de datos conocidos.
 
 a medida que agregamos nueva informacion al conjunto de datos, el contexto cambia de estado.
-y con cada nueva operacion obtenemos mas informacion, sabemos mas, y estamos mas cerca de encontrar la solucion.
+y con cada nueva operacion obtenemos mas informacion, sabemos mas, e idealmente, estaremos mas cerca de encontrar la solucion.
 
 problemas triviales podrian resolverse de inmediato, en un unico paso, pero 
 problemas de mayor complejidad requeriran una secuencia de pasos para encontrar la solucion.
-a la secuencia de pasos que deben ser realizados para encontrar la solucion podemos llamarle, "metodo", "algoritmo" o "programa".
+a la secuencia de pasos que deben ser realizados para encontrar la solucion al problema, podemos llamarle, "metodo", "algoritmo" o "programa".
+
+Es decir, 
+el conjunto de datos que describen el contexto del problema
+y un listado de operaciones que describen el metodo.
 
 Y no solo las computadoras resuelven los problemas de este modo, nosotros tambien.
 
@@ -55,8 +64,8 @@ si pregunto, cuanto hemos gastado en total ?
 no sera posible dar una respuesta sin conocer la lista de gastos.
 Debemos tener cierta informacion para llevar a cabo el calculo.
 
-en ambos problemas, el conjunto de informacion inicial es diferente.
-y en ambos problemas, las operaciones, y los pasos que seguiremos para encontrar la respuesta, son diferentes.
+en ambos problemas, el conjunto de datos iniciales es diferente, porque el contexto es diferente.
+y en ambos problemas, las operaciones, y los pasos que seguiremos para encontrar la respuesta, tambien son diferentes.
 tanto el conjunto de datos, como el metodo, estan estrechamente ligados al problema.
 
 A modo de ejemplo, 
@@ -102,7 +111,14 @@ Hemos hablado acerca de como procesar informacion y hemos visto cuales son los e
 Veamos ahora como la vida podria proporcionar estos recursos, y como una familia de criaturas vivientes podria ser adecuada para realizar esta tarea de forma automatica.
 
 
-ADN y reproduccion.
+--------------------
+
+ADN y reproduccion:
+
+
+El ADN:
+
+
 
 Una caracteristica de todos los seres vivientes es que en todos ellos esta presente una gigantesca molecula que almacena la informacion necesaria para construir a un individuo.
 En este relato utilizaremos la idea de que se trata de una estructura molecular grande y compleja en forma de cadena que llamamos ADN
@@ -127,17 +143,21 @@ la nueva informacion que obtenemos debe ser incluida en el contexto, modificando
 Si vamos a utilizar el ADN del individuo como memoria del sistema, el conjunto de datos no podra ser modificado, por tratarse de una memoria de solo lectura.
 Veamos como podemos superar este obstaculo.
 
+
+--------------
+
+La reproduccion: 
+
+
 Otra caracteristica que poseen tambien todos los seres vivientes es que todos ellos pueden reproducirse.
 
-Veamos que pasa con la REPRODUCCION.
-
 Cuando un individuo se reproduce, sus hijos no seran copias exactas del padre.
-Los hijos seran muy parecidos pero no iguales al padre.Esto es asi porque no existen 2 individuos iguales.
+Los hijos seran muy parecidos pero no iguales al padre. Esto es necesario para asegurar que no existan 2 individuos iguales.
 En la reproduccion la informacion contenida en el ADN del padre sera modificada para crear al hijo.
 El hijo sera una nueva version del padre.
 
 el mecanismo de reproduccion, modifica la informacion, la procesa de algun modo para producir un nuevo individuo, un individuo diferente de todos los que han existido hasta ahora, un individuo mejorado.
-No es, por lo tanto, una modificacion aleatoria, es una modificacion calculada cuidadosamente, podemos decir que es una modificacion programada, ya que sobre los datos del padre se ha aplicado algun tipo "metodo", o funcion, para conseguir un resultado especifico.
+No es, por lo tanto, una modificacion aleatoria, es una modificacion calculada cuidadosamente, podemos decir que es una modificacion programada, ya que sobre los datos del padre se ha aplicado algun tipo de "metodo", o funcion, para conseguir un resultado especifico.
 La reproduccion sera entonces el mecanismo que utilizaremos para procesar la informacion.
 
 De modo que, la informacion contenida en el padre no puede ser modificada por tratarse de una memoria de solo lectura, 
