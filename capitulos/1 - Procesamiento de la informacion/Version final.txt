@@ -74,6 +74,9 @@ sumar el primer numero de la lista con el resultado parcial, almacenar el resuta
 Repetiremos la operacion descrita hasta que no queden numeros en la lista.
 Entonces, el resultado parcial sera el total, y la respuesta que buscabamos.
 
+
+(grafico)
+
 ------------------------
 
 
@@ -97,10 +100,10 @@ De modo que, sera necesario que la maquina sea capaz de
 los computadores electronicos que utilizamos a diario, disponen de un dispositivo de memoria, adonde mantienen la informacion sobre la que estan trabajando,
 y disponen ademas de otros dispositivos, entre ellos el procesador, que les permiten ejecutar un programa.
 
-En cuanto a los dispositivos de memoria, hablare de 2 tipos diferentes.
+En cuanto a los dispositivos de memoria, comentare 2 tipos diferentes.
 la memoria de "lectura y escritura", como la de los dispositivos electronicos que utilizamos a diario (PC - SMARTPHONE), en donde la informacion puede grabarse, leerse, y borrarse, y sera especialmente la posibilidad de modificacion de la informacion lo que nos interesara de estas memorias.
-y por otra parte, las memorias de "solo lectura", es estas memorias, una vez grabada la informacion no puede ser modificada.
-Ejemplos de memoria de solo lectura son los discos CDs, o lo viejos discos de vinilo, en donde no es posible modificar la informacion grabada.
+y por otra parte, existen tambien, memorias de "solo lectura", en las memorias de este tipo, una vez grabada la informacion no puede ser modificada.
+Ejemplos de memoria de solo lectura son los discos CDs, o lo viejos discos de vinilo que contenian musica, en donde no es posible modificar la informacion grabada.
 
 Bien.
 Hemos hablado acerca de como procesar informacion y hemos visto cuales son los elementos principales en los que se basa este procedimiento.
@@ -116,10 +119,10 @@ El ADN:
 
 
 
-Una caracteristica de todos los seres vivientes es que en todos ellos esta presente una gigantesca molecula que almacena la informacion necesaria para construir a un individuo.
+Una caracteristica de todos los seres vivientes es que en todos ellos esta presente una molecula de gran tamano que almacena la informacion necesaria para construir a un individuo.
 En este relato utilizaremos la idea de que se trata de una estructura molecular grande y compleja en forma de cadena que llamamos ADN
 Este ADN, es diferente en todos los individuos.
-Dos individuos de la misma especie tendran muchOs razgos en comun, pero diferiran en detalles que les haran diferentes.
+Dos individuos de la misma especie tendran muchas caracteristicas en comun, pero existiran detalles particulares que les haran diferentes.
 Del mismo modo el ADN sera diferente en los detalles.
 
 No es el objetivo de este relato describir el ADN de forma precisa.
@@ -150,14 +153,14 @@ Otra caracteristica que poseen tambien todos los seres vivientes es que todos el
 Cuando un individuo se reproduce, sus hijos no seran copias exactas del padre.
 Los hijos seran muy parecidos pero no iguales al padre. Esto es necesario para asegurar que no existan 2 individuos iguales.
 En la reproduccion la informacion contenida en el ADN del padre sera modificada para crear al hijo.
-El hijo sera una nueva version del padre.
+Y asi el hijo sera una nueva version del padre.
 
 el mecanismo de reproduccion, modifica la informacion, la procesa de algun modo para producir un nuevo individuo, un individuo diferente de todos los que han existido hasta ahora, un individuo mejorado.
-No es, por lo tanto, una modificacion aleatoria, es una modificacion calculada cuidadosamente, podemos decir que es una modificacion programada, ya que sobre los datos del padre se ha aplicado algun tipo de "metodo", o funcion, para conseguir un resultado especifico.
+No es, por lo tanto, una modificacion aleatoria, es una modificacion calculada cuidadosamente, podemos decir que es una modificacion programada, o metodica, ya que sobre los datos del padre se ha aplicado algun tipo de "metodo", o funcion, para conseguir un resultado especifico.
 La reproduccion sera entonces el mecanismo que utilizaremos para procesar la informacion.
 
 De modo que, la informacion contenida en el padre no puede ser modificada por tratarse de una memoria de solo lectura, 
-sin embargo, puede ser leida, puede extraerse la informacion durante el proceso de reproduccion, puede modificarse aplicando el metodo, y el resultado puede ser grabado en una nueva memoria de solo lectura, el hijo.
+sin embargo, puede ser leida, puede extraerse la informacion durante el proceso de reproduccion, puede aplicarse el metodo sobre los datos, y el resultado puede ser grabado en una nueva memoria de solo lectura, el hijo.
 
 De este modo podemos hacer que el contexto cambie de estado generacion tras generacion.
 
@@ -165,8 +168,7 @@ y con esto, lo maquina que queriamos construir ya existe.
 la vida proporciona todos los recursos necesarios, y no ha sido necesario modificar nada.
 la vida es un computador natural.
 
-la funcion de Un individuo, en este modelo, es la de mantener un conjunto de datos.
-
+Y la funcion de Un individuo, en este modelo, es la de mantener un conjunto de datos que describen el estado del proceso en un instante del tiempo.
 
 Si consideramos que la informacion se procesa durante la reproduccion, este sera un paso unico, simple, en el proceso.
 la diferencia entre el padre y el hijo, sera la minima de todas las posibles.
