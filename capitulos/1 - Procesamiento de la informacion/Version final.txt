@@ -38,8 +38,9 @@ Las computadoras procesan informacion para resolver problemas.
 el proceso se inicia con la declaracion de un conjunto de datos que describen el contexto del problema.
 Es sobre estos datos que se realizaran operaciones, y estas aportaran nueva informacion que se incluira, a su vez, en el conjunto de datos conocidos.
 
-a medida que agregamos nueva informacion al conjunto de datos, el contexto cambia de estado.
-y con cada nueva operacion obtenemos mas informacion, sabemos mas, e idealmente, estaremos mas cerca de encontrar la solucion.
+Con cada nueva operacion obtenemos mas informacion, sabemos mas, e idealmente, estaremos mas cerca de encontrar la solucion.
+y a medida que agregamos nueva informacion al conjunto de datos, el proceso cambia de estado.
+
 
 problemas triviales podrian resolverse de inmediato, en un unico paso, pero 
 problemas de mayor complejidad requeriran una secuencia de pasos para encontrar la solucion.
@@ -139,6 +140,8 @@ durante toda su vida.
 
 he comentado que cuando procesamos informacion, el contexto cambiara de estado a medida que realizamos operaciones sobre los datos.
 la nueva informacion que obtenemos debe ser incluida en el contexto, modificando el estado.
+Para grabar nueva informacion en memoria, esta debe permitirnos escribir en ella los nuevos datos, pero el ADN es de solo lectura.
+
 Si vamos a utilizar el ADN del individuo como memoria del sistema, el conjunto de datos no podra ser modificado, por tratarse de una memoria de solo lectura.
 Veamos como podemos superar este obstaculo.
 
@@ -148,7 +151,7 @@ Veamos como podemos superar este obstaculo.
 La reproduccion: 
 
 
-Otra caracteristica que poseen tambien todos los seres vivientes es que todos ellos pueden reproducirse.
+Otra caracteristica que tambien poseen todos los seres vivientes es que todos ellos pueden reproducirse.
 
 Cuando un individuo se reproduce, sus hijos no seran copias exactas del padre.
 Los hijos seran muy parecidos pero no iguales al padre. Esto es necesario para asegurar que no existan 2 individuos iguales.
