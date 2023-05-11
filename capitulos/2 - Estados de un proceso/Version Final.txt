@@ -1,33 +1,36 @@
 Resumen del capitulo:
 
-antes de lanzarnos a construir la maquina en el siguiente capitulo, veamos algunas ideas en las que se basa el modelo.
-para resolver problemas este sistema utilizara las ideas de "estados del proceso" y "exploracion en grafos".
-Veamos brevemente estos dos conceptos.
-
-
-
-Proceso y estados:
-
-En este capitulo, vamos a definir a que llamamos estados del proceso e intentaremos extraer los estados caracteristicos para hacernos con un marco conceptual, un conjunto de ideas que nos ayuden a razonar mas adelante.
-
-Resolver un problema requerira de una serie de acciones.
-como hemos comentado en el capitulo anterior, estas acciones se llevaran a cabo sobre un conjunto de datos que describen el contexto del problema.
-sobre los datos se aplicaran operaciones y se realizaran transformaciones, paso a paso a lo largo del tiempo.
-Resolver un problema es un proceso que empieza en algun momento, realiza acciones durante cierto tiempo y finalmente termina en otro instante del tiempo.
-Podemos decir que el proceso cambia de estado cada vez que realiza alguna transformacion sobre los datos del contexto.
+Antes de abordar la construcción de la máquina en el próximo capítulo, vamos a detenernos un momento para revisar algunas ideas fundamentales del modelo. 
+Este sistema utilizará, para resolver problemas, dos conceptos clave, estos son: "estados del proceso" y "exploración en grafos". 
+Estos dos temas se explicarán brevemente a continuación.
 
 
 Estados de un proceso:
 
-De modo que el proceso de resolucion de un problema pasara por diferentes estados, que clasificaremos en 3 tipos.
-El proceso se inicia en algun momento, el estado en que el proceso se encontraba al arrancar, le llamaremos "estado inicial".
-El proceso terminara en algun momento, el estado en que el proceso se encontrara al terminar, le llamaremos "estado final".
+Resolver un problema matematico o logico, requerira normalmente de una serie de pasos.
+Partiendo de la informacion del contexto se realizaran operaciones que produciran cambios, transformaciones, paso a paso a lo largo de un periodo de tiempo.
+Podemos decir que la resolucion de un problema logico sera un proceso.
+Y a medida que el proceso avanza hacia la solucion, se realizan operaciones y transformaciones.
+En cada transformacion el proceso cambia de estado.
+
+De modo que el proceso de resolucion de un problema pasara por diferentes estados mientras evoluciona hacia la solucion, y nosotros clasificaremos los posibles estados del procesos, en 3 tipos.
+El proceso se inicia en algun momento, y al estado en que el proceso se encontraba al arrancar, le llamaremos "estado inicial".
+Nos gustaria pensar tambien que el proceso terminara en algun momento, y al estado en que el proceso se encontrara al terminar, le llamaremos "estado final".
 Y en el camino entre el estado inicial y el estado final, el proceso atravesara por una serie de estados, que llamaremos "estados intermedios".
 
+Veamos algunos ejemplos de problemas concretos para aplicar en la practica estas ideas.
 
 Suma de un listado de numeros:
 
+Veamos otra vez la suma de un listado de numeros, que hemos utilizado de ejemplo en el capitulo anterior.
+Inicialmente la lista contiene 5 numeros, y esa es toda la informacion que tenemos del problema hasta ese momento. Llamaremos a este conjunto de datos, "contexto" del problema.
+Hemos encontrado la solucion despues de realizar 5 operaciones de suma entre 2 numeros. Por lo tanto, han sido necesarios 5 pasos para encontrar la solucion.
 
+
+Y en cada paso, despues de cada suma, el conjunto de datos es modificado, y con cada transformacion el proceso cambia de estado.
+
+El proceso empieza con el listado de numeros que queremos sumar, este es el “estado inicial”.
+El objetivo es obtener el resultado total de la suma de todos los numeros de la lista, ese es el “estado final” que se quiere alcanzar.
 
 
 caso de una partida de ajedrez
@@ -52,6 +55,9 @@ Exploracion en grafos:
 
 Capitulo 2
 estados de un proceso
+
+Suma numerica:
+
 Veamos otra vez la suma de un listado de numeros, que hemos utilizado de ejemplo en el capitulo anterior.
 Inicialmente la lista contiene 5 numeros, y esa es toda la informacion que tenemos del problema hasta ese momento. Llamaremos al conjunto de datos, "contexto" del problema.
 Hemos encontrado la solucion despues de realizar 4 operaciones de suma entre 2 numeros. Han sido 4 pasos.
@@ -66,6 +72,10 @@ Y entre los posibles estados de un proceso, distinguiremos
 
 Iniciamos la suma con el listado de numeros que queremos sumar, este es el “estado inicial”.
 El objetivo es obtener el resultado total de la suma de todos los numeros de la lista, ese es el “estado final”.
+
+------------
+
+Juego de ajedrez:
 
 En el caso de una partida de ajedrez.
 El “estado incial” sera cuando las fichas estan colocadas en la posicion de salida, antes de que se haya realizado ningun movimiento.
@@ -85,6 +95,10 @@ El dibujo muestra en el juego de 3 en linea, el camino a traves de distintos est
 
 Para resolver problemas, utilizaremos el concepto de "estados", junto con una estructura llamada
  "Grafo".
+--------------------
+
+Grafos:
+
 En matemáticas y ciencias de la computación, un "grafo" es una estructura abstracta que representa relaciones entre objetos. 
 Un grafo consiste en un conjunto de nodos y un conjunto de aristas que conectan pares de nodos.
 
