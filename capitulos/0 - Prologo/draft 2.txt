@@ -40,6 +40,12 @@ La mision existe si, y es importante.
 Aunque quizas, no es exactamente como lo habiamos imaginado.
 
 Lo que voy a proponer es imaginar a la vida como a un unico individuo, una unica criatura, que vive sola, eternamente.
+Y que, al igual que todas las criaturas vivientes, esta formada por una estructura celular, es decir que esta compuesta por celulas.
+Las celulas que la forman son todas las criaturas de todas las especies.
+
+Requiere un poco de imaginacion.
+
+
 
 
 
@@ -75,42 +81,7 @@ Espero que esta nueva vision nos proporcione nuevas ideas, una perspectiva difer
 
 
 
-----------------
 
-
-
- 
----------------------
-
-
-
-
-Y aunque basicamente se trata de matematicas y computadores, el tema principal alrededor del cual gira el relato es una reflexion acerca de, vida e inteligencia.
-El experimento que he comentado es una simulacion de la vida, que mostrara una estrecha relacion entre la vida y la inteligencia.
-Tan estrecha es la relacion entre estas dos entidades, que resultara dificil separar una de otra.
-
-La vida es para las personas, un fenomeno dificial de entender.
-Quizas porque lo vemos desde el interior.
-Algo asi como una bujia dentro del motor de un automovil, que mirando alrededor intenta entender que esta pasando, que es todo lo que le rodea o el porque de tanta fatiga.
-
-El relato contenido en este ensayo intenta mostrar una vision de alto nivel que nos muestre a la vida desde el exterior.
-Y observando desde la distancia, intentar comprender, que es lo que la vida hace, y porque hace lo que hace.
-Quizas con esta informacion consigamos averiguar, que es lo que la vida es, y en ultima instancia, que cosa somos las criaturas vivientes, y porque estamos aqui.
-
-
-
-
-------------------------
-
-
-Del mismo modo, el misterio de la vida, nos sugiere preguntas dificiles acerca de la propia existencia.
-Porque estamos aqui
-Porque morimos
-Porque hacemos lo que hacemos
-Porque sucede todo esto
-
- 
-Espero que el experimento que realizaremos en los siguientes capitulos arroje algo de luz sobre estas cuestiones.
 
 -----------------
 
@@ -185,6 +156,8 @@ para mantener el equilibrio del ecosistema.
 
 -----------------------------------
 
+En resumen, 
+crearemos un computador que resolvera problemas logicos.
 
 
 

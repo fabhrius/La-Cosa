@@ -27,6 +27,7 @@ Utilizaremos la idea de estados del proceso para resolver el problema, buscando 
 Podrian existir un gran numero de estados posibles, pero queremos saber cuales de todos los posibles, son los que forman el camino que va desde el estado incial hasta el estado final.
 El juego de ajedrez es de gran complejidad, y si quisieramos generar todos los estados posibles, nos encontrariamos con un elevado numero de estados diferentes. Algo asi como 10 elevado a 120.
 Para verlo graficamente utilizaremos un ejemplo mas simple.
+
 Tic-Tac-Toe ( 3 en linea)
 
 El dibujo muestra en el juego de 3 en linea, el camino a traves de distintos estados que va desde el estado inicial hasta uno de los posibles estados finales.
