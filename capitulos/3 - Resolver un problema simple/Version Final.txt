@@ -1,5 +1,14 @@
 Introduccion y objetivos del capitulo:
 
+Veamos ahora como podemos utilizar las ideas que hemos estado comentando hasta ahora.
+El objetivo sera crear una maquina de calculo, un computador, que resuelva problemas logicos.
+
+Se trata de un modelo teorico, y el objetivo de este capitulo es el de ver como esta formado el sistema, cuales son sus partes e imaginar a esta maquina en funcionamiento para entender el mecanismo que le permite encontrar soluciones y aprender.
+
+Se trata de un sistema inteligente de gran potencia que aunque podria clasificarse dentro de la inteligencia artificial, creo que seria mas apropiado etiquetarlo como un sistema de inteligencia natural.
+
+En este modelo de computador, la maquina y el problema estan estrechamente relacionados, de modo que, empezaremos por definir el problema que queremos resolver.
+
 Problema ejemplo:
 
 La maquina:
