@@ -43,7 +43,7 @@ El problema que queremos abordar es el de un juego de mesa.
 y el estado de un juego es, la situacion en que se encuentra en un instante puntual del tiempo.
 el juego cambiara de estado cada vez que se realice un movimiento.
 
-con todo esto tenemos lo que necesitamos para implementar el sistema.
+Y con esto tenemos todo lo que necesitamos para implementar el sistema.
 veamos.
 la informacion que debemos mantener y modificar, el contexto, es la informacion que describe un estado cualquiera del juego.
 el juego cambia de estado cuando se realiza una jugada valida, de modo que, la funcion que se aplicara para modificar la informacion es la que realiza jugadas validas desde la situacion actual.
@@ -55,8 +55,8 @@ Haremos esto porque,
 las criaturas vivientes, de todas las especies, comparten ciertas caracteristicas en comun. 
 los seres vivos, 
 nacen, se reproducen y mueren.
-todos hacen esto.
-otra caracteristica comun es que la descripcion del individuo esta almacenada en ADN.
+todos hacen esto. Esto es, su ciclo de vida.
+otra caracteristica comun es que la descripcion del individuo esta almacenada en su ADN.
 
 Todo esto lo proporciona la vida, y es basicamente, una maquina de calculo.
 los individuos tienen un ciclo de vida definido, estos nacen, se reproducen y mueren.

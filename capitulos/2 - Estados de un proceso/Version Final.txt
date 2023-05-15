@@ -49,16 +49,17 @@ En el caso de una partida de ajedrez.
 El “estado incial” sera cuando las fichas estan colocadas en la posicion de salida, antes de que se haya realizado ningun movimiento.
 El “estado final” sera cuando se ha dado jaque-mate, la partida termina, este es el estado al que queremos llegar. Y entre el estado inicial y el estado final, la partida cambiara de estado cada vez que un jugador realice un movimiento, estos seran los “estados intermedios”.
 
-Imaginemos ahora que en mitad de una partida de ajedrez, quisieramos dejar el juego por hoy, para continuar manyana desde el mismo punto en que lo hemos dejado.
-Para poder continuar manyana desde el mismo punto, sera necesario recordar el estado en que la partida habia quedado.
-Para recordar el estado del juego bastaria con escribir en un listado la posicion de las fichas sobre el tablero, y recordar ademas cual de los dos jugadores movera a continuacion, asi podriamos reconstruir la partida para continuar desde el mismo punto.
+Imaginemos ahora que en mitad de una partida de ajedrez, quisieramos dejar el juego por hoy, para continuar manyana desde el mismo punto en que lo habiamos dejado.
+Esto solo sera posible si podemos recordar el estado que habia quedado el juego cuando lo dejamos.
 
-Utilizaremos la idea de estados del proceso, intentaremos resolver el problema, buscando un camino que nos lleve desde el estado inicial hasta el estado final a traves de estados intermedios.
+Para recordar el estado del juego bastaria con escribir en un listado la posicion de las fichas sobre el tablero, y recordar ademas cual de los dos jugadores debe jugar a continuacion, con esta informacion podriamos reconstruir la partida para continuar desde el mismo punto.
+
+Utilizaremos la idea de estados del proceso para resolver problemas, buscando un camino que nos lleve desde el estado inicial hasta el estado final a traves de los estados intermedios apropiados.
 Podrian existir un gran numero de estados posibles, pero queremos saber cuales de todos los posibles, son los que forman el camino que va desde el estado incial hasta el estado final.
 
-El juego de ajedrez es de gran complejidad, y si quisieramos generar todos los estados posibles, nos encontrariamos con un elevado numero de estados diferentes. Algo asi como 10 elevado a 120.
+El juego de ajedrez es de una gran complejidad, y si quisieramos generar todos los estados posibles, nos encontrariamos con un elevado numero de estados diferentes. Algo asi como 10 elevado a 120.
 Muchos muchos.
-No solo muchos para abarcarlos mentalmente, sino, incluso muchos para un computador electronico, que requeriria una cantidad muy grande de memoria.
+No solo muchos para abarcarlos mentalmente, sino, incluso muchos para un computador electronico, que requeriria una cantidad muy grande de memoria para alojar a toda esa informacion.
 
 Por este motivo, para ver graficamente como esta tecnica de estados y exploracion en grafos puede ayudarnos a encontrar la solucion a un problema utilizaremos un ejemplo mas simple.
 
@@ -103,7 +104,8 @@ El grafo empieza a transformarse en una gran red de nodos y aristas. Si continua
 En el caso de este juego existen 
 9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 = 362.880 estados posibles.
 es decir que el grafo tendra 362.880 nodos.
-Una vez generados todos los posibles estados podremos ver entre ellos cuales son los estados finales, y podremos ver el camino entre estados que llevan desde el estado inicial hasta un estado final.
+Una vez generados todos los posibles estados podremos ver entre ellos cuales son los estados finales.
+Al estar conectados los nodos a traves de aristas, se formaran caminos, y podremos ver el camino que va desde el estado inicial hasta algun estado final, a traves de estadosn intermedios.
 Como en el ejemplo anterior.
 
 
@@ -114,6 +116,7 @@ Como en el ejemplo anterior.
 
 En resumen,  hemos comentado 
 a que llamamos estados de un proceso, 
-que cosa es un grafo, y 
+que cosa es un grafo, 
+como funciona la tecnica de exploracion en grafos y 
 como es posible encontrar, entre todos los posibles, los "caminos" que nos llevan a la solucion de un problema.
 Con estas ideas, estamos ya preparados para iniciar el experimento.
