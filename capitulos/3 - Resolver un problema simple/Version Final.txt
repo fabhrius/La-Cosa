@@ -9,7 +9,37 @@ Se trata de un sistema inteligente de gran potencia que aunque podria clasificar
 
 En este modelo de computador, la maquina y el problema estan estrechamente relacionados, de modo que, empezaremos por definir el problema que queremos resolver.
 
+
+--------------
+
 Problema ejemplo:
+
+como ejemplo utilizaremos un problema simple que nos permita enfocar toda nuestra atencion en la forma en que la maquina trabaja sin distraernos con detalles innecesarios.
+Utilizaremos para esto un juego de mesa que llamaremos "Laberinto".
+
+El juego consiste en encontrar el camino que lleva desde la entrada hasta la salida de un laberinto.
+Jugaremos sobre un tablero cuadriculado, de 8 por 8 casillas, como el utilizado en el juego de ajedrez.
+Referenciaremos cada casilla con un nombre formado por la concatenacion de una letra y de un numero, 
+siendo las filas referenciadas por una letra, desde la 'A' hasta la 'H',
+y las columnas referenciadas por un numero, desde el 1 hasta el 8.
+
+Marcaremos sobre el tablero, 
+una casilla que representara la entrada al laberinto, y que sera la casilla 'A1',
+y otra casilla que representara la salida del laberinto, y que sera la casilla 'H8'.
+
+Sobre el tablero colocaremos una unica ficha que representara a un personaje que debe atravesar el laberinto.
+
+La ficha podra moverse en cualquier direccion, pero solo a una casilla contigua con cada movimiento.
+Por lo tanto, sera considerado como una "jugada valida", cualquier movimiento a una distancia de una casilla.
+
+(grafico)
+
+Con esto queda definido el juego y el problema que se quiere resolver.
+En resumen, lo que queremos que la maquina nos diga es 
+cual es el camino que lleva desde la entrada hasta la salida del laberinto ?
+
+---------------------
+
 
 La maquina:
 
