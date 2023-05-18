@@ -133,7 +133,7 @@ la idea es la siguiente,
 si el ADN contiene la informacion necesaria para construir a un individuo, entonces esta funcionando como un soporte de informacion, o memoria.
 Y esta es la utilidad que tendra para nosotros, la de funcionar como memoria del sistema.
 El ADN tiene capacidad para almacenar una gran cantidad de informacion.
-Ademas pensaremos en el ADN como una memoria de "solo lectura"
+Ademas pensaremos en el ADN como una memoria de "solo lectura", no modificable.
 De este modo, la informacion que describe al individuo permanecera constante durante toda la vida del individuo,
 y asi, el individuo sera siempre el mismo, Con las mismas huellas digitales, con las mismas caracteristicas que lo diferenciaran de otros individuos,
 durante toda su vida.

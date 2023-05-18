@@ -5,9 +5,9 @@ El objetivo sera crear una maquina de calculo, un computador, que resuelva probl
 
 Se trata de un modelo teorico, y el objetivo de este capitulo es el de ver como esta formado el sistema, cuales son sus partes e imaginar a esta maquina en funcionamiento para entender el mecanismo que le permite encontrar soluciones y aprender.
 
-Se trata de un sistema inteligente de gran potencia que aunque podria clasificarse dentro de la inteligencia artificial, creo que seria mas apropiado etiquetarlo como un sistema de inteligencia natural.
+Se trata de un sistema inteligente de gran potencia que aunque podria clasificarse dentro de la inteligencia artificial, en mi opinion seria mas apropiado etiquetarlo como un sistema de inteligencia natural.
 
-En este modelo de computador, la maquina y el problema estan estrechamente relacionados, de modo que, empezaremos por definir el problema que queremos resolver.
+En este modelo de computador, la maquina y el problema estan estrechamente relacionados, de modo que, sera mejor empezar por definir el problema que queremos resolver.
 
 
 --------------
@@ -38,21 +38,84 @@ Con esto queda definido el juego y el problema que se quiere resolver.
 En resumen, lo que queremos que la maquina nos diga es 
 cual es el camino que lleva desde la entrada hasta la salida del laberinto ?
 
+
+
 ---------------------
 
 
 La maquina:
 
+Ya tenemos el problema, ahora construiremos una maquina que encuentre la solucion automaticamente, para nosotros.
+
+Y este es el centro de toda la discusion en torno al ensayo que se describe en este relato.
+Porque el sistema computacional que crearemos es simplemente una simulacion de la vida.
+
+Simularemos las funciones principales de la vida utilizando abstracciones matematicas.
+Y asi se formara un sistema inteligente que evolucionara con el tiempo y encontrara las respuestas sin realizar ningun proceso especial para ello, encontrara las respuestas solo viviendo.
+
+La hipotesis que se pretende demostrar aqui es que la vida es una inteligencia.
+
+Lo veremos paso a paso.
+Empecemos por recordar cuales son las caracteristicas que nos permitiran procesar la informacion para producir un resultado.
+
+----------------------------------
+
 resumen de caracteristicas genericas:
+
+Hemos comentado anteriormente que para construir una  maquina capaz de procesar informacion seria necesario disponer de 
+una memoria que soporte los datos que describen el contexto del problema asi como el nuevo conocimiento que se generara a medida que avanza el proceso de calculo.
+y de un mecanismo que aplique las transformaciones oportunas sobre los datos, necesarias para generar nuevo conocimiento que reduzca la incertidumbre acercandonos a la respuesta.
+
+los datos y el metodo, son el software, la parte logica.
+la memoria y el mecanismo procesador, son el hardware, la parte fisica de la maquina.
+
+la parte logica la tenemos ya, viene dada por la descripcion del problema que hemos realizado.
+Es decir que, 
+los datos que describen el contexto deben describir el juego del laberinto que hemos planteado y el estado en que se encuentra.
+la transformacion que debe aplicarse sobre los datos sera aquella que genera el siguiente estado, es decir, una jugada valida, como la hemos definido, la ficha mueve a una casilla contigua.
+
+Solo nos queda, por lo tanto, definir el hardware, la parte fisica, que se compone de 
+un soporte de memoria, 
+y un mecanismo procesador.
+
+Hemos comentado anteriormente que existen 2 caracteristicas de todos los seres vivientes que pueden utilizarse para cumplir estas funciones y son, 
+el ADN, que almacena informacion como una memoria de solo lectura, y
+el mecanismo de reproduccion, que modifica la informacion contenida en el ADN para crear una nueva cadena.
+
+Utilizaremos por lo tanto el ADN como memoria y el mecanismo de reproduccion como procesador.
+
+Tenemos con esto, todos los elementos necesarios para crear el sistema de calculo.
+
+
+--------------------------------
 
 adaptacion especifica:
 
+
+
+(adaptamos el sistema al problema que queremos resolver)
+
+
+-------------------------
 el individuo:
+
+(descripcion del individuo necesario para el caso actual, y de sus responsabiidades, bloque de construccion alcance del procesamiento)
+
+
+---------------------------
 
 especie y descendencia:
 
 
+(relacion entre especie y problema, descendencia y busqueda de la respuesta)
+
+-------------------------
+
 resolucion paso a paso:
+
+(maquina en funcionamiento con graficos)
+
+---------------------
 
 conclusion:
 
