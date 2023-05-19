@@ -74,11 +74,11 @@ Es decir que,
 los datos que describen el contexto deben describir el juego del laberinto que hemos planteado y el estado en que se encuentra.
 la transformacion que debe aplicarse sobre los datos sera aquella que genera el siguiente estado, es decir, una jugada valida, como la hemos definido, la ficha mueve a una casilla contigua.
 
-Solo nos queda, por lo tanto, definir el hardware, la parte fisica, que se compone de 
+Solo nos falta, por lo tanto, el hardware, la parte fisica, que se compone de 
 un soporte de memoria, 
 y un mecanismo procesador.
 
-Hemos comentado anteriormente que existen 2 caracteristicas de todos los seres vivientes que pueden utilizarse para cumplir estas funciones y son, 
+Hemos comentado anteriormente que existen 2 caracteristicas presentes en todos los seres vivientes que pueden utilizarse para cumplir estas funciones y son, 
 el ADN, que almacena informacion como una memoria de solo lectura, y
 el mecanismo de reproduccion, que modifica la informacion contenida en el ADN para crear una nueva cadena.
 
@@ -91,9 +91,22 @@ Tenemos con esto, todos los elementos necesarios para crear el sistema de calcul
 
 adaptacion especifica:
 
-
-
 (adaptamos el sistema al problema que queremos resolver)
+
+Hemos comentado anteriormente tambien que en este modelo de computador, la maquina debe estar hecha a la medida del problema.
+Tenemos las ideas necesarias, solo nos queda adaptar una rama de la vida al problema que queremos resolver.
+Y esto lo conseguiremos creando una nueva especie se seres vivientes especifica para el problema del laberinto.
+
+Una especie es una familia de individuos semejantes.
+Todos los individuos de una especie son muy parecidos, no dire iguales, pero casi.
+Asi, es el individuo quien define a la especie.
+
+Crearemos una nueva especie simplemente creando un individuo con las caracteristicas que nos interesan.
+Todas las criaturas vivientes cumplen con un ciclo de vida que consiste en nacer, reproducirse y morir.
+
+Y por lo tanto, una vez creado el nuevo individuo que necesitamos, este se reproducira, y creara la nueva especie.
+Se trata pues, unicamente de crear el individuo adecuado.
+Veamos como.
 
 
 -------------------------
