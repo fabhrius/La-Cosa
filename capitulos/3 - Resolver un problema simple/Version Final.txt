@@ -114,6 +114,55 @@ el individuo:
 
 (descripcion del individuo necesario para el caso actual, y de sus responsabiidades, bloque de construccion alcance del procesamiento)
 
+(adn, individuo y estado del proceso)
+
+En todas las criaturas vivientes, en todos los individuos de todas las especiees, esta presente el ADN.
+El ADN contiene la informacion necesaria para construir a un individuo.
+
+Utilizaremos el ADN como memoria del sistema, y en ella queremos almacenar la  informacion necesaria para reconstruir un estado cualquiera del proceso de resolucion del problema en el que estamos trabajando.
+Que en este caso se trata de un juego de mesa.
+
+Por lo tanto, un individuo de esta nueva especie representara un estado en el juego del laberinto.
+ 
+
+(datos necesarios para reconstruir el estado)
+
+Veamos que datos necesitamos para resumir un estado del juego.
+Digamos que estamos jugando una partida de ajedrez, la partida se encuentra ya en un estado intermedio cuando debemos abandonarla.
+Y nos gustaria poder continuar jugando esta misma partida manana desde el mismo punto en donde la dejamos hoy.
+
+Para esto sera necesario recordar el "estado" en que habia quedado el juego.
+
+En el caso de una partida de ajedrez bastaria con recordar la posicion de las fichas sobre el tablero y cual de los dos jugadores hara el siguiente movimiento.
+Con esta informacion podriamos reconstruir la partida para continuar desde el mismo punto.
+Esta es la informacion que describe el estado en que la habiamos dejado.
+y se reduce a un listado de posiciones mas un indicador de quien juega a continuacion.
+
+En el caso del juego del laberinto, para recordar un estado bastara con recordar 
+la posicion de la unica ficha que hay sobre el tablero, y 
+todos los movimientos que se han realizado hasta ese momento, esto nos permitira recordar tambien el camino que ha recorrido la ficha hasta ahora.
+
+En resumen, para abordar el problema del juego del laberinto, crearemos una nueva especie de seres vivientes en donde el individuo sera
+un tablero con una ficha en una posicion determinada mas un listado con todos los movimientos anteriores.
+
+graficamente se veria asi:
+
+(ejemplo grafico del individuo)
+
+
+
+
+
+
+-------------------------
+
+
+resolucion paso a paso:
+
+(maquina en funcionamiento con graficos)
+
+
+
 
 ---------------------------
 
@@ -122,11 +171,6 @@ especie y descendencia:
 
 (relacion entre especie y problema, descendencia y busqueda de la respuesta)
 
--------------------------
-
-resolucion paso a paso:
-
-(maquina en funcionamiento con graficos)
 
 ---------------------
 
