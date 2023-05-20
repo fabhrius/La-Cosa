@@ -159,6 +159,19 @@ graficamente se veria asi:
 
 resolucion paso a paso:
 
+Ahora que ya hemos visto como debe ser un individuo de esta especie, veamos ahora como un sistema de este tipo resolveria el problema.
+
+Para poner en marcha a esta maquina, comenzaremos por crear un individuo que represente el estado inicial del problema.
+Es decir, un tablero con la ficha en la entrada del laberinto, posicion 'A1'
+
+(imagen del individuo)
+
+El siguiente paso sera dotar a este individuo de vida.
+Y eso es todo.
+
+Porque cuando este individuo despierta a la vida, 
+sucede lo siguiente.
+
 (maquina en funcionamiento con graficos)
 
 
@@ -176,4 +189,31 @@ especie y descendencia:
 
 conclusion:
 
+veamos ahora lo que ha sucedido.
+
+El sistema ha encontrado la respuesta que buscabamos.
+Sin embargo, los individuos que han sido creados en el proceso, no tenian conciencia del problema ni del proceso que se estaba llevando a cabo para encontrar la solucion.
+Los individuos simplemente viven sus vidas ajenos al proceso de calculo que la especie esta llevando a cabo.
+
+El sistema esta formado por el conjunto de todos los individuos.
+Los individuos son el bloque de construccion, y el unico componente del sistema.
+
+Un individuo no puede encontrar la solucion de un problema que desconoce.
+El individuo vive su vida ajeno al proceso de calculo y las acciones que realiza en su vida personal tienen como objetivo mantenerlo con vida para crear su descendencia. Es decir, cumplir con su ciclo de vida.
+Esta es la mision del individuo.
+Todo lo que debe hacer un individuo es, nacer, reproducirse y morir.
+
+La maquina, el sistema inteligente, esta formada por la suma de todos los individuos.
+Y lo que el sistema utiliza de los individuos en el proceso de calculo es
+La forma fisica del individuo que contiene los datos que estan siendo procesados y
+La reproduccion que realiza transformaciones en los datos modificando el estado del proceso haciendolo avanzar hacia su resolucion.
+
+El individuo no sabe porque tiene esta forma particular, y no tiene control sobre esto.
+El individuo no sabe porque debe reproducirse, y no tiene control sobre esto.
+El individuo no sabe porque ha nacido, y no tiene control sobre esto.
+El individuo no sabe porque debe morir, y no tienen controlo sobre esto.
+
+
+en las proximas paginas comentaremos con mas detalle acerca de la necesidad de que los individuos cumplan con un ciclo de vida y veremos el porque de cada una de las etapas.
+Analizaremos tambien las caracteristicas mas relevantes de este sistema inteligente.
 
