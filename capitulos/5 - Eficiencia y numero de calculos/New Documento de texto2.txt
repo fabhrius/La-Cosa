@@ -1,8 +1,10 @@
+Eficiencia que es ?
+
 
 Los sistemas computacionales, asi como los procedimientos que se utilizan para resolver problemas logicos, 
 pueden ser medidos y comparados.
 
-No todos los computadores son iguales, algunos pueden abordar problemas de mayor complejidad que otros, o consumir menos recursos.
+No todos los computadores son iguales, algunos pueden abordar problemas de mayor complejidad que otros, realizar un mayor numero de operaciones por unidad de tiempo, o consumir menos recursos para realizar el mismo trabajo.
 Tambien podemos encontrar diferencias entre los metodos que utilizamos para resolver problemas.
 Un mismo problema puede ser abordado de diferentes formas, utilizando distintos procedimientos.
 
@@ -13,6 +15,7 @@ del sistema computacional basado en especies de criaturas vivientes que estamos 
 No tendremos problemas en establecer una medida aproximada pero rigurosa de la eficiencia del sistema, 
 razonando sobre los hechos que hemos podido observar en el experimento del capitulo anterior.
 
+------------------------------
 
 Hablaremos de Eficiencia Algoritmica.
 
@@ -30,6 +33,11 @@ Realizar el trabajo con un menor consumo de recursos es lo que llamaremos, Efici
 Diremos, por lo tanto que, el algoritmo que hace el trabajo con menor numero de operaciones es, el mas eficiente.
 
 Para dejar clara esta idea, veamos, por ejemplo, 2 algoritmos diferentes que podriamos usar para ordenar una baraja.
+
+----------------------
+
+2 ejemplos:
+
 
 en el primero, reviso toda la baraja para extraer el naipe de menor valor, y una vez localizado lo separo de la baraja.
 repito el procedimiento con los naipes que han quedado en la baraja para obtener el segundo naipe de menor valor y separarlo de la baraja, y repito el procedimiento para obtener la tercera, y otra vez para la siguiente, y repito el proceso una y otra vez hasta tener la baraja ordenada.

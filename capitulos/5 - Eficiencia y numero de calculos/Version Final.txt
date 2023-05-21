@@ -1,0 +1,24 @@
+Eficiencia que es ?
+
+
+Tanto entre los sistemas computacionales, asi como entre los procedimientos que estos utilizan para resolver problemas logicos, existe una gran variedad, y por lo tanto, pueden ser medidos y comparados entre si.
+
+Es facil ver que no todos los computadores son iguales, existen detalles que los hacen diferentes unos de otros, como por ejemplo, la capacidad para abordar problemas de mayor complejidad, o la posibilidad de realizar un mayor numero de operaciones por unidad de tiempo, o quizas la habilidad de consumir una menor cantidad de recursos para realizar un mismo trabajo.
+Y esto solo por enumerar algunas de las posibles diferencias.
+
+Y del mismo modo encontraremos diferencias entre los metodos que un computador podria utilizar para resolver un mismo problema.
+
+
+
+-------------------------------------
+
+
+
+Un mismo problema puede ser abordado de diferentes formas, utilizando distintos procedimientos.
+
+En este capitulo, nos proponemos obtener una medida de  
+la Eficiencia algoritmica
+del sistema computacional basado en especies de criaturas vivientes que estamos analizando.
+
+No tendremos problemas en establecer una medida aproximada pero rigurosa de la eficiencia del sistema, 
+razonando sobre los hechos que hemos podido observar en el experimento del capitulo anterior.
