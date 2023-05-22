@@ -9,15 +9,32 @@ que podemos esperar de un sistema como este
 
 En los siguientes capitulos, analizaremos algunas de sus caracteristicas.
 En particular,
-su eficiencia, en terminos de, cuantos calculos necesita para encontrar la solucion ?
+
+- su eficiencia, 
+en terminos de, cuantos calculos necesita para encontrar la solucion ?
 es mas eficiente que otros sistemas, o menos ?
-su potencia, en terminos de, cual es la dificultad de los problemas que puede abordar ?
+
+- su potencia, 
+en terminos de, cual es la dificultad de los problemas que puede abordar ?
 puede resolver problemas mas complejos que otros sistemas, o menos ?
-su coste, en terminos de, cual es el coste de resolver un problema utilizando un sistema de este tipo ?
+
+- su coste, 
+en terminos de, cual es el coste de resolver un problema utilizando un sistema de este tipo ?
 
 
 Con esta informacion podremos entender mejor lo que esta cosa es.
 Podremos encontrar su lugar dentro del universo de los sistemas inteligentes.
-Y podremos entender la necesidad de ciertos detalles que ahora pasan desapercibidos.
+Y podremos entender la necesidad de algunos detalles que ahora pasan desapercibidos.
+
+
 
 Empecemos hablando de eficiencia.
+
+-----------------------------------
+
+Como hemos visto en el experimento anterior, la vida es una inteligencia.
+Pero que clase de inteligencia es ?
+Podemos medirla ?
+
+Prestad atencion al analisis de caracteristicas que llevaremos a cabo a continuacion.
+

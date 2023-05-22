@@ -6,19 +6,75 @@ Tanto entre los sistemas computacionales, asi como entre los procedimientos que 
 Es facil ver que no todos los computadores son iguales, existen detalles que los hacen diferentes unos de otros, como por ejemplo, la capacidad para abordar problemas de mayor complejidad, o la posibilidad de realizar un mayor numero de operaciones por unidad de tiempo, o quizas la habilidad de consumir una menor cantidad de recursos para realizar un mismo trabajo.
 Y esto solo por enumerar algunas de las posibles diferencias.
 
-Y del mismo modo encontraremos diferencias entre los metodos que un computador podria utilizar para resolver un mismo problema.
-
-
-
--------------------------------------
-
-
-
+Del mismo modo encontraremos diferencias entre los metodos que un computador podria utilizar para resolver un mismo problema.
 Un mismo problema puede ser abordado de diferentes formas, utilizando distintos procedimientos.
 
 En este capitulo, nos proponemos obtener una medida de  
 la Eficiencia algoritmica
-del sistema computacional basado en especies de criaturas vivientes que estamos analizando.
+del sistema computacional basado en criaturas vivientes que estamos analizando.
 
-No tendremos problemas en establecer una medida aproximada pero rigurosa de la eficiencia del sistema, 
+No sera dificil establecer una medida aproximada de la eficiencia del sistema, 
 razonando sobre los hechos que hemos podido observar en el experimento del capitulo anterior.
+
+Diremos que un algoritmo es mas eficiente que otro cuando encuentra la solucion al problema con un numero menor de operaciones.
+
+------------------------------------
+
+Algoritmos diferentes:
+
+Un algoritmo es la descripcion de el procedimiento utilizado para resolver un problema.
+Dicho de otra forma, es la secuencia de operaciones que deben realizarse para alcanzar el resultado deseado.
+
+Por ejemplo, si queremos ordenar una baraja de naipes, como lo haremos ?
+Es posible que diferentes personas propongan diferentes formas de conseguir el mismo resultado.
+
+Y siendo los metodos diferentes, es posible tambien que, algunos metodos consigan el resultado con un esfuerzo menor que otros.
+Ante la posibilidad de hacer el trabajo de formas diferentes, preferiremos el algoritmo que consiga el objetivo de la forma mas eficiente.
+Realizar el trabajo con un numero de operaciones se traduce en un menor consumo de recursos, y en especial, tiempo y energia.
+
+Para ver de forma practica como podemos medir y comparar la eficiencia de algoritmos diferentes, veamos como ejemplo 2 formas de ordenar una baraja.
+
+-------------------------------
+
+
+Ordenar una baraja:
+
+Metodo 1:
+reviso toda la baraja, naipe a naipe, buscando el de menor valor.
+despues de haber revisado toda la baraja habre localizado el de menor valor y lo separo de la baraja colocandolo en una pila que llamare "pila ordenada".
+Al resto de la baraja le llamare "pila desordenada".
+Ahora tengo la baraja separada en dos pilas.
+La pila ordenada contiene un naipe.
+La pila desordenada contiene toda la baraja menos un naipe.
+
+Ahora, reviso la pila desordenada, naipe a naipe, buscando el de menor valor.
+Despues de haber revisado toda la pila separo la de menor valor y la coloco sobre la pila ordenada.
+
+Ahora la pila ordenada contiene dos naipes, y la pila desordenadas contiene toda la baraja menos dos naipes.
+
+Vuelvo a revisar la pila desordenada para extraer el tercer naipe.
+Y repito el mismo procedimiento una y otra vez hasta que ya no queden naipes en la pila desordenada.
+
+Entonces, toda la baraja estara en la pila ordenada, y los naipes estaran ordenados de menor a mayor.
+
+
+
+Metodo 2:
+
+antes de empezar, preparo espacio sobre la mesa para cada naipe en una cuadricula.
+Asi, cada naipe de la baraja tiene un lugar reservado sobre la mesa, que ahora esta vacio.
+Una vez hecho esto, 
+levanto el primer naipe de la baraja, digamos que es el cinco de diamantes, asi que lo coloco sobre la mesa, en la cuadricula, en el espacio reservado para el cinco de diamantes.
+repito el procedimiento.
+levanto el primer naipe de la baraja, digamos que es el tres de treboles, asi que lo coloco sobre la mesa, en la cuadricula, en el espacio reservado para el tres de treboles.
+repito el procedimiento con todos los naipes hasta que no quede ninguno en la baraja.
+
+Entonces toda la baraja estara sobre la mesa en la cuadricula, ordenada.
+
+
+
+-------------------------
+
+
+
+
