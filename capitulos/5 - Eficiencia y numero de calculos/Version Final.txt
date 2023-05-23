@@ -40,6 +40,7 @@ Para ver de forma practica como podemos medir y comparar la eficiencia de algori
 Ordenar una baraja:
 
 Metodo 1:
+
 reviso toda la baraja, naipe a naipe, buscando el de menor valor.
 despues de haber revisado toda la baraja habre localizado el de menor valor y lo separo de la baraja colocandolo en una pila que llamare "pila ordenada".
 Al resto de la baraja le llamare "pila desordenada".
@@ -75,6 +76,60 @@ Entonces toda la baraja estara sobre la mesa en la cuadricula, ordenada.
 
 -------------------------
 
+Numero de operaciones:
 
 
+Veamos ahora cuantas operaciones tendran que realizar estos dos metodos, aproximadamente, para ordenar la baraja.
+
+Metodo 1:
+
+el primer algoritmo, revisa cuidadosamente la baraja comparando uno a uno todas los naipes para extraer el de menor valor.
+si la baraja tiene 50 naipes, se habran realizado 50 comparaciones.
+despues de realizar 50 comparaciones tenemos 1 naipe ordenado, y 49 sin ordenar.
+Para extraer el segundo naipe de menor valor repetiremos el procedimiento anterior con los 49 naipes que todavia estan sin ordenar, y eso requerira otras 49 comparaciones.
+repetiremos el procedimiento para extraer el tercer naipe con los 48 todavia sin ordenar, y esto requerira otras 48 comparaciones,
+repetiremos el procedimiento una y otra vez hasta que no queden naipes sin ordenar.
+cuantas comparaciones habran sido necesarias ?
+50 + (50 - 1) + (50 - 2) + (50 - 3) + (50 - 4) + ... + (50 - 49)
+
+si al numero de elementos que queremos ordenar le llamamos 'N', en este caso N=50, el numero de operaciones necesarias seran
+aproximadamente N * (N-1)
+Podemos decir, por lo tanto, que el coste en tiempo de ejecutar este algoritmo es de "el orden de" N cuadrado.
+
+
+Metodo 2:
+
+Empezamos reservando espacio para cada naipe en una cuadricula.
+Extraemos un naipe de la baraja y lo colocamos en el lugar que tiene reservado en la cuadricula.
+Lo mismo hacemos con el segundo y con todos los demas.
+
+cuantas operaciones son necesarias para ordenar la baraja ?
+una operacion por naipe.
+si el numero de naipes es N, entonces el coste en tiempo de este algoritmo es del orden de N.
+
+
+--------------------------
+
+
+Cual es el mejor ?
+
+
+Ahora que tenemos una medida del numero de operacion que ambos algoritmos necesitan para conseguir el objetivo podemos compararlos.
+
+el primero es del orden de N cuadrado.
+el segundo es del orden de N.
+
+el segundo algoritmo hace el trabajo con menos operaciones, y por lo tanto es mas eficiente.
+
+
+--------------------
+
+
+Ahora que hemos visto como pueden compararse 2 metodos, 
+volvamos al sistema inteligente formado por seres vivientes que estamos analizando.
+
+y veamos el metodo que ha utilizado el sistema en terminos de eficiencia algoritmica.
+Podriamos sugerir cambios en el procedimiento para mejorar su eficiencia ?
+
+Para responder a estas preguntas revisemos el experimento del capitulo anterior.
 

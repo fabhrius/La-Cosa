@@ -60,6 +60,9 @@ si al numero de elementos que queremos ordenar le llamamos 'N', en este caso N=5
 aproximadamente N * (N-1)
 Podemos afirmar que el coste en tiempo de ejecutar este algoritmo es de "el orden de" N cuadrado.
 
+
+-------------
+
 Veamos ahora el segundo algoritmo.
 
 Sobre una superficie, dibujamos una cuadricula, reservando un lugar para cada naipe de la baraja.
@@ -73,12 +76,18 @@ cuantas operaciones son necesarias para ordenar la baraja ?
 una operacion por naipe.
 si el numero de naipes es N, entonces el coste en tiempo de este algoritmo es del orden de N.
 
+---------------------
+
 
 Ahora que tenemos una medida del coste en tiempo de ambos algoritmos podemos compararlos.
 el primero es del orden de N cuadrado.
 el segundo es del orden de N.
 
 el segundo algoritmo hace el trabajo con menos operaciones, y por lo tanto es mas eficiente.
+
+
+------------------
+
 
 Ahora que hemos visto como pueden compararse 2 metodos, 
 volvamos al sistema inteligente formado por seres vivientes que estamos analizando.
