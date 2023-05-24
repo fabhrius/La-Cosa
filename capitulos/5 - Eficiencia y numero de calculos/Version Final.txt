@@ -125,11 +125,82 @@ el segundo algoritmo hace el trabajo con menos operaciones, y por lo tanto es ma
 --------------------
 
 
-Ahora que hemos visto como pueden compararse 2 metodos, 
-volvamos al sistema inteligente formado por seres vivientes que estamos analizando.
 
-y veamos el metodo que ha utilizado el sistema en terminos de eficiencia algoritmica.
+Volvamos ahora al sistema de inteligencia natural que estamos analizando, la maquina viviente:
+
+
+Ahora que hemos visto como pueden compararse 2 metodos, 
+volvamos al sistema inteligente formado por seres vivientes
+y veamos el metodo que ha utilizado en terminos de eficiencia algoritmica.
+
+Como es de eficiente ?
+Cuantas operaciones necesita para alcanzar el objetivo ?
+Existen algoritmos que encuentren la solucion con menos operaciones ?
 Podriamos sugerir cambios en el procedimiento para mejorar su eficiencia ?
 
 Para responder a estas preguntas revisemos el experimento del capitulo anterior.
 
+---------------------
+
+Resumo las caracteristicas del problema del ejemplo:
+
+El tablero representa un laberinto, con una entrada y una salida,
+sobre el tablero tenemos una unica ficha.
+el objetivo del juego es llevar la ficha desde la entrada hasta la salida.
+la ficha puede desplazarse a una distancia de una sola casilla cada vez, y este es el unico movimiento valido.
+Y lo que queremos saber es, 
+cual es el camino que la ficha debe recorrer para ir desde la entrada hasta la salida ?
+
+La entrada la hemos situado en la casilla 'A1', y la salida en la casilla 'H8'
+
+La distancia que separa la entrada de la salida es de 7 casillas.
+
+(dibujo)
+
+
+La ficha solo puede moverse una casilla cada vez, por lo tanto, para alcanzar la salida seran necesarios al menos 7 movimientos.
+7 movimientos como minimo, en el caso de que encuentre el camino mas corto, 
+pero pueden ser mas, dependiendo del metodo que utilice para explorar el tablero.
+
+No pueden ser menos porque una jugada valida desplaza la ficha a una distancia de 1 casilla, de modo que, desplazarse 7 casillas requeriran 7 movimientos o mas.
+
+----------------------
+
+Recordemos ahora como ha sido resuelto el problema:
+
+
+Hemos creado un individuo, el primero de su especie, representando el estado inicial del problema.
+el tablero con una ficha colocada en la entrada del laberinto, 'A1'
+todos los individuos de esta especie, cumpliran con un ciclo de vida que consiste en, 
+nacer, reproducirse y morir.
+
+Cuando hemos dotado de vida a este primer individuo, el ha llevado a cabo las etapas de su ciclo de vida.
+Se ha reproducido, generando todos los hijos posibles, e inmediatamente despues ha muerto, eliminandose del sistema.
+Al cumplir con su ciclo de vida, ha iniciado un proceso mas complejo, que va mas alla de su propia vida, y que continuara aun cuando el ya no forma parte del sistema.
+El proceso que ha desencadenado con su existencia le sobrevivira.
+
+Y sucede lo siguiente...
+
+
+Digamos tambien que los individuos de esta especie se reproducen un segundo despues de nacer.
+y que al reproducirse, generan todos los hijos posibles de una vez, en la primera generacion.
+
+Se produce una generacion cada segundo.
+
+Y ha sucedido lo siguiente,
+
+
+
+
+
+
+
+
+
+----------------
+
+
+
+(dibujos)
+
+----------------------------
