@@ -23,6 +23,14 @@ formulas:
 - recordar
 
 
+--------------------
+
+quimica:
+
+- espuma de bicarbonato y vinagre coloreada
+- gusano vivo de gominola, con bicarbonato y vinagre
+- lampara de lava con aceite agua colorante y pastilla efervecente
+
 
 
 

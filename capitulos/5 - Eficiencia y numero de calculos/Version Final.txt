@@ -11,10 +11,10 @@ Un mismo problema puede ser abordado de diferentes formas, utilizando distintos 
 
 En este capitulo, nos proponemos obtener una medida de  
 la Eficiencia algoritmica
-del sistema computacional basado en criaturas vivientes que estamos analizando.
+del sistema computacional basado en criaturas vivientes que hemos utilizado en el experimento del capitulo anterior.
 
 No sera dificil establecer una medida aproximada de la eficiencia del sistema, 
-razonando sobre los hechos que hemos podido observar en el experimento del capitulo anterior.
+razonando sobre los hechos que hemos podido observar.
 
 Diremos que un algoritmo es mas eficiente que otro cuando encuentra la solucion al problema con un numero menor de operaciones.
 
@@ -23,9 +23,9 @@ Diremos que un algoritmo es mas eficiente que otro cuando encuentra la solucion 
 Algoritmos diferentes:
 
 Un algoritmo es la descripcion de el procedimiento utilizado para resolver un problema.
-Dicho de otra forma, es la secuencia de operaciones que deben realizarse para alcanzar el resultado deseado.
+O dicho de otra forma, es la secuencia de operaciones que deben realizarse para alcanzar el resultado deseado.
 
-Por ejemplo, si queremos ordenar una baraja de naipes, como lo haremos ?
+Por ejemplo, si quisieramos ordenar una baraja de naipes, como podriamos hacerlo ?
 Es posible que diferentes personas propongan diferentes formas de conseguir el mismo resultado.
 
 Y siendo los metodos diferentes, es posible tambien que, algunos metodos consigan el resultado con un esfuerzo menor que otros.
@@ -41,19 +41,19 @@ Ordenar una baraja:
 
 Metodo 1:
 
-reviso toda la baraja, naipe a naipe, buscando el de menor valor.
+reviso toda la baraja, comparando naipe a naipe, con el objetivo de encontrar el de menor valor.
 despues de haber revisado toda la baraja habre localizado el de menor valor y lo separo de la baraja colocandolo en una pila que llamare "pila ordenada".
 Al resto de la baraja le llamare "pila desordenada".
 Ahora tengo la baraja separada en dos pilas.
 La pila ordenada contiene un naipe.
 La pila desordenada contiene toda la baraja menos un naipe.
 
-Ahora, reviso la pila desordenada, naipe a naipe, buscando el de menor valor.
-Despues de haber revisado toda la pila separo la de menor valor y la coloco sobre la pila ordenada.
+Ahora, reviso la pila desordenada, comparando naipe a naipe, buscando el de menor valor.
+Despues de haber revisado toda la pila separo el naipe de menor valor y lo coloco en la pila ordenada.
 
 Ahora la pila ordenada contiene dos naipes, y la pila desordenadas contiene toda la baraja menos dos naipes.
 
-Vuelvo a revisar la pila desordenada para extraer el tercer naipe.
+Vuelvo a revisar la pila desordenada para extraer el tercer naipe de menor valor.
 Y repito el mismo procedimiento una y otra vez hasta que ya no queden naipes en la pila desordenada.
 
 Entonces, toda la baraja estara en la pila ordenada, y los naipes estaran ordenados de menor a mayor.
@@ -67,7 +67,7 @@ Asi, cada naipe de la baraja tiene un lugar reservado sobre la mesa, que ahora e
 Una vez hecho esto, 
 levanto el primer naipe de la baraja, digamos que es el cinco de diamantes, asi que lo coloco sobre la mesa, en la cuadricula, en el espacio reservado para el cinco de diamantes.
 repito el procedimiento.
-levanto el primer naipe de la baraja, digamos que es el tres de treboles, asi que lo coloco sobre la mesa, en la cuadricula, en el espacio reservado para el tres de treboles.
+levanto el primer naipe de la baraja, digamos que es el tres de treboles, y lo coloco sobre la mesa, en la cuadricula, en el espacio reservado para el tres de treboles.
 repito el procedimiento con todos los naipes hasta que no quede ninguno en la baraja.
 
 Entonces toda la baraja estara sobre la mesa en la cuadricula, ordenada.
@@ -79,7 +79,7 @@ Entonces toda la baraja estara sobre la mesa en la cuadricula, ordenada.
 Numero de operaciones:
 
 
-Veamos ahora cuantas operaciones tendran que realizar estos dos metodos, aproximadamente, para ordenar la baraja.
+Veamos ahora cuantas operaciones han tenido que realizar estos dos metodos, aproximadamente, para ordenar la baraja.
 
 Metodo 1:
 
@@ -94,7 +94,7 @@ cuantas comparaciones habran sido necesarias ?
 
 si al numero de elementos que queremos ordenar le llamamos 'N', en este caso N=50, el numero de operaciones necesarias seran
 aproximadamente N * (N-1)
-Podemos decir, por lo tanto, que el coste en tiempo de ejecutar este algoritmo es de "el orden de" N cuadrado.
+Podemos decir, por lo tanto, que el coste de ejecutar este algoritmo es de "el orden de" N cuadrado.
 
 
 Metodo 2:
@@ -105,7 +105,7 @@ Lo mismo hacemos con el segundo y con todos los demas.
 
 cuantas operaciones son necesarias para ordenar la baraja ?
 una operacion por naipe.
-si el numero de naipes es N, entonces el coste en tiempo de este algoritmo es del orden de N.
+si el numero de naipes es N, entonces el numero de operaciones sera del orden de N.
 
 
 --------------------------
@@ -158,7 +158,7 @@ La distancia que separa la entrada de la salida es de 7 casillas.
 (dibujo)
 
 
-La ficha solo puede moverse una casilla cada vez, por lo tanto, para alcanzar la salida seran necesarios al menos 7 movimientos.
+La ficha solo puede moverse una casilla cada vez, por lo tanto, no sera posible alcanzar la salida con menos de 7 movimientos.
 7 movimientos como minimo, en el caso de que encuentre el camino mas corto, 
 pero pueden ser mas, dependiendo del metodo que utilice para explorar el tablero.
 
@@ -179,13 +179,6 @@ Se ha reproducido, generando todos los hijos posibles, e inmediatamente despues 
 Al cumplir con su ciclo de vida, ha iniciado un proceso mas complejo, que va mas alla de su propia vida, y que continuara aun cuando el ya no forma parte del sistema.
 El proceso que ha desencadenado con su existencia le sobrevivira.
 
-Y sucede lo siguiente...
-
-
-Digamos tambien que los individuos de esta especie se reproducen un segundo despues de nacer.
-y que al reproducirse, generan todos los hijos posibles de una vez, en la primera generacion.
-
-Se produce una generacion cada segundo.
 
 Y ha sucedido lo siguiente,
 
@@ -204,3 +197,53 @@ Y ha sucedido lo siguiente,
 (dibujos)
 
 ----------------------------
+
+------------------------------------------------
+
+el sistema ha encontrado la respuesta despues de 7 generaciones.
+el sistema avanza un paso en el proceso en cada generacion.
+
+Y con cada generacion, 
+avanza un paso en la direccion correcta.
+No se pierde, no duda, no se equivoca.
+se mueve hacia el objetivo como si supiera adonde se encuentra.
+
+Con cada paso, avanza hacia el objetivo,
+Por el camino mas corto.
+
+
+hemos establecido que son necesarios al menos 7 pasos para alcanzar la salida,
+ya que se encuentra a una distancia de 7 casillas y la ficha no puede moverse mas de 1 casilla en cada jugada.
+
+de modo que,
+el sistema ha encontrado la respuesta con el  minimo numero de pasos necesarios.
+
+No sera posible mejorarlo.
+Jamas existira un sistema mas eficiente que este, 
+porque el problema no puede resolverse en un menor numero de pasos.
+
+-------------------------------
+
+el sistema ha encontrado la solucion en la septima generacion.
+
+Nos preguntabamos como podemos mejorar el procedimiento que utiliza el sistema para hacerlo mas eficiente.
+Veamoslo.
+
+Con cada generacion la ficha realiza un movimiento, una jugada valida.
+Hemos establecido que una jugada valida consiste en desplazar la ficha a una distancia de una casilla.
+Tambien hemos establecido que la distancia entre la entrada y la salida es de 7 casillas, y por lo tanto, no puede ser recorrida en menos de 7 movimientos.
+
+el sistema ha alcanzado la salida en la septima generacion, es decir, con 7 movimientos.
+y si como hemos dicho, esa distancia no puede ser recorrida con menos movimientos, entonces, la eficiencia del sistema no puede ser mejorada.
+
+lo que ha sucedido es que, el sistema con cada generacion, avanza un paso en la direccion correcta.
+No se pierde, no duda, no se equivoca.
+Se mueve hacia el objetivo como si supiera adonde esta.
+
+No existira jamas un sistema mas eficiente que este, porque el problema no puede ser resuelto con un menor numero de pasos.
+
+
+
+
+ 
+
