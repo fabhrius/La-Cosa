@@ -2,3 +2,59 @@ Decisiones y complejidad:
 
 ---------------------------
 
+
+Resumen de objetivos:
+
+Nos proponemos ahora establecer de forma aproximada cual podria ser la potencia de calculo de un sistema de este tipo.
+Y cuando digo potencia de calculo me refiero a la complejidad de los problemas que estos sistemas podrian abordar.
+
+---------------------------
+
+Potencia de calculo:
+
+En fisica la potencia puede ser definida como la cantidad de trabajo entregada por unidad de tiempo.
+Y aunque esta definicion es hasta cierto punto satisfactoria, todavia no responde a la pregunta que estamos planteando.
+cual es la complejidad de los problemas que esta maquina puede abordar ?
+
+Coincidiendo con la definicion de potencia fisica han sido creados una clase de computadores que llamamos "super-computadores", 
+cuya principal caracteristica es la de realizar una gran cantidad de operaciones por unidad de tiempo.
+
+Estos computadores son utilizados principalmente en la resolucion de problemas cientificos.
+Y aunque un incremento en la velocidad de calculo nos permite tambien incrementar la complejidad de los problemas abordables,
+esta solucion no funcionara en todos los casos.
+
+Existen problemas que seguiran siendo inabordables independientemente de la velocidad que puedan alcanzar los procesadores.
+
+De modo que, en cuanto a potencia de calculo, nos gustaria saber,
+cual es la complejidad de los problemas que puede resolver,
+cual es la complejidad de las operaciones que puede realizar por unidad de tiempo, 
+y finalmente, a que velocidad puede realizar el calculo.
+
+Estaremos, por lo tanto, hablando de potencia de calculo en funcion de la complejidad de los problemas.
+El punto de partida sera poder clasificar los problemas de acuerdo a su complejidad y entender cuales son las caracteristicas que hacen que un problema sea mas complejo que otro.
+
+Empezaremos hablando de complejidad de los problemas en este capitulo, y continuaremos con el analisis de la potencia de calculo en el capitulo siguiente.
+---------------------
+
+
+Complejidad de un problema:
+
+
+
+No todos los problemas son iguales.
+
+Algunos pueden resolverse facilmente, otros seran mas dificiles de resolver, mientras que otros podrian considerarse inabordables o incluso irresolubles.
+
+Asi podriamos clasificar a los problemas de acuerdo con su complejidad.
+Y cuando hablamos de complejidad, un buen indicador del grado de complejidad del problema, es el numero de decisiones que deben tomarse para encontrar la solucion.
+
+Podemos ver a una decision como, la bifurcacion del camino.
+por donde debo continuar ?
+
+En lo que sigue pensaremos que, la complejidad de un problema aumenta con el numero de decisiones que deben tomarse para resolverlo.
+
+
+------------
+
+
+

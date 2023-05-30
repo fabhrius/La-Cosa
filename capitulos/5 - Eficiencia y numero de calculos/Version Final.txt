@@ -218,10 +218,15 @@ ya que se encuentra a una distancia de 7 casillas y la ficha no puede moverse ma
 de modo que,
 el sistema ha encontrado la respuesta con el  minimo numero de pasos necesarios.
 
+Nos preguntabamos como podemos mejorar el procedimiento que utiliza el sistema para hacerlo mas eficiente.
+Y eso, simplemente no es posible.
+
 No sera posible mejorarlo.
 Jamas existira un sistema mas eficiente que este, 
-porque el problema no puede resolverse en un menor numero de pasos.
+porque el problema no puede resolverse con un menor numero de operaciones.
 
+
+-------------------------------
 -------------------------------
 
 el sistema ha encontrado la solucion en la septima generacion.
