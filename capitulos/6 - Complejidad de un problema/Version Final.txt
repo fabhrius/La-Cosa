@@ -8,30 +8,43 @@ Resumen de objetivos:
 Nos proponemos ahora establecer de forma aproximada cual podria ser la potencia de calculo de un sistema de este tipo.
 Y cuando digo potencia de calculo me refiero a la complejidad de los problemas que estos sistemas podrian abordar.
 
+O digamoslo de otra forma.
+A juzgar por el experimento que hemos realizado, es posible que, 
+esto sea un sistema inteligente.
+Y si,
+esto fuera una cosa viviente, pensante.
+Solo por explorar una ipotesis.
+Y si esto fuera una unica entidad. Inteligente. 
+.
+Como seria esta cosa de inteligente ?
+
+
+
+
+
 ---------------------------
 
 Potencia de calculo:
 
 En fisica la potencia puede ser definida como la cantidad de trabajo entregada por unidad de tiempo.
-Y aunque esta definicion es hasta cierto punto satisfactoria, todavia no responde a la pregunta que estamos planteando.
+Y aunque esta definicion es, en el caso que nos ocupa, hasta cierto punto satisfactoria, todavia no responde a la pregunta que estamos planteando.
 cual es la complejidad de los problemas que esta maquina puede abordar ?
 
-Coincidiendo con la definicion de potencia fisica han sido creados una clase de computadores que llamamos "super-computadores", 
+Coincidiendo con la definicion de potencia fisica han sido creados una clase de computadores que informalmente llamamos "super-computadores", 
 cuya principal caracteristica es la de realizar una gran cantidad de operaciones por unidad de tiempo.
-
 Estos computadores son utilizados principalmente en la resolucion de problemas cientificos.
+
 Y aunque un incremento en la velocidad de calculo nos permite tambien incrementar la complejidad de los problemas abordables,
 esta solucion no funcionara en todos los casos.
-
 Existen problemas que seguiran siendo inabordables independientemente de la velocidad que puedan alcanzar los procesadores.
 
-De modo que, en cuanto a potencia de calculo, nos gustaria saber,
+De modo que, para el analisis que estamos realizando, en cuanto a potencia de calculo, nos gustaria saber,
 cual es la complejidad de los problemas que puede resolver,
 cual es la complejidad de las operaciones que puede realizar por unidad de tiempo, 
 y finalmente, a que velocidad puede realizar el calculo.
 
 Estaremos, por lo tanto, hablando de potencia de calculo en funcion de la complejidad de los problemas.
-El punto de partida sera poder clasificar los problemas de acuerdo a su complejidad y entender cuales son las caracteristicas que hacen que un problema sea mas complejo que otro.
+Y por este motivo, el punto de partida sera poder clasificar los problemas de acuerdo a su complejidad y entender cuales son las caracteristicas que hacen que un problema sea mas complejo que otro.
 
 Empezaremos hablando de complejidad de los problemas en este capitulo, y continuaremos con el analisis de la potencia de calculo en el capitulo siguiente.
 ---------------------
@@ -57,4 +70,66 @@ En lo que sigue pensaremos que, la complejidad de un problema aumenta con el num
 ------------
 
 
+las decisiones tienen coste.
+
+con cada decision el camino se bifurca 
+y a medida que aumenta el numero de decisiones que deben tomarse aumentan el numero de caminos posibles que debemos recorrer para encontrar la solucion del problema.
+
+rapidamente el numero de caminos tiende a infinito, 
+o dicho de otro modo, 
+El numero de caminos se vuelve demasiado grande para recorrerlos todos con el tiempo y recursos disponibles.
+
+Digamos que queremos saber 
+como ganar una partida de ajedrez.
+
+partiendo del estado inicial 
+(el tablero con las fichas en su posicion de salida), 
+cuantas posibles jugadas pueden hacerse a partir de aqui ?
+
+Desde la posicion inicial, 
+puede moverse alguno de los peones o alguno de los caballos.
+Y esto significa, 20 posibles movimientos diferentes.
+Cual sera el mejor de ellos ?
+
+Tendre que probarlos todos para decidir.
+
+Solo para comenzar la partida, desde el punto de salida pueden verse 20 posibles caminos.
+
+--------------------
+
+Cuantos movimientos diferentes podrian hacer las negras 
+para responder a esta primera jugada de las blancas ?
+
+Otros 20.
+
+Esto creara 
+20 por 20 = 400 escenarios diferentes.
+
+Y solo se han movido 2 fichas, una blanca y una negra.
+Y con cada nuevo movimiento el numero de posibles caminos se multiplica.
+
+Cual de todos estos caminos me llevara al estado final deseado ?
+Cual de todos ellos me llevara a ganar la partida ?
+
+Tendre que recorrerlos todos para saberlo.
+
+Resolver este problema requerira recursos 
+como tiempo y memoria.
+
+Tiempo, para recorrer todos los posibles caminos,
+Y memoria, para recordarlos todos y poder compararlos
+Solo así sabre cual es el mejor.
+
+las decisiones, incrementan la complejidad del problema,
+Los recursos necesarios para resolverlo 
+Y eso se traduce en un incremento en el coste.
+
+Podemos decir que las decisiones son el problema,
+Y cuantas mas decisiones,
+Mayor es el problema.
+
+Los problemas se vuelven mas complejos a medida que aumenta el numero de decisiones que deben tomarse para resolverlo.
+
+
+---------------------
 
