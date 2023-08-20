@@ -1,0 +1,75 @@
+Iniciamos aqui, el disegno de un computador que desarrollaremos a lo largo de los siguientes capitulos hasta verlo en funcionamiento resolviendo problemas logicos.
+
+Nos olvidaremos de los detalles de implementacion tales como circuitos electronicos u otras consideraciones tecnologicas para enfocarnos solo en las ideas que lo hacen funcionar.
+Sera pues un computador puramente teorico.
+
+Para construirlo utilizaremos como modelo, a la vida.
+El computador sera una simulacion simplificada de una colonia de seres vivientes.
+Y sera la colonia de seres vivientes quien resolvera los problemas logicos que le planteemos.
+
+Creo que ver a la vida en accion en este experimento, aportara informacion valiosa, que nos permitira entender un poco mejor lo que vida es.
+
+Crearemos primero a un individuo, que simulara el comportamiento que tienen en comun todos los individuos de todas las especies de seres vivientes.
+
+Todos los individuos de todas las especies de seres vivientes, nacen, se reproducen y mueren.
+Este es el comportamiento que todos ellos comparten.
+Y esto sera lo unico que un individuo en esta simulacion podra hacer.
+
+Y un individuo con estas caracteristicas sera el unico bloque de construccion que necesitamos para construir nuestra maquina de calculo.
+
+Lo veremos mas adelante en detalle.
+
+Pero antes de lanzarnos a la construccion del computador, veamos primero cuales son las caracteristicas minimas que una maquina de calculo necesita tener para realizar su trabajo.
+
+
+---
+
+Los computadores procesan informacion.
+Este es el proceso que todos los computadores utilizan para resolver problemas.
+
+Veamos entonces a que llamamos "procesar informacion" y cuales son las caracteristicas minimas que un computador deberia tener para realizar esta tarea.
+
+
+Procesamiento de la informacion.
+
+
+Supongo que todos en algun momento habremos tenido que resolver algun problema logico-matematico, como los que salian en los examenes de la escuela, del tipo:
+
+-"si dos trenes salen de la estacion, ..., cual de los dos llegara primero a destino ?"-
+
+Observad que con la informacion proporcionada en el enunciado, es imposible dar una respuesta razonada.
+Se necesita mas informacion para resolver este problema.
+A que velocidad viajan los trenes ? A que distancia se encuentra el destino ?
+
+Esto describe de forma general el procedimiento que utilizamos para resolver problemas de este tipo.
+Es decir,
+1- partimos de un conjunto de datos que describen el contexto del problema 
+y
+2- es sobre los datos que realizamos calculos, por ejemplo aplicando operaciones matematicas, que transforman los datos produciendo nueva informacion, a medida que relizamos calculos, tranformaciones sobre los datos obtenemos nueva informacion que nos acerca, paso a paso, hacia la solucion.
+
+En resumen, para resolver problemas logico-matematicos necesitamos 2 elementos, 
+- los datos, que describen el contexto del problema
+- y el metodo, que nos dice cuales son los calculos que debemos realizar sobre los datos
+
+
+Como ejemplo, veamos un calculo simple paso a paso.
+Si pregunto,
+cuanto hemos gastado hoy ?
+
+Una vez mas, no podre saberlo si no tengo la lista de gastos, los datos de describen el contexto del problema.
+Pero aun teniendo la lista de gastos, no podre saberlo si no puedo sumarlos, es necesario aplicar el metodo.
+
+Veamoslo paso a paso, esta informacion sera de utilidad mas adelante.
+
+
+
+
+
+
+
+
+
+
+
+
+
