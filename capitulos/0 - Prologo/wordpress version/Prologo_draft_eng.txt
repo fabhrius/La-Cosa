@@ -1,0 +1,136 @@
+Could a computer find answers to explain the mysteries of life?
+
+Mysteries such as, 
+
+What is life?
+Why does all of this happen?
+What is happening?
+
+
+What am I?
+Why am I here?
+Why must I die?
+Is it possible that I must fulfill an important mission and for that reason have been created?
+Have I managed to fulfill my mission in this world?
+
+Is it possible that an intelligence exists that is capable of designing every living creature down to the smallest detail?
+And if so, where is that intelligence?
+
+Many of us try to find answers to such questions throughout our lives.
+
+The account contained in these pages is, in broad terms, the description of a theoretical computer model.
+Which perhaps could provide answers to some of them.
+A computer model that we will define in detail, test, observe in operation, and analyze its most relevant characteristics.
+
+And yet, we will be talking about life and our existence.
+And although the main content falls within the domain of computer science,
+the narrative is directed at all people, and no previous knowledge is necessary to understand it.
+
+-----------
+
+I will now propose some ideas, just to initiate the discussion:
+
+A few years ago, when I was younger, I lived in a house on the outskirts with a small plot of land populated by some fruit trees and which we also used to raise ducks and a few hens.
+
+Ducks were raised in the house.
+And from the window, I would watch them, now all walking to one side, now all walking to the other.
+And so the days went by.
+All to one side, all to the other, and when spring came, more ducks would be born.
+
+Observing them in action, interacting, was marvelous, a gift for the spirit.
+And yet,
+it didn't seem to me that they did much else.
+Just going from one side to the other,
+eating, sleeping, swimming in the pond.
+
+They only do their things, things that make sense for them.
+
+It doesn't appear that the ducks' lives have a profound impact on the balance or destiny of the infinite universe.
+Apparently, what happens in their lives only matters to themselves.
+
+And then,
+why are they here?
+Why does life create them?
+
+Is it for them to go from one side to the other? Is that their purpose?
+Perhaps because they are beautiful?
+
+------------
+
+
+Someone has mentioned to me that perhaps they might be necessary to maintain the balance of the ecosystem.
+That's a theory that sounds plausible.
+
+But what's the need for preserving the ecosystem's balance, after all?
+
+Perhaps maintaining the ecosystem's balance is necessary to keep living creatures alive.
+Maybe.
+But what's the significance of keeping living creatures alive, after all?
+
+Perhaps, keeping living creatures alive is necessary to maintain the ecosystem's balance?
+That no longer makes sense.
+
+Evidence suggests that in this biological system, what is necessary is created, and what is no longer necessary is eliminated.
+So, if we are here, it's possible that we are necessary for some reason.
+
+I'll venture a hypothesis.
+Maybe we are part of something larger, perhaps we're a cog in some machinery, something that we cannot see from our vantage point.
+We'll return to discussing this later on.
+
+
+----------------------------------
+
+
+Our reasoning goes in circles.
+
+In addition to this,
+within evolutionary theories, there are two important questions that have yet to find a suitable answer.
+
+One of them is:
+
+Why do creatures reproduce?
+The answer to this question is: "Creatures reproduce to propagate the species."
+
+It is true that by reproducing, creatures ensure the propagation of their species, yes.
+But what's the purpose of propagating the species, after all?
+
+Later on, we'll see that the reason for reproduction could be something else, perhaps more significant, maybe with more meaning, beyond the mere act of species propagation.
+
+The other question is:
+
+Why do creatures die?
+The answer to this question is: "Death cannot be avoided, as the organic matter forming living beings deteriorates over time."
+
+And yes, it's true that organic matter deteriorates over time.
+Although it's not entirely clear that death is inevitable, and it's also not certain that tissue decay isn't a planned mechanism.
+We'll see later on that there might be another reason necessitating the death of creatures.
+
+I believe we can all agree that whatever life is, it's certain to be an ingenious feat of great complexity and precision.
+Something calculated in every detail.
+Balanced, optimized, precise.
+
+It almost seems as if there's an immense, infinite intelligence designing every creature down to the smallest detail, deciding what they will be, what they will do, how they will behave, how long they will live, when they will die.
+
+Could such an intelligence exist?
+It certainly seems like a fantastical character, of mythological proportions.
+
+And yet, constructing a machinery of these characteristics requires intelligence.
+Therefore, intelligence must exist, by necessity.
+
+The problem with this is that an intelligence is alive.
+And if what we're saying is that a living being creates life, then we're back to going in circles.
+
+And if that's the case, if this intelligence truly exists,
+why does it do so?
+why does it create living creatures?
+
+Just because. Because it's bored. To watch them roam?
+
+Alright.
+Now that our thoughts are aligned in the same direction,
+we can begin.
+
+----------------------------
+
+
+
