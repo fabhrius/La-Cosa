@@ -1,0 +1,204 @@
+We begin here, the design of a computer that we will develop over the following chapters until we see it functioning to solve logical problems.
+
+We will disregard implementation details such as electronic circuits or other technological considerations to focus solely on the ideas that make it work.
+It will thus be a purely theoretical computer.
+
+To build it, we will use life as a model.
+The computer will be a simplified simulation of a colony of living beings.
+And it will be the colony of living beings that will solve the logical problems we present to it.
+
+I believe that observing life in action in this experiment will provide valuable information that will allow us to understand a little better what life is.
+
+To construct the colony, we will first create an individual that simulates the common behavior of all individuals of all species of living beings.
+
+All individuals of all species of living beings are born, reproduce, and die.
+This is the behavior they all share.
+And this will be the only thing an individual in this simulation can do.
+
+An individual with these characteristics will be the only building block we need to construct our calculating machine.
+
+We will delve into this in more detail later.
+
+But before we embark on constructing the computer, let's first examine the minimum characteristics that a calculating machine needs to have to perform its work.
+
+
+------------------
+
+
+Computers can find solutions for a certain type of problems, those that we call "computable". And they perform this task by "processing information".
+
+The process begins with the declaration of a set of data that describes the problem's context. It is on these data that operations will be performed, and these will provide new information that will be included, in turn, in the set of known data.
+
+As we add new information to the data set, this data set describing the context "changes state". And with each new operation, we gain more information, we know more, and we are closer to finding the solution.
+
+Some problems could be solved immediately, in a single step, those we call "trivial", but more complex problems will require a sequence of steps to find the solution. This sequence of steps that must be performed to find the solution can be called a "method", "algorithm", or "program".
+
+Let's now see what we mean by "processing information" and what are the minimum characteristics a computer should have to perform this task.
+
+Processing Information.
+
+I imagine that many of us have had to solve logical-mathematical problems at some point, like the ones that appeared on school exams, such as:
+
+-"if two trains leave the station ..., which one will reach the destination first?"-
+
+Notice that with the information provided in the statement, it is impossible to give a reasoned answer. More information is needed to solve this problem. What speed do the trains travel at? How far is the destination?
+
+This describes in a general way the procedure we use to solve problems of this type. That is,
+1- we start with a set of data that describes the problem's context and
+2- it's on the data that we perform calculations, for example applying mathematical operations, that transform the data, producing new information. As we perform calculations or transformations on the data, we obtain new information that brings us step by step closer to the solution.
+
+Put differently, two elements are involved in information processing:
+- the data, describing the problem's context
+- and the method, which tells us what calculations we should perform on the data
+
+As an example, let's look at a simple calculation step by step.
+If I ask,
+how much have we spent this week?
+
+Once again, I won't be able to know unless I have the list of expenses, the data that describes the problem's context. But even having the list of expenses, I won't be able to know unless I can add them up, applying the method.
+
+Let's break it down step by step; this information will be useful later.
+
+Summation of a list of numbers.
+
+Initial data: the list of numbers we want to add.
+Method:
+- In addition to the list of numbers, I'll set aside extra space to store a "partial result", initially assigning it a value of 0.
+
+(diagram)
+
+And I'll perform the following actions:
+
+START of the procedure.
+
+- I check if the list contains data.
+
+- If there's no data in the list, then the result is the value stored in the "partial result". And the procedure ENDS here.
+
+Otherwise,
+- If the list contains data, then I take the first data from the list and add it to the "partial result". I store the value obtained from this addition in the "partial result" and remove the first element from the list. Now the list has been reduced, and the value of the "partial result" has increased.
+
+(diagram)
+
+I repeat the procedure from the START.
+
+--------------
+
+Alright.
+Let's remember that our intention is to build a machine that automatically solves problems by processing information. Therefore, it's necessary for the machine to be able to:
+- store information about the context, and
+- execute the appropriate method on the data.
+
+The electronic computers we use daily have memory devices where they keep information they are working on, the data. They also have other devices, like the processor, that allow them to execute a program, the method.
+
+Memories can be classified into two categories, and these are:
+- "read-write" memories
+- and "read-only" memories
+
+Examples of "read-write" memory are those used in personal computers, where information can be written, erased, modified. Examples of "read-only" memory are old vinyl records used to record music. An old Pink Floyd record cannot be modified by recording different music in its place; once recorded, it cannot be changed.
+
+------------------------
+
+With this information, let's now return to the development of the experimental computer we are constructing. 
+At the beginning of the chapter, I mentioned that this computer would be based on the model provided by life and would consist of a colony of living beings. We can replace the word colony with family or species.
+
+And ultimately, it will be this new species we create that will automatically solve problems, similar to how a computer would do it.
+
+We've talked about how to process information and have seen the main elements on which this procedure is based: Data and Method. Now let's see how life could provide these resources and how a family of living creatures could be suitable for performing this task automatically.
+
+
+-------------
+
+
+DNA and Reproduction:
+
+DNA:
+
+A characteristic of all living beings is that they all possess a large-sized molecule that stores the necessary information to build an individual.
+
+DNA is different in every individual.
+Two individuals of the same species will share common characteristics, but the details will make them distinct.
+Similarly, the DNA will differ in the details.
+
+The purpose of this account is not to provide a precise description of DNA.
+We will only use a very general idea.
+We will think of all individuals as carrying the defining information within themselves, and we will refer to this as DNA.
+
+And what interests us is the following,
+if DNA contains the necessary information to construct an individual, then it functions as an information carrier or memory.
+This is the utility it will have for us – functioning as the system's memory.
+
+DNA has the capacity to store a large amount of information.
+We will think of DNA as a "read-only" memory, meaning it cannot be modified.
+Once the information is written to the storage, it can no longer be changed.
+
+In this way, the information that describes the individual remains constant throughout the individual's lifetime,
+and thus, the individual will always be the same – with the same fingerprints, with the same characteristics that differentiate them from other individuals,
+throughout their entire life.
+
+I will always be myself.
+I might learn new tricks, age, but I will always be myself.
+
+I mentioned that when we process information, the set of data describing the context will "change state" as we perform operations on the data.
+The new information we obtain must be included in the dataset, modifying its state.
+
+But if we are going to use the individual's DNA as the system's memory, the dataset cannot be modified, as it's a "read-only" memory.
+
+Let's see how we can overcome this obstacle.
+
+
+------------------------
+
+
+Reproduction:
+
+Another characteristic that all living beings also possess is the ability to reproduce.
+
+When an individual reproduces, their offspring will not be exact copies of the parent.
+The offspring will be very similar to the parent, but not identical.
+This is necessary to ensure that there are no two identical individuals. We will see later why this difference is necessary.
+
+In reproduction, the information contained in the DNA of the parent will be modified to create the child.
+The child will be a new version of the parent.
+
+The mechanism of reproduction modifies the information, processes it in some way to produce a new individual, an individual different from all that have existed so far, and ideally, an improved individual.
+
+It is not, therefore, a random modification; it is a carefully calculated modification. We can say that it is a programmed modification, as some kind of "method" or function has been applied to the data that describe the parent to achieve a specific result.
+
+So, the information contained in the parent cannot be modified because it is a read-only memory.
+However, it can be read; the information can be extracted during the process of reproduction; it can be modified by applying the method, and the result can be recorded in a new read-only memory, the child.
+
+In this way, we can change the state of the data that describe the context from generation to generation.
+
+Reproduction will then be the mechanism we use to process information.
+
+And with this, the machine we wanted to build already exists.
+Life provides all the necessary resources, and it hasn't been necessary to modify anything.
+Life is a natural computer.
+
+The function of an individual, in this model, is to maintain a set of data.
+The state in which the process was at a certain point in time.
+
+If we consider that information is processed during reproduction, this will be a single, simple step in the process.
+The difference between the parent and the child will be the smallest among all possibilities.
+
+I mentioned that, in general, solving a problem will require a series of steps, usually more than one.
+So, the parent won't find the solution to the problem, nor will the child.
+It will be the work of the entire family or species.
+The process of problem-solving will advance step by step, slowly, generation after generation.
+One step at a time.
+
+In the next chapters, we will create a computer based on living creatures, or more precisely, on families or species of living beings,
+where,
+the species has been tailored to the problem.
+The new species is the computer, and this computer is only useful for solving a specific problem and no other,
+and where,
+an individual represents the state of the calculation at a specific moment in time.
+
+Note that an individual is not a computer,
+but only the representation of a state in the calculation process.
+The calculation machine will be formed by all individuals of the species.
+
+But let's look at it more slowly, step by step.
+I said that an individual represents a "state" of the calculation.
+Let's see what we will call "states of the process".
