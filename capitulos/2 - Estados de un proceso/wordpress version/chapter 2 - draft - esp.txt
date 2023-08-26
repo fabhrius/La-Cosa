@@ -1,0 +1,125 @@
+justificacion.
+
+descripcion abreviada.
+
+ejemplo continuar la partida.
+
+ejemplo suma.
+
+ejemplo ajedrez.
+
+utilizacion de grafos.
+
+3 en linea.
+
+------------------------------------
+
+solo nos queda revisar una ultima idea antes de comenzar.
+
+Estados de un proceso.
+
+
+
+(ejemplo continuar la partida.)
+
+Digamos que estamos jugando una partida de ajedrez y que quisieramos suspenderla por hoy para continuar manana desde el mismo punto en que la hemos dejado.
+
+Para hacer esto, deberiamos recordar en que "estado" se encontraba la partida cuando la hemos suspendido.
+Y seria suficiente con apuntar en una lista la posicion de cada ficha en el tablero, y quien debe jugar a continuacion.
+
+Asi podriamos reconstruir el juego, poniendo cada ficha en su posicion, y retomar el juego desde el mismo estado en que habia quedado cuando lo hemos suspendido.
+
+Vemos como el juego cambiara de estado a medida que evoluciona.
+Cambiara de estado cada vez que se realice una jugada.
+
+Una foto del tablero no nos mostrara la evolucion del juego de principo a fin, sino solo el "estado" en que se encontraba en un instante puntual del tiempo.
+
+
+(ejemplo suma.)
+
+
+Veamos otra vez el ejemplo de la suma de un listado de numero que hemos visto en el capitulo anterior.
+Encontrar la solucion ha requerido 4 operaciones, 4 pasos en el proceso de calculo.
+
+(grafico)
+
+Y despues de cada paso, despues de cada operacion de suma, algo ha cambiado en el conjunto de datos.
+El conjunto de datos cambia de estado cada vez que realizamos una operacion.
+
+
+La idea de que el proceso de calculo evoluciona cambiando de estado nos sera util.
+Y entre los posibles estados del proceso distiguiremos 3 tipos caracteristicos:
+
+- el estado inicial
+- el estado final
+- y los estados intermedios
+
+
+El estado inicial, representa el estado en que el proceso se encontraba antes de empezar.
+
+En el caso de la partida de ajedrez, el estado incial es cuando todas las fichas estan colocadas en la posicion de salida y todavia no se ha realizado ningun movimiento.
+
+En el caso de la suma del listado de numeros, el estado inicial es cuando tenemos el listado de numeros completo y el valor del resultado parcial todavia es cero. No se ha realizado ningun calculo.
+
+El estado final, representa el estado que queremos alcanzar. El momento en que el proceso alcanza su resolucion y termina.
+
+En el caso de la partida de ajedrez, el estado final se alcanza cuando se ha dado jaque-mate.
+Y en el caso de la suma de numeros, el estado final se alcanza cuando obtenemos el resultado total.
+
+Los estados intermedios son todos aquellos estados que no son estados iniciales ni estados finales.
+
+En el caso de la partida de ajedrez, el juego atravesara por una serie de estados antes de llegar al estado final.
+En el caso de la suma de numeros, entre el estado inicial y el estado final existen 3 estados intermedios.
+
+
+(grafico)
+
+(utilizacion de grafos)
+
+El concepto de estados del proceso y entender como un proceso cambiara de estado cada vez que se realice una operacion, 
+nos ayudara a resolver problemas.
+Junto con la idea de estados utilizaremos una estructura llamada "grafo".
+Comentare brevemente lo que es un grafo y como lo utilizaremos.
+
+En matemáticas y ciencias de la computación, un "grafo" es una estructura abstracta que representa relaciones entre objetos. 
+Un grafo consiste en un conjunto de nodos y un conjunto de aristas que conectan pares de nodos.
+
+Sobre el papel representaremos un nodo como un circulo y una arista como una linea.
+
+(dibujo)
+
+Dentro de los nodos, colocaremos estados, un estado en cada nodo, y las aristas nos mostraran la relacion entre un estado y el anterior.
+
+Veamos algunos ejemplos con el juego de 3 en linea.
+
+El juego empieza con el tablero vacio.
+Por lo tanto, el estado inicial es un tablero sin fichas, todavia no ha sido realizado ningun movimiento.
+
+Colocaremos este estado inicial dentro de un nodo.
+
+(grafico)
+
+
+El siguiente estado se obtiene realizando un movimiento valido.
+El primer jugador debe colocar una ficha en el tablero.
+En este momento el tablero tiene 9 casillas vacias, y por lo tanto existen 9 posibles movimientos validos.
+Nueve posibles nuevos estados.
+Colocamos cada uno de estos nuevos estados en nodos y los unimos al padre con aristas.
+
+(grafico)
+
+
+Observad que las aristas nos muestran la relacion de padres a hijos, o de antepasados a descendientes, porque un estado es consecuencia del anterior.
+El nuevo estado se genera realizando una jugada valida desde el estado anterior y por lo tanto no puede ser consecuencia de otros estados, solo puede ser descendiente del estado padre.
+
+Los movimientos validos a partir del estado inicial son nueve, y han generado nueve nuevos estados.
+el siguiente paso es realizar todos los movimientos validos a partir de estos nuevos estados y agregar nuevos nodos al grafo.
+Y continuar con este procedimiento hasta el final, hasta que se hayan generado todos los estados posibles y el proceso termine.
+Esto nos mostrara, 
+
+
+
+
+
+
+

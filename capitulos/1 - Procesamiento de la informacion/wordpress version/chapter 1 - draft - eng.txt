@@ -200,5 +200,5 @@ but only the representation of a state in the calculation process.
 The calculation machine will be formed by all individuals of the species.
 
 But let's look at it more slowly, step by step.
-I said that an individual represents a "state" of the calculation.
+I have said that an individual represents the "state" of the process at a particular moment in time.
 Let's see what we will call "states of the process".

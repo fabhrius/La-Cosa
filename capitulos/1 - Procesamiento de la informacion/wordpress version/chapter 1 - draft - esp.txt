@@ -230,6 +230,6 @@ sino unicamente la representacion de un estado en el proceso de calculo.
 la maquina de calculo estara formada por todos los individuos de la especie.
 
 pero veamoslo mas despacio, paso a paso.
-he dicho que un individuo representa un "estado" del calculo.
+he dicho que un individuo representa el "estado" del proceso en un particular instante del tiempo .
 Veamos a que llamaremos "estados del proceso".
 
