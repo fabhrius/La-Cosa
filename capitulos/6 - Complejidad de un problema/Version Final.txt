@@ -61,7 +61,7 @@ Algunos pueden resolverse facilmente, otros seran mas dificiles de resolver, mie
 Asi podriamos clasificar a los problemas de acuerdo con su complejidad.
 Y cuando hablamos de complejidad, un buen indicador del grado de complejidad del problema, es el numero de decisiones que deben tomarse para encontrar la solucion.
 
-Podemos ver a una decision como, la bifurcacion del camino.
+Podemos ver a una decision como, una bifurcacion en el camino.
 por donde debo continuar ?
 
 En lo que sigue pensaremos que, la complejidad de un problema aumenta con el numero de decisiones que deben tomarse para resolverlo.

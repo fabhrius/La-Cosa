@@ -1,162 +1,220 @@
-justificacion.
 
-descripcion abreviada.
+Introduccion y objetivos del capitulo:
 
-ejemplo continuar la partida.
+Veamos ahora como podemos utilizar las ideas que hemos estado comentando hasta ahora.
+El objetivo sera crear una maquina de calculo, un computador, que resuelva problemas logicos.
 
-ejemplo suma.
+Se trata de un modelo teorico, y el objetivo de este capitulo es el de ver como esta formado el sistema, cuales son sus partes e imaginar a esta maquina en funcionamiento para entender el mecanismo que le permite encontrar soluciones y aprender.
 
-ejemplo ajedrez.
+Se trata de un sistema inteligente de gran potencia que aunque podria clasificarse dentro de la inteligencia artificial, en mi opinion seria mas apropiado etiquetarlo como un sistema de inteligencia natural.
 
-utilizacion de grafos.
-
-3 en linea.
-
-------------------------------------
-
-solo nos queda revisar una ultima idea antes de comenzar.
-
-Estados de un proceso.
+En este modelo de computador, la maquina y el problema estan estrechamente relacionados, de modo que, sera mejor empezar por definir el problema que queremos resolver.
 
 
+--------------
 
-(ejemplo continuar la partida.)
+Problema ejemplo:
 
-Digamos que estamos jugando una partida de ajedrez y que quisieramos suspenderla por hoy para continuar manana desde el mismo punto en que la hemos dejado.
+como ejemplo utilizaremos un problema simple que nos permita enfocar toda nuestra atencion en la forma en que la maquina trabaja sin distraernos con detalles innecesarios.
+Utilizaremos para esto un juego de mesa que llamaremos "Laberinto".
 
-Para hacer esto, deberiamos recordar en que "estado" se encontraba la partida cuando la hemos suspendido.
-Con este proposito, seria suficiente apuntar en una lista la posicion de cada ficha en el tablero, y quien debe jugar a continuacion.
+El juego consiste en encontrar el camino que lleva desde la entrada hasta la salida de un laberinto.
+Jugaremos sobre un tablero cuadriculado, de 8 por 8 casillas, como el utilizado en el juego de ajedrez.
+Referenciaremos cada casilla con un nombre formado por la concatenacion de una letra y de un numero, 
+siendo las filas referenciadas por una letra, desde la 'A' hasta la 'H',
+y las columnas referenciadas por un numero, desde el 1 hasta el 8.
 
-Asi podriamos reconstruir el juego, poniendo cada ficha en su posicion, y retomar el juego desde el mismo estado en que habia quedado cuando lo hemos suspendido.
+Marcaremos sobre el tablero, 
+una casilla que representara la entrada al laberinto, y que sera la casilla 'A1',
+y otra casilla que representara la salida del laberinto, y que sera la casilla 'H8'.
 
-Podemos observar como el juego cambiara de estado a medida que evoluciona.
-Mas concretamente, cambiara de estado cada vez que se realice un movimiento.
+Sobre el tablero colocaremos una unica ficha que representara a un personaje que debe atravesar el laberinto.
 
-Una foto del tablero no nos mostrara la evolucion del juego de principo a fin, sino solo el "estado" en que se encontraba en un instante puntual del tiempo.
-
-El juego atravesara diferentes estados mientras avanza desde el inicio hacia el fin.
-
-
-(ejemplo suma.)
-
-
-Veamos otra vez el ejemplo de la suma de un listado de numero que hemos visto en el capitulo anterior.
-Encontrar la solucion ha requerido 4 operaciones, 4 pasos en el proceso de calculo.
+La ficha podra moverse en cualquier direccion, pero solo a una casilla contigua con cada movimiento.
+Por lo tanto, sera considerado como una "jugada valida", cualquier movimiento a una distancia de una casilla.
 
 (grafico)
 
-Y despues de cada paso, despues de cada operacion de suma, algo ha cambiado en el conjunto de datos.
-El conjunto de datos cambia de estado cada vez que realizamos una operacion.
-
-
-La idea de que el proceso de calculo evoluciona cambiando de estado nos sera util.
-Y entre los posibles estados que atravesara un proceso podemos distiguir 3 tipos caracteristicos:
-
-- el estado inicial
-- el estado final
-- y los estados intermedios
-
-
-El estado inicial, representa el estado en que el proceso se encontraba antes de empezar.
-
-En el caso de la partida de ajedrez, el estado incial es cuando todas las fichas estan colocadas en la posicion de salida y todavia no se ha realizado ningun movimiento.
-
-En el caso de la suma del listado de numeros, el estado inicial es cuando tenemos el listado de numeros completo y el valor del resultado parcial todavia es cero. No se ha realizado ningun calculo.
-
-El estado final, representa el estado que queremos alcanzar. El momento en que el proceso alcanza su resolucion y termina.
-
-En el caso de la partida de ajedrez, el estado final se alcanza cuando se ha dado jaque-mate.
-Y en el caso de la suma de numeros, el estado final se alcanza cuando obtenemos el resultado total.
-
-Los estados intermedios son todos aquellos estados que no son estados iniciales ni estados finales.
-
-En el caso de la partida de ajedrez, el juego atravesara por una serie de estados intermedios antes de llegar al estado final.
-En el caso de la suma de numeros, entre el estado inicial y el estado final existen 3 estados intermedios.
-
-
-(grafico)
-
-(utilizacion de grafos)
-
-El concepto de estados del proceso y entender como un proceso cambiara de estado cada vez que se realice una operacion, 
-nos ayudara a resolver problemas.
-Junto con la idea de estados utilizaremos una estructura llamada "grafo".
-Comentare brevemente lo que es un grafo y como lo utilizaremos.
-
-En matemáticas y ciencias de la computación, un "grafo" es una estructura abstracta que representa relaciones entre objetos. 
-Un grafo consiste en un conjunto de nodos y un conjunto de aristas que conectan pares de nodos.
-
-Sobre el papel representaremos un nodo como un circulo y una arista como una linea.
-
-(dibujo)
-
-Dentro de los nodos, colocaremos estados, un estado en cada nodo, y las aristas nos mostraran la relacion entre un estado y el anterior.
-
-Veamos algunos ejemplos con el juego de 3 en linea.
-
-El juego empieza con el tablero vacio.
-Por lo tanto, el estado inicial es un tablero sin fichas, todavia no ha sido realizado ningun movimiento.
-
-Colocaremos este estado inicial dentro de un nodo.
-
-(grafico)
-
-
-El siguiente estado se obtiene realizando un movimiento valido.
-El primer jugador debe colocar una ficha en el tablero.
-En este momento el tablero tiene 9 casillas vacias, y por lo tanto existen 9 posibles movimientos validos.
-Nueve posibles nuevos estados.
-Colocamos cada uno de estos nuevos estados en nodos y los unimos al padre con aristas.
-
-(grafico)
-
-
-Observad que las aristas nos muestran la relacion de padres a hijos, o de antepasados a descendientes, porque un estado es consecuencia del anterior.
-El nuevo estado se genera realizando una jugada valida desde el estado anterior y por lo tanto no puede ser consecuencia de otros estados, solo puede ser descendiente del estado padre.
-
-Los movimientos validos a partir del estado inicial son nueve, y han generado nueve nuevos estados.
-el siguiente paso es realizar todos los movimientos validos a partir de estos nuevos estados y agregar nuevos nodos al grafo.
-
-Lo mostrare graficamente solo para uno de ellos.
-
-(grafico)
-
-
-Y continuar con este procedimiento hasta el final, hasta que se hayan generado todos los estados posibles y el proceso termine.
-Esto nos mostrara, todas las posibilidades que tiene el juego, y todos los posibles estados finales que existen.
-Existen muchas formas de ganar la partida.
-
-Nos mostrara tambien, los caminos, formados por nodos y aristas, que llevan desde el estado incial hacia cualquiera de los estados finales.
-
-Este es uno de los caminos que va desde el estado incial hasta uno de los estados finales.
-
-(grafico)
-
-en el dibujo se muestra solo el camino aislado, pero como podeis imaginar para encontrar este camino se han generado un gran numero de otros estados, nodos y aristas.
-
-En concreto, en este juego de 3 en linea, siendo un ejemplo simple, existen 
-9*8*7*6*5*4*3*2 posibles estados.
-Es decir 362.880 estados posibles.
-
-Lo importante aqui es que veais como el concepto de estados puede utilizarse junto con un grafo para encontrar la solucion a un problema.
-
-Intentad imaginar ahora la misma tecnica aplicada al juego de ajedrez.
-El grafo sera notablemente mas complejo que el del juego de 3 en linea, el numero de estados por los que podria atravesar una partida de ajedrez es aproximadamente de 10 elevado a 120, algo asi como un uno seguido por 120 ceros.
-
-Pero si consiguieramos generar todos los estado y crear con ellos un grafo, entonces tendriamos un mapa que nos mostraria todos los posibles caminos entre estados que llevan desde el estado inicial hasta un estado final.
-Con este mapa podriamos buscar el estado en que nos encontramos ahora, y a partir de alli ver cual es la jugada que debo hacer a continuacion para acercarme hasta alguno de los estados finales.
-Con este mapa siempre sabria que ficha debo mover a continuacion para ganar. Simplemente siguiendo el camino.
-
-Tomaros un momento para pensarlo.
-
-Antes de continuar debo comentar, sin embargo, que el grafo del juego de ajedrez es demasiado grande para alojarlo completamente en la memoria de un computador, y por lo tanto, aunque los computadores utilizan esta tecnica para jugar al ajedrez, la utilizan combinada con otras tecnicas que les permiten aprovechar grafos de tamano reducido.
-
-
-Y ya lo tenemos todo.
-Con estas ideas en mente, estamos ya preparados para iniciar la construccion del computador y llevar a cabo el experimento.
+Con esto queda definido el juego y el problema que se quiere resolver.
+En resumen, lo que queremos que la maquina nos diga es 
+cual es el camino que lleva desde la entrada hasta la salida del laberinto ?
 
 
 
+---------------------
 
 
+La maquina:
+
+Ya tenemos el problema, ahora construiremos una maquina que encuentre la solucion automaticamente, para nosotros.
+
+Y este es el centro de toda la discusion en torno al ensayo que se describe en este relato.
+Porque el sistema computacional que crearemos es simplemente una simulacion de la vida.
+
+Simularemos las funciones principales de la vida utilizando abstracciones matematicas.
+Y asi se formara un sistema inteligente que evolucionara con el tiempo y encontrara las respuestas sin realizar ningun proceso especial para ello, encontrara las respuestas solo viviendo.
+
+La hipotesis que se pretende demostrar aqui es que la vida es una inteligencia.
+
+Lo veremos paso a paso.
+Empecemos por recordar cuales son las caracteristicas que nos permitiran procesar la informacion para producir un resultado.
+
+----------------------------------
+
+resumen de caracteristicas genericas:
+
+Hemos comentado anteriormente que para construir una  maquina capaz de procesar informacion seria necesario disponer de 
+una memoria que soporte los datos que describen el contexto del problema asi como el nuevo conocimiento que se generara a medida que avanza el proceso de calculo.
+y de un mecanismo que aplique las transformaciones oportunas sobre los datos, necesarias para generar nuevo conocimiento que reduzca la incertidumbre acercandonos a la respuesta.
+
+los datos y el metodo, son el software, la parte logica.
+la memoria y el mecanismo procesador, son el hardware, la parte fisica de la maquina.
+
+la parte logica la tenemos ya, viene dada por la descripcion del problema que hemos realizado.
+Es decir que, 
+los datos que describen el contexto deben describir el juego del laberinto que hemos planteado y el estado en que se encuentra.
+la transformacion que debe aplicarse sobre los datos sera aquella que genera el siguiente estado, es decir, una jugada valida, como la hemos definido, la ficha mueve a una casilla contigua.
+
+Solo nos falta, por lo tanto, el hardware, la parte fisica, que se compone de 
+un soporte de memoria, 
+y un mecanismo procesador.
+
+Hemos comentado anteriormente que existen 2 caracteristicas presentes en todos los seres vivientes que pueden utilizarse para cumplir estas funciones y son, 
+el ADN, que almacena informacion como una memoria de solo lectura, y
+el mecanismo de reproduccion, que modifica la informacion contenida en el ADN para crear una nueva cadena.
+
+Utilizaremos por lo tanto el ADN como memoria y el mecanismo de reproduccion como procesador.
+
+Tenemos con esto, todos los elementos necesarios para crear el sistema de calculo.
+
+
+--------------------------------
+
+adaptacion especifica:
+
+(adaptamos el sistema al problema que queremos resolver)
+
+Hemos comentado anteriormente tambien que en este modelo de computador, la maquina debe estar hecha a la medida del problema.
+Tenemos las ideas necesarias, solo nos queda adaptar una rama de la vida al problema que queremos resolver.
+Y esto lo conseguiremos creando una nueva especie se seres vivientes especifica para el problema del laberinto.
+
+Una especie es una familia de individuos semejantes.
+Todos los individuos de una especie son muy parecidos, no dire iguales, pero casi.
+Asi, es el individuo quien define a la especie.
+
+Crearemos una nueva especie simplemente creando un individuo con las caracteristicas que nos interesan.
+Todas las criaturas vivientes cumplen con un ciclo de vida que consiste en nacer, reproducirse y morir.
+
+Y por lo tanto, una vez creado el nuevo individuo que necesitamos, este se reproducira, y creara la nueva especie.
+Se trata pues, unicamente de crear el individuo adecuado.
+Veamos como.
+
+
+-------------------------
+el individuo:
+
+(descripcion del individuo necesario para el caso actual, y de sus responsabiidades, bloque de construccion alcance del procesamiento)
+
+(adn, individuo y estado del proceso)
+
+En todas las criaturas vivientes, en todos los individuos de todas las especiees, esta presente el ADN.
+El ADN contiene la informacion necesaria para construir a un individuo.
+
+Utilizaremos el ADN como memoria del sistema, y en ella queremos almacenar la  informacion necesaria para reconstruir un estado cualquiera del proceso de resolucion del problema en el que estamos trabajando.
+Que en este caso se trata de un juego de mesa.
+
+Por lo tanto, un individuo de esta nueva especie representara un estado en el juego del laberinto.
+ 
+
+(datos necesarios para reconstruir el estado)
+
+Veamos que datos necesitamos para resumir un estado del juego.
+Digamos que estamos jugando una partida de ajedrez, la partida se encuentra ya en un estado intermedio cuando debemos abandonarla.
+Y nos gustaria poder continuar jugando esta misma partida manana desde el mismo punto en donde la dejamos hoy.
+
+Para esto sera necesario recordar el "estado" en que habia quedado el juego.
+
+En el caso de una partida de ajedrez bastaria con recordar la posicion de las fichas sobre el tablero y cual de los dos jugadores hara el siguiente movimiento.
+Con esta informacion podriamos reconstruir la partida para continuar desde el mismo punto.
+Esta es la informacion que describe el estado en que la habiamos dejado.
+y se reduce a un listado de posiciones mas un indicador de quien juega a continuacion.
+
+En el caso del juego del laberinto, para recordar un estado bastara con recordar 
+la posicion de la unica ficha que hay sobre el tablero, y 
+todos los movimientos que se han realizado hasta ese momento, esto nos permitira recordar tambien el camino que ha recorrido la ficha hasta ahora.
+
+En resumen, para abordar el problema del juego del laberinto, crearemos una nueva especie de seres vivientes en donde el individuo sera
+un tablero con una ficha en una posicion determinada mas un listado con todos los movimientos anteriores.
+
+graficamente se veria asi:
+
+(ejemplo grafico del individuo)
+
+
+
+
+
+
+-------------------------
+
+
+resolucion paso a paso:
+
+Ahora que ya hemos visto como debe ser un individuo de esta especie, veamos ahora como un sistema de este tipo resolveria el problema.
+
+Para poner en marcha a esta maquina, comenzaremos por crear un individuo que represente el estado inicial del problema.
+Es decir, un tablero con la ficha en la entrada del laberinto, posicion 'A1'
+
+(imagen del individuo)
+
+El siguiente paso sera dotar a este individuo de vida.
+Y eso es todo.
+
+Porque cuando este individuo despierta a la vida, 
+sucede lo siguiente.
+
+(maquina en funcionamiento con graficos)
+
+
+
+
+---------------------------
+
+especie y descendencia:
+
+
+(relacion entre especie y problema, descendencia y busqueda de la respuesta)
+
+
+---------------------
+
+conclusion:
+
+veamos ahora lo que ha sucedido.
+
+El sistema ha encontrado la respuesta que buscabamos.
+Sin embargo, los individuos que han sido creados en el proceso, no tenian conciencia del problema ni del proceso que se estaba llevando a cabo para encontrar la solucion.
+Los individuos simplemente viven sus vidas ajenos al proceso de calculo que la especie esta llevando a cabo.
+
+El sistema esta formado por el conjunto de todos los individuos.
+Los individuos son el bloque de construccion, y el unico componente del sistema.
+
+Un individuo no puede encontrar la solucion de un problema que desconoce.
+El individuo vive su vida ajeno al proceso de calculo y las acciones que realiza en su vida personal tienen como objetivo mantenerlo con vida para crear su descendencia. Es decir, cumplir con su ciclo de vida.
+Esta es la mision del individuo.
+Todo lo que debe hacer un individuo es, nacer, reproducirse y morir.
+
+La maquina, el sistema inteligente, esta formada por la suma de todos los individuos.
+Y lo que el sistema utiliza de los individuos en el proceso de calculo es
+La forma fisica del individuo que contiene los datos que estan siendo procesados y
+La reproduccion que realiza transformaciones en los datos modificando el estado del proceso haciendolo avanzar hacia su resolucion.
+
+El individuo no sabe porque tiene esta forma particular, y no tiene control sobre esto.
+El individuo no sabe porque debe reproducirse, y no tiene control sobre esto.
+El individuo no sabe porque ha nacido, y no tiene control sobre esto.
+El individuo no sabe porque debe morir, y no tienen controlo sobre esto.
+
+
+en las proximas paginas comentaremos con mas detalle acerca de la necesidad de que los individuos cumplan con un ciclo de vida y veremos el porque de cada una de las etapas.
+Analizaremos tambien las caracteristicas mas relevantes de este sistema inteligente.
 
