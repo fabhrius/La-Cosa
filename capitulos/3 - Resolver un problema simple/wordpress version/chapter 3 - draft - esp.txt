@@ -6,9 +6,10 @@ El objetivo sera crear una maquina de calculo, un computador, que resuelva probl
 
 Se trata de un modelo teorico, y el objetivo de este capitulo es el de ver como esta formado el sistema, cuales son sus partes e imaginar a esta maquina en funcionamiento para entender el mecanismo que le permite encontrar soluciones y aprender.
 
-Se trata de un sistema inteligente de gran potencia que aunque podria clasificarse dentro de la inteligencia artificial, en mi opinion seria mas apropiado etiquetarlo como un sistema de inteligencia natural.
+Porque esta maquina no solo encuentra solucion a los problemas, sino que ademas aprende.
+Veremos como sucede esto mas adelante.
 
-En este modelo de computador, la maquina y el problema estan estrechamente relacionados, de modo que, sera mejor empezar por definir el problema que queremos resolver.
+En este modelo de computador, la maquina y el problema estan estrechamente relacionados, de modo que, empezare por definir el problema que queremos resolver.
 
 
 --------------
@@ -19,16 +20,21 @@ como ejemplo utilizaremos un problema simple que nos permita enfocar toda nuestr
 Utilizaremos para esto un juego de mesa que llamaremos "Laberinto".
 
 El juego consiste en encontrar el camino que lleva desde la entrada hasta la salida de un laberinto.
-Jugaremos sobre un tablero cuadriculado, de 8 por 8 casillas, como el utilizado en el juego de ajedrez.
-Referenciaremos cada casilla con un nombre formado por la concatenacion de una letra y de un numero, 
+El juego se desarrollara sobre un tablero cuadriculado, de 8 por 8 casillas, como el utilizado en el juego de ajedrez.
+
+Referenciaremos cada casilla con un nombre formado por la concatenacion de una letra y de un numero, como por ejemplo 'A1',
 siendo las filas referenciadas por una letra, desde la 'A' hasta la 'H',
 y las columnas referenciadas por un numero, desde el 1 hasta el 8.
+
+(dibujo)
 
 Marcaremos sobre el tablero, 
 una casilla que representara la entrada al laberinto, y que sera la casilla 'A1',
 y otra casilla que representara la salida del laberinto, y que sera la casilla 'H8'.
 
 Sobre el tablero colocaremos una unica ficha que representara a un personaje que debe atravesar el laberinto.
+
+(dibujo)
 
 La ficha podra moverse en cualquier direccion, pero solo a una casilla contigua con cada movimiento.
 Por lo tanto, sera considerado como una "jugada valida", cualquier movimiento a una distancia de una casilla.
@@ -57,7 +63,7 @@ Y asi se formara un sistema inteligente que evolucionara con el tiempo y encontr
 La hipotesis que se pretende demostrar aqui es que la vida es una inteligencia.
 
 Lo veremos paso a paso.
-Empecemos por recordar cuales son las caracteristicas que nos permitiran procesar la informacion para producir un resultado.
+Empecemos por recordar cuales son las caracteristicas que nos permitiran procesar informacion para realizar el calculo.
 
 ----------------------------------
 
@@ -65,15 +71,15 @@ resumen de caracteristicas genericas:
 
 Hemos comentado anteriormente que para construir una  maquina capaz de procesar informacion seria necesario disponer de 
 una memoria que soporte los datos que describen el contexto del problema asi como el nuevo conocimiento que se generara a medida que avanza el proceso de calculo.
-y de un mecanismo que aplique las transformaciones oportunas sobre los datos, necesarias para generar nuevo conocimiento que reduzca la incertidumbre acercandonos a la respuesta.
+y de un mecanismo que opere sobre los datos aplicando las transformaciones oportunas.
 
 los datos y el metodo, son el software, la parte logica.
 la memoria y el mecanismo procesador, son el hardware, la parte fisica de la maquina.
 
 la parte logica la tenemos ya, viene dada por la descripcion del problema que hemos realizado.
 Es decir que, 
-los datos que describen el contexto deben describir el juego del laberinto que hemos planteado y el estado en que se encuentra.
-la transformacion que debe aplicarse sobre los datos sera aquella que genera el siguiente estado, es decir, una jugada valida, como la hemos definido, la ficha mueve a una casilla contigua.
+los datos que describen el contexto deben describir el juego del laberinto que hemos planteado y los estados por los que atraviesa.
+La transformacion que debe aplicarse sobre los datos es aquella que genera el siguiente estado, es decir, una jugada valida, como la hemos definido anteriormente, la ficha solo puede moverse a una casilla contigua.
 
 Solo nos falta, por lo tanto, el hardware, la parte fisica, que se compone de 
 un soporte de memoria, 
@@ -92,14 +98,14 @@ Tenemos con esto, todos los elementos necesarios para crear el sistema de calcul
 
 adaptacion especifica:
 
-(adaptamos el sistema al problema que queremos resolver)
 
-Hemos comentado anteriormente tambien que en este modelo de computador, la maquina debe estar hecha a la medida del problema.
+Veamos como adaptamos el sistema al problema que queremos resolver.
+He comentado anteriormente que en este modelo de computador, la maquina debe estar hecha a la medida del problema.
 Tenemos las ideas necesarias, solo nos queda adaptar una rama de la vida al problema que queremos resolver.
-Y esto lo conseguiremos creando una nueva especie se seres vivientes especifica para el problema del laberinto.
+Y esto lo conseguiremos creando una nueva especie de seres vivientes especifica para el problema del laberinto.
 
 Una especie es una familia de individuos semejantes.
-Todos los individuos de una especie son muy parecidos, no dire iguales, pero casi.
+Todos los individuos de una especie son muy parecidos, no iguales, pero casi.
 Asi, es el individuo quien define a la especie.
 
 Crearemos una nueva especie simplemente creando un individuo con las caracteristicas que nos interesan.
@@ -212,9 +218,9 @@ La reproduccion que realiza transformaciones en los datos modificando el estado 
 El individuo no sabe porque tiene esta forma particular, y no tiene control sobre esto.
 El individuo no sabe porque debe reproducirse, y no tiene control sobre esto.
 El individuo no sabe porque ha nacido, y no tiene control sobre esto.
-El individuo no sabe porque debe morir, y no tienen controlo sobre esto.
+El individuo no sabe porque debe morir, y no tienen control sobre esto.
 
 
 en las proximas paginas comentaremos con mas detalle acerca de la necesidad de que los individuos cumplan con un ciclo de vida y veremos el porque de cada una de las etapas.
-Analizaremos tambien las caracteristicas mas relevantes de este sistema inteligente.
+Pero antes, empezaremos por analizar las caracteristicas mas relevantes de este sistema inteligente.
 

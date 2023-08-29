@@ -1,1 +1,189 @@
 
+Introduction and Objectives of the Chapter:
+
+Let's now see how we can use the ideas that we have been discussing so far.
+The objective will be to create a calculating machine, a computer, that solves logical problems.
+
+This is a theoretical model, and the aim of this chapter is to understand how the system is formed, what its parts are, and to envision this machine in operation in order to grasp the mechanism that allows it to find solutions and learn.
+
+Because this machine not only finds solutions to problems but also learns.
+We will see how this happens later.
+
+In this computer model, the machine and the problem are closely related, so I will begin by defining the problem we want to solve.
+
+--------------
+
+Example Problem:
+
+As an example, we will use a simple problem that allows us to focus all our attention on how the machine works without being distracted by unnecessary details.
+For this, we will use a board game that we will call "Maze."
+
+The game consists of finding the path that leads from the entrance to the exit of a maze.
+The game will be played on a grid board, 8 by 8 squares, similar to the one used in the game of chess.
+
+We will reference each square with a name formed by the concatenation of a letter and a number, such as 'A1',
+with the rows being referenced by a letter from 'A' to 'H',
+and the columns being referenced by a number from 1 to 8.
+
+(drawing)
+
+We will mark on the board a square that represents the entrance to the maze, which will be square 'A1',
+and another square that represents the exit of the maze, which will be square 'H8'.
+
+On the board, we will place a single game piece representing a character that must navigate the maze.
+
+(drawing)
+
+The game piece can move in any direction, but only to an adjacent square with each move.
+Therefore, any move to a distance of one square will be considered a "valid move."
+
+(graphic)
+
+With this, the game and the problem to be solved are defined.
+In summary, what we want the machine to tell us is:
+What is the path that leads from the entrance to the exit of the maze?"
+
+
+--------------
+
+The Machine:
+
+We already have the problem; now we will build a machine that automatically finds the solution for us.
+
+And this is the focal point of the entire discussion surrounding the experiment described in this account.
+Because the computational system we will create is simply a simulation of life.
+
+We will simulate the main functions of life using mathematical abstractions.
+And thus, an intelligent system will form, evolving over time and finding answers without undergoing any special process for it – it will find the answers just by living.
+
+The hypothesis aimed to be demonstrated here is that life is an intelligence.
+
+We will see it step by step.
+Let's begin by recalling the characteristics that will allow us to process information to perform the calculation.
+
+----------------------------------
+
+Summary of generic characteristics:
+
+We have previously discussed that in order to build a machine capable of processing information, it would be necessary to have a memory that supports the data describing the problem's context, as well as the new knowledge that will be generated as the calculation process advances. Additionally, a mechanism is needed that operates on the data by applying appropriate transformations.
+
+The data and the method are the software, the logical part.
+The memory and the processing mechanism are the hardware, the physical part of the machine.
+
+We already have the logical part; it's provided by the problem's description we have made.
+This means that the data describing the context should describe the maze game we have posed and the states it goes through.
+The transformation that should be applied to the data is the one that generates the next state – a valid move, as defined earlier; the piece can only move to an adjacent square.
+
+Therefore, we are only lacking the hardware, the physical part, which consists of a memory support and a processing mechanism.
+
+We have previously mentioned that there are two characteristics present in all living beings that can be used to fulfill these functions, which are DNA, storing information like read-only memory, and the reproduction mechanism, which modifies the information contained in DNA to create a new strand.
+
+Hence, we will use DNA as memory and the reproduction mechanism as the processor.
+
+With this, we have all the necessary elements to create the calculation system.
+
+
+-----------
+
+
+"Specific Adaptation:
+
+Let's see how we adapt the system to the problem we want to solve. I've previously mentioned that in this computer model, the machine must be tailor-made for the problem. We have the necessary ideas, we just need to adapt a branch of life to the problem we want to solve. And we will achieve this by creating a new species of living beings specific to the maze problem.
+
+A species is a family of similar individuals. All individuals of a species are very similar, not identical, but close. Thus, it's the individual that defines the species.
+
+We will create a new species simply by creating an individual with the characteristics we're interested in. All living creatures follow a life cycle consisting of birth, reproduction, and death.
+
+Therefore, once the new individual we need is created, it will reproduce and create the new species. It's solely about creating the appropriate individual. Let's see how.
+
+-------------------------
+The Individual:
+
+(description of the necessary individual for the current case, its responsibilities, processing scope block)
+
+(DNA, individual, and process state)
+
+In all living creatures, in all individuals of all species, DNA is present. DNA contains the necessary information to construct an individual.
+
+We will use DNA as the system's memory, and in it, we want to store the information necessary to reconstruct any state of the problem-solving process we are working on. Which in this case, is a board game.
+
+Therefore, an individual of this new species will represent a state in the maze game.
+
+(necessary data to reconstruct the state)
+
+Let's see what data we need to summarize a game state. Let's say we're playing a game of chess, the game is already in an intermediate state when we have to leave it. And we would like to be able to continue playing this same game tomorrow from where we left off today.
+
+For this, it will be necessary to remember the "state" the game was in.
+
+In the case of a game of chess, it would suffice to remember the position of the pieces on the board and which of the two players will make the next move. With this information, we could reconstruct the game to continue from the same point. This is the information that describes the state in which we left it and is reduced to a list of positions plus an indicator of who plays next.
+
+In the case of the maze game, to remember a state, it will suffice to remember the position of the single piece on the board and all the moves that have been made up to that point. This will also allow us to remember the path the piece has traveled so far.
+
+In summary, to tackle the maze game problem, we will create a new species of living beings where the individual will be a board with a piece in a specific position, plus a list of all previous moves.
+
+Graphically, it would look like this:
+
+(graphical example of the individual)"
+
+
+------------
+
+
+Step-by-step resolution:
+
+Now that we've seen what an individual of this species should be like, let's see how a system of this type would solve the problem.
+
+To set this machine in motion, we'll start by creating an individual that represents the initial state of the problem.
+That is, a board with the token at the labyrinth entrance, position 'A1'.
+
+(individual image)
+
+The next step will be to give life to this individual.
+And that's it.
+
+Because when this individual comes to life,
+the following happens.
+
+(machine in operation with graphics)
+
+
+
+---------------------------
+
+Species and Descendants:
+
+(relationship between species and problem, descendants and search for the answer)
+
+
+---------------------
+
+Conclusion:
+
+Let's now see what has happened.
+
+The system has found the answer we were looking for.
+However, the individuals that have been created in the process were not aware of the problem or the process that was being carried out to find the solution.
+The individuals simply live their lives unaware of the calculation process the species is undergoing.
+
+The system is formed by the collection of all the individuals.
+The individuals are the building blocks and the sole components of the system.
+
+An individual cannot find the solution to a problem it is unaware of.
+The individual lives its life oblivious to the calculation process, and the actions it takes in its personal life aim to keep it alive to create its descendants. In other words, to fulfill its life cycle.
+This is the mission of the individual.
+All an individual must do is to be born, reproduce, and die.
+
+The machine, the intelligent system, is formed by the sum of all individuals.
+And what the system utilizes from the individuals in the calculation process is
+The physical form of the individual containing the data being processed and
+The reproduction that brings about transformations in the data, altering the state of the process and advancing it towards its resolution.
+
+The individual doesn't know why it has this particular form and has no control over it.
+The individual doesn't know why it must reproduce and has no control over it.
+The individual doesn't know why it was born and has no control over it.
+The individual doesn't know why it must die and has no control over it.
+
+In the following pages, we will discuss in more detail the necessity for individuals to fulfill a life cycle and explore the reasons behind each of the stages.
+But first, we will begin by analyzing the most relevant characteristics of this intelligent system.
+
+
