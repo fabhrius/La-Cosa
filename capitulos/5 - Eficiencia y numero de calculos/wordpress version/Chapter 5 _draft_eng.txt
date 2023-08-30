@@ -1,0 +1,195 @@
+Efficiency, what is it?
+
+Not all computers are the same.
+Certain details set them apart from each other, such as the ability to tackle more complex problems, the capacity to perform a greater number of operations per unit of time, or perhaps the skill to consume fewer resources to accomplish the same task.
+These are just a few of the possible differences.
+
+We will also find differences among the methods that a computer could use to solve the same problem.
+The same problem can be approached in different ways, using distinct procedures.
+
+Thus, there is a wide variety among computer systems as well as the procedures they employ to solve problems, and these can be measured and compared.
+
+In this chapter, our goal is to obtain a measure of algorithmic efficiency for the computer system based on living creatures that we utilized in the experiment from the previous chapter.
+
+We will be able to establish an approximate measure of the system's efficiency by reasoning about the facts we have been able to observe.
+
+By using 2 different algorithms to solve the same problem, we will say that one algorithm is more efficient than another when it finds the solution with a lower number of operations.
+
+------------------------------------
+
+Different algorithms:
+
+An algorithm is the description of the procedure used to solve a problem.
+Or put differently, it is the sequence of operations that must be carried out to achieve the desired result.
+
+For instance, if we wanted to arrange a deck of cards, how could we do it?
+Different people might propose different ways to achieve the same result.
+
+And since the methods are different, it's also possible that some methods achieve the result with less effort than others.
+Given the possibility of performing a task in various ways, we will prefer the algorithm that accomplishes the objective most efficiently.
+Completing the task with a lower number of operations translates to less resource consumption, especially in terms of time and energy.
+
+To practically understand how we can measure and compare the efficiency of different algorithms, let's consider an example of two ways to arrange a deck of cards.
+
+----------------------
+
+Sorting a deck of cards:
+
+Method 1:
+
+I review the entire deck by comparing card to card with the goal of finding the one with the lowest value.
+After having reviewed the entire deck, I will have located the one with the lowest value and I separate it from the deck by placing it in a pile I will call the "sorted pile."
+The rest of the deck will be referred to as the "unsorted pile."
+Now I have the deck separated into two piles.
+The sorted pile contains one card.
+The unsorted pile contains the entire deck minus one card.
+
+Now, I review the unsorted pile again from start to finish, comparing card to card, searching for the one with the lowest value.
+After having reviewed the entire pile, I separate the card with the lowest value and place it in the sorted pile.
+
+Now the sorted pile contains two cards, and the unsorted pile contains the entire deck minus two cards.
+
+I continue to review the unsorted pile from start to finish to extract the third card with the lowest value.
+I repeat the same procedure over and over until there are no cards left in the unsorted pile.
+
+At that point, the entire deck will be in the sorted pile, and the cards will be arranged from lowest to highest.
+
+Method 2:
+
+Before starting, I prepare space on the table for each card in a grid.
+This way, each card in the deck has a reserved spot on the table, which is currently empty.
+Once this is done,
+I pick up the first card from the deck, let's say it's the five of diamonds, and I place it on the table in the grid, in the space reserved for the five of diamonds.
+I repeat the procedure.
+I pick up the first card from the deck, let's say it's the three of clubs, and I place it on the table in the grid, in the space reserved for the three of clubs.
+I repeat the procedure with all the cards until none are left in the deck.
+
+Then, the entire deck will be on the table, in the grid, sorted.
+
+-------------------------
+
+Number of operations:
+
+Let's now see how many operations these two methods have had to perform, approximately, to sort the deck of cards.
+
+Method 1:
+
+The first algorithm carefully goes through the deck, comparing each card one by one to extract the one with the lowest value.
+If the deck has 50 cards, 50 comparisons will have been made.
+After 50 comparisons, we have 1 sorted card and 49 unsorted ones.
+To extract the second card with the lowest value, we repeat the previous procedure with the 49 cards that are still unsorted, requiring another 49 comparisons.
+We repeat the procedure to extract the third card with the remaining 48 unsorted ones, which requires another 48 comparisons,
+We repeat the procedure over and over until no cards are left unsorted.
+How many comparisons will have been necessary?
+50 + (50 - 1) + (50 - 2) + (50 - 3) + (50 - 4) + ... + (50 - 49)
+
+If we call the number of elements we want to sort 'N,' in this case, N = 50, the number of necessary operations will be approximately N * (N-1).
+Therefore, we can say that the cost of executing this algorithm is of the order of N squared.
+
+Method 2:
+
+We start by reserving space for each card in a grid.
+We extract a card from the deck and place it in the space reserved for it in the grid.
+We do the same with the second card and all the others.
+
+How many operations are needed to sort the deck?
+One operation per card.
+If the number of cards is N, then the number of operations will be of the order of N.
+
+-----------------
+
+"What is the best?
+
+Now that we have a measure of the number of operations that both algorithms need to achieve the objective, we can compare them.
+
+The first one is of the order of N squared, or N by N.
+The second one is of the order of N.
+
+The second algorithm accomplishes the task with fewer operations, and therefore it is more efficient.
+
+
+--------------------
+
+Let's now return to the system we are analyzing, the living machine:
+
+Now that we have seen how two methods can be compared,
+let's return to the intelligent system formed by living beings
+and let's examine the method it has used in terms of algorithmic efficiency.
+
+How efficient is it?
+How many operations does it need to reach the objective?
+Are there algorithms that find the solution with fewer operations?
+Could we suggest changes in the procedure to improve its efficiency?
+
+To answer these questions, let's review the experiment from the previous chapter.
+
+---------------------
+
+I summarize the characteristics of the example problem:
+
+The board represents a maze, with an entrance and an exit,
+on the board, we have a single game piece.
+The goal of the game is to move the piece from the entrance to the exit.
+The piece can move a distance of only one square at a time, and this is the only valid move.
+And what we want to know is,
+what is the path that the piece must take to go from the entrance to the exit?
+
+We have placed the entrance in square 'A1', and the exit in square 'H8'.
+
+The distance that separates the entrance from the exit is 7 squares.
+
+(drawings)
+
+The piece can only move one square at a time; therefore, it won't be possible to reach the exit with fewer than 7 moves.
+At least 7 moves, in the case of finding the shortest path,
+but it can be more, depending on the method used to explore the board.
+
+(drawings)
+
+It can't be fewer because a valid move moves the piece a distance of 1 square, so moving 7 squares will require 7 moves or more.
+
+----------------------
+
+Let's now recall how the problem has been solved:
+
+We have created an individual, the first of its kind, representing the initial state of the problem.
+A board with a piece placed at the entrance of the maze, 'A1'.
+All individuals of this kind will go through a life cycle consisting of being born, reproducing, and dying.
+
+When we have given life to this first individual, it has gone through the stages of its life cycle.
+It has reproduced, generating all possible offspring, and immediately after, it has died, being removed from the system.
+By fulfilling its life cycle, it has initiated a more complex process that goes beyond its own life and will continue even when it is no longer part of the system.
+The process that it has triggered with its existence will outlive it.
+
+And the following has happened,"
+
+----------------------------
+
+
+(drawings)
+
+------------------------------------------------
+
+The system has found the answer after 7 generations.
+The system takes one step forward in the process with each generation.
+
+And with each generation,
+it takes one step in the right direction.
+It doesn't get lost, doesn't hesitate, doesn't make mistakes.
+It moves towards the goal as if it knows where it is.
+
+With each step, it progresses towards the goal,
+via the shortest path.
+
+We have established that at least 7 steps are necessary to reach the exit,
+since it's located at a distance of 7 squares and the piece cannot move more than 1 square per move.
+
+So, the system has found the answer with the minimum number of necessary steps.
+
+We were wondering how we could improve the procedure the system uses to make it more efficient.
+And that, simply, is not possible.
+
+It won't be possible to make it better.
+There will never be a more efficient system than this one,
+because the problem cannot be solved with a lesser number of operations.
+

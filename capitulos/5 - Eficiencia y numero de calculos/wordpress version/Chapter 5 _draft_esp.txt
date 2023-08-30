@@ -1,22 +1,26 @@
 Eficiencia que es ?
 
 
-Tanto entre los sistemas computacionales, asi como entre los procedimientos que estos utilizan para resolver problemas logicos, existe una gran variedad, y por lo tanto, pueden ser medidos y comparados entre si.
-
-Es facil ver que no todos los computadores son iguales, existen detalles que los hacen diferentes unos de otros, como por ejemplo, la capacidad para abordar problemas de mayor complejidad, o la posibilidad de realizar un mayor numero de operaciones por unidad de tiempo, o quizas la habilidad de consumir una menor cantidad de recursos para realizar un mismo trabajo.
+No todos los computadores son iguales.
+Cietos detalles los hacen diferentes unos de otros, como por ejemplo, la capacidad para abordar problemas de mayor complejidad, o la posibilidad de realizar un mayor numero de operaciones por unidad de tiempo, o quizas la habilidad de consumir menos recursos para realizar el mismo trabajo.
 Estas son solo algunas de las posibles diferencias.
 
-Del mismo modo encontraremos diferencias entre los metodos que un computador podria utilizar para resolver un mismo problema.
+Tambien encontraremos diferencias entre los metodos que un computador podria utilizar para resolver un mismo problema.
 Un mismo problema puede ser abordado de diferentes formas, utilizando distintos procedimientos.
+
+Asi, tanto entre los sistemas computacionales, como entre los procedimientos que estos utilizan para resolver problemas, existe una gran variedad, y pueden ser medidos y comparados.
+
+
+
+
 
 En este capitulo, nos proponemos obtener una medida de  
 la Eficiencia algoritmica
 del sistema computacional basado en criaturas vivientes que hemos utilizado en el experimento del capitulo anterior.
 
-No sera dificil establecer una medida aproximada de la eficiencia del sistema, 
-razonando sobre los hechos que hemos podido observar.
+Podremos establecer una medida aproximada de la eficiencia del sistema razonando sobre los hechos que hemos podido observar.
 
-Diremos que un algoritmo es mas eficiente que otro cuando encuentra la solucion al problema con un numero menor de operaciones.
+Utilizando 2 algoritmos diferentes para resolver un mismo problema, diremos que un algoritmo es mas eficiente que otro cuando encuentra la solucion al problema con un numero menor de operaciones.
 
 ------------------------------------
 
@@ -41,20 +45,20 @@ Ordenar una baraja:
 
 Metodo 1:
 
-reviso toda la baraja, comparando naipe a naipe, con el objetivo de encontrar el de menor valor.
+reviso toda la baraja comparando naipe a naipe con el objetivo de encontrar el de menor valor.
 despues de haber revisado toda la baraja habre localizado el de menor valor y lo separo de la baraja colocandolo en una pila que llamare "pila ordenada".
 Al resto de la baraja le llamare "pila desordenada".
 Ahora tengo la baraja separada en dos pilas.
 La pila ordenada contiene un naipe.
 La pila desordenada contiene toda la baraja menos un naipe.
 
-Ahora, reviso la pila desordenada otra vez, comparando naipe a naipe, buscando nuevamente el de menor valor.
+Ahora, reviso la pila desordenada otra vez, de principio a fin, comparando naipe a naipe, buscando nuevamente el de menor valor.
 Despues de haber revisado toda la pila separo el naipe de menor valor y lo coloco en la pila ordenada.
 
 Ahora la pila ordenada contiene dos naipes, y la pila desordenadas contiene toda la baraja menos dos naipes.
 
-Vuelvo a revisar la pila desordenada para extraer el tercer naipe de menor valor.
-Y repito el mismo procedimiento una y otra vez hasta que ya no queden naipes en la pila desordenada.
+Vuelvo a revisar la pila desordenada, de principio a fin, para extraer el tercer naipe de menor valor.
+Repito el mismo procedimiento una y otra vez hasta que ya no queden naipes en la pila desordenada.
 
 Entonces, toda la baraja estara en la pila ordenada, y los naipes estaran ordenados de menor a mayor.
 
@@ -70,7 +74,7 @@ repito el procedimiento.
 levanto el primer naipe de la baraja, digamos que es el tres de treboles, y lo coloco sobre la mesa, en la cuadricula, en el espacio reservado para el tres de treboles.
 repito el procedimiento con todos los naipes hasta que no quede ninguno en la baraja.
 
-Entonces toda la baraja estara sobre la mesa en la cuadricula, ordenada.
+Entonces toda la baraja estara sobre la mesa, en la cuadricula, ordenada.
 
 
 
@@ -116,7 +120,7 @@ Cual es el mejor ?
 
 Ahora que tenemos una medida del numero de operacion que ambos algoritmos necesitan para conseguir el objetivo podemos compararlos.
 
-el primero es del orden de N cuadrado.
+el primero es del orden de N cuadrado, o N por N.
 el segundo es del orden de N.
 
 el segundo algoritmo hace el trabajo con menos operaciones, y por lo tanto es mas eficiente.
@@ -126,7 +130,7 @@ el segundo algoritmo hace el trabajo con menos operaciones, y por lo tanto es ma
 
 
 
-Volvamos ahora al sistema de inteligencia natural que estamos analizando, la maquina viviente:
+Volvamos ahora al sistema que estamos analizando, la maquina viviente:
 
 
 Ahora que hemos visto como pueden compararse 2 metodos, 
@@ -162,6 +166,9 @@ La ficha solo puede moverse una casilla cada vez, por lo tanto, no sera posible 
 7 movimientos como minimo, en el caso de que encuentre el camino mas corto, 
 pero pueden ser mas, dependiendo del metodo que utilice para explorar el tablero.
 
+(dibujo)
+
+
 No pueden ser menos porque una jugada valida desplaza la ficha a una distancia de 1 casilla, de modo que, desplazarse 7 casillas requeriran 7 movimientos o mas.
 
 ----------------------
@@ -170,7 +177,7 @@ Recordemos ahora como ha sido resuelto el problema:
 
 
 Hemos creado un individuo, el primero de su especie, representando el estado inicial del problema.
-el tablero con una ficha colocada en la entrada del laberinto, 'A1'
+Un tablero con una ficha colocada en la entrada del laberinto, 'A1'
 todos los individuos de esta especie, cumpliran con un ciclo de vida que consiste en, 
 nacer, reproducirse y morir.
 
@@ -196,7 +203,7 @@ Y ha sucedido lo siguiente,
 
 (dibujos)
 
-----------------------------
+
 
 ------------------------------------------------
 
