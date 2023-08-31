@@ -1,0 +1,119 @@
+Hasta ahora, 
+hemos visto a grandes rasgos como esta compuesto el sistema, y lo hemos visto en accion.
+Hemos comprobado tambien que es muy eficiente.
+Notablemente.
+Extraordinariamente eficiente.
+
+Ahora me gustaria medir su "potencia de calculo".
+Y digo potencia en el sentido de 
+cual es en realidad la complejidad de los problemas que puede abordar ?
+Lo hemos visto en accion con un problema simple.
+Podra abordar problemas mas complejos que ese ?
+
+
+Potencia de calculo:
+
+En fisica la potencia puede ser definida como la cantidad de trabajo entregada por unidad de tiempo.
+Y aunque esta definicion es, en el caso que nos ocupa, hasta cierto punto satisfactoria, todavia no responde a la pregunta que estamos planteando.
+cual es la complejidad de los problemas que esta maquina puede abordar ?
+
+Coincidiendo con la definicion de potencia que da la fisica han sido creados una clase de computadores que informalmente llamamos "super-computadores", cuya principal caracteristica es la de realizar una gran cantidad de operaciones por unidad de tiempo.
+Estos computadores son utilizados principalmente en la resolucion de problemas cientificos.
+
+Y aunque un incremento en la velocidad de calculo nos permite tambien incrementar hasta cierto punto la complejidad de los problemas abordables, esta solucion no funcionara en todos los casos.
+Existen problemas que seguiran siendo inabordables independientemente de la velocidad que puedan alcanzar los procesadores.
+
+De modo que, para el analisis que estamos realizando, en cuanto a potencia de calculo nos gustaria saber,
+cual es la complejidad de los problemas que puede resolver,
+y ademas, a que velocidad puede realizar el calculo.
+
+Hablamos de potencia de calculo en funcion de la complejidad de los problemas.
+Empezaremos el analisis viendo cuales son las caracteristicas que hacen que un problema sea mas complejo que otro.
+
+Hablaremos de complejidad de los problemas en este capitulo, y dejaremos el analisis de la potencia de calculo para mas adelante.
+
+
+Complejidad de un problema:
+
+No todos los problemas son iguales.
+
+Algunos pueden resolverse facilmente, otros requeriran un esfuerzo mayor, mientras que otros podrian considerarse inabordables o incluso irresolubles.
+
+Asi podriamos clasificar a los problemas de acuerdo con su complejidad.
+
+No es el objetivo de este relato explicar en detalle teoria de la complejidad de los problemas, eso requeriria otro libro, o varios.
+Y este relato, como he comentado al principio, esta dirigido a todas las personas.
+De modo que no vamos a realizar aqui grandes desarrollos matematicos.
+
+Y aun asi, todavia podemos hablar de complejidad, de una forma simplificada, y a la vez rigurosa, que nos permita hacernos una idea aproximada de lo que la complejidad es.
+
+Porque aunque existen problemas de diferentes tipos, con diferentes factores que incrementan su complejidad, tambien es cierto que, la mayoria de los problemas pueden transformarse en problemas de decision.
+
+Y utilizaremos esta idea.
+'Las decisiones incrementan la complejidad del problema'.
+
+Una desicion puede verse como, una bifurcacion en el camino.
+por donde debo continuar ?
+
+El numero de decisiones que deben tomarse para encontrar la solucion es un buen indicador del grado de complejidad de un problema.
+
+
+las decisiones tienen coste.
+
+con cada decision el camino se bifurca 
+y a medida que aumenta el numero de decisiones que deben tomarse aumentan el numero de caminos posibles que debemos recorrer para encontrar la solucion del problema.
+
+Y a medida que se agregan mas y mas decisiones, rapidamente el numero de caminos tiende a infinito, 
+o dicho de otro modo, 
+El numero de caminos se vuelve demasiado grande para recorrerlos todos con el tiempo y recursos disponibles.
+
+Veamos un ejemplo.
+Digamos que queremos saber como ganar una partida de ajedrez.
+Analicemos las posibilidades.
+
+Partiendo del estado inicial 
+(el tablero con las fichas en su posicion de salida), 
+cuantas posibles jugadas pueden hacerse a partir de aqui ?
+
+Desde la posicion inicial, 
+puede moverse alguno de los peones o alguno de los caballos.
+Y esto significa, 20 posibles movimientos diferentes.
+Cual sera el mejor de ellos ?
+
+Tendre que probarlos todos para compararlos.
+Solo para comenzar la partida, desde el punto de salida pueden verse 20 posibles caminos.
+
+Y cuantos movimientos diferentes podrian hacer las negras para responder a esta primera jugada de las blancas ?
+Otros 20.
+
+Esto creara 
+20 por 20 = 400 escenarios diferentes.
+
+Solo se han movido 2 fichas, una blanca y una negra, y ya se han abierto 400 caminos diferentes.
+Y con cada nuevo movimiento el numero de posibles caminos se multiplica.
+
+Este problema ciertamente no es trivial.
+
+Cual de todos estos caminos me llevara al estado final deseado ?
+Cual de todos ellos me llevara a ganar la partida ?
+
+Tendre que recorrerlos todos para saberlo.
+
+Resolver este problema requerira recursos como tiempo y memoria.
+
+Tiempo, para recorrer todos los posibles caminos,
+Y memoria, para recordarlos todos y poder compararlos
+Solo así sabre cual es el mejor.
+
+las decisiones, incrementan la complejidad del problema, y los recursos necesarios para resolverlo.
+Esto se transforma en un incremento en el coste.
+
+Podemos decir que las decisiones son el problema.
+Y cuantas mas decisiones, mayor es el problema.
+
+En resumen.
+Los problemas se vuelven mas complejos a medida que aumenta el numero de decisiones que deben tomarse para resolverlo.
+
+
+
+
