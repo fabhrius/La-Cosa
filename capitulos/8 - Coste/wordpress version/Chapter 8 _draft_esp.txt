@@ -198,10 +198,3 @@ no importa lo economica que pueda ser la solucion que encontremos,
 aun cuando el coste de una unidad tiende a cero,
 el coste del sistema tiende a infinito rapidamente.
 
-
-
-
-
-
-
-

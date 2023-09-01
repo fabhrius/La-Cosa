@@ -73,7 +73,7 @@ Analicemos las posibilidades.
 
 Partiendo del estado inicial 
 (el tablero con las fichas en su posicion de salida), 
-cuantas posibles jugadas pueden hacerse a partir de aqui ?
+cuantos posibles movimientos pueden hacerse a partir de aqui ?
 
 Desde la posicion inicial, 
 puede moverse alguno de los peones o alguno de los caballos.
