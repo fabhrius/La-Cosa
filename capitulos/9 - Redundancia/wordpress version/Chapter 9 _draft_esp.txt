@@ -1,0 +1,174 @@
+Definicion:
+
+La redundancia es una técnica ampliamente utilizada en ciencias de la computación que consiste en hacer replicas de componentes críticos, software o hardware, o de información importante, con el objetivo de incrementar la disponibilidad y protegerlos contra fallos o perdidas.
+
+-----------------------------
+
+
+Ejemplo:
+
+
+Veamos un ejemplo.
+Digamos que tenemos un negocio que vende productos en Internet.
+Para dar soporte al negocio  disponemos de un sistema informático compuesto por una tienda virtual, o comercio electrónico, y una base de datos, que almacena toda la información necesaria.
+Tanto la tienda virtual como la base de datos están alojadas en un único computador, que llamamos "servidor".
+Y el servidor esta alojado en un edificio de oficinas.
+
+Es un sistema simple, facilmente mantenible y economico.
+Sin embargo, presenta algunos problemas.
+
+Al ser un único computador el que hace todo el trabajo, podría tener problemas de disponibilidad.
+Algunos clientes podrían no ser atendidos cuando el servidor se encuentra ocupado.
+Por el mismo motivo, al ser un único computador el que hace todo el trabajo, el negocio podría dejar de trabajar, en caso de avería de la maquina.
+
+Un problema mas grave, es el de la perdida de la base de datos, que también esta alojada en este único computador.
+La base de datos contiene toda la información del negocio, la ventas que hemos realizado, la información de los proveedores, el producto disponible, etc.
+En caso de avería del servidor podríamos no poder recuperar la información, y en ese caso habríamos perdido el negocio completamente.
+
+Bastaría un accidente, como un incendio, para encontrarnos en el peor escenario.
+Pero recordemos que estamos hablando de la vida esforzándose por sobrevivir en el entorno natural.
+De modo que debemos pensar en algo mas parecido a los cataclismos naturales a lo que debe enfrentarse la vida.
+Digamos entonces que se produce un terremoto que destruye el edificio adonde se encuentra nuestro servidor.
+Asi, el servidor ha sido destruido por la naturaleza, y es irrecuperable.
+
+Esta situación podría evitarse utilizando la redundancia.
+
+en el ejemplo anterior, un único computador haciendo todo el trabajo podría presentar distintos problemas de disponibilidad,
+y almacenar toda la información en una única base de datos, alojada físicamente en un único computador, podría  dar problemas de perdida de la información.
+Sera aconsejable por lo tanto redundar servidores y bases de datos.
+
+Digamos que colocamos 3 servidores en 3 edificios diferentes, en 3 ciudades diferentes.
+San Francisco, New York City y Chicago.
+
+Y con esta nueva configuración, se produce otra catástrofe natural, un terremoto o un huracán o un gran incendio.
+La probabilidad de que los 3 servidores alojados en ciudades diferentes sean destruidos al mismo tiempo es ahora mucho mas baja.
+
+
+---------------------------
+
+Juego del laberinto:
+
+veamos otra vez como el sistema ha encontrado la solución en el juego del laberinto para ver como 
+la redundancia se aplica en sistemas de este tipo y como se transforma en una característica de gran valor.
+
+Recordemos que la búsqueda de la solución se inicia con la creación del primer individuo de la especie.
+En este punto, la especie es vulnerable, y la muerte de este primer individuo destruye la maquina por completo.
+Sin embargo, el individuo inicial se reproduce, creando nuevos componentes con la misma capacidad de trabajo, funcionalmente idénticos, al primer individuo.
+Podemos llamar a esto redundancia.
+
+
+Coste:
+
+en el capitulo dedicado a costes, hemos comentado como con el paso del tiempo, se generaban mas y mas individuos.
+Hemos visto como en apenas 7 generaciones la población estaba compuesta por millones de individuos, partiendo de un único individuo.
+Comentamos que sucede de esta forma porque la población crece exponencialmente con el tiempo, y del mismo modo crece el coste, exponencialmente.
+Este tipo de crecimiento hará que el numero de individuos tienda a infinito rápidamente, al igual que el coste.
+
+Se trata por lo tanto de un sistema con un coste muy elevado.
+
+------------
+
+
+Crecimiento de la población:
+
+Pero veamos como se han ido creando estos individuos.
+simulare las 3 primeras generaciones y colocare todas las fichas sobre un único tablero para ver como se van cubriendo las posiciones con el tiempo y, al mismo tiempo, hacernos una idea de la forma en que crece la población.
+
+
+Graficos y recuento.
+
+
+------------
+
+Rasgos característicos de los individuos:
+
+observad que existen varios individuos ocupando las mismas posiciones en el tablero.
+Están superpuestos.
+Esto puede crear la ilusión de que algunos individuos están repetidos, pero no es así.
+Todos los individuos son diferentes, no existen 2 individuos iguales.
+Aunque muchos ocupan las mismas posiciones en el tablero, sus padres son diferentes, y el camino que su familia ha recorrido para llegar hasta este punto es diferente.
+Esta información esta grabada en su ADN, y por lo tanto, los individuos son diferentes.
+Diferentes en cuanto a la informacion que contienen.
+
+Y sin embargo, idénticos, en cuanto a su funcionalidad.
+Todos los individuos se reproducen, todos almacenan información que los describe, todos morirán, todos buscan la misma respuesta, todos ellos tendrán el mismo ciclo de vida y actuaran del mismo modo.
+
+El sistema se compone de la población total de individuos, todos ellos juntos forman el sistema.
+Sin embargo, al principio, en el estado inicial, el sistema esta formado por un único individuo con la capacidad de lanzar el proceso de búsqueda y formar un sistema complejo.
+Todos los individuos del sistema tienen estas mismas capacidades, y cada uno de ellos es un nuevo sistema independiente.
+
+
+---------------
+
+Destruccion de la población:
+
+En la tienda online que propuse al principio de este capitulo como ejemplo de redundancia, un desastre natural destruía el único servidor que daba soporte al negocio.
+Posteriormente agregamos otros servidores idénticos al primero en otras ciudades para reducir la probabilidad de perdida del negocio en caso de producirse un imprevisto catastrófico.
+Y de ese modo, utilizando la redundancia, incrementamos la resistencia del sistema a los accidentes.
+
+Haremos lo mismo ahora con el sistema de seres vivientes y el problema del laberinto.
+Simularemos una catástrofe natural para ver como funciona la redundancia en este caso.
+
+Las catástrofes son una posibilidad que es necesario tener presente cuando hablamos de seres vivientes que deben sobrevivir en el entorno natural.
+Muchas cosas podrían pasar, como fuertes variaciones en la temperatura ambiente, sequías, huracanes, inundaciones, etc.
+El entorno natural es de una gran belleza, sin embargo, cuando el objetivo es asegurar la supervivencia de una colonia de seres vivientes, considerarlo un entorno hostil ayudara a gestionar el riesgo de forma mas adecuada.
+
+Digamos entonces que se produce un terrible cataclismo, algo como lo que pudo haber pasado con los dinosaurios, y que dana severamente a la población de esta especie.
+Y casi todos los individuos mueren, todos excepto uno.
+Un único superviviente.
+
+Podemos simular esto en el juego eliminando todas las fichas que hemos colocado sobre el tablero y dejando solo una, cualquiera de ellas.
+Digamos que el único superviviente ocupa la posición 'D5'.
+
+(grafico)
+
+-----------------
+
+Reconstruccion:
+
+
+
+Que sucederá ahora ?
+Lo que sucederá es que este único individuo se reproducirá y formara una familia.
+La familia continuara la exploración y alguno de los descendientes, eventualmente, encontrara la solución al problema.
+
+Porque cada uno de ellos tiene la capacidad de reproducirse y formar una familia.
+Cada uno de ellos iniciara una nueva búsqueda de la solución.
+Cada uno de ellos es un sistema completo, e independiente.
+
+Y en poco tiempo se crearan millones de sistemas independientes, todos buscando la solución al mismo problema, por su propio camino.
+Esta redundancia confiere al sistema una extraordinaria resistencia.
+
+Una vez que un proceso es lanzado se vuelve, con el paso del tiempo, cada vez mas difícil de detener.
+
+Si pensamos en la extinción de los dinosaurios como el resultado de una catástrofe natural, no resulta sorprendente, que la vida no se ha extinguido con ellos.
+Y que aunque es posible que desaparezcan especies, incluso un gran numero de ellas como ha pasado con los dinosaurios, también es posible que esta catástrofe, no tenga un gran impacto sobre el proceso general de la vida.
+
+A medida que pasa el tiempo, se crean mas y mas individuos, mas y mas especies, y el sistema se vuelve cada vez mas solido, mas estable, mas resistente.
+
+
+----------------------
+
+
+Valor:
+
+Comentábamos que un sistema de estas características tiene un coste muy elevado.
+
+En general, en proyectos de ingeniería, un incremento en la calidad incrementara también los costes.
+Porque la calidad tiene precio.
+
+Sin embargo, cuando se trata de mantener la propia vida, la calidad deberá ser la mas alta de las posibles, porque la vida no tiene reemplazo.
+Un ahorro en los costes tendrá poco sentido cuando se pierde la vida a cambio.
+De modo que, en el caso de sistemas vivientes, la calidad sera mas importante que los costes.
+La vida intentara reducir costes allí adonde sea posible, pero solo cuando la calidad no se vea afectada.
+
+En especial, la forma extrema en que el sistema se redunda tendrá un coste también extremo.
+Pero es necesario, porque el sistema debe estar preparado para trabajar en un entorno desconocido y hostil.
+Y para alcanzar este objetivo sera necesario un sistema a toda prueba.
+
+La redundancia del sistema incrementara la probabilidad de que el sistema continúe funcionando hasta encontrar las respuestas que necesita, quizás eternamente.
+Sin saber lo que encontrará, ni lo que pasará en el futuro, debe continuar adelante, aun en condiciones catastróficas.
+
+Y asi, con el paso del tiempo, se agregan mas y mas individuos al sistema, que son en realidad, mas y mas maquinas, que no son otra cosa que, mas y mas sistemas redundantes.
+Y el sistema se redunda hasta el infinito.
+
