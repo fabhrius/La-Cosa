@@ -1,85 +1,85 @@
-Iniciamos aqui, el disegno de un computador que desarrollaremos a lo largo de los siguientes capitulos hasta verlo en funcionamiento resolviendo problemas logicos.
+Iniciamos aquí, el diseño de un computador que desarrollaremos a lo largo de los siguientes capítulos hasta verlo en funcionamiento resolviendo problemas lógicos.
 
-Nos olvidaremos de los detalles de implementacion tales como circuitos electronicos u otras consideraciones tecnologicas para enfocarnos solo en las ideas que lo hacen funcionar.
-Sera pues un computador puramente teorico.
+Nos olvidaremos de los detalles de implementación tales como circuitos electrónicos u otras consideraciones tecnológicas para enfocarnos solo en las ideas que lo hacen funcionar.
+Sera pues un computador puramente teórico.
 
 Para construirlo utilizaremos como modelo, a la vida.
-El computador sera una simulacion simplificada de una colonia de seres vivientes.
-Y sera la colonia de seres vivientes quien resolvera los problemas logicos que le planteemos.
+El computador sera una simulación simplificada de una colonia de seres vivientes.
+Y sera la colonia de seres vivientes quien resolverá los problemas lógicos que le planteemos.
 
-Creo que ver a la vida en accion en este experimento, aportara informacion valiosa, que nos permitira entender un poco mejor lo que vida es.
+Creo que ver a la vida en acción en este experimento, aportara información valiosa, que nos permitirá entender un poco mejor lo que la vida es.
 
-Para construir a la colonia, crearemos primero a un individuo, que simulara el comportamiento que tienen en comun todos los individuos de todas las especies de seres vivientes.
+Para construir a la colonia, crearemos primero a un individuo, que simulara el comportamiento mínimo, general, que tienen en común todos los individuos de todas las especies de seres vivientes.
 
 Todos los individuos de todas las especies de seres vivientes, nacen, se reproducen y mueren.
 Este es el comportamiento que todos ellos comparten.
-Y esto sera lo unico que un individuo en esta simulacion podra hacer.
+Y esto sera lo único que un individuo en esta simulación podrá hacer.
 
-Y un individuo con estas caracteristicas sera el unico bloque de construccion que necesitamos para construir nuestra maquina de calculo.
+Y un individuo con estas características sera el único bloque de construcción que necesitamos para construir nuestra maquina de calculo.
 
 Lo veremos mas adelante en detalle.
 
-Pero antes de lanzarnos a la construccion del computador, veamos primero cuales son las caracteristicas minimas que una maquina de calculo necesita tener para realizar su trabajo.
+Pero antes de lanzarnos a la construcción del computador, veamos primero cuales son las características mínimas que una maquina de calculo debe tener para realizar su trabajo.
 
 
 ---
 
-Los computadores pueden encontrar soluciones para un cierto tipo de problemas, aquellos que llamamos "computables".
-Y realizan esta tarea "procesando informacion".
+Los computadores pueden encontrar soluciónes para un cierto tipo de problemas, aquellos que llamamos "computables".
+Y realizan esta tarea "procesando información".
 
-el proceso se inicia con la declaracion de un conjunto de datos que describen el contexto del problema.
-Es sobre estos datos que se realizaran operaciones, y estas aportaran nueva informacion que se incluira, a su vez, en el conjunto de datos conocidos.
+El proceso se inicia con la declaración de un conjunto de datos que describen el contexto del problema.
+Es sobre estos datos que se realizaran operaciones, y estas operaciones aportaran nueva información que se incluirá, a su vez, en el conjunto de datos conocidos.
 
-a medida que agregamos nueva informacion al conjunto de datos, este conjunto de datos que describen el contexto "cambia de estado".
-y con cada nueva operacion obtenemos mas informacion, sabemos mas, y estamos mas cerca de encontrar la solucion.
+A medida que agregamos nueva información al conjunto de datos, este conjunto de datos que describen el contexto "cambia de estado".
+Y con cada nueva operación obtenemos mas información, sabemos mas, e idealmente, estaríamos mas cerca de encontrar la solución que buscamos.
 
-Algunos problemas podrian resolverse de inmediato, en un unico paso, aquellos que llamamos "triviales", pero 
-problemas de mayor complejidad requeriran una secuencia de pasos para encontrar la solucion.
-A la secuencia de pasos que deben ser realizados para encontrar la solucion podemos llamarle, "metodo", "algoritmo" o "programa".
-
-
-
-Veamos entonces a que llamamos "procesar informacion" y cuales son las caracteristicas minimas que un computador deberia tener para realizar esta tarea.
+Algunos problemas podrían resolverse de inmediato, en un único paso, aquellos que llamamos "triviales", pero 
+problemas de mayor complejidad requerirán una secuencia de pasos para encontrar la solución.
+A la secuencia de pasos que deben ser realizados para encontrar la solución podemos llamarle, "método", "algoritmo" o "programa".
 
 
 
+Veamos entonces a que llamamos "procesar información" y cuales son las características mínimas que un computador debería tener para realizar esta tarea.
 
-Procesamiento de la informacion.
 
 
-Imagino que, muchos de nosotros, en algun momento habremos tenido que resolver algun problema logico-matematico, como los que salian en los examenes de la escuela, del tipo:
 
--"si dos trenes salen de la estacion, ..., cual de los dos llegara primero a destino ?"-
+Procesamiento de la información.
 
-Observad que con la informacion proporcionada en el enunciado, es imposible dar una respuesta razonada.
-Se necesita mas informacion para resolver este problema.
+
+Imagino que, muchos de nosotros, en algún momento habremos tenido que resolver algún problema lógico-matematico, como aquellos de los exámenes de la escuela, del tipo:
+
+-"si dos trenes salen de la estación, ..., cual de los dos llegara primero a destino ?"-
+
+Observad que con la información proporcionada en el enunciado, es imposible dar una respuesta razonada.
+Se necesita mas información para resolver este problema.
 A que velocidad viajan los trenes ? A que distancia se encuentra el destino ?
 
 Esto describe de forma general el procedimiento que utilizamos para resolver problemas de este tipo.
 Es decir,
 1- partimos de un conjunto de datos que describen el contexto del problema 
 y
-2- es sobre los datos que realizamos calculos, por ejemplo aplicando operaciones matematicas, que transforman los datos produciendo nueva informacion, a medida que relizamos calculos, o tranformaciones sobre los datos, obtenemos nueva informacion que nos acerca, paso a paso, hacia la solucion.
+2- es sobre los datos que realizamos cálculos, por ejemplo aplicando operaciones matemáticas, que transforman los datos generando nueva información, a medida que realizamos cálculos, o transformaciones sobre los datos, obtenemos nueva información que nos acerca, paso a paso, hacia la solución.
 
-Dicho de otra forma, en el procesamiento de la informacion intervienen 2 elementos, 
+Dicho de otra forma, en el procesamiento de la información intervienen 2 elementos, 
 - los datos, que describen el contexto del problema
-- y el metodo, que nos dice cuales son los calculos que debemos realizar sobre los datos
+- y el método, que nos dice cuales son los cálculos que debemos realizar sobre los datos
 
 
 Como ejemplo, veamos un calculo simple paso a paso.
 Si pregunto,
 cuanto hemos gastado esta semana ?
 
-Una vez mas, no podre saberlo si no tengo la lista de gastos, los datos de describen el contexto del problema.
-Pero aun teniendo la lista de gastos, no podre saberlo si no puedo sumarlos, es necesario aplicar el metodo.
+Una vez mas, no podre saberlo si no tengo la lista de gastos, los datos que describen el contexto del problema.
+Pero aun teniendo la lista de gastos, no podre saberlo si no puedo sumarlos, es necesario aplicar el método.
 
-Veamoslo paso a paso, esta informacion sera de utilidad mas adelante.
+Veamoslo paso a paso, esta información sera de utilidad mas adelante.
 
-Suma de una lista de numeros.
+Suma de una lista de números.
 
-Datos iniciales: la lista de numeros que queremos sumar.
-Metodo: 
-- ademas de el listado de numeros, reservare un espacio extra para almacenar un "resultado parcial", al que inicialmente le asignare un valor de 0.
+Datos iniciales: la lista de números que queremos sumar.
+Método: 
+- ademas de el listado de números, reservare un espacio extra para almacenar un "resultado parcial", al que inicialmente le asignare un valor de 0.
 
 (dibujo)
 
@@ -89,7 +89,7 @@ INICIO del procedimiento.
 
 - compruebo si la lista contiene datos.
 
-- si no hay datos en la lista, entonces el resultado es el valor almacenado en el "resultado parcial". Y el procedimiento TERMINA aqui.
+- si no hay datos en la lista, entonces el resultado es el valor almacenado en el "resultado parcial". Y el procedimiento TERMINA aquí.
 
 En otro caso,
 - si la lista contiene datos, entonces tomo el primer dato de la lista y lo sumo con el "resultado parcial", el valor obtenido con esta suma lo almaceno en el "resultado parcial" y elimino el primer elemento de la lista. Ahora la lista se ha reducido y el valor del "resultado parcial se ha incrementado".
@@ -101,133 +101,136 @@ Repito el procedimiento desde el INICIO.
 --------------
 
 Bien.
-Recordemos ahora que nuestra intencion es construir una maquina que resuelva problemas automaticamente procesando informacion.
+Recordemos ahora que nuestra intención es construir una maquina que resuelva problemas automáticamente procesando información.
 De modo que, es necesario que la maquina pueda:
-- almacenar la informacion del contexto, y 
-- ejecutar el metodo adecuado sobre los datos.
+- almacenar la información del contexto, y 
+- ejecutar el método adecuado sobre los datos.
 
-Los computadores electronicos que utilizamos a diario, disponen de dispositivos de memoria, adonde mantienen la informacion sobre la que estan trabajando, los datos.
-Y disponen tambien de otros dispositivos, como el procesador, que les permiten ejecutar un programa, el metodo.
+Los computadores electrónicos que utilizamos a diario, disponen de dispositivos de memoria, adonde mantienen la información sobre la que están trabajando, los datos.
+Y disponen también de otros dispositivos, como el procesador, que les permiten ejecutar un programa, el método.
 
-Las memorias, pueden clasificarse dentro de 2 categorias, y estas son:
+Las memorias, pueden clasificarse dentro de 2 categorías, y estas son:
 - las memorias de "lectura y escritura"
 - y las memorias de "solo lectura"
 
-Ejemplos de memoria de "lectura y escritura" son, la que utilizan los computadores personales, en donde la informacion puede grabarse, borrarse, modificarse.
-Ejemplos de memoria de "solo lectura", son los viejos discos de vinilo utilizados para grabar musica.
-Un viejo disco de Pink Floyd no puede ser modificado grabando otra musica en su lugar, una vez grabado ya no puede modificarse.
+Ejemplos de memoria de "lectura y escritura" son, las que utilizan los computadores personales, en donde la información puede grabarse, borrarse, modificarse.
+
+Ejemplos de memoria de "solo lectura", son los viejos discos de vinilo utilizados para grabar música.
+Un viejo disco de Pink Floyd no puede ser modificado grabando otra música en su lugar, una vez grabado ya no puede modificarse.
 
 
 ------------------------
 
 
-Con esta informacion, volvamos ahora al desarrollo del computador experimental que estamos construyendo.
-Al principio del capitulo he comentado que este computador estaria basado en el modelo que proporciona la vida, y que estaria formado por una colonia de seres vivientes.
+Con esta información, volvamos ahora al desarrollo del computador experimental que estamos construyendo.
+Al principio del capitulo he comentado que este computador estaría basado en el modelo que proporciona la vida, y que estaría formado por una colonia de seres vivientes.
 Podemos cambiar la palabra colonia por, familia, o especie.
 
-Y que sera en definitiva esta nueva especie que crearemos la que resolvera los problemas de forma automatica, de forma parecida a como lo haria un computador.
+Y que sera en definitiva esta nueva especie que crearemos la que resolverá los problemas de forma automática, de forma parecida a como lo haría un computador.
 
 
-Hemos hablado acerca de como procesar informacion y hemos visto cuales son los elementos principales en los que se basa este procedimiento.
-Datos y metodo.
-Veamos ahora como la vida podria proporcionar estos recursos, y como una familia de criaturas vivientes podria ser adecuada para realizar esta tarea de forma automatica.
+Hemos hablado acerca de como procesar información y hemos visto cuales son los elementos principales en los que se basa este procedimiento.
+Datos y método.
+Veamos ahora como la vida podría proporcionar estos recursos, y como una familia de criaturas vivientes podría ser adecuada para realizar esta tarea de forma automática.
 
 -------------------
 
 
-ADN y reproduccion:
+ADN y reproducción:
 
 
 El ADN:
 
 
 
-Una caracteristica de todos los seres vivientes es que en todos ellos esta presente una molecula de gran tamano que almacena la informacion necesaria para construir a un individuo.
+Una característica de todos los seres vivientes es que en todos ellos esta presente una molécula de gran tamaño que almacena la información necesaria para construir a un individuo.
 
 
 El ADN, es diferente en todos los individuos.
-Dos individuos de la misma especie tendran caracteristica en comun, pero los detalles les haran diferentes.
+Dos individuos de la misma especie tendrán características en común, pero los detalles les harán diferentes.
 Del mismo modo el ADN sera diferente en los detalles.
 
 No es el objetivo de este relato describir el ADN de forma precisa.
 Solo utilizaremos una idea de forma muy general.
-Pensaremos que todos los individuos llevan la informacion que los define en su interior, y llamaremos a esto ADN.
+Pensaremos que todos los individuos llevan la información que los define en su interior, y llamaremos a esto ADN.
 
 Y lo que nos interesa es lo siguiente, 
-si el ADN contiene la informacion necesaria para construir a un individuo, entonces esta funcionando como un soporte de informacion, o memoria.
-Esta es la utilidad que tendra para nosotros, la de funcionar como memoria del sistema.
+si el ADN contiene la información necesaria para construir a un individuo, entonces esta funcionando como un soporte de información, o memoria.
+Esta es la utilidad que tendrá para nosotros, la de funcionar como memoria del sistema.
 
-El ADN tiene capacidad para almacenar una gran cantidad de informacion.
+El ADN tiene capacidad para almacenar una gran cantidad de información.
 Pensaremos en el ADN como una memoria de "solo lectura", es decir, que no puede ser modificada.
-Una vez escrita la informacion en el soporte esta ya no puede modificarse.
+Una vez escrita la información en el soporte esta ya no puede modificarse.
 
-De este modo, la informacion que describe al individuo permanecera constante durante toda la vida del individuo,
-y asi, el individuo sera siempre el mismo, Con las mismas huellas digitales, con las mismas caracteristicas que lo diferenciaran de otros individuos,
+De este modo, la información que describe al individuo permanecerá constante durante toda la vida del individuo,
+y así, el individuo sera siempre el mismo, Con las mismas huellas digitales, con las mismas características que lo diferenciaran de otros individuos,
 durante toda su vida.
 
-Yo sere siempre yo.
-Podre aprender nuevos trucos, envejecere, pero siempre sere yo.
+Yo seré siempre yo.
+Podre aprender nuevos trucos, envejeceré, pero siempre seré yo.
 
-He comentado que cuando procesamos informacion, el conjunto de datos que describen el contexto "cambiara de estado" a medida que realizamos operaciones sobre los datos.
-la nueva informacion que obtenemos debe ser incluida en el conjunto de datos, modificando el estado.
+He comentado que cuando procesamos información, el conjunto de datos que describen el contexto "cambiara de estado" a medida que realizamos operaciones sobre los datos.
+la nueva información que obtenemos debe ser incluida en el conjunto de datos, modificando el estado.
 
-Pero si vamos a utilizar el ADN del individuo como memoria del sistema, el conjunto de datos no podra ser modificado, por tratarse de una memoria de "solo lectura".
+Pero si vamos a utilizar el ADN del individuo como memoria del sistema, el conjunto de datos no podrá ser modificado, por tratarse de una memoria de "solo lectura".
 
-Veamos como podemos superar este obstaculo.
+Veamos como podemos superar este obstáculo.
+
 
 --------------------------
 
+Hablemos de,
 
-La reproduccion: 
+La reproducción: 
 
 
-Otra caracteristica que tambien poseen todos los seres vivientes es que todos ellos tienen la capacidad de reproducirse.
+Otra característica que también poseen todos los seres vivientes es que todos ellos tienen la capacidad de reproducirse.
 
-Cuando un individuo se reproduce, sus hijos no seran copias exactas del padre.
-Los hijos seran muy parecidos  al padre, pero no iguales. 
+Cuando un individuo se reproduce, sus hijos no serán copias exactas del padre.
+Los hijos serán muy parecidos al padre, pero no iguales. 
 Esto es necesario para asegurar que no existan 2 individuos iguales. Veremos mas adelante porque es necesaria esta diferencia.
 
-En la reproduccion la informacion contenida en el ADN del padre sera modificada para crear al hijo.
-El hijo sera una nueva version del padre.
+En la reproducción la información contenida en el ADN del padre sera modificada para crear al hijo.
+El hijo sera una nueva versión del padre.
 
-El mecanismo de reproduccion, modifica la informacion, la procesa de algun modo para producir un nuevo individuo, un individuo diferente de todos los que han existido hasta ahora, e idealmente, un individuo mejorado.
+El mecanismo de reproducción, modifica la información, la procesa de algún modo para producir un nuevo individuo, un individuo diferente de todos los que han existido hasta ahora, e idealmente, un individuo mejorado.
 
-No es, por lo tanto, una modificacion aleatoria, es una modificacion calculada cuidadosamente, podemos decir que es una modificacion programada, ya que sobre los datos que describen al padre se ha aplicado algun tipo de "metodo", o funcion, para conseguir un resultado especifico.
+No es, por lo tanto, una modificación aleatoria, es una modificación calculada cuidadosamente, podemos decir que es una modificación programada, ya que sobre los datos que describen al padre se ha aplicado algún tipo de "método", o función, para conseguir un resultado especifico.
 
 
-De modo que, la informacion contenida en el padre no puede ser modificada por tratarse de una memoria de solo lectura, 
-sin embargo, puede ser leida, puede extraerse la informacion durante el proceso de reproduccion, puede modificarse aplicando el metodo, y el resultado puede ser grabado en una nueva memoria de solo lectura, el hijo.
+De modo que, la información contenida en el padre no puede ser modificada por tratarse de una memoria de solo lectura, 
+sin embargo, puede ser leída, puede extraerse la información durante el proceso de reproducción, puede modificarse aplicando el método, y el resultado puede ser grabado en una nueva memoria de solo lectura, el hijo.
 
-De este modo podemos hacer que los datos que describen el contexto cambien de estado generacion tras generacion.
+De este modo podemos hacer que los datos que describen el contexto cambien de estado generación tras generación.
 
-La reproduccion sera entonces el mecanismo que utilizaremos para procesar la informacion.
+La reproducción sera entonces el mecanismo que utilizaremos para procesar la información.
 
-y con esto, lo maquina que queriamos construir ya existe.
+y con esto, lo maquina que queríamos construir ya existe.
 la vida proporciona todos los recursos necesarios, y no ha sido necesario modificar nada.
 la vida es un computador natural.
 
-la funcion de Un individuo, en este modelo, es la de mantener un conjunto de datos.
+la función de Un individuo, en este modelo, es la de mantener un conjunto de datos.
 El estado en que el proceso se encontraba en un instante del tiempo.
 
-Si consideramos que la informacion se procesa durante la reproduccion, este sera un paso unico, simple, en el proceso.
-la diferencia entre el padre y el hijo, sera la minima de todas las posibles.
+Si consideramos que la información se procesa durante la reproducción, este sera un paso único, simple, en el proceso.
+la diferencia entre el padre y el hijo, sera la mínima de todas las posibles.
 
-he comentado que, en general, la resolucion de un problema requerira de una serie de pasos, normalmente, mas de uno.
-De modo que, el padre no encontrara la solucion al problema, ni tampoco el hijo.
+he comentado que, en general, la resolución de un problema requerirá de una serie de pasos, normalmente, mas de uno.
+De modo que, el padre no encontrara la solución al problema, ni tampoco el hijo.
 sera el trabajo de toda la familia, o de toda la especie.
-el proceso de resolucion del problema avanzara paso a paso, lentamente, generacion tras generacion.
+el proceso de resolución del problema avanzara paso a paso, lentamente, generación tras generación.
 un paso a la vez.
 
-en los proximos capitulos crearemos un computador basado en criaturas vivientes, o mejor dicho, en familias o especies de seres vivientes
+en los próximos capítulos crearemos un computador basado en criaturas vivientes, o mejor dicho, en familias o especies de seres vivientes
 en donde, 
 la especie ha sido creada a la medida del problema.
-la nueva especie es el computador, y este computador solo es util para resolver un problema concreto y ningun otro, 
+la nueva especie es el computador, y este computador solo es útil para resolver un problema concreto y ningún otro, 
 y en donde,
 un individuo representa el estado del calculo en un instante puntual del tiempo.
 
 observad que un individuo no es un computador, 
-sino unicamente la representacion de un estado en el proceso de calculo.
-la maquina de calculo estara formada por todos los individuos de la especie.
+sino únicamente la representación de un estado en el proceso de calculo.
+la maquina de calculo estará formada por todos los individuos de la especie.
 
 pero veamoslo mas despacio, paso a paso.
 he dicho que un individuo representa el "estado" del proceso en un particular instante del tiempo .
