@@ -1,28 +1,28 @@
 
-Introduccion y objetivos del capitulo:
+Introducción y objetivos del capitulo:
 
 Veamos ahora como podemos utilizar las ideas que hemos estado comentando hasta ahora.
-El objetivo sera crear una maquina de calculo, un computador, que resuelva problemas logicos.
+El objetivo sera crear una maquina de calculo, un computador, que resuelva problemas lógicos.
 
-Se trata de un modelo teorico, y el objetivo de este capitulo es el de ver como esta formado el sistema, cuales son sus partes e imaginar a esta maquina en funcionamiento para entender el mecanismo que le permite encontrar soluciones y aprender.
+Se trata de un modelo teórico, y el objetivo de este capitulo es el de ver como esta formado el sistema, cuales son sus partes e imaginar a esta maquina en funcionamiento para entender el mecanismo que le permite encontrar soluciones y aprender.
 
-Porque esta maquina no solo encuentra solucion a los problemas, sino que ademas aprende.
+Porque esta maquina no solo encuentra solución a los problemas, sino que ademas aprende.
 Veremos como sucede esto mas adelante.
 
-En este modelo de computador, la maquina y el problema estan estrechamente relacionados, de modo que, empezare por definir el problema que queremos resolver.
+En este modelo de computador, la maquina y el problema están estrechamente relacionados, de modo que, empezare por definir el problema que queremos resolver.
 
 
 --------------
 
 Problema ejemplo:
 
-como ejemplo utilizaremos un problema simple que nos permita enfocar toda nuestra atencion en la forma en que la maquina trabaja sin distraernos con detalles innecesarios.
+Como ejemplo utilizaremos un problema simple que nos permita enfocar toda nuestra atención en la forma en que la maquina trabaja sin distraernos con detalles innecesarios.
 Utilizaremos para esto un juego de mesa que llamaremos "Laberinto".
 
 El juego consiste en encontrar el camino que lleva desde la entrada hasta la salida de un laberinto.
 El juego se desarrollara sobre un tablero cuadriculado, de 8 por 8 casillas, como el utilizado en el juego de ajedrez.
 
-Referenciaremos cada casilla con un nombre formado por la concatenacion de una letra y de un numero, como por ejemplo 'A1',
+Referenciaremos cada casilla con un nombre formado por la concatenación de una letra y de un numero, como por ejemplo 'A1',
 siendo las filas referenciadas por una letra, desde la 'A' hasta la 'H',
 y las columnas referenciadas por un numero, desde el 1 hasta el 8.
 
@@ -32,18 +32,18 @@ Marcaremos sobre el tablero,
 una casilla que representara la entrada al laberinto, y que sera la casilla 'A1',
 y otra casilla que representara la salida del laberinto, y que sera la casilla 'H8'.
 
-Sobre el tablero colocaremos una unica ficha que representara a un personaje que debe atravesar el laberinto.
+Sobre el tablero colocaremos una única ficha que representara a un personaje que debe atravesar el laberinto.
 
 (dibujo)
 
-La ficha podra moverse en cualquier direccion, pero solo a una casilla contigua con cada movimiento.
+La ficha podrá moverse en cualquier dirección, pero solo a una casilla contigua con cada movimiento.
 Por lo tanto, sera considerado como una "jugada valida", cualquier movimiento a una distancia de una casilla.
 
 (grafico)
 
 Con esto queda definido el juego y el problema que se quiere resolver.
-En resumen, lo que queremos que la maquina nos diga es 
-cual es el camino que lleva desde la entrada hasta la salida del laberinto ?
+En resumen, lo que queremos que la maquina nos diga es: 
+“cual es el camino que lleva desde la entrada hasta la salida del laberinto ?”
 
 
 
@@ -52,51 +52,48 @@ cual es el camino que lleva desde la entrada hasta la salida del laberinto ?
 
 La maquina:
 
-Ya tenemos el problema, ahora construiremos una maquina que encuentre la solucion automaticamente, para nosotros.
+Ya tenemos el problema, ahora construiremos una maquina que encuentre la solución automáticamente, para nosotros.
 
-Y este es el centro de toda la discusion en torno al ensayo que se describe en este relato.
-Porque el sistema computacional que crearemos es simplemente una simulacion de la vida.
+Y este es el centro de toda la discusión en torno al ensayo que se describe en este relato.
+Porque el sistema computacional que crearemos es simplemente una simulación de la vida.
 
-Simularemos las funciones principales de la vida utilizando abstracciones matematicas.
-Y asi se formara un sistema inteligente que evolucionara con el tiempo y encontrara las respuestas sin realizar ningun proceso especial para ello, encontrara las respuestas solo viviendo.
+Simularemos las funciones principales de la vida utilizando abstracciones matemáticas.
+Y así se formara un sistema inteligente que evolucionara con el tiempo y encontrara las respuestas sin realizar ningún proceso especial para ello, encontrara las respuestas solo viviendo.
 
-La hipotesis que se pretende demostrar aqui es que la vida es una inteligencia.
+La hipótesis que se pretende demostrar aquí es que la vida es una inteligencia.
 
 Lo veremos paso a paso.
-Empecemos por recordar cuales son las caracteristicas que nos permitiran procesar informacion para realizar el calculo.
+Empecemos por recordar cuales son las características que nos permitirán procesar información para realizar el calculo.
 
 ----------------------------------
 
-resumen de caracteristicas genericas:
 
-Hemos comentado anteriormente que para construir una  maquina capaz de procesar informacion seria necesario disponer de 
-una memoria que soporte los datos que describen el contexto del problema asi como el nuevo conocimiento que se generara a medida que avanza el proceso de calculo.
-y de un mecanismo que opere sobre los datos aplicando las transformaciones oportunas.
+Hemos comentado anteriormente que para construir una  maquina capaz de procesar información sera necesario disponer de 
+una memoria que soporte los datos que describen el contexto del problema así como el nuevo conocimiento que se generara a medida que avanza el proceso de calculo.
+Y ademas, de un mecanismo que opere sobre los datos realizando las transformaciones oportunas.
 
-los datos y el metodo, son el software, la parte logica.
-la memoria y el mecanismo procesador, son el hardware, la parte fisica de la maquina.
+Los datos y el método, son el software, la parte lógica.
+La memoria y el mecanismo procesador, son el hardware, la parte física de la maquina.
 
-la parte logica la tenemos ya, viene dada por la descripcion del problema que hemos realizado.
+La parte lógica la tenemos ya, viene dada por la descripción del problema que hemos realizado.
 Es decir que, 
 los datos que describen el contexto deben describir el juego del laberinto que hemos planteado y los estados por los que atraviesa.
-La transformacion que debe aplicarse sobre los datos es aquella que genera el siguiente estado, es decir, una jugada valida, como la hemos definido anteriormente, la ficha solo puede moverse a una casilla contigua.
+La transformación que debe realizarse sobre los datos es aquella que genera el siguiente estado, es decir, una jugada valida, como la hemos definido anteriormente, la ficha solo puede moverse a una casilla contigua.
 
-Solo nos falta, por lo tanto, el hardware, la parte fisica, que se compone de 
+Solo nos falta, por lo tanto, el hardware, la parte física, que se compone de 
 un soporte de memoria, 
 y un mecanismo procesador.
 
-Hemos comentado anteriormente que existen 2 caracteristicas presentes en todos los seres vivientes que pueden utilizarse para cumplir estas funciones y son, 
-el ADN, que almacena informacion como una memoria de solo lectura, y
-el mecanismo de reproduccion, que modifica la informacion contenida en el ADN para crear una nueva cadena.
+Hemos comentado anteriormente que existen dos características presentes en todos los seres vivientes que pueden utilizarse para cumplir estas funciones y son, 
+el ADN, que almacena información como una memoria de solo lectura, y
+el mecanismo de reproducción, que modifica la información contenida en el ADN para crear una nueva cadena.
 
-Utilizaremos por lo tanto el ADN como memoria y el mecanismo de reproduccion como procesador.
+Utilizaremos por lo tanto el ADN como memoria y el mecanismo de reproducción como procesador.
 
 Tenemos con esto, todos los elementos necesarios para crear el sistema de calculo.
 
 
 --------------------------------
-
-adaptacion especifica:
 
 
 Veamos como adaptamos el sistema al problema que queremos resolver.
@@ -106,27 +103,24 @@ Y esto lo conseguiremos creando una nueva especie de seres vivientes especifica 
 
 Una especie es una familia de individuos semejantes.
 Todos los individuos de una especie son muy parecidos, no iguales, pero casi.
-Asi, es el individuo quien define a la especie.
+Así, es el individuo quien define a la especie.
 
-Crearemos una nueva especie simplemente creando un individuo con las caracteristicas que nos interesan.
+Crearemos una nueva especie simplemente creando un individuo con las características que nos interesan.
 Todas las criaturas vivientes cumplen con un ciclo de vida que consiste en nacer, reproducirse y morir.
 
-Y por lo tanto, una vez creado el nuevo individuo que necesitamos, este se reproducira, y creara la nueva especie.
+Y por lo tanto, una vez creado el nuevo individuo que necesitamos, este se reproducirá, y creara la nueva especie.
 Se trata pues, unicamente de crear el individuo adecuado.
 Veamos como.
 
 
 -------------------------
-el individuo:
 
-(descripcion del individuo necesario para el caso actual, y de sus responsabiidades, bloque de construccion alcance del procesamiento)
+El individuo:
 
-(adn, individuo y estado del proceso)
+En todas las criaturas vivientes, en todos los individuos de todas las especies, esta presente el ADN.
+El ADN contiene la información necesaria para construir a un individuo.
 
-En todas las criaturas vivientes, en todos los individuos de todas las especiees, esta presente el ADN.
-El ADN contiene la informacion necesaria para construir a un individuo.
-
-Utilizaremos el ADN como memoria del sistema, y en ella queremos almacenar la  informacion necesaria para reconstruir un estado cualquiera del proceso de resolucion del problema en el que estamos trabajando.
+Utilizaremos el ADN como memoria del sistema, y en ella queremos almacenar la  información necesaria para reconstruir un estado cualquiera del proceso de resolución del problema en el que estamos trabajando.
 Que en este caso se trata de un juego de mesa.
 
 Por lo tanto, un individuo de esta nueva especie representara un estado en el juego del laberinto.
@@ -136,23 +130,22 @@ Por lo tanto, un individuo de esta nueva especie representara un estado en el ju
 
 Veamos que datos necesitamos para resumir un estado del juego.
 Digamos que estamos jugando una partida de ajedrez, la partida se encuentra ya en un estado intermedio cuando debemos abandonarla.
-Y nos gustaria poder continuar jugando esta misma partida manana desde el mismo punto en donde la dejamos hoy.
+Y nos gustaría poder continuar jugando esta misma partida mañana desde el mismo punto en donde la dejamos hoy.
 
-Para esto sera necesario recordar el "estado" en que habia quedado el juego.
+Para esto sera necesario recordar el "estado" en que había quedado el juego.
 
-En el caso de una partida de ajedrez bastaria con recordar la posicion de las fichas sobre el tablero y cual de los dos jugadores hara el siguiente movimiento.
-Con esta informacion podriamos reconstruir la partida para continuar desde el mismo punto.
-Esta es la informacion que describe el estado en que la habiamos dejado.
-y se reduce a un listado de posiciones mas un indicador de quien juega a continuacion.
+En el caso de una partida de ajedrez bastaría con recordar la posición de las fichas sobre el tablero y cual de los dos jugadores hará el siguiente movimiento.
+Con esta información podríamos reconstruir la partida para continuar desde el mismo punto.
+Esta es la información que describe el estado se reduce a un listado de posiciones mas un indicador de quien debe jugar a continuación.
 
 En el caso del juego del laberinto, para recordar un estado bastara con recordar 
-la posicion de la unica ficha que hay sobre el tablero, y 
-todos los movimientos que se han realizado hasta ese momento, esto nos permitira recordar tambien el camino que ha recorrido la ficha hasta ahora.
+la posición de la única ficha que hay sobre el tablero, y 
+todos los movimientos que se han realizado hasta ese momento, esto nos permitirá recordar también el camino que ha recorrido la ficha hasta ahora.
 
 En resumen, para abordar el problema del juego del laberinto, crearemos una nueva especie de seres vivientes en donde el individuo sera
-un tablero con una ficha en una posicion determinada mas un listado con todos los movimientos anteriores.
+un tablero con una ficha en una posición determinada mas un listado con todos los movimientos anteriores.
 
-graficamente se veria asi:
+Gráficamente se vería así:
 
 (ejemplo grafico del individuo)
 
@@ -164,12 +157,11 @@ graficamente se veria asi:
 -------------------------
 
 
-resolucion paso a paso:
 
-Ahora que ya hemos visto como debe ser un individuo de esta especie, veamos ahora como un sistema de este tipo resolveria el problema.
+Ahora que ya hemos visto como debe ser un individuo de esta especie, veamos ahora como un sistema de este tipo resolvería el problema.
 
 Para poner en marcha a esta maquina, comenzaremos por crear un individuo que represente el estado inicial del problema.
-Es decir, un tablero con la ficha en la entrada del laberinto, posicion 'A1'
+Es decir, un tablero con la ficha en la entrada del laberinto, posición 'A1'
 
 (imagen del individuo)
 
@@ -198,22 +190,22 @@ conclusion:
 
 veamos ahora lo que ha sucedido.
 
-El sistema ha encontrado la respuesta que buscabamos.
-Sin embargo, los individuos que han sido creados en el proceso, no tenian conciencia del problema ni del proceso que se estaba llevando a cabo para encontrar la solucion.
+El sistema ha encontrado la respuesta que buscábamos.
+Sin embargo, los individuos que han sido creados en el proceso, no tenían conciencia del problema ni del proceso que se estaba llevando a cabo para encontrar la solución.
 Los individuos simplemente viven sus vidas ajenos al proceso de calculo que la especie esta llevando a cabo.
 
 El sistema esta formado por el conjunto de todos los individuos.
-Los individuos son el bloque de construccion, y el unico componente del sistema.
+Los individuos son el bloque de construcción, y el único componente del sistema.
 
-Un individuo no puede encontrar la solucion de un problema que desconoce.
+Un individuo no puede encontrar la solución de un problema que desconoce.
 El individuo vive su vida ajeno al proceso de calculo y las acciones que realiza en su vida personal tienen como objetivo mantenerlo con vida para crear su descendencia. Es decir, cumplir con su ciclo de vida.
-Esta es la mision del individuo.
+Esta es la misión del individuo.
 Todo lo que debe hacer un individuo es, nacer, reproducirse y morir.
 
 La maquina, el sistema inteligente, esta formada por la suma de todos los individuos.
 Y lo que el sistema utiliza de los individuos en el proceso de calculo es
-La forma fisica del individuo que contiene los datos que estan siendo procesados y
-La reproduccion que realiza transformaciones en los datos modificando el estado del proceso haciendolo avanzar hacia su resolucion.
+La forma física del individuo que contiene los datos que están siendo procesados y
+La reproducción que realiza transformaciones en los datos modificando el estado del proceso haciéndolo avanzar hacia su resolución.
 
 El individuo no sabe porque tiene esta forma particular, y no tiene control sobre esto.
 El individuo no sabe porque debe reproducirse, y no tiene control sobre esto.
@@ -221,6 +213,5 @@ El individuo no sabe porque ha nacido, y no tiene control sobre esto.
 El individuo no sabe porque debe morir, y no tienen control sobre esto.
 
 
-en las proximas paginas comentaremos con mas detalle acerca de la necesidad de que los individuos cumplan con un ciclo de vida y veremos el porque de cada una de las etapas.
-Pero antes, empezaremos por analizar las caracteristicas mas relevantes de este sistema inteligente.
-
+En las próximas paginas comentaremos con mas detalle acerca de la necesidad de que los individuos cumplan con un ciclo de vida y veremos el porque de cada una de las etapas.
+Pero antes, empezaremos por analizar las características mas relevantes de este sistema inteligente.
