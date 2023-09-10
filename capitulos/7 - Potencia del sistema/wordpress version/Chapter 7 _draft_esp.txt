@@ -1,349 +1,318 @@
-Cuando hablamos de computadoras, las mas potentes seran las maquinas que llamamos "super-computadoras".
+Cuando hablamos de computadoras, las mas potentes serán las maquinas que llamamos "súper-computadoras".
 
-Estas maquinas estan disenyadas para realizar una gran cantidad de operaciones por unidad de tiempo.
-Disponen tambien de mucha memoria para poder almacenar y utilizar una gran cantidad de informacion.
+Estas maquinas están diseñadas para realizar una gran cantidad de operaciones por unidad de tiempo.
+Disponen también de mucha memoria para poder almacenar y utilizar una gran cantidad de información.
 
-En comparacion, el sistema inteligente basado en especies de seres vivientes que estamos analizando, como sera de potente ?
-sera comparable en potencia a los super-computadores ?
-Podra entregar resultados a mayor o menor velocidad ?
-Podra abordar problemas de mayor o menor complejidad ?
+En comparación, el sistema inteligente basado en especies de seres vivientes que estamos analizando, como sera de potente ?
+Sera comparable en potencia a los súper-computadores ?
+Podrá entregar resultados a mayor o menor velocidad ?
+Podrá abordar problemas de mayor o menor complejidad ?
 
 -----------------------------------------------
 
-Para responder a estas preguntas tengamos presente lo que hemos dicho acerca de las deciciones.
+Para responder a estas preguntas tengamos presente lo que hemos dicho acerca de las decisiones.
 
-- las decisiones pueden verse como una bifurcacion en el camino
+- las decisiones pueden verse como una bifurcación en el camino
 - las  decisiones incrementan la complejidad
 - el numero de decisiones es un buen indicador de la complejidad
 
 Con esto en mente, volvamos a ver como ha sido resuelto el problema del laberinto, y en especial, cuantas decisiones han debido ser tomadas,
 o cuantos diferentes caminos posibles existen en ese problema.
 
-La posicion de salida, el comienzo del juego, esta en 'A1'.
+La posición de salida, el comienzo del juego, esta en 'A1'.
 cuantos posibles caminos se ven desde este punto ?
 
 Desde 'A1', pueden verse 3 posibles caminos.
 
-Podria ir por 'A2', 'B1', o 'B2'.
+La marcha podría iniciarse por 'A2', 'B1', o 'B2'.
 
 (dibujo)
 
 -----------------------------
 
-si inicia la marcha por 'A2', se encontrara con 5 nuevos caminos posibles
+Si inicia la marcha por 'A2', se encontrara con 5 nuevos caminos posibles
 
 (dibujo)
 
-si inicia la marcha por 'B1', se encontrara con 5 nuevos caminos posibles
+Si inicia la marcha por 'B1', se encontrara con 5 nuevos caminos posibles
 
 (dibujo)
 
-si inicia la marcha por 'B2', se encontrara con 8 nuevos caminos posibles
+Si inicia la marcha por 'B2', se encontrara con 8 nuevos caminos posibles
 
 (dibujo)
 ------------------------------
 
 y en cualquiera de estas 18 posibilidades, se encontrara con la necesidad de decidir nuevamente entre varias opciones posibles para seguir adelante.
-y lo mismo sucedera con cada paso que avance en cualquier direccion.
+Y lo mismo sucederá con cada paso que avance en cualquier dirección.
 
-Cuantas decisiones deberan tomarse entonces hasta encontrar la solucion ?
+Cuantas decisiones deberán tomarse entonces hasta encontrar la solución ?
 
 ------------------------------
 
-El numero de decisiones que deberan tomarse para encontrar la solucion crece exponencialmente, es decir que tendera a infinito rapidamente.
-Como crece de rapido ?
-aproximadamente en un digito cada vez que la ficha avanza una casilla.
-lo veremos con mas detalle mas adelante cuando hablemos de costes.
+El numero de decisiones que deberán tomarse para encontrar la solución crece exponencialmente, es decir que tendera a infinito rápidamente.
+Como crece de rápido ?
+Aproximadamente en un digito cada vez que la ficha avanza una casilla.
+Lo veremos con mas detalle mas adelante cuando hablemos de costes.
 
-existen distintas soluciones al problema, asi como existen distintos caminos que unen la entrada con la salida del laberinto, unos caminos seran mas cortos que otros.
+Existen distintas soluciones al problema, así como existen distintos caminos que unen la entrada con la salida del laberinto, unos caminos serán mas cortos que otros.
 
-El camino mas corto se compone de 7 casillas, y esta sera la primera solucion que encontrara el sistema.
-Observad que para avanzar una casilla desde la entrada, el estado inicial, exiten 3 posibles caminos, 3 decisiones (un digito)
-Para avanzar una segunda casilla, deberan tomarse, 3 + 5 + 5 + 8 decisiones, esto es 21 (2 digitos)
-El calculo se complica a partir de aqui, pero adelantare que para recorrer 7 casillas deberan tomarse alrededor de 20 millones de decisiones.
-Para recorrer una casilla mas, el numero de decisiones se habra incrementado hasta los 160 millones aproximadamente.
-Y si quisieramos recorrer 100 casillas, el numero de decisiones que habria que tomar seria aproximadamente un digito seguido por 100 ceros, que es un numero dificil de expresar con palabras.
+El camino mas corto se compone de 7 casillas, y esta sera la primera solución que encontrara el sistema.
+Observad que para avanzar una casilla desde la entrada, el estado inicial, existen 3 posibles caminos, 3 decisiones (un digito)
+Para avanzar una segunda casilla, deberán tomarse, 3 + 5 + 5 + 8 decisiones, esto es 21 (2 dígitos)
+El calculo se complica a partir de aquí, pero adelantare que para recorrer 7 casillas deberán tomarse mas de 2 millones de decisiones.
+Para recorrer una casilla mas, el numero de decisiones se habrá incrementado superando los 16 millones aproximadamente.
+Y si quisiéramos recorrer 100 casillas, el numero de decisiones que habría que tomar seria aproximadamente un digito seguido por 100 ceros, que es un numero difícil de expresar con palabras.
 
 -----------------------------------
 
 
-en los computadores que utilizamos a diario
-el metodo utilizado para resolver problemas de este tipo seria explorar secuencialmente los diferentes caminos posibles 
-y despues de recorrerlos todos 
-Deberia ser capaz de compararlos para decidir
+En los computadores que utilizamos a diario
+el método utilizado para resolver problemas de este tipo seria explorar secuencialmente los diferentes caminos posibles, 
+y después de recorrerlos todos 
+Debería ser capaz de compararlos para decidir
 cual de todos es el mejor 
 
-pero para recorrerlos todos secuencialmente (uno tras otro) 
+Pero para recorrerlos todos secuencialmente (uno tras otro) 
 se necesita tiempo, 
 
 y cuando el numero de caminos posibles tiende a infinito, 
-el tiempo necesario para recorrerlos todos tambien 
+el tiempo necesario para recorrerlos todos también 
 tiende a infinito.
 
-y el tiempo necesario
- podria ser demasiado, mas del disponible, 
-y entonces el problema debe considerarse, inabordable
+Y el tiempo necesario
+ podría ser demasiado, mas del disponible, 
+y entonces el problema debe considerarse, inabordable.
 
-para compararlos todos y tomar una decision
-es necesario almacenar la informacion que vamos recogiendo 
+Para compararlos todos y tomar una decisión
+es necesario almacenar la información que vamos recogiendo 
 a medida que los recorremos,
-y para esto es necesario tener memoria,
+y para esto es necesario tener memoria.
 
-una vez mas, 
+Una vez mas, 
 cuando el numero de caminos posibles tiende a infinito, 
-la memoria necesaria para recordarlos tambien,
+la memoria necesaria para recordarlos todos, también
 tiende a infinito.
 
-para que los computadores electronicos 
-sean capaces de abordar problemas de este tipo
-se necesita una estrategia que evite recorrer todos los caminos de principio a fin.
+Para que los computadores electrónicos puedan abordar problemas de este tipo,
+se necesita una estrategia que evite la necesidad recorrer todos los caminos de principio a fin.
 
 Porque no sera posible dotar a una maquina de una cantidad de memoria infinita.
 
 -----------------------
 
-nota aclaratoria: he dicho que un computador recorreria los caminos secuencialmente, porque asi podemos ver con claridad cual es el problema.
-en realidad, los computadores utilizarian cierto grado de paralelismo en casos como este, sin embargo, la concurrencia siempre es limitada.
-a medida que lanzamos nuevos procesos en paralelo, incrementamos el consumo de memoria, por lo tanto, si el numero de camninos tiende a infinito, la memoria se agotara rapidamente.
+Nota aclaratoria: he dicho que un computador recorrería los caminos secuencialmente, porque así podemos ver con claridad cual es el problema.
+En realidad, los computadores utilizarían cierto grado de paralelismo en casos como este, sin embargo, la concurrencia siempre es limitada.
+A medida que lanzamos nuevos procesos en paralelo, incrementamos el consumo de memoria, por lo tanto, si el numero de caminos tiende a infinito, la memoria se agotara rápidamente.
+Incluso si incluimos a un nuevo computador en el cluster por cada nuevo camino que se presente,
+el numero de computadores que hay en el mundo es finito.
+
 ---------------------
 
 
 Y en cuanto a la complejidad de los problemas.
 
-Un sistema inteligente basado en familias de seres vivientes, que clase de problemas podria resolver?, o dicho de otra forma, problemas de que complejidad podria abordar?
+Un sistema inteligente basado en familias de seres vivientes, que clase de problemas podría resolver?, 
+o dicho de otra forma, 
+problemas de que complejidad podría abordar?
 
 Veamos otra vez como ha resuelto el problema del laberinto.
 
 Inicialmente creamos un individuo que representa el estado inicial.
 Un tablero con una ficha en la entrada del laberinto, 'A1'.
 
-Desde esta posicion, 
+Desde esta posición, 
 existen 3 caminos posibles, que empiezan en 
 'A2', 'B1', 'B2'.
 
 Cual de ellos sera el mejor ?
-Como decidir por cual de ellos continuar la exploracion ?
+Como decidir por cual de ellos continuar la exploración ?
 
 El individuo genera tantos hijos como caminos posibles existan, coloca a un nuevo individuo en la entrada de cada camino,
-y encarga a cada uno de ellos la exploracion de 1 unico camino.
+y encarga a cada uno de ellos la exploración de 1 único camino.
 
 El sistema no decide.
 Simplemente los recorre todos a la vez, en paralelo.
 
-No importa cuantos caminos nuevos aparezcan.
-continua avanzando como si no existiera mas que un unico camino.
+No importa cuantos caminos nuevos aparezcan, continuara avanzando como si no existiera mas que un único camino.
 
 
 --------------------
 
 
-Hasta llegar a la salida habran aparecido una gran numero de caminos diferentes posibles.
-Habra sido necesario tomar una gran cantidad de decisiones.
+Hasta llegar a la salida habrán aparecido una gran numero de caminos diferentes posibles.
+Habrá sido necesario tomar una gran cantidad de decisiones.
 Para un computador que explora los diferentes caminos de forma secuencial, el coste en tiempo y memoria seria elevado.
 
 Para un sistema inteligente basado en familias de criaturas vivientes, las decisiones no incrementaran el tiempo necesario para resolver el problema.
-La familia ha encontrado la solucion despues de 7 generaciones. En 7 movimientos ha llegado a la salida. Como si no existiera mas que un unico camino.
+La familia ha encontrado la solución después de 7 generaciones. En 7 movimientos ha llegado a la salida. Como si no existiera mas que un único camino.
 
 El efecto es el de no existir la complejidad. La forma en que el sistema trabaja disuelve la complejidad, la desmenuza, haciendo que las decisiones, no existan.
 
-La exploracion se realiza en paralelo, de forma concurrente, como si cada individuo fuera una nueva maquina que inicia la exploracion por su cuenta, independientemente del resto de la colonia.
-Y el trabajo de cada individuo no encontrara complejidad, porque el individuo no recorrera todo el camino, el individuo no tendra que enfrentarse a todas las decisiones que se prentaran en el futuro, porque el trabajo de un individuo se reduce a dar un unico paso simple.
+La exploración se realiza en paralelo, de forma concurrente, como si cada individuo fuera una nueva maquina que inicia la exploración por su cuenta, independientemente del resto de la colonia.
+Y el trabajo de cada individuo no encontrara complejidad, porque el individuo no recorrerá todo el camino, el individuo no tendrá que enfrentarse a todas las decisiones que se presentaran en el futuro, porque el trabajo de un individuo se reduce a dar un único paso simple.
 
 ------------------------------
 
 
-Asi, todos los problemas son simples, triviales.
-Independientemente de la complejidad intrinsica.
+Así, todos los problemas son simples, triviales.
+Independientemente de la complejidad intrínseca.
 
-El problema se desmenuza en pequenyos problemas triviales,
+El problema se desmenuza en pequeños problemas triviales,
 y se crean tantas computadoras 
 como pasos elementales tenga el problema.
 
-Y cada computadora realiza un unico proceso elemental, trivial.
+Y cada computadora realiza un único proceso elemental, trivial.
 
-si pensamos en los individuos de la colonia como en computadores,
+Si pensamos en los individuos de la colonia como en computadores,
 entonces,
 el procesador no necesita conocer un gran conjunto de operaciones, 
-porque solo realiza una unica operacion, siempre la misma,
+porque solo realiza una única operación, siempre la misma,
+que consiste en generar cualquiera de los siguientes estados posibles.
 
-Consiste en generar 
-cualquiera de los siguientes estados posibles.
+Tampoco es necesario que sea capaz de realizar 
+una gran cantidad de cálculos por unidad de tiempo,
+porque solo realizara una única operación, una.
 
-tampoco es necesario que sea capaz de realizar 
-una gran cantidad de calculos por unidad de tiempo,
-porque solo realizara una unica operacion, una.
+En el caso de la memoria,
+no es necesario que sea capaz de recordar todos los infinitos posibles caminos en los que pueda descomponerse el problema 
+para tomar una decisión después de haberlos recorrido todos.
 
-en el caso de la memoria,
-no es necesario que sea capaz de recordar 
-todos los infinitos posibles caminos 
-en los que pueda descomponerse el problema 
-para tomar una decision despues de haberlos recorrido todos.
-
-eso podria requerir una gran cantidad de memoria.
+Eso podría requerir una gran cantidad de memoria,
 en cambio, 
-solo necesita recordar el camino que su familia ha recorrido 
-para llegar hasta el, 
-eso es un unico camino finito.
+solo necesita recordar el camino que su familia ha recorrido para llegar hasta el, 
+eso es un único camino discreto, finito.
 
 --------------------------------------------------
 
 
-volviendo a la comparacion con los super-computadores,
+volviendo a la comparación con los súper-computadores,
  
-si la complejidad de los problemas no es importante para un “NIS” 
-y podria abordar problemas de cualquier complejidad,
-entonces en este sentido 
-No puede ser superado.
+Si la complejidad de los problemas no es importante para un “sistema viviente” 
+y podría abordar problemas de cualquier complejidad,
+entonces en este sentido, 
+no puede ser superado.
 
-si la memoria tampoco es un problema 
+Si la memoria tampoco es un problema 
 porque un individuo no tiene que recordar todas las posibles ramificaciones del calculo,
-sino solo su camino
+sino solo su camino, entonces, la memoria tampoco seria una limitación.
 
-Ademas, en el momento de crear a un hijo, ya sabe cuanta memoria necesitara, porque ya tiene los datos que debe almacenar, y la memoria una vez creada no se modificara.
-Esto hace que la cantidad de  memoria necesaria siempre sea discreta, no tendra problemas de memoria, independientemente de la complejidad que pueda tener el problema.
+Por otra parte, en el momento de crear a un hijo, ya sabe cuanta memoria necesitara, porque ya tiene los datos que debe almacenar, y la memoria una vez creada no se modificara.
+Esto hace que la cantidad de  memoria necesaria siempre sea discreta, no tendrá problemas de memoria, independientemente de la complejidad que pueda tener el problema.
 
-entonces podria abordar problemas de complejidad que tiende a infinito,
+De este modo, podría abordar problemas de complejidad que tiende a infinito,
 con una cantidad de memoria discreta.
-en este aspecto, tampoco puede ser superado.
+En este aspecto, tampoco puede ser superado.
 
-queda por ver,
-la velocidad de proceso.
+Nos queda por ver, la velocidad de proceso.
 
-En el caso de un super-computador, 
-Una medida de la velocidad de proceso nos la daria 
-la cantidad de operaciones que puede ejecutar por unidad de tiempo.
+En el caso de un súper-computador, 
+una medida de la velocidad de proceso nos la daría la cantidad de operaciones que puede ejecutar por unidad de tiempo.
 
-En el caso de un “NIS”,
-Por tratarse de un modelo teorico,
-No podemos medirlo como el caso de un computador real,
-sin embargo, podemos aproximarlo.
+En el caso de un “sistema viviente”, por  tratarse de un modelo teórico, no podemos medirlo como el caso de un computador real, sin embargo, podemos aproximarlo.
 
 
 -----------------------------------------
 
-hemos visto ya, en el capitulo dedicado a la eficiencia, que siempre resolvera los problemas en el menor numero de operaciones posibles,
-por lo tanto en este sentido no puede ser superado, 
+Hemos visto ya, en el capitulo dedicado a la eficiencia, que siempre resolverá los problemas en el menor numero de operaciones posibles, por lo tanto en este sentido no puede ser superado, pero veamos a que velocidad ejecutaría esas operaciones, y de forma aproximada, cuanto tiempo sera necesario para resolver el problema.
 
-pero veamos a que velocidad ejecutaria esas operaciones.
-y cuanto tiempo sera necesario para resolver el problema.
+El computador basado en seres vivientes resultara mas rápido que un súper-computador, 
+o mas lento ?
 
-el computador basado en seres vivientes resultara mas rapido que un super-computador, o mas lento ?
+Un “sistema viviente” ejecuta un paso en el proceso de resolución del problema con cada generación.
 
-Un NIS ejecuta un paso en el proceso de resolucion 
-con cada generacion.
+Es en la reproducción cuando la información se modifica.
 
-es en la reproduccion cuando la informacion se modifica.
+Dicho así, podría parecer lento.
+En el caso de algunas especies de mamíferos, el tiempo parece enorme, una generación en la especie humana requiere unos 20 años de media.
 
-dicho asi, podria parecer lento.
-en el caso de algunas especies de mamiferos, 
-el tiempo parece enorme,
-una generacion en la especie humana requiere 
-unos 20 anyos de media.
+Existen especies que se reproducen mas rápidamente, como las bacterias, que podrían producir una nueva generación cada 15 minutos.
 
-Existen especies que se reproducen mas rapidamente, 
-como las bacterias que podrian producir una nueva generacion cada 15 minutos.
+Pero digamos que utilizamos humanos, con una generación cada  20 años.
+Y por otro lado, tenemos un computador electrónico que puede ejecutar muchos millones de operaciones por segundo.
 
-Pero digamos que utilizamos humanos, con una generacion cada  20 anyos.
-Y por otro lado, tenemos un computador electronico que puede ejecutar muchos millones operaciones por segundo.
-
-A simple vista puede parecer mas rapido 
-el computador electronico, 
+A simple vista puede parecer mas rápido el computador electrónico, 
 sin embargo,
-Lo realmente importante es,
+lo realmente importante es,
 
-Cual de los 2 resuelve el problema antes ?
-Cual de los 2 encontrara la solucion en menos tiempo ?
+cual de los 2 resuelve el problema antes ?
+Cual de los 2 encontrara la solución en menos tiempo ?
 
 ------------------------------------------------------
 
-recordemos que,
+Recordemos que,
 
-Un sistema basado en familias de seres vivientes, un “NIS”,
-Recorrera todos los caminos a la vez, en paralelo.
+Un sistema basado en familias de seres vivientes, recorrerá todos los caminos a la vez, en paralelo.
 
-Y mientras que,
-Los computadores electronicos aunque pueden utilizar cierto grado de concurrencia, esta siempre tendra un limite.
+Mientras que, los computadores electrónicos aunque pueden utilizar cierto grado de concurrencia, esta siempre tendrá un limite.
 
-En el caso de un “NIS”,
-La concurrencia tiende a infinito,
-De modo que no importa cuantos caminos posibles existan,
-Seran recorridos todos al mismo tiempo,
-Los recorrera todos en el mismo tiempo que recorre uno.
-Esto no puede ser igualado por un computador electronico.
+En el caso de un “sistema viviente”, la concurrencia tiende a infinito, de modo que, no importa cuantos caminos posibles existan, serán recorridos todos en el mismo tiempo que recorre uno.
 
 Y aunque al principio puede parecer lento, 
 el numero de individuos crece exponencialmente con el tiempo.
 es decir, 
-al principio, partimos de un unico individuo,
-pero el numero de individuos de la familia crece rapidamente,
+al principio, partimos de un único individuo,
+pero el numero de individuos de la familia crece rápidamente.
 El crecimiento es exponencial,
 y en poco tiempo el numero de individuos de la familia tendera a infinito.
 
 
 
 
-De modo que, 
-despues de un tiempo de "puesta en marcha"
-la velocidad de proceso parece tender a infinito, y sera dificilmente superada.
+De modo que, después de un tiempo de "puesta en marcha", la velocidad de proceso parece tender a infinito, y sera difícilmente superada.
 
 --------------------------------------------
 
 
-no todas las especies requeriran 20 anyos para producir una generacion, pero aun asi,
+No todas las especies requerirán 20 años para producir una generación, pero aun así,
 
-cuando hablamos de problemas de una complejidad tal 
-En donde un computador electronico necesitaria muchos millones de anyos para encontrar una solucion
-
-En ese caso,
-un NIS tendria ventaja.
+cuando hablamos de problemas de una complejidad tal que un computador electrónico necesitaría muchos millones de años para encontrar una solución, en ese caso, un “sistema viviente” tendría ventaja.
 
 
 
 
-cuantos individuos existen hoy sumando todos los que forman las diferentes especies de criaturas vivientes ?,
+Veamos.
+Cuantos individuos existen hoy sumando todos los que forman las diferentes especies de criaturas vivientes ?,
 plantas, peces, bacterias, insectos, aves, reptiles, todos.
 
-todos ellos son descendientes de la primera criatura que ha cobrado vida.
+Todos ellos son descendientes de la primera criatura que ha cobrado vida, y por lo tanto, todos forman parte del mismo proceso.
 
-Y por lo tanto,
-todos forman parte del mismo proceso.
-
-todos ellos buscan respuesta a las mismas preguntas,
+Todos ellos buscan respuestas a las mismas preguntas,
 pero todos ellos por caminos diferentes.
 
-todos los individuos son diferentes, no existen 2 iguales,
+Todos los individuos son diferentes, no existen 2 iguales,
 para asegurar que no hay 2 realizando el mismo trabajo.
 
-y todos ellos inician una nueva busqueda, creando una nueva familia que buscara la respuesta por su propio camino.
+Y todos ellos inician una nueva búsqueda, creando una nueva familia que buscara la respuesta por su propio camino.
 
-cada individuo que nace representa un paso hacia adelante en el proceso, una nueva operacion sobre los datos.
-y todos ellos representas operaciones diferentes.
+Cada individuo que nace representa un paso hacia adelante en el proceso, una nueva operación sobre los datos.
+Y todos ellos representas operaciones diferentes.
 
 ---------------------------------------
 
 
 
-cuantas operaciones por segundo podria ejecutar esta maquina viviente ?
-tantas como nuevos individuos naceran en 1 segundo
+Cuantas operaciones por segundo podría ejecutar esta maquina viviente ?
+Tantas como nuevos individuos nacerán en 1 segundo.
 
 
 Como referencia, 
-dentro del organismo de un unico ser humano, viven varias decenas de billones de bacterias.
+dentro del organismo de un único ser humano, viven varias decenas de billones de bacterias.
 
-y un super computador puede realizar miles de millones de operaciones por segundo.
+Un súper-computador puede realizar miles de millones de operaciones por segundo.
 
-mirando alrededor, e intentando adivinar cuantos individuos naceran en un segundo en la tierra,
-es evidente que ningun computador electronico conseguira nunca competir
+Mirando alrededor, e intentando adivinar cuantos individuos nacerán en un segundo en la tierra,
+es evidente que ningún computador electrónico conseguirá nunca competir
 con la potencia de calculo que la vida tiene.
 
 --------------------------------------
 
 
-un computador electronico,
+Un computador electrónico,
 no puede abordar problemas del universo real.
-solo problemas que pertenezcan a un dominio discreto, acotado.
+Solo problemas que pertenezcan a un dominio discreto, acotado.
 
-las principales limitaciones de los computadores electronicos 
+Las principales limitaciones de los computadores electrónicos 
 se encuentran en
 la memoria disponible,
 y el tiempo disponible.
@@ -354,11 +323,10 @@ inabarcable.
 
 La vida, sin embargo,
 como sistema inteligente,
-debe ser capaz de realizar calculos,
+debe ser capaz de realizar cálculos,
 que le permitan, entender, aprender, mejorar, adaptarse, sobrevivir,
 dentro de un dominio que a priori, 
-se muestra,
- 
+se muestra,  
 infinito.
 
 ----------------------------------
