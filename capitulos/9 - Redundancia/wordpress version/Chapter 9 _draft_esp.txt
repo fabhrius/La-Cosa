@@ -1,47 +1,43 @@
-Definicion:
+En este capitulo analizaremos otra característica importante del sistema.
+La Redundancia.
+
 
 La redundancia es una técnica ampliamente utilizada en ciencias de la computación que consiste en hacer replicas de componentes críticos, software o hardware, o de información importante, con el objetivo de incrementar la disponibilidad y protegerlos contra fallos o perdidas.
 
------------------------------
-
-
-Ejemplo:
-
+De forma resumida podemos decir que redundamos un componente para disponer de mas de una única instancia, de forma que, si el componente en uso falla por algún motivo, tenemos la opción de utilizar una copia, o componente redundante.
 
 Veamos un ejemplo.
-Digamos que tenemos un negocio que vende productos en Internet.
-Para dar soporte al negocio  disponemos de un sistema informático compuesto por una tienda virtual, o comercio electrónico, y una base de datos, que almacena toda la información necesaria.
+Digamos que tenemos una empresa que vende productos en Internet.
+Para dar soporte al negocio  disponemos de un sistema informático compuesto por una tienda virtual, o comercio electrónico, y de una base de datos, que almacena toda la información necesaria para operar la empresa.
 Tanto la tienda virtual como la base de datos están alojadas en un único computador, que llamamos "servidor".
 Y el servidor esta alojado en un edificio de oficinas.
 
-Es un sistema simple, facilmente mantenible y economico.
+Es un sistema simple, fácil de mantener y económico.
 Sin embargo, presenta algunos problemas.
 
 Al ser un único computador el que hace todo el trabajo, podría tener problemas de disponibilidad.
-Algunos clientes podrían no ser atendidos cuando el servidor se encuentra ocupado.
+O dicho en otras palabras, algunos clientes podrían no ser atendidos cuando el servidor se encuentra ocupado.
 Por el mismo motivo, al ser un único computador el que hace todo el trabajo, el negocio podría dejar de trabajar, en caso de avería de la maquina.
 
 Un problema mas grave, es el de la perdida de la base de datos, que también esta alojada en este único computador.
-La base de datos contiene toda la información del negocio, la ventas que hemos realizado, la información de los proveedores, el producto disponible, etc.
+La base de datos contiene toda la información del negocio, la ventas que hemos realizado, la información de proveedores y clientes, el producto disponible, etc.
 En caso de avería del servidor podríamos no poder recuperar la información, y en ese caso habríamos perdido el negocio completamente.
 
 Bastaría un accidente, como un incendio, para encontrarnos en el peor escenario.
-Pero recordemos que estamos hablando de la vida esforzándose por sobrevivir en el entorno natural.
-De modo que debemos pensar en algo mas parecido a los cataclismos naturales a lo que debe enfrentarse la vida.
-Digamos entonces que se produce un terremoto que destruye el edificio adonde se encuentra nuestro servidor.
-Asi, el servidor ha sido destruido por la naturaleza, y es irrecuperable.
 
-Esta situación podría evitarse utilizando la redundancia.
+Los "riesgos" mencionados, podrían mitigarse utilizando la redundancia.
 
-en el ejemplo anterior, un único computador haciendo todo el trabajo podría presentar distintos problemas de disponibilidad,
-y almacenar toda la información en una única base de datos, alojada físicamente en un único computador, podría  dar problemas de perdida de la información.
-Sera aconsejable por lo tanto redundar servidores y bases de datos.
+En el ejemplo anterior, un único computador haciendo todo el trabajo podría presentar problemas de disponibilidad.
+Y por otra parte, almacenar toda la información en una única base de datos, alojada físicamente en un único computador, es arriesgado, ya que podríamos perder la información almacenada si se presenta un imprevisto.
+Sera aconsejable, por lo tanto, redundar servidores y bases de datos.
 
 Digamos que colocamos 3 servidores en 3 edificios diferentes, en 3 ciudades diferentes.
 San Francisco, New York City y Chicago.
 
-Y con esta nueva configuración, se produce otra catástrofe natural, un terremoto o un huracán o un gran incendio.
-La probabilidad de que los 3 servidores alojados en ciudades diferentes sean destruidos al mismo tiempo es ahora mucho mas baja.
+Los 3 servidores siendo copias del original, redundantes, realizando el mismo trabajo, y manteniendo los tres copias sincronizadas de una única base de datos.
+
+Digamos también que, con esta nueva configuración, se produce una catástrofe natural, un terrible terremoto que destruye la ciudad.
+La probabilidad de que los 3 servidores alojados en ciudades diferentes sean destruidos al mismo tiempo es ahora mas baja.
 
 
 ---------------------------
@@ -82,38 +78,38 @@ Graficos y recuento.
 
 Rasgos característicos de los individuos:
 
-observad que existen varios individuos ocupando las mismas posiciones en el tablero.
+Observad que existen varios individuos ocupando las mismas posiciones en el tablero.
 Están superpuestos.
 Esto puede crear la ilusión de que algunos individuos están repetidos, pero no es así.
 Todos los individuos son diferentes, no existen 2 individuos iguales.
 Aunque muchos ocupan las mismas posiciones en el tablero, sus padres son diferentes, y el camino que su familia ha recorrido para llegar hasta este punto es diferente.
 Esta información esta grabada en su ADN, y por lo tanto, los individuos son diferentes.
-Diferentes en cuanto a la informacion que contienen.
+Diferentes en cuanto a la información que contienen.
 
 Y sin embargo, idénticos, en cuanto a su funcionalidad.
 Todos los individuos se reproducen, todos almacenan información que los describe, todos morirán, todos buscan la misma respuesta, todos ellos tendrán el mismo ciclo de vida y actuaran del mismo modo.
 
 El sistema se compone de la población total de individuos, todos ellos juntos forman el sistema.
 Sin embargo, al principio, en el estado inicial, el sistema esta formado por un único individuo con la capacidad de lanzar el proceso de búsqueda y formar un sistema complejo.
-Todos los individuos del sistema tienen estas mismas capacidades, y cada uno de ellos es un nuevo sistema independiente.
+Todos los individuos del sistema tienen estas mismas capacidades, y cada uno de ellos es el inicio de un nuevo sistema independiente.
 
 
 ---------------
 
-Destruccion de la población:
+Destrucción de la población:
 
 En la tienda online que propuse al principio de este capitulo como ejemplo de redundancia, un desastre natural destruía el único servidor que daba soporte al negocio.
-Posteriormente agregamos otros servidores idénticos al primero en otras ciudades para reducir la probabilidad de perdida del negocio en caso de producirse un imprevisto catastrófico.
+Posteriormente agregamos otros servidores idénticos al primero, en otras ciudades, para reducir la probabilidad de perdida del negocio en caso de producirse un imprevisto catastrófico.
 Y de ese modo, utilizando la redundancia, incrementamos la resistencia del sistema a los accidentes.
 
 Haremos lo mismo ahora con el sistema de seres vivientes y el problema del laberinto.
 Simularemos una catástrofe natural para ver como funciona la redundancia en este caso.
 
 Las catástrofes son una posibilidad que es necesario tener presente cuando hablamos de seres vivientes que deben sobrevivir en el entorno natural.
-Muchas cosas podrían pasar, como fuertes variaciones en la temperatura ambiente, sequías, huracanes, inundaciones, etc.
+Muchas cosas podrían pasar, como fuertes variaciones en la temperatura ambiente, sequías, huracanes, inundaciones, terremotos, etc.
 El entorno natural es de una gran belleza, sin embargo, cuando el objetivo es asegurar la supervivencia de una colonia de seres vivientes, considerarlo un entorno hostil ayudara a gestionar el riesgo de forma mas adecuada.
 
-Digamos entonces que se produce un terrible cataclismo, algo como lo que pudo haber pasado con los dinosaurios, y que dana severamente a la población de esta especie.
+Digamos entonces que se produce un terrible cataclismo, algo como lo que pudo haber pasado con los dinosaurios, y que daña severamente a la población de esta especie.
 Y casi todos los individuos mueren, todos excepto uno.
 Un único superviviente.
 
@@ -129,6 +125,9 @@ Reconstruccion:
 
 
 Que sucederá ahora ?
+
+Estoy seguro que conoceréis el relato bíblico del arca de Noé.
+
 Lo que sucederá es que este único individuo se reproducirá y formara una familia.
 La familia continuara la exploración y alguno de los descendientes, eventualmente, encontrara la solución al problema.
 
@@ -140,9 +139,11 @@ Y en poco tiempo se crearan millones de sistemas independientes, todos buscando 
 Esta redundancia confiere al sistema una extraordinaria resistencia.
 
 Una vez que un proceso es lanzado se vuelve, con el paso del tiempo, cada vez mas difícil de detener.
+El sistema continuara trabajando en la búsqueda de la solución al problema, contra viento y marea.
+Y cuanto mas tiempo continué ejecutándose el proceso, mas resistente se volverá.
 
-Si pensamos en la extinción de los dinosaurios como el resultado de una catástrofe natural, no resulta sorprendente, que la vida no se ha extinguido con ellos.
-Y que aunque es posible que desaparezcan especies, incluso un gran numero de ellas como ha pasado con los dinosaurios, también es posible que esta catástrofe, no tenga un gran impacto sobre el proceso general de la vida.
+Si pensamos en la extinción de los dinosaurios como el resultado de una catástrofe natural, no resulta sorprendente, que la vida no se haya extinguido con ellos.
+Y que, aunque es posible que desaparezcan especies, incluso un gran numero de ellas como ha pasado con los dinosaurios, también es posible que esta catástrofe, no tenga un gran impacto sobre el proceso general de la vida.
 
 A medida que pasa el tiempo, se crean mas y mas individuos, mas y mas especies, y el sistema se vuelve cada vez mas solido, mas estable, mas resistente.
 
@@ -169,6 +170,5 @@ Y para alcanzar este objetivo sera necesario un sistema a toda prueba.
 La redundancia del sistema incrementara la probabilidad de que el sistema continúe funcionando hasta encontrar las respuestas que necesita, quizás eternamente.
 Sin saber lo que encontrará, ni lo que pasará en el futuro, debe continuar adelante, aun en condiciones catastróficas.
 
-Y asi, con el paso del tiempo, se agregan mas y mas individuos al sistema, que son en realidad, mas y mas maquinas, que no son otra cosa que, mas y mas sistemas redundantes.
-Y el sistema se redunda hasta el infinito.
-
+Y así, con el paso del tiempo, se agregan mas y mas individuos al sistema, que son en realidad, mas y mas maquinas, que no son otra cosa que, mas y mas sistemas redundantes.
+Y así, el sistema se redunda hasta el infinito.
