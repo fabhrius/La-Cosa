@@ -2,7 +2,7 @@ Relación entre especies y problemas:
 
 
 Hemos visto como en este modelo, el individuo debe representar un estado en el proceso de resolución del problema que se quiere resolver.
-Por lo tanto, la forma del individuo estará adaptada a un problema concreto, y no sera util para abordar otros problemas.
+Por lo tanto, la forma del individuo estará adaptada a un problema concreto, y no sera útil para abordar otros problemas.
 Así, para que una maquina de este tipo pueda trabajar con problemas diferentes, sera necesario crear especies diferentes.
 
 En el caso del problema del laberinto, es necesario recordar en que estado ha quedado el juego en un instante del tiempo,
@@ -13,14 +13,12 @@ el camino que la ficha ha recorrido desde la posición inicial hasta la posició
 Si quisiéramos encontrar la forma de ganar en el juego de ajedrez
 crearíamos una nueva especie en donde, 
 los individuos representan el estado en que se encuentra una partida de ajedrez en un instante del tiempo, 
-para esto, el individuo tendrá la forma de un tablero de ajedrez con un conjunto de fichas en sus posiciones actuales, 
-e información acerca de,
-todos los movimientos que se han realizado desde el comienzo de la partida, 
+para esto, el individuo tendrá la forma de un tablero de ajedrez con un listado de fichas en sus posiciones actuales, e información acerca de, todos los movimientos que se han realizado desde el comienzo de la partida, 
 y un indicador que muestre cual de los 2 jugadores hará el siguiente movimiento.
 
 De modo que, según esto, los individuos de 2 especies diferentes serán ligeramente diferentes en su configuración.
-Aunque, la maquina es la misma, el sistema es el mismo, y los individuos, funcionalmente son idénticos (contienen información, nacen, se reproducen y mueren), 
-son diferentes en cuanto a la información que contienen, que esta adaptada para modelar problemas diferentes.
+Aunque la maquina es la misma, el sistema es el mismo, y los individuos, funcionalmente son idénticos (contienen información, nacen, se reproducen y mueren), 
+son diferentes en cuanto a la información que contienen, que esta adaptada para modelar problemas diferentes, y son diferentes en cuanto a la función que se ejecutara sobre los datos para generar su descendencia en el momento de la reproducción.
 
 Esto hace que individuos de diferentes especies sean incompatibles, ya que un individuo adaptado al problema del laberinto no es útil en el problema del ajedrez y viceversa.
 
@@ -31,7 +29,7 @@ Tipos de reproducción:
 
 
 Ademas de el conjunto de datos que da forma a los individuos, otra diferencia en la configuración de las distintas especies es la forma de reproducción que utiliza.
-Y podemos separar a todas las especies de seres vivientes en 2 conjuntos, los que utilizan reproducción "asexual", y los que utilizan reproducción "sexual".
+Y podemos separar a todas las especies de seres vivientes en 2 conjuntos, por una parte los que utilizan reproducción "asexual", y por otra parte los que utilizan reproducción "sexual".
 
 De los dos, el tipo mas simple es la reproducción asexual.
 En donde un individuo se reproduce por si solo, esto facilita el proceso, requiere menos recursos y por este motivo podemos atribuirle un coste mas bajo.
@@ -43,7 +41,7 @@ Un individuo no puede reproducirse por si solo, son necesarios 2 individuos de s
 Ejemplos de seres vivientes que utilizan la reproducción sexual son los mamíferos.
 
 Recordemos que estamos desarrollando un prototipo de computador, una maquina de calculo.
-De modo que, desde el punto de vista de la ingeniería buscaremos optimizar la solución encontrada, y el coste es algo que debemos tener en cuenta.
+De modo que, desde el punto de vista de la ingeniería buscaremos optimizar la solución, y el coste es un factor que debemos tener en cuenta.
 Nuestro deseo sera, maximizar la calidad y las prestaciones del modelo.
 Y al mismo tiempo querremos minimizar los costes.
 
@@ -65,11 +63,10 @@ Reproducción asexual:
 En el juego del laberinto que hemos utilizado como ejemplo, hemos creado un individuo que se reproducía asexualmente.
 Llegado el tiempo de producir la siguiente generación, el individuo generaba sus hijos espontáneamente, por si solo.
 
-Para encontrar la solución que buscábamos la reproducción asexual era suficiente, porque solo queremos conocer alguno de todos los caminos que llevan a la salida del laberinto.
+Para encontrar la solución que buscábamos la reproducción asexual ha sido suficiente, porque solo queriamos conocer alguno de todos los caminos que llevan a la salida del laberinto.
 No todos los caminos, sino uno cualquiera de todos los posibles.
 
 En este modelo, el individuo que ha encontrado la salida conoce el camino que va desde la entrada hasta la salida del laberinto, pero esta información no es compartida con el resto de los individuos de la especie.
-
 
 Sin embargo, el individuo que ha encontrado la respuesta compartirá este conocimiento con su descendencia.
 Y todos sus descendientes heredaran el conocimiento.
@@ -85,8 +82,8 @@ Podemos ver como las bacterias, con el paso de las generaciones, aprenden a sobr
 Del mismo modo que los individuos del laberinto han encontrado la salida,
 las bacterias que aprendan a sobrevivir a los antibióticos compartirán el conocimiento con su descendencia, pero no con otras familias.
 
-Aquellas familias que no hayan aprendido a adaptarse moriran.
-Pero aquellas familias que se hayan adaptado sobreviviran formando una cepa resistente, porque toda la descendencia heredara este conocimiento.
+Aquellas familias que no hayan aprendido a adaptarse morirán.
+Pero aquellas familias que se hayan adaptado sobrevivirán formando una cepa resistente, porque toda la descendencia heredara este conocimiento.
 
 
 -----------------------------
@@ -97,7 +94,7 @@ Reproducción sexual:
 Existen otros problemas, sin embargo, en donde la reproducción asexual no sera suficiente para encontrar la solución.
 
 Como ejemplo, veamos lo que sucede si queremos que, un sistema computacional formado por familias de seres vivientes, adquiera el conocimiento necesario para ganar 
-en el juego del ajedrez.
+en el juego de ajedrez.
 El objetivo en este caso es que sepa como ganar la partida en cualquier situación, sin importar en que estado se encuentre el juego, debe conocer el camino que le lleve a cualquiera de los posibles estados finales en donde la maquina gana.
 
 En el juego del laberinto existen mas de una solución posible.
@@ -143,7 +140,7 @@ Desde cualquiera de los tableros conocidos podría encontrar el camino hacia el 
 Pero existen muchos tableros desconocidos para el, y desde cualquiera de estos tableros desconocidos no sabría porque camino continuar para ganar la partida.
 
 Supongamos ahora que este individuo que conoce una forma de ganar particular, se reproduce sexualmente con otro individuo que conoce otra forma diferente de ganar el juego.
-Entonces el hijo, resultado de la combinación de los dos, y los futuros descendientes, conocerán 2 caminos que llevan a ganar la partida de 2 formas diferentes.
+Entonces el hijo, resultado de la combinación de los dos, y sus futuros descendientes, conocerán 2 caminos que llevan a ganar la partida de 2 formas diferentes.
 
 digamos que uno de estos descendientes,
 se reproduce sexualmente con otro individuo que conoce otra forma diferente de ganar el juego.
@@ -157,4 +154,3 @@ El sistema al principio no sabe nada, pero pasado un tiempo, que podemos llamar 
 Y un individuo con este conocimiento es potencialmente "imbatible".
 
 La reproducción sexual tiene un coste elevado, pero dota a la especie que la utiliza de una gran inteligencia, como resultado de la capacidad de adquirir conocimiento rápidamente.
-

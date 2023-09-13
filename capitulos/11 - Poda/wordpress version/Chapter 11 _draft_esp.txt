@@ -12,48 +12,60 @@ socrates:
 
 inevitabilidad:
 
-la opinion general es que la muerte no puede evitarse porque la vida no puede mantenerse indefinidamente.
+la opinión general es que la muerte no puede evitarse porque la vida no puede mantenerse indefinidamente.
 En la corriente de pensamiento actual, las criaturas vivientes mueren simplemente porque es inevitable.
 
-Sin embargo, hemos podido observar en la maquina de calculo que hemos analizado en los capitulos anteriores que existe otro motivo que hace que la muerte de los individuos sea necesaria.
-Los individuos de la simulacion que hemos llevado a cabo, no mueren porque sea inevitable, sino que mueren porque es necesario.
+Sin embargo, hemos podido observar en la maquina de calculo que hemos analizado en los capítulos anteriores que existe otro motivo que hace que la muerte de los individuos sea necesaria.
+Los individuos de la simulación que hemos llevado a cabo, no mueren porque sea inevitable, sino que mueren porque es necesario.
 Veremos los motivos que lo hacen necesario con mas detalle en este capitulo.
 
-Empezare analizando de forma conceptual, a la vida, como una unica entidad.
-Para entender lo que la vida podria ser vamos a despojarla de la parte organica que le da el soporte estructural.
-Y nos quedaremos solo con la funcionalidad.
-Queremos entender que cosa es la vida observando su funcion.
+Hemos visto como la vida, es en realidad una criatura de una gran inteligencia.
+Digamos que esta sorprendente inteligencia que es la vida, encuentra un día la “solución” a la muerte de los individuos.
+Concedería entonces la inmortalidad a los individuos ?
 
-La vision organica nos confunde. Los tejidos biologicos son extremadamente complejos y nos distraen.
-Cuando vemos solo el organo, entonces vemos que los tejidos organicos envejecen y se descomponen, de esto inferimos que los individuos deben morir inevitablemente.
+
+
+
+
+Empezare analizando de forma conceptual, a la vida, como una única entidad.
+Para entender lo que la vida podría ser vamos a despojarla de la parte orgánica que le da el soporte estructural.
+Y nos quedaremos solo con la funcionalidad.
+Queremos entender que cosa es la vida observando su función.
+
+La visión orgánica nos confunde. Los tejidos biológicos son extremadamente complejos y nos distraen.
+Cuando vemos solo el órgano, entonces vemos que los tejidos envejecen y se degradan, de esto inferimos que los individuos deben morir inevitablemente.
+
 Los individuos mueren porque los tejidos se deterioran con el tiempo ?
 O los tejidos se deterioran con el tiempo porque los individuos deben morir ?
 
-Del mismo modo, en la misma corriente de pensamiento, la opinion generalizada es que, las criaturas se reproducen, para perpetuar las especies.
-Pero, que sentido tiene perpetuar las especies despues de todo ?
+Del mismo modo, en la misma corriente de pensamiento, la opinión generalizada es que, las criaturas se reproducen, para perpetuar las especies.
+Pero, porque perpetuar las especies ?
 
-En esta vision, las especies existen, sin necesidad de un motivo, solo por existir. Quizas porque es bonito.
+En esta visión, las especies existen, sin necesidad de un motivo, solo por existir. 
 
-En el experimento que hemos realizado, la simulacion de vida como una maquina de calculo formada por colonias de seres vivientes, no hemos puesto ninguna atencion en los tejidos organicos que forman la infraestructura de soporte.
+En el experimento que hemos realizado, la simulación de vida como una maquina de calculo formada por colonias de seres vivientes, no hemos puesto ninguna atención en los tejidos orgánicos que forman la infraestructura de soporte.
 Solo hemos visto la funcionalidad.
-Y las especies eran familias de individuos, en donde los individuos eran abstracciones matematicas, formando familias que realizaban funciones logicas.
+Y las especies eran familias de individuos, en donde los individuos eran abstracciones matemáticas, formando familias que realizaban funciones lógicas.
 
-En este experimento, el objetivo de la reproduccion no es perpetuar la especie, sino procesar la informacion para avanzar en un proceso de calculo que intenta resolver un problema logico.
-La reproduccion es necesaria para procesar la informacion.
+En este experimento, el objetivo de la reproducción no es perpetuar la especie, sino procesar la información para avanzar en un proceso de calculo que intenta resolver un problema lógico.
+La reproducción es necesaria para procesar la información.
 Es verdad que al reproducirse se crean nuevos individuos, y que esto en ultima instancia perpetua la especie, pero no es ese el objetivo final, sino mas bien, un efecto secundario.
-En cualquier caso, tan pronto como se alcance el resultado esperado, la especie dejara de tener sentido y podria ser condenada, experimentando la extincion.
+En cualquier caso, tan pronto como se alcance el resultado esperado, la especie dejara de tener sentido y podría ser condenada, experimentando la extinción.
 
-Ahora veamos, del mismo modo, sin la compleja capa organica, a la vida en su conjunto, intentado extraer la funcionalidad de forma conceptual.
-En la simulacion que hemos realizado, las especies estaban formadas por individuos, y este es el unico componente del sistema, individuos.
-El individuo contiene los datos que estan siendo procesados y que describen el contexto del problema.
+Si los individuos no se reproducen, el proceso de calculo no avanzara.
+Si el proceso de calculo no avanzara, entonces la maquina deja de tener sentido, y puede eliminarse completamente.
+
+Ahora veamos, del mismo modo, sin la compleja capa orgánica, a la vida en su conjunto, intentado extraer la funcionalidad de forma conceptual.
+En la simulación que hemos realizado, las especies estaban formadas por individuos, y este es el único componente del sistema, individuos.
+El individuo contiene los datos que están siendo procesados y que describen el contexto del problema.
 Todos los individuos cumplen con un ciclo de vida que consiste en nacer, reproducirse y morir.
-En la reproduccion los datos son procesados, modificando el estado del contexto, y el proceso avanza un paso mas hacia la resolucion del problema.
+En la reproducción los datos son procesados, modificando el estado del proceso, y de esta forma avanza un paso mas hacia la resolución del problema.
 
-Observando a la vida en accion, el observador vera, un conjunto de informacion que cambian de estado una y otra vez.
-Informacion cambiando de estado.
+Observando a la vida en acción, el observador vera, un conjunto de información que cambian de estado una y otra vez.
+Información cambiando de estado.
 el cambio de estado es la clave.
 
-Segun esto, la vida seria un proceso.
+Según esto, la vida seria un proceso.
 Y todo lo demas, tejido organico, individuos, familias, especies, seria necesario para dar soporte a la ejecucion del proceso.
 
 Y siendo la vida un proceso.
@@ -73,19 +85,22 @@ Mientras tenga los recursos que necesite, podria continuar viviendo eternamente.
 Los individuos que forman las especies, sin embargo, son mortales.
 Estan construidos como unidades desechables, formados con materiales que se degradaran con el tiempo.
 La vida del individuo se prolongara el tiempo que sea necesario para cumplir con su trabajo.
+Esta perfectamente ajustada.
 
-Por ejemplo, entre los seres humanos, una generacion se producira cada veinte anyos, o algo mas, aproximadamente.
-Si los padres mueren a los 20 anyos, el hijo no sobrevivira.
+Veamos con mas detalle.
+Entre los seres humanos, una generacion se producira cada veinte anes, o algo mas, aproximadamente.
+Si los padres mueren a los 20 anyos, el hijo siendo muy joven no sobrevivira.
 Por lo tanto, los padres deben vivir mas que eso.
 En la siguiente generacion, unos 20 anyos despues, el padre vera nacer a su nieto.
-En este momento, el padre tendra entre 40 y 50 anyos, y el hijo tendra alrededor de 20 anyos, y por lo tanto ya no necesitara la proteccion del padre, el padre en este puento deja de ser necesario.
+En este momento, el padre tendra entre 40 y 50 anyos, y el hijo tendra alrededor de 20 anyos, y por lo tanto ya no necesitara la proteccion del padre, el padre en este punto deja de ser necesario.
 
-Pero que sucede si el padre, el primer individuo, no consigue el objetivo en el menor tiempo posible ?
-, que pasa si se retrasa por que no encuentra las mejores condiciones, las condiciones ideales ?
-Entonces podria no conseguir el objetivo.
-Para mejorar la probabilidad de exito, podemos duplicar el tiempo de vida minimo necesario.
+Bastaría entonces con que el hombre viva 50 anos ?
+Que sucede si no consigue el objetivo en el menor tiempo posible ?
+Digamos que se retrasa por que no encuentra las condiciones ideales.
+Entonces podría no conseguir el objetivo.
+Para mejorar la probabilidad de éxito, podemos duplicar el tiempo de vida mínimo necesario.
 
-Y asi, el tiempo de vida de un hombre deberia ser entre 80 y 100 anyos.
+Y así, el tiempo de vida de un hombre debería estar entre 80 y 100 anyos.
 Y no sera necesario que viva mucho mas que eso.
 
 Pero, porque no dejar que viva para siempre ?
@@ -95,15 +110,16 @@ porque destruirlo ?
 
 Necesidad:
 
-Veamos ahora como mas detalle, porque motivo nos vemos obligados a eliminar del sistema a aquellos individuos que ya no son necesarios.
+Veamos ahora porque motivo nos vemos obligados a eliminar del sistema a aquellos individuos que ya no son necesarios.
 
 
-Media aritmetica:
+Media aritmética:
 
-utilizaremos la idea de "media aritmetica", o "promedio", para ayudarnos en el razonamiento.
-Cuando evaluamos un periodo, a menudo, utilizamos la media aritmetica.
+utilizaremos la idea de "media aritmética", o "promedio", para ayudarnos en el razonamiento.
+Cuando evaluamos un periodo, a menudo, utilizamos la media aritmética.
+
 Por ejemplo, el anyo pasado el negocio ha funcionado muy bien durante los primeros 3 meses, sin embargo, el resto del anyo ha tenido poca actividad.
-Y dire que el negocio el anyo pasado no ha ido tan mal despues de todo, gracias a los primeros 3 meses que han sido satisfactorios.
+Diremos entonces que el negocio el anyo pasado no ha ido tan mal después de todo, gracias a los primeros 3 meses que han sido satisfactorios.
 El resultado del anyo es una  mezcla de todo lo que ha pasado, bueno y malo, para extraer un balance, una medida promedio.
 
 ------------
@@ -115,60 +131,60 @@ Digamos que tenemos un negocio que vende productos y servicios al publico.
 A diario se reciben reclamaciones debido a diferentes causas, como retrasos en entregas, devoluciones por defectos, etc.
 
 
-Como parte de un proceso de mejora continua, hemos creado un indicador que nos ayuda a enteder si la calidad del servicio que proporcionamos mejora o empeora con el tiempo.
+Como parte de un proceso de mejora continua, hemos creado un indicador que nos ayuda a entender si la calidad del servicio que proporcionamos mejora o empeora con el tiempo.
 Este indicador funciona de la siguiente forma.
 
-Se trata de la media aritmetica del numero de reclamaciones registradas a diario en los ultimos 7 dias.
+Se trata de la media aritmética del numero de reclamaciones registradas a diario en los últimos 7 días.
 Cuando el numero medio de reclamaciones sea mayor que en el periodo anterior, sera interpretado como que la calidad del servicio esta empeorando.
 Cuando el numero medio de reclamaciones sea menor que en el periodo anterior, entenderemos que la calidad del servicio mejora.
 
-Veamoslo con numeros.
+Veamoslo con números.
 
 En un instante del tiempo tengo los siguientes datos:
-[20, 10, 25, 20, 30, 15, 20] ->  la media de estos 7 dias es 20
+[20, 10, 25, 20, 30, 15, 20] ->  la media de estos 7 días es 20
 
-5 dias despues, los datos son los siguientes: 
-[15, 20, 0, 0, 0, 0, 0] ->  la media de estos 7 dias es 5
+5 días después, los datos son los siguientes: 
+[15, 20, 0, 0, 0, 0, 0] ->  la media de estos 7 días es 5
 
  
 Utilizando estos datos como indicador podemos interpretar que 
-hace 5 dias la media de reclamaciones era 20
-hoy la media de reclamaciones es 5
+hace 5 días la media de reclamaciones era 20,
+y hoy la media de reclamaciones es 5
 
-el sistema esta fucionando mejor, ya que el numero medio de reclamaciones se ha reducido.
-este indicador proporciona visibilidad y es un dato util.
+el sistema esta funcionando mejor, ya que el numero medio de reclamaciones se ha reducido.
+este indicador proporciona visibilidad y es un dato útil.
 
 Ahora bien.
-El indicador esta tomando datos solo de los ultimos 7 dias.
+El indicador esta tomando datos solo de los últimos 7 días.
 
-Que sucede si tomamos todos los datos que tenemos en el registro historico ?
-Supongamos que cada dia agregamos el nuevo dato sin eliminar los mas viejos y dejamos que el listado crezca.
-Supongamos que tenemos datos de los 10 ultimos anyos.
+Que sucede si tomamos todos los datos que tenemos en el registro histórico ?
+Supongamos que cada día agregamos el nuevo dato sin eliminar los mas viejos y dejamos que el listado crezca.
+Supongamos que tenemos datos de los 10 últimos anyos.
 
 Sucede que,
 cuando el listado es muy grande, a partir de cierto limite,
-la media aritmetica tendera a estancarse en un valor,
-y el ultimo dato que agregaremos hoy sera despreciable y ya no hara variar significativamente el resultado.
+la media aritmética tendera a estancarse en un valor,
+y el ultimo dato que agregaremos hoy sera despreciable y ya no hará variar significativamente el resultado.
 
-Si esto sucede, el indicador dejara de funcionar, perdera su utilidad,
-porque dia tras dia dara un resultado muy similar, insensible a las variaciones diarias.
+Si esto sucede, el indicador dejara de funcionar, perderá su utilidad,
+porque día tras día dará un resultado muy similar, insensible a las variaciones diarias.
 
 
 Esto nos muestra que,
-el indicador solo sera util cuando consideramos un conjunto reducido de datos, y solo aquellos que son mas relevantes, en este caso, los ultimos.
+el indicador solo sera útil cuando consideramos un conjunto reducido de datos, y solo aquellos que son mas relevantes, en este caso, los últimos.
 si no eliminamos los datos mas antiguos y los incluimos en el calculo, el indicador dejara de funcionar.
 
 
 
 ----------------------
 
-Bien, dejemos por un momento la media aritmetica, volveremos sobre esto un poco mas adelante.
-Consideremos ahora, nuevamente la simulacion que hemos realizado para resolver el problema del laberinto.
+Bien, dejemos por un momento la media aritmética, volveremos sobre esto un poco mas adelante.
+Consideremos ahora, nuevamente la simulación que hemos realizado para resolver el problema del laberinto.
 
 Maquina de calculo viviente:
 
-Recordemos que, para encontrar la solucion en el juego del laberinto hemos utilizado una especie de seres vivientes como una maquina de calculo.
-En este sistema de procesamiento de la informacion, un individuo, guarda la informacion que representa un estado del proceso de calculo.
+Recordemos que, para encontrar la solución en el juego del laberinto hemos utilizado una especie de seres vivientes como una maquina de calculo.
+En este sistema de procesamiento de la información, un individuo, guarda la información que representa un estado del proceso de calculo.
 Y al reproducirse, realiza un paso simple en el proceso de calculo, generando el siguiente estado del proceso en forma de hijo.
 Una vez generado el siguiente estado, el individuo ya no es necesario.
 
@@ -176,22 +192,22 @@ La vida del individuo, desde la perspectiva del proceso de calculo, consiste en,
 nacer, reproducirse y morir.
 
 Si los individuos no se reproducen, no se generaran los estados siguientes.
-Si no nacen individuos, el proceso no avanzara y no se encontrara la solucion al problema.
+Si no nacen individuos, el proceso no avanzara y no se encontrara la solución al problema.
 
-Una vez que un individuo ha generado a todos los hijos posibles, continuar reproduciendose seria realizar el mismo trabajo que habia hecho, los nuevos hijos no son necesarios, esto es un trabajo improductivo que incrementa los costes.
+Una vez que un individuo ha generado a todos los hijos posibles, continuar reproduciéndose seria realizar el mismo trabajo que había hecho, los nuevos hijos no son necesarios, esto es un trabajo improductivo que incrementa los costes.
 Hemos comentado anteriormente que el coste de un sistema de este tipo es muy elevado, de modo que, para evitar incurrir en costes innecesarios debe evitarse realizar 2 veces el mismo trabajo.
 Y por lo tanto, un individuo solo debe generar los hijos necesarios, y ninguno mas.
 
-Digamos entonces que impedimos que siga reproduciendose, pero le permitimos continuar con vida.
+Digamos entonces que impedimos que siga reproduciéndose, pero le permitimos continuar con vida.
 Que sucede entonces ?
-Que tendriamos una gran numero (que tiende a infinito) de individuos improductivos que continuan consumiendo recursos.
-Quizas, consumiendo los recursos que son necesarios para mantener con vida a aquellos que todavia son necesarios para el sistema.
+Que tendríamos una gran numero (que tiende a infinito) de individuos improductivos que continúan consumiendo recursos.
+Quizás, consumiendo los recursos que son necesarios para mantener con vida a aquellos que todavía son necesarios para el sistema.
 
-En este punto, podria parecer que es solo un problema de costes y gestion de los recursos, pero no es solo eso.
+En este punto, podría parecer que es solo un problema de costes y gestión de los recursos, pero no es solo eso.
 Hay algo mas.
 
-El sistema que hemos utilizado para el juego del laberinto utilizaba reproduccion asexual.
-Veamos ahora lo que sucede cuando el sistema utiliza la reproduccion sexual.
+El sistema que hemos utilizado para el juego del laberinto utilizaba reproducción asexual.
+Veamos ahora lo que sucede cuando el sistema utiliza la reproducción sexual.
 
 
 
@@ -200,27 +216,27 @@ Veamos ahora lo que sucede cuando el sistema utiliza la reproduccion sexual.
 
 Socrates:
 
-fue un filosofo griego que vivio hace unos 2500 anyos.
-Imaginemos que los individuos nunca mueren y continuan viviendo para siempre sin acusar el paso del tiempo, siempre jovenes, siempre sanos, vitales eternamente.
-En ese universo imaginario, Socrates estaria entre nosotros.
-Y continuaria generando hijos.
-Pero Socrates representa un estado de la humanidad ya pasado, y sus hijos cancelarian 2500 anos de evolucion.
+fue un filosofo griego que vivió hace unos 2500 anyos.
+Imaginemos que los individuos nunca mueren y continúan viviendo para siempre sin acusar el paso del tiempo, siempre jóvenes, siempre sanos, vitales eternamente.
+En ese universo imaginario, Sócrates estaría entre nosotros.
+Y continuaría generando hijos.
+Pero Sócrates representa un estado de la humanidad ya pasado, y sus hijos cancelarían 2500 anos de evolución.
 
-Viendo el caso de Socrates de forma aislada, quizas, no parece tan grave, sin embargo,
-si ningun individuo muere nunca, vivirian hoy todos los individuos que han sido creados desde el principio de los tiempos,
-y los individuos de las primeras generaciones se mezclarian con los individuos de ultima generacion, devolviendo el proceso atras, hacia estados ya superados.
-Y al igual que en el ejemplo de la media aritmetica, el proceso se estancaria en un valor medio, impidiendo que avance hacia su resolucion.
+Viendo el caso de Sócrates de forma aislada, quizás, no parece tan grave, sin embargo,
+si ningún individuo muere nunca, vivirían hoy todos los individuos que han sido creados desde el principio de los tiempos,
+y los individuos de las primeras generaciones se mezclarían con los individuos de ultima generación, devolviendo el proceso atrás, hacia estados ya superados.
+Y al igual que en el ejemplo de la media aritmética, el proceso se estancaría en un valor medio, impidiendo que avance hacia su resolución.
 
 
 Para evitar que el sistema se estanque, es necesario evitar volver a estados ya superados.
 Es por este motivo que los estados ya pasados son eliminados del sistema.
 
-De esta forma, los unicos individuos existentes son los que representan estados de la ultima generacion, y por lo tanto, el proceso solo puede avanzar, no tiene otra opcion.
+De esta forma, los únicos individuos existentes son los que representan estados de la ultima generación, y por lo tanto, el proceso solo puede avanzar, no tiene otra opción.
 
 El proceso de eliminar las ramas que ya no son productivas se llama "poda".
 
-La poda, evitara el estancamiento asegurando que el proceso avance, reducira los costes, reducira el consumo de recursos, y lo que es mas importante, 
-reducira el tiempo necesario para encontrar la solucion.
+La poda, evitara el estancamiento asegurando que el proceso avance, reducirá los costes, reducirá el consumo de recursos, y lo que es mas importante, 
+reducirá el tiempo necesario para encontrar la solución.
 
 
 
@@ -228,4 +244,3 @@ reducira el tiempo necesario para encontrar la solucion.
 
 
 Conclusion:
-
