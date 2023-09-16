@@ -1,3 +1,7 @@
+Como procesar informacion
+
+
+
 Iniciamos aquí, el diseño de un computador que desarrollaremos a lo largo de los siguientes capítulos hasta verlo en funcionamiento resolviendo problemas lógicos.
 
 Nos olvidaremos de los detalles de implementación tales como circuitos electrónicos u otras consideraciones tecnológicas para enfocarnos solo en las ideas que lo hacen funcionar.
