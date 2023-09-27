@@ -19,7 +19,7 @@ Todos los individuos de todas las especies de seres vivientes, nacen, se reprodu
 Este es el comportamiento que todos ellos comparten.
 Y esto sera lo único que un individuo en esta simulación podrá hacer.
 
-Y un individuo con estas características sera el único bloque de construcción que necesitamos para construir nuestra maquina de calculo.
+Un individuo con estas características sera el único bloque de construcción que necesitamos para construir una maquina de calculo.
 
 Lo veremos mas adelante en detalle.
 
@@ -34,7 +34,7 @@ Y realizan esta tarea "procesando información".
 El proceso se inicia con la declaración de un conjunto de datos que describen el contexto del problema.
 Es sobre estos datos que se realizaran operaciones, y estas operaciones aportaran nueva información que se incluirá, a su vez, en el conjunto de datos conocidos.
 
-A medida que agregamos nueva información al conjunto de datos, este conjunto de datos que describen el contexto "cambia de estado".
+A medida que agregamos nueva información al conjunto de datos, este "cambia de estado".
 Y con cada nueva operación obtenemos mas información, sabemos mas, e idealmente, estaríamos mas cerca de encontrar la solución que buscamos.
 
 Algunos problemas podrían resolverse de inmediato, en un único paso, aquellos que llamamos "triviales", pero 
@@ -48,7 +48,7 @@ Veamos entonces a que llamamos "procesar información" y cuales son las caracter
 
 
 
-Procesamiento de la información.
+Como procesar la información.
 
 
 Imagino que, muchos de nosotros, en algún momento habremos tenido que resolver algún problema lógico-matematico, como aquellos de los exámenes de la escuela, del tipo:
