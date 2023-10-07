@@ -1,0 +1,74 @@
+Introduccion: 
+
+
+A lo largo de los proximos capitulos, desarrollaremos un computador y lo pondremos a prueba.
+Realizaremos con el un experimento que, espero que, nos proporcionara informacion que nos ayudara a entender un poco mejor lo que nosotros somos.
+Y que, espero que, desvele algunos de los muchos misterios que rodean a la vida.
+
+El modelo de computador que voy a proponer no es electronico como aquellos que utilizamos a diario, sino que esta basado en una tecnologia diferente.
+La maquina esta viva, y por lo tanto podemos decir que se trata de un computador biologico.
+
+
+Para entender este punto, adelantare de forma muy resumida que,
+la maquina simulara a la vida en accion, evolucionando, y estara formada por individuos que a su vez formaran una colonia.
+Y sera esta colonia de criaturas vivientes la que resolvera los problemas logicos que le planteemos, del mismo modo en que lo haria un computador.
+
+Estoy seguro que ver a la vida en acción en este experimento, aportara información valiosa.
+Posiblemente una perspectiva diferente, acerca de lo que la vida podria ser.
+
+Para construir a la colonia, crearemos primero a un individuo, que simulara el comportamiento mínimo, general, que tienen en común todos los individuos de todas las especies de seres vivientes.
+
+Todos los individuos de todas las especies de seres vivientes, nacen, se reproducen y mueren.
+Este es el comportamiento que todos ellos comparten.
+Y esto sera lo único que un individuo en esta simulación podrá hacer.
+
+Un individuo con estas características sera el único bloque de construcción que necesitamos para construir una maquina de calculo.
+
+Lo veremos mas adelante en detalle.
+
+
+Pero antes de empezar, discutiremos algunas ideas que nos permitiran entender como funciona y nos guiaran en el diseno del modelo.
+
+
+
+------------------------
+
+El proceso de calculo en lineas generales:
+
+
+Los computadores pueden encontrar soluciónes para un cierto tipo de problemas.
+Aquellos que llamamos "computables".
+Y para llevar a cabo esta tarea, "procesan información".
+
+El proceso se inicia con la declaración de un conjunto de datos que describen el contexto del problema.
+Es sobre estos datos que se realizaran operaciones, y estas operaciones aportaran nueva información que se incluirá, a su vez, en el conjunto de datos conocidos.
+
+A medida que agregamos nueva información al conjunto de datos, este "cambia de estado".
+Y con cada nueva operación obtenemos mas información, sabemos mas, e idealmente, estaríamos mas cerca de encontrar la respuesta que buscamos.
+
+Algunos problemas podrían resolverse de inmediato, en un único paso, aquellos que llamamos "triviales", pero 
+problemas de mayor complejidad requerirán una secuencia de pasos para encontrar la solución.
+A la secuencia de pasos que deben ser realizados podemos llamarle, "método", "algoritmo" o "programa".
+
+
+
+Veamos entonces a que llamamos "procesar información" y cuales son las características mínimas que un computador debería tener para realizar esta tarea.
+
+
+----------------
+
+Como procesar la información:
+
+
+
+
+
+
+
+
+
+
+
+
+
+

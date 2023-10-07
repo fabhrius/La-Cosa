@@ -1,0 +1,194 @@
+La vida es un gran misterio para mi.
+
+Siempre lo ha sido, y he pasado mucho tiempo a lo largo de los anyos intentando encontrar respuestas.
+No puedo evitar preguntarme cosas como, 
+
+La vida que es ?
+Porque sucede todo esto ?
+
+Yo que soy ?
+Porque estoy aqui ?
+O, porque debo morir ?
+
+Sera quizas que debo cumplir una mision importante y por eso estoy aqui ahora ?
+Y ahora que mi vida se acerca al fin, me pregunto si, habre conseguido cumplir con mi mision en este mundo.
+
+Claro que, si ni siquiera se de que se trata, como podria conseguirlo ? Como puedo llevar a cabo una mision que desconozco ?
+
+Tiene sentido pensar que existe una inteligencia tal que, es capaz de disenar todo esto ?
+Y que crea desde cero a cada criatura en cada pequeno detalle ?
+
+Una inteligencia que ha decidido lo que soy, lo que hago y lo que hare.
+Si eso fuera posible, esa inteligencia adonde esta ?
+Porque no puedo verla ?
+
+...
+
+El relato contenido en estas paginas es, en lineas generales, la descripción de un  modelo teórico de computador.
+Un computador que, quizás, podría dar respuesta a algunas de estas preguntas.
+
+Un modelo que definiremos en detalle, pondremos a prueba, veremos en funcionamiento y analizaremos en sus características mas relevantes, en los siguientes capitulos.
+
+Y sin embargo, mientras desarrollamos una maquina de calculo, estaremos, en realidad, hablando de la vida y de nuestra propia existencia.
+
+Y aunque el contenido principal del relato se encuentra dentro del dominio de las ciencias de la computación, esta dirigido a todas las personas y no es necesario ningún conocimiento previo para entenderlo.
+
+Espero que las ideas que compartire en estas paginas proporcionen algo de confort a todas las personas que al igual que yo, desean encontrar respuestas a los misterios que plantea una vida plagada de incertidumbre.
+
+---------------------------
+
+Hace algunos años, siendo yo un poco mas joven, vivía en una casa en las afueras de la ciudad.
+Era un lugar tranquilo, alejado del ruido, que disponía ademas de algo de terreno poblado por arboles frutales, que utilizábamos para criar patos y gallinas.
+
+No se trataba de una granja comercial, sino de criar aves solo para disfrutar de su compania.
+
+Lo recuerdo con cariño.
+Las aves son criaturas inteligentes y afectuosas y la convivencia con estos sorprendentes individuos ha sido una experiencia que considero, valiosa.
+
+Podia verlos desde las ventanas, un mundo de patos, ahora todos caminando para una lado, ahora todos caminando para el otro.
+Y así pasaban los días.
+Todos hacia un lado, todos hacia el otro, y con la llegada de la primavera, nacían mas patos.
+
+Verlos en acción, interactuar, era maravilloso.
+Y aun así, 
+no me ha parecido que hicieran mas cosas.
+solo hacian eso, ir de un lado al otro,
+comer, dormir, nadar en el estanque.
+
+Las cosas que hacian, en mi opinion, solo podian tener sentido para ellos.
+
+No me ha parecido que la vida de los patos tuviera un impacto trascendental en el equilibrio de la naturaleza, ni en el destino del universo infinito.
+Juraria que, lo que suceda con sus vidas, solo les importa a ellos mismos.
+
+Y entonces, 
+porque están aquí ?
+Porque la vida los crea ?
+
+
+-----------------------
+
+Alguien me ha comentado que, quizas serian necesarios para mantener el equilibrio del ecosistema.
+Debo admitir que suena bien, parece tener sentido.
+
+Y sin embargo, cual es la necesidad de mantener el equilibrio del ecosistema, después de todo ?
+
+Tal vez mantener el equilibrio del ecosistema seria necesario para mantener con vida a las criaturas vivientes ?
+
+Y en este punto, el razonamiento empezara a dar vueltas en circulos, porque yo repetire la misma pregunta una y otra vez.
+Cual es la necesidad de mantener con vida a las criaturas vivientes ?
+ 
+
+---------------------------------
+
+
+La evidencia sugiere que, en este sistema biológico lo que es necesario es creado, y lo que ya no se necesita es eliminado.
+Y por lo tanto, si estamos aquí, es posible que sea porque somos necesarios por algún motivo.
+
+De modo que, arriesgare una hipótesis.
+Quizás formamos parte de algo mas grande, quizás somos una pieza de algún tipo de maquinaria, algo que desde nuestra posición no podemos ver ?
+
+Analizaremos este punto con mas profundidad en los siguientes capitulos.
+
+----------------------
+
+
+La vida es un gran misterio.
+Y por muchos anyos que pasen, por mucho que observo y reflexiono, todo sigue igual, sin respuestas.
+
+Y en el paso por la vida, muchas cosas me confunden, es todo muy extrano.
+Por ejemplo, cuando vemos que una especie se extingue,
+debemos evitarlo ?
+
+Es un error que esa especie se extinga ?
+Es algo que no debe suceder ?
+
+Puede equivocarse la vida ?
+Podemos nosotros encontrar errores en el diseno de la vida y proponer correcciones ?
+
+Sera que somos mas inteligentes que la vida ?
+Es eso posible ?
+
+------------------------------
+
+Nuestros razonamientos dan vueltas en círculos cuando se trata de dar respuesta a preguntas sobre la vida y nuestra existencia.
+
+En parte porque nuestros razonamientos se basan en hipótesis que podrian contener errores.
+Y cuando intentamos razonar a partir de hipótesis erróneas, las conclusiones pueden ser absurdas.
+
+En particular, comentare 2 hipótesis que utilizamos con frecuencia y que podrían no ser correctas.
+
+
+La primera de estas hipotesis es:
+
+Porque las criaturas se reproducen ? 
+La respuesta mas aceptada a esta pregunta es que: "Las criaturas se reproducen para propagar las especies".
+
+Es verdad que, al reproducirse las criaturas, las especies se propagan, si.
+
+Sin embargo, en mi opinion, la pregunta original sigue sin respuesta, "porque?".
+Porque propagar las especies ?
+
+Veremos mas adelante que el motivo de la reproducción podría ser otro, ademas del mero hecho de propagar la especie, 
+que podria finalmente dar respuesta al "porque".
+
+
+La segunda hipotesis que comentare ahora es:
+
+Porque las criaturas mueren ?
+La respuesta mas comun a esta pregunta es: "La muerte no puede evitarse, porque la materia orgánica que forma a los seres vivientes se deteriora con el tiempo".
+
+Una vez mas la respuesta parece tener sentido, porque es verdad que la materia orgánica se deteriora con el tiempo.
+Pero nuevamente, esta respuesta podria ser un error, porque no esta probado que, la degradación de los tejidos no sea un mecanismo planificado.
+
+Veremos mas adelante que podría existir otro motivo que haría "necesaria" la muerte de las criaturas.
+
+------------------------------
+
+Creo que todos estaremos de acuerdo en que, sea lo que sea la vida, es seguro que se trata de un ingenio de gran complejidad y precisión.
+Algo calculado en cada detalle. 
+Equilibrado, optimizado, exacto.
+
+Y casi parece que hubiera una inteligencia descomunal, infinita, diseñando a todas las criaturas en cada detalle, y decidiendo, que serán, que harán, como se comportaran, cuanto vivirán, cuando morirán.
+
+Es posible que exista una inteligencia semejante ?
+
+Ciertamente parece un personaje fantástico, del tipo mitológico.
+Y sin embargo, construir una maquinaria de estas características, requiere inteligencia.
+De modo que, la inteligencia debe existir, necesariamente.
+
+Analizaremos esto, con detalle en los siguientes capitulos.
+
+---------------------------
+
+
+Pero antes de entrar en mas detalles, antes de girar la primera pagina,
+hay algunas cosas de las que ya estoy seguro.
+
+Y es que,
+Las criaturas vivientes, 
+un dia, de pronto, despertamos a la vida, como de un sueño.
+Y nos vemos obligados a luchar para sobrevivir en un entorno hostil.
+
+Y al igual que los patos que van hacia un lado, y después hacia el otro,
+y así consumen otro día de sus vidas.
+
+Eso mismo hacemos todas las criaturas vivientes.
+Y seguimos hacia adelante, sin saber muy bien lo que hacemos ni porque.
+
+
+Y el roble.
+Crece.
+Y año tras año se cubre de flores.
+Y cada año crea bellotas y las esparce por la tierra.
+
+Inmóvil.
+Crece.
+Durante mil años.
+Y un día, muere.
+
+
+
+
+
+
+
