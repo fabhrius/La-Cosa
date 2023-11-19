@@ -1,12 +1,118 @@
 Resumen
 La vida como una entidad unica
 La vida como un computador o un cerebro, descripcion de los procesos independientes.
+
+la mortalidad y la inmortalidad.
+la vida y el cerebro.
 Inteligencia y precision de datos
 probabilidad de error
 ajuste de las criaturas.
+el comportamiento de las criaturas.
 
 revision, que somos, reproduccion, muerte, objetivos.
 podemos corregirlo ?
 
 Conclusiones
+
+
+--------------------------------
+----------------------------------
+
+Una entidad unica:
+
+
+en el experimento que hemos realizado, hemos construido un computador utilizando criaturas vivientes.
+hemos utilizado el computador para resolver un problema logico.
+
+En esta simulacion, un individuo no puede resolver el problema.
+En una maquina de calculo de este tipo, la solucion al problema solo puede encontrarse con la evolucion de la especie.
+para comprender como se ha realizado el proceso debemos ver a la suma de todos los individuos a lo largo del tiempo.
+
+Un individuo representa alguno de los posibles estados en los que puede encontrarse el proceso en un instante puntual del tiempo.
+Y el individuo puede generar alguno de los posibles estados siguientes, es decir, un estado alcanzable desde el punto en donde el mismo se encuentra.
+Pero no puede avanzar mas alla de eso.
+y no puede hacer nada mas que eso.
+
+Puede resultar dificil de ver porque el tiempo del proceso es muy grande comparado con nuestro tiempo de vida.
+Un proceso no puede entenderse sin el tiempo.
+porque el proceso es algo que cambia de estado, evoluciona.
+No es algo estatico y por lo tanto el tiempo es necesario.
+
+en una pelicula fotografica, el movimiento de la imagen se consigue pasando rapidamente una secuencia de fotografias.
+Imaginemos ahora que un individuo es una foto de un instante puntual del proceso de calculo.
+El tiempo es relativo, y para nosotros mortales el universo que vemos parece estatico, no podemos ver el cambio que se esta produciendo, la evolucion.
+Y desde nuestro punto de vista, el universo es asi, siempre ha sido asi, y siempre sera asi como lo vemos ahora.
+
+Intentemos tomar un poco de distancia ahora y hagamos que el tiempo se mueva un poco mas rapido.
+Hagamos que un siglo suceda en 1 milisegundo.
+Asi podremos verlo.
+
+Con esta nueva velocidad podremos ver el cambio, especies evolucionando, cambiando de forma a gran velocidad.
+No es estatico, esta vivo.
+
+Intentemos ahora alejarnos un poco mas.
+A una distancia en donde ya no vemos a una unica especie sino a todo el conjunto de seres vivientes.
+
+
+imaginemos ahora que todo el conjunto de seres vivientes es en realidad una unica criatura, en donde los individuos son las celulas que la forman.
+
+-------------------------------------
+
+#-# - La vida como un computador o un cerebro, descripcion de los procesos independientes.
+
+el cerebro:
+
+mientras escribo, pienso en el guion.
+Al mismo tiempo mis oidos estan atentos, sin que yo 
+
+una gran cantidad de procesos se ejecutan de forma concurrente, al mismo tiempo, la mayoria de ellos de forma inconciente.
+
+
+la vida:
+
+hemos visto como una especie ha resuelto un problema logico.
+la especie evoluciona a lo largo del tiempo procesando informacion, aprendiendo, buscando un resultado concreto.
+hemos comentado como podemos resolver diferentes problemas creando una especie a la medida del problema.
+tambien hemos comentado como diferentes especies son incompatibles logicamente.
+
+si observamos a todas las especies en su conjunto, veremos que se estan ejecutando muchos proceso diferentes de forma concurrente, de forma parecida a lo que sucede en un cerebro.
+
+la vida, esta pensando ?
+
+-------------------------------
+
+
+
+------------------
+
+el espiritu:
+
+mis acciones, mis deseos, mis necesidades, no las he creado yo.
+
+
+-------------------------
+
+La criatura eterna:
+
+hemos visto que existen motivos que hacen necesaria la muerte de los individuos.
+pero la vida, en su conjunto, como una unica entidad, no parece tener estas limitaciones, no parece que existe ningun motivo que exija que la vida acabe, no es necesario como en el caso de los individuos que la forman.
+Y por lo tanto, sin existir un motivo para la muerte, la vida podria ser inmortal.
+
+-------------------------
+
+el origen:
+
+la vida esta implicita en la materia.
+alli adonde exista sufiente cantidad de materia, la vida surgira espontaneamente.
+
+
+--------------------------
+
+
+probabilidad de error:
+
+la precision o exactitud, en matematicas viene determinada por la cantidad de digitos utilizados en la representacion de un valor o medida.
+Una balanza para pesar personas puede tener una precision de 100 gramos, es decir que puede decirnos cuantos kilos y hasta centanas de gramos pesa una persona, pero puede dar mas informacion.
+Una balanza farmaceutica puede tener una precision de miligramos.
+
 

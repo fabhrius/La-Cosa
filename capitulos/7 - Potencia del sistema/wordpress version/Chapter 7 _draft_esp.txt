@@ -105,14 +105,14 @@ Nota aclaratoria: he dicho que un computador recorrería los caminos secuencialm
 En realidad, los computadores utilizarían cierto grado de paralelismo en casos como este, sin embargo, la concurrencia siempre es limitada.
 A medida que lanzamos nuevos procesos en paralelo, incrementamos el consumo de memoria, por lo tanto, si el numero de caminos tiende a infinito, la memoria se agotara rápidamente.
 Incluso si incluimos a un nuevo computador en el cluster por cada nuevo camino que se presente,
-el numero de computadores que hay en el mundo es finito.
+el numero de computadores que hay en el mundo es limitado, finito.
 
 ---------------------
 
 
 Y en cuanto a la complejidad de los problemas.
 
-Un sistema inteligente basado en familias de seres vivientes, que clase de problemas podría resolver?, 
+Un sistema inteligente basado en especies de seres vivientes, que clase de problemas podría resolver?, 
 o dicho de otra forma, 
 problemas de que complejidad podría abordar?
 

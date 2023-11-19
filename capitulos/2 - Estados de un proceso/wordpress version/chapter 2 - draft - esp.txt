@@ -1,7 +1,7 @@
 
 
 Solo nos queda revisar una ultima idea antes de comenzar.
-Veamos a que llamaremos estados del proceso, y de que modo esta idea nos sera de utilidad.
+Veamos a que llamaremos "estados del proceso", y de que modo podemos utilizar esta idea en el diseno de una maquina de calculo.
 
 
 Estados de un proceso.
@@ -136,11 +136,14 @@ Tomaros un momento para pensarlo.
 
 Antes de continuar debo comentar, sin embargo, que el grafo del juego de ajedrez es demasiado grande para alojarlo completamente en la memoria de un computador, y por lo tanto, aunque los computadores utilizan esta técnica para jugar al ajedrez, la utilizan combinada con otras técnicas que les permiten aprovechar grafos de tamaño reducido.
 
+La memoria de los computadores es limitada, y muchos problemas del universo real, podrian requerir mas memoria de la disponible, una caracteristica que puede convertir a muchos de estos problemas en inabordables.
+Volveremos a comentar esta limitacion de los computadores mas adelante.
+
 Muy bien.
 Hemos hablado de los estados de un proceso, hemos hablado de grafos, y de como es posible encontrar respuestas combinando grafos con estados.
 
 Ya lo tenemos todo.
-Con estas ideas en mente, estamos ya preparados para iniciar la construcción del computador y llevar a cabo el experimento.
+Con estas ideas en mente, estamos preparados para iniciar la construcción del computador y llevar a cabo el experimento.
 
 
 

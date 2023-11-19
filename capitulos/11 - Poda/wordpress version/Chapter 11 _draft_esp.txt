@@ -51,7 +51,7 @@ Sin la reproducción, la vida no tiene sentido.
 
 Ahora veamos, del mismo modo, sin la compleja capa orgánica, a la vida en su conjunto, intentado extraer la funcionalidad de forma conceptual.
 En la simulación que hemos realizado, las especies estaban formadas por individuos, y este es el único componente del sistema, individuos.
-El individuo contiene los datos que están siendo procesados y que describen el contexto del problema, y es estado actual del proceso.
+El individuo contiene los datos que están siendo procesados y que describen el contexto del problema, y el estado actual del proceso.
 Todos los individuos cumplen con un ciclo de vida que consiste en nacer, reproducirse y morir.
 En la reproducción los datos son procesados, modificando el estado del proceso, y de esta forma avanza un paso mas hacia la resolución del problema.
 
@@ -69,7 +69,7 @@ En principio si.
 Mientras tenga los recursos que necesita, no hay ninguna limitación en su naturaleza que lo obligue a detenerse.
 
 Y así, si pensamos en la vida como en una única entidad formada por todos los individuos de todas las especies, resulta que,
-la vida podría ser inmortal.
+la vida podría ser una criatura inmortal.
 Mientras tenga los recursos que necesite, podría continuar viviendo eternamente.
 
 

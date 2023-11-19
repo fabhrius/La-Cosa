@@ -1,0 +1,215 @@
+
+Introducción y objetivos del capitulo:
+
+Veamos ahora como podemos utilizar las ideas que hemos estado comentando.
+Con ellas crearemos una maquina que resuelva problemas lógicos automaticamente.
+
+El objetivo de este capitulo sera ver como esta formado el sistema, cuales son sus partes e imaginar a esta maquina en funcionamiento para entender el mecanismo que le permite encontrar soluciones y aprender.
+
+Hablaremos de aprendizaje mas adelante.
+
+En este modelo de computador, la configuracion de la maquina y el problema están estrechamente relacionados, de modo que, empezare por definir el problema que queremos resolver.
+
+
+--------------
+
+Problema ejemplo:
+
+Como ejemplo utilizaremos un problema simple que nos permita enfocar toda nuestra atención en la forma en que la maquina trabaja sin distraernos con detalles innecesarios.
+Utilizaremos para esto un juego de mesa que llamaremos "Laberinto".
+
+El juego consiste en encontrar el camino que conduce desde la entrada hasta la salida de un laberinto.
+Y se desarrollara sobre un tablero cuadriculado, de 8 por 8 casillas, como el utilizado en el juego de ajedrez.
+
+Cada casilla puede ser referenciada con un nombre formado por la concatenación de una letra y de un numero, como por ejemplo 'A1',
+siendo las filas referenciadas por una letra, desde la 'A' hasta la 'H',
+y las columnas referenciadas por un numero, desde el 1 hasta el 8.
+
+(dibujo)
+
+Marcaremos sobre el tablero, 
+una casilla que representara la entrada al laberinto, y que sera la casilla 'A1',
+y otra casilla que representara la salida del laberinto, y que sera la casilla 'H8'.
+
+Sobre el tablero colocaremos una única ficha que representara a un personaje que debe atravesar el laberinto.
+
+(dibujo)
+
+La ficha podrá moverse en cualquier dirección, pero solo a una casilla contigua con cada movimiento.
+Por lo tanto, sera considerado como una "jugada valida", cualquier movimiento que desplace la ficha a una distancia de una casilla.
+
+(grafico)
+
+Con esto queda definido el juego y el problema que se quiere resolver.
+En resumen, lo que queremos que la maquina nos diga es: 
+“cual es el camino que la ficha debe recorrer para ir desde la entrada hasta la salida del laberinto ?”
+
+
+
+---------------------
+
+
+La maquina:
+
+los computadores, conceptualmente pueden dividirse en 2 partes.
+El software y el hardware.
+
+El software es la parte logica, esta formada por ideas.
+El hardware es la parte fisica. Alguien me ha comentado una vez que el hardware es aquello que puede romperse con un golpe.
+
+ 
+Como hemos comentado, en el procesamiento de la informacion intervienen 2 elementos, datos y metodo.
+Y una maquina que procese informacion debe disponer de, un soporte de memoria, adonde mantener los datos, y de, un mecanismo que aplique las operaciones oportunas sobre los datos, ejecutando el metodo, es decir un procesador.
+
+Datos y memoria, metodo y procesador.
+
+Los datos y el metodo, son la parte software de la maquina, son ideas.
+La memoria y el procesador, son hardware, son la parte fisica, y en los computadores que utilizamos a diario, estan formados por circuitos electronicos.
+
+
+////////////////////////////////////
+
+
+
+La parte lógica la tenemos ya, viene dada por la descripción del problema que hemos realizado.
+
+Veamoslo. 
+Los datos, que describen el contexto, deben describir el juego del laberinto que hemos planteado y los estados por los que el juego atravesara.
+El metodo, las operaciones que deben realizarse sobre los datos, sera aquel que genera el siguiente estado, es decir, realizr una jugada valida, como la hemos definido anteriormente, la ficha solo puede moverse a una casilla contigua.
+
+Ahora solo nos falta el hardware, la parte física de la maquina, que se compone de 
+un soporte de memoria, 
+y un mecanismo procesador.
+
+Hemos comentado anteriormente que existen dos características presentes en todos los seres vivientes que pueden utilizarse para cumplir estas funciones y son, 
+el ADN, que almacena información como una memoria de solo lectura, y
+el mecanismo de reproducción, que modifica la información contenida en el ADN para crear una nueva cadena.
+
+Utilizaremos por lo tanto el ADN como memoria y el mecanismo de reproducción como procesador.
+Tenemos con esto, todos los elementos necesarios para crear el sistema de calculo.
+
+
+--------------------------------
+
+
+Veamos ahora como adaptamos el sistema al problema que queremos resolver.
+
+He comentado anteriormente que en este modelo de computador, la maquina debe estar hecha a la medida del problema.
+Tenemos las ideas necesarias, solo nos queda adaptar una rama de la vida al problema que queremos resolver.
+Y esto lo conseguiremos creando una nueva especie de seres vivientes especifica para el problema del laberinto.
+
+Una especie es una familia de individuos semejantes.
+Todos los individuos de una especie son muy parecidos, no iguales, pero casi.
+Así, es el individuo quien define a la especie.
+
+Crearemos una nueva especie simplemente creando un individuo con las características que nos interesan.
+Todas las criaturas vivientes cumplen con un ciclo de vida que consiste en nacer, reproducirse y morir.
+
+Y por lo tanto, una vez creado el nuevo individuo que necesitamos, este se reproducirá, y creara la nueva especie.
+Se trata pues, unicamente de crear el individuo adecuado.
+Veamos como.
+
+
+-------------------------
+
+El individuo:
+
+En todas las criaturas vivientes, en todos los individuos de todas las especies, esta presente el ADN.
+El ADN contiene la información necesaria para construir a un individuo.
+
+Utilizaremos el ADN como memoria del sistema, y en ella queremos almacenar la  información necesaria para reconstruir un estado cualquiera del proceso de resolución del problema en el que estamos trabajando.
+Que en este caso se trata de un juego de mesa.
+
+Por lo tanto, un individuo de esta nueva especie representara un estado en el juego del laberinto.
+ 
+
+(datos necesarios para reconstruir el estado)
+
+Veamos que datos necesitamos para resumir un estado del juego.
+Digamos que estamos jugando una partida de ajedrez, la partida se encuentra ya en un estado intermedio cuando debemos abandonarla.
+Y nos gustaría poder continuar jugando esta misma partida mañana desde el mismo punto en donde la dejamos hoy.
+
+Para esto sera necesario recordar el "estado" en que había quedado el juego.
+
+En el caso de una partida de ajedrez bastaría con recordar la posición de las fichas sobre el tablero y cual de los dos jugadores hará el siguiente movimiento.
+Con esta información podríamos reconstruir la partida para continuar desde el mismo punto.
+Esta es la información que describe el estado, y se reduce a un listado con las posiciones de las fichas sobre el tablero, mas un indicador de quien debe jugar a continuación.
+
+En el caso del juego del laberinto, para recordar un estado bastara con recordar 
+la posición de la única ficha que hay sobre el tablero, y 
+todos los movimientos que se han realizado hasta ese momento, esto nos permitirá recordar también el camino que ha recorrido la ficha hasta ahora.
+
+En resumen, para abordar el problema del juego del laberinto, crearemos una nueva especie de seres vivientes en donde el individuo sera
+un tablero con una ficha en una posición determinada mas un listado que contenga todos los movimientos que han sido realizados hasta ese momento.
+
+Gráficamente se vería así:
+
+(ejemplo grafico del individuo)
+
+
+
+
+
+
+-------------------------
+
+
+
+Ahora que ya hemos visto como debe ser un individuo de esta especie, veamos ahora como un sistema de este tipo resolvería el problema.
+
+Para poner en marcha a esta maquina, iniciando el proceso de calculo, comenzaremos por crear un individuo que represente el estado inicial del problema.
+Es decir, un tablero con la ficha en la entrada del laberinto, posición 'A1'
+
+(imagen del individuo)
+
+El siguiente paso sera dotar a este individuo de vida.
+Y eso es todo.
+
+Porque cuando este individuo despierta a la vida, 
+sucede lo siguiente.
+
+(maquina en funcionamiento con graficos)
+
+
+
+
+---------------------------
+
+especie y descendencia:
+
+
+(relacion entre especie y problema, descendencia y busqueda de la respuesta)
+
+
+---------------------
+
+conclusion:
+
+veamos ahora lo que ha sucedido.
+
+El sistema ha encontrado la respuesta que buscábamos.
+Sin embargo, los individuos que han sido creados en el proceso, no tenían conciencia del problema ni del proceso que se estaba llevando a cabo para encontrar la solución.
+Los individuos simplemente viven sus vidas ajenos al proceso de calculo que la especie esta llevando a cabo.
+
+El sistema esta formado por el conjunto de todos los individuos.
+Los individuos son el bloque de construcción, y el único componente del sistema.
+
+Un individuo no puede encontrar la solución de un problema que desconoce.
+El individuo vive su vida ajeno al proceso de calculo y las acciones que realiza en su vida personal tienen como objetivo mantenerlo con vida para crear su descendencia. Es decir, cumplir con su ciclo de vida.
+Esta es la misión del individuo.
+Todo lo que debe hacer un individuo es, nacer, reproducirse y morir.
+
+La mision del individuo es, vivir.
+
+La maquina, el sistema inteligente, esta formada por la suma de todos los individuos.
+
+El individuo no sabe porque tiene esta forma particular, y no tiene control sobre esto.
+El individuo no sabe porque ha nacido, y no tiene control sobre esto.
+El individuo no sabe porque debe reproducirse, y no tiene control sobre esto.
+El individuo no sabe porque debe morir, y no tienen control sobre esto.
+
+El individuo no sabe que un proceso se esta llevando a cabo. Y no hay nada que el individuo pueda hacer que altere en algun modo el resultado del calculo.
+
+
+En las próximas paginas comentaremos con mas detalle acerca de la necesidad de que los individuos cumplan con un ciclo de vida y veremos el porque de cada una de las etapas.
+Pero antes, empezaremos por analizar las características mas relevantes de este sistema inteligente.

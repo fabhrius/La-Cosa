@@ -29,7 +29,7 @@ Tipos de reproducción:
 
 
 Ademas de el conjunto de datos que da forma a los individuos, otra diferencia en la configuración de las distintas especies es la forma de reproducción que utiliza.
-Y podemos separar a todas las especies de seres vivientes en 2 conjuntos, por una parte los que utilizan reproducción "asexual", y por otra parte los que utilizan reproducción "sexual".
+Y en este sentido podemos separar a todas las especies de seres vivientes en 2 conjuntos, por una parte los que utilizan reproducción "asexual", y por otra parte los que utilizan reproducción "sexual".
 
 De los dos, el tipo mas simple es la reproducción asexual.
 En donde un individuo se reproduce por si solo, esto facilita el proceso, requiere menos recursos y por este motivo podemos atribuirle un coste mas bajo.
@@ -93,8 +93,8 @@ Reproducción sexual:
 
 Existen otros problemas, sin embargo, en donde la reproducción asexual no sera suficiente para encontrar la solución.
 
-Como ejemplo, veamos lo que sucede si queremos que, un sistema computacional formado por familias de seres vivientes, adquiera el conocimiento necesario para ganar 
-en el juego de ajedrez.
+Como ejemplo, veamos lo que sucede si queremos que, un sistema inteligente formado por familias de seres vivientes, adquiera el conocimiento necesario para ganar en el juego de ajedrez.
+
 El objetivo en este caso es que sepa como ganar la partida en cualquier situación, sin importar en que estado se encuentre el juego, debe conocer el camino que le lleve a cualquiera de los posibles estados finales en donde la maquina gana.
 
 En el juego del laberinto existen mas de una solución posible.
@@ -146,11 +146,11 @@ digamos que uno de estos descendientes,
 se reproduce sexualmente con otro individuo que conoce otra forma diferente de ganar el juego.
 Entonces el hijo resultante, y los descendientes de este, conocerán 3 formas diferentes de ganar la partida, 3 caminos distintos que llevan, posiblemente, a distintos estados finales.
 
-A partir de aquí, como podéis imaginar, el proceso de asimilar conocimiento adquirido por otras familias continuara, y con el tiempo, un individuo conocerá todas las posibles formas de ganar el juego, conocerá todos los posibles tableros que puedan configurarse en una partida de ajedrez, y conocerá todos los caminos que llevan, desde cualquiera de los estados, hasta cualquiera de los estados finales alcanzables, en donde la maquina gana la partida.
+A partir de aquí, como podéis imaginar, el proceso de asimilar conocimiento adquirido por otras familias continuara, y con el tiempo, un individuo llegara a conocer todas las posibles formas de ganar el juego, conocerá todos los posibles tableros que puedan configurarse en una partida de ajedrez, y conocerá todos los caminos que llevan, desde cualquiera de los estados, hasta cualquiera de los estados finales alcanzables, en donde la maquina gana la partida.
 
 Este individuo, sin importar la situación en que se encuentre, siempre estará en un tablero conocido, y siempre sabrá cual es la siguiente jugada que le pondrá en camino de ganar el juego.
 
-El sistema al principio no sabe nada, pero pasado un tiempo, que podemos llamar de "puesta en marcha", el sistema llegara a saberlo todo.
+El sistema al principio no sabe nada, pero pasado un tiempo, que podemos llamar "tiempo de puesta en marcha", el sistema llegara a saberlo todo.
 Y un individuo con este conocimiento es potencialmente "imbatible".
 
 La reproducción sexual tiene un coste elevado, pero dota a la especie que la utiliza de una gran inteligencia, como resultado de la capacidad de adquirir conocimiento rápidamente.

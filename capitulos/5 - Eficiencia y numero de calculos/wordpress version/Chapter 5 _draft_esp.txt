@@ -2,25 +2,21 @@ En este capitulo hablaremos de eficiencia.
 
 
 No todos los computadores son iguales.
-Ciertos detalles los hacen diferentes unos de otros, como por ejemplo, la capacidad para abordar problemas de mayor complejidad, o la posibilidad de realizar un mayor numero de operaciones por unidad de tiempo, o quizás la habilidad de consumir menos recursos para realizar el mismo trabajo.
+Ciertos detalles los hacen diferentes unos de otros, como por ejemplo, la capacidad para abordar problemas de mayor complejidad, o de realizar un mayor numero de operaciones por unidad de tiempo, o quizás la habilidad de consumir menos recursos para realizar el mismo trabajo.
 Estas son solo algunas de las posibles diferencias.
 
 También encontraremos diferencias entre los métodos que un computador podría utilizar para resolver un mismo problema.
 Un mismo problema puede ser abordado de diferentes formas, utilizando distintos procedimientos.
 
-Así, tanto entre los sistemas computacionales, como entre los procedimientos que estos utilizan para resolver problemas, existe una gran variedad, y pueden ser medidos y comparados.
-
-
-
+De modo que, tanto entre los computadores, asi como entre los procedimientos que estos utilizan para resolver problemas, existe una gran variedad, y pueden ser medidos y comparados.
 
 
 En este capitulo, nos proponemos obtener una medida de  
-la Eficiencia algorítmica
+la "Eficiencia algorítmica"
 del sistema computacional basado en criaturas vivientes que hemos utilizado en el experimento del capitulo anterior.
-
 Podremos establecer una medida aproximada de la eficiencia del sistema razonando sobre los hechos que hemos podido observar.
 
-Utilizando 2 algoritmos diferentes para resolver un mismo problema, diremos que un algoritmo es mas eficiente que otro cuando encuentra la solución al problema con un numero menor de operaciones.
+Utilizando 2 algoritmos diferentes para resolver un mismo problema, diremos que un algoritmo es mas eficiente que otro cuando encuentra la solución al problema con un menor numero de operaciones.
 
 ------------------------------------
 
@@ -34,14 +30,14 @@ Es posible que diferentes personas propongan diferentes formas de conseguir el m
 
 Y siendo los métodos diferentes, es posible también que, algunos métodos consigan el resultado con un esfuerzo menor que otros.
 Ante la posibilidad de hacer el trabajo de formas diferentes, preferiremos el algoritmo que consiga el objetivo de la forma mas eficiente.
-Realizar el trabajo con un numero menor de operaciones se traduce en un menor consumo de recursos, y en especial, tiempo y energía.
+Realizar el trabajo con un menor numero de operaciones se traduce en un menor consumo de recursos, y en especial, tiempo y energía.
 
 Para ver de forma practica como podemos medir y comparar la eficiencia de algoritmos diferentes, veamos como ejemplo 2 formas de ordenar una baraja.
 
 -------------------------------
 
 
-Ordenar una baraja:
+Como ordenar una baraja:
 
 Método 1:
 

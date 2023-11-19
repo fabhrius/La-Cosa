@@ -1,0 +1,220 @@
+Introduccion:
+
+En este capitulo discutiremos el coste que un sistema de este tipo podria tener.
+En ingenieria los costes son un area en la que debemos prestar especial atencion.
+Todo tiene un coste, y el presupuesto siempre es limitado.
+
+Intentaremos establecer el coste del sistema de forma aproximada.
+
+Por una parte, nos gustaría saber cual podría ser el coste de la maquina.
+Y por otra parte, quisiéramos saber cual podría ser el coste de resolver un problema utilizando esta tecnología.
+
+Es natural que un problema complejo requiera una mayor consumo de recursos que un problema simple, lo que tendría impacto en el coste.
+Por ejemplo, un problema mas complejo podría requerir,
+un mayor consumo de energía, de tiempo, de memoria, un hardware mas especializado, infraestructuras mas costosas, etc.
+
+En algunas arquitecturas, el coste de la maquina es, hasta cierto punto, independiente del coste de resolver un problema.
+En esta arquitectura particular, cuando hablamos de un sistema viviente, el coste de la maquina y el coste de resolver un problema estarán estrechamente relacionados.
+
+Si pensamos que, por cada paso elemental  en el calculo crearemos un nuevo individuo, entonces esta claro que cuantos mas cálculos requiera la resolución del problema, mayor sera la colonia de individuos necesaria para encontrar la solución.
+
+Pero veamoslo con mas detalle.
+Veamos como el sistema a encontrado la solución al problema del laberinto, y cual podría ser el coste de resolver ese problema en particular.
+
+Recordemos tambien que hemos elegido el problema del laberinto por su simplicidad.
+Se trata solo de atravesar el tablero, para recorrer un laberinto que no tiene paredes.
+
+
+
+
+
+Recordemos el problema brevemente.
+Se trata de averiguar cual es el camino que una ficha debe recorrer en un tablero de juego cuadriculado, para ir desde una casilla determinada hasta otra.
+
+Para esto hemos creado una especie de seres vivientes a la medida del problema, en donde, 
+los individuos de la especie representan estados del juego.
+Los individuos, nacen se reproducen y mueren.
+Y es en la reproducción adonde se procesa informacion haciendo avanzar el calculo.
+
+La maquina tiene una estructura celular, en donde el individuo es la unidad estructural o célula.
+La maquina esta formada por un tejido de individuos, formando una colonia en forma de red.
+Y no existe ningún otro componente, solo individuos.
+
+Los individuos se reproducirán, creando mas y mas individuos, hasta que se encuentre la solución al problema.
+Y cuanto mas complejo sea el problema, mas individuos seran creados.
+
+
+Hasta ahora hemos visto el funcionamiento de la maquina sobre el papel, es decir, de forma teórica.
+En el ejemplo del laberinto hemos creado individuos en nuestra imaginación, y solo algunos de ellos, no todos los que habrían sido creados naturalmente, sino solo los relevantes para el análisis.
+
+Pensaremos ahora en como podemos llevar a cabo estas ideas en el mundo real.
+En como podríamos construir una maquina física, real.
+Esto nos ayudara a establecer, al menos de forma aproximada, cual podría ser el coste de construir un sistema de este tipo.
+
+Cualquier implementación que construyamos debería incluir las siguientes características:
+-la maquina esta compuesta de individuos
+-los individuos cumplirán con un ciclo de vida que consiste en : nacer-reproducirse-morir
+-los individuos contienen un conjunto inmutable de datos único (ADN)
+-en la reproducción los datos son modificados para crear otro conjunto de datos único que define a un nuevo individuo hijo, o descendiente.
+
+
+Digamos que para implementar a los individuos utilizamos bacterias.
+Y digo bacterias porque intento reducir los costes.
+Construir un mamífero, seguramente, tendrá un coste muy superior al de una bacteria. 
+Las bacterias parecen una solución económica cuando hablamos de seres vivos, y sin embargo, el coste sigue siendo elevado.
+
+No puedo cuantificar el coste exacto, pero puedo afirmar sin temor a equivocarme que,
+diseñar y construir una bacteria esta fuera de mi alcance en este momento.
+
+Veamos una solución todavía mas económica.
+
+Digamos que grabo la información de un individuo en un disco de plástico, como un CD.
+Un CD cumplirá la función del ADN almacenando la información.
+
+
+-----------------------------------------------
+
+Digamos que grabo un CD por cada individuo que sea necesario en el proceso de calculo.
+Estos individuos no están vivos como seria deseable, son de plástico, y por lo tanto no podrán reproducirse por si solos, 
+Tendré que simular el ciclo de vida completo, manualmente.
+Lo que es una enorme desventaja con respecto a los seres vivientes que lo realizarían automáticamente.
+
+Sin embargo, esta solución es mucho mas económica que la creación de seres vivientes, y tiene la ventaja de que podremos cuantificar el valor en dinero de cada CD, lo que nos ayudara en el análisis de costes.
+
+En cualquier caso, la estimación de costes que podamos hacer con un sistema de Cds, puede servirnos como cota inferior, muy inferior, al coste real del sistema cuando se implementa con criaturas vivientes.
+
+Veamos ahora como el sistema ha encontrado la solución al problema del laberinto.
+
+
+
+
+Para iniciar el proceso hemos creado un primer individuo que representa el estado inicial del juego.
+Es decir, una ficha sobre el tablero colocada en la entrada del laberinto, que hemos situado en la casilla 'A1'.
+
+Cuando llegue el tiempo de producir la siguiente generación, el individuo se reproducirá creando todos las hijos posibles.
+Todos los hijos son diferentes, y representan movimientos validos desde el estado del juego que representa el padre.
+Los hijos representan los estados del juego alcanzables después de realizar un único movimiento desde el estado del padre.
+
+Después de crear a toda su descendencia el padre ya no es necesario y es eliminado.
+En la siguiente generación, los nuevos individuos creados a su vez se reproducirán creando todos los hijos posibles, moviendo el juego hacia el siguiente estado.
+Y generación tras generación, el proceso continuara avanzando hacia su resolución, o estado final.
+
+Recordemos también, que han sido necesarias 7 generaciones para encontrar la solución.
+Cuantos individuos han sido creados durante el proceso ?
+
+-----------------------------------------------
+--------------------------
+-----------------------------------------------------------
+/************************ END REVIEW *********************************/
+-----------------------------------------------
+
+
+
+Para realizar el calculo utilizaremos el siguiente conjunto de reglas:
+
+Si un individuo esta en un angulo del tablero, entonces tendra 3 hijos
+
+(dibujo)
+
+Si un individuo esta en un borde del tablero, entonces tendra 5 hijos
+
+(dibujo)
+
+y si un individuo esta alejado del borde del tablero, entonces tendra 8 hijos.
+
+(dibujo)
+
+Sin embargo el calculo en detalle es complicado y no es importante tener una cifra exacta en este momento, sino que, 
+nos servirá con tener una idea aproximada, de modo que simplificaremos el calculo.
+Lo que necesitamos ahora es hacernos una idea de como crecen las poblaciones de seres vivientes.
+
+---------------------------------------
+
+Para simplificar nos quedaremos con el caso mas habitual.
+La mayoría de los individuos que serán creados tendrán una posición alejada de los bordes del tablero.
+La mayoría de los individuos que serán creados, por lo tanto, tendrán 8 hijos.
+
+
+Veamos como crece la descendencia de un individuo, es decir, cuantos serán creados a partir de un único individuo con el paso de las generaciones.
+
+Con la primera generación, nacen 8 hijos.
+En la segunda generación, los 8 hijos tendrán 8 hijos cada uno, y por lo tanto, nacen 64 nuevos individuos con la segunda generación.
+En la tercera generación, los 64 nuevos individuos tendrán 8 hijos cada uno, y por lo tanto, nacen 512 nuevos individuos con la tercera generación.
+En la cuarta generación, los 512 nuevos individuos tendrán 8 hijos cada uno, y por lo tanto, nacen 4096 nuevos individuos con la cuarta generación.
+
+El numero de individuos que son creados en cada generación no se mantiene constante, sino que crece mucho, de una generación a la siguiente.
+Hemos dicho que serian necesarias 7 generaciones para encontrar la solucion al problema del laberinto.
+Pues bien, en la primera generación nacen 8 individuos, mientras que en la séptima generación nacen
+1 * 8 * 8 * 8 * 8 * 8 * 8 * 8, aproximadamente unos 2.000.000 
+
+(atención, porque 2 millones de individuos nacen, solo en la 7ma generación, es necesario sumar los individuos de las generaciones anteriores para tener el total)
+
+Diremos que el crecimiento de la población es EXPONENCIAL.
+Porque podemos calcular el numero de individuos que nacen en cada generación como una potencia.
+
+En la primera generación el numero de individuos que nacen es 8 elevado a 1.
+En la tercera generación el numero de individuos que nacen es 8 elevado a 3.
+En la séptima generación el numero de individuos que nacen es 8 elevado a 7.
+
+Observad que estos no son todos los individuos que han sido creados después de 7 generaciones, solo son los que nacen en la séptima.
+el numero total es, 8 elevado a 7 + 8 elevado a 6 + 8 elevado a 5 + ... etc.
+
+Lo importante aquí es que son muchos en pocas generaciones.
+Cuantos nacen en la octava generación ? 
+pues 8 elevado a 8, que serán aproximadamente unos 16 millones.
+
+La idea que quiero transmitir es que las poblaciones de seres vivientes crecen exponencialmente con el tiempo.
+En el caso del problema que hemos planteado como ejemplo, solo han sido necesarias 7 generaciones para encontrar la solución.
+
+Pero que pasaría con problemas mas complejos que requieran mas cálculos ?
+Que pasaría si hubieran sido necesarias 100  generaciones para encontrar la respuesta ?
+Pues que en la generación numero 100 el numero de individuos que nacerán se contarían como un numero de 100 dígitos.
+Intentad expresar un numero como ese con palabras, para entender la magnitud.
+
+ 
+----------------------------------------
+
+
+Volvamos ahora al punto adonde yo intento materializar el sistema, construirlo físicamente.
+
+He propuesto grabar a cada individuo en un disco de plástico como un CD, buscando una solución económica.
+
+Así, habrían sido necesarios mas de 2 millones de CDs para recorrer 7 casillas del tablero.
+Esto nos permite hacernos una idea del elevado coste del sistema.
+
+Y cuantos CDs habrían sido necesarios para recorrer 10 casillas ?
+
+Pues, 8 elevado a 10, es decir, alrededor de 1000 millones de Cds.
+
+Solo incrementando en 3 casillas la distancia a recorrer
+Hemos pasado de 2 millones a 1000 millones.
+
+Y si las casillas a recorrer fueran 20 ?
+En ese caso, 8 elevado a 20 es 1.152.921.504.606.846.976
+
+El problema del laberinto es extremadamente simple.
+Que pasaría con un problema mas complejo ? Cuantos individuos deberíamos construir para el caso de una partida de ajedrez ?
+
+Muchos.
+Porque el numero de individuos necesarios (al igual que el coste del sistema) se incrementa exponencialmente cuando aumenta la complejidad del problema que se quiere resolver.
+
+
+
+-----------------------------------------
+
+
+No olvidemos que el sistema esta vivo.
+Los individuos son seres vivientes.
+
+He utilizado la solución con CDs porque es económica.
+Un CD es plástico, es barato.
+
+Me resulta imposible estimar el coste que podría tener crear una especie de seres vivientes.
+
+Quiero que se vea claramente el contraste.
+Porque lo que intento decir es que :
+
+no importa lo económica que pueda ser la solución que encontremos, 
+porque
+aun en el caso en que el coste de una unidad tiende a cero,
+el coste del sistema tiende a infinito rápidamente.

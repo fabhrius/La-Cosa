@@ -1,0 +1,139 @@
+
+Introduccion:
+
+Hablaremos ahora de "potencia" de calculo.
+La palabra potencia puede ser interpretada de formas diferentes, como una medida del consumo energetico, o la cantidad de trabajo entregado por unidad de tiempo.
+
+Pero lo que yo intento expresar aqui, cuando hablo de potencia esta relacionado con la complejidad de los problemas.
+El objetivo sera averiguar, cual es la complejidad de los problemas que este sistema podria abordar.
+
+
+
+
+
+
+/***************************************************************/
+////////////////////////////////////////////////////////////////
+
+
+
+Hasta ahora, 
+hemos visto a grandes rasgos como esta compuesto el sistema, y lo hemos visto en acción.
+Hemos comprobado también que es muy eficiente.
+Notablemente.
+Extraordinariamente eficiente.
+
+Ahora quisiera medir su "potencia de calculo".
+Y digo potencia en el sentido de 
+cual es en realidad la complejidad de los problemas que puede abordar ?
+Lo hemos visto en acción con un problema simple.
+Podrá abordar problemas mas complejos que ese ?
+
+
+Potencia de calculo:
+
+En física la potencia puede ser definida como la cantidad de trabajo entregada por unidad de tiempo.
+Y aunque esta definición es, en el caso que nos ocupa, hasta cierto punto satisfactoria, todavía no responde a la pregunta que estamos planteando.
+cual es la complejidad de los problemas que esta maquina puede abordar ?
+
+Coincidiendo con la definición de potencia que da la física han sido creados una clase de computadores que informalmente llamamos "súper-computadores", cuya principal característica es la de realizar una gran cantidad de operaciones por unidad de tiempo.
+Estos computadores son utilizados principalmente en la resolución de problemas científicos.
+
+Y aunque un incremento en la velocidad de calculo nos permite también incrementar hasta cierto punto la complejidad de los problemas abordables, esta solución no funcionara en todos los casos.
+Existen problemas que seguirán siendo inabordables independientemente de la velocidad que puedan alcanzar los procesadores.
+
+De modo que, para el análisis que estamos realizando, en cuanto a potencia de calculo querriamos saber,
+cual es la complejidad de los problemas que puede resolver,
+y ademas, a que velocidad puede realizar el calculo.
+
+Hablamos de potencia de calculo en función de la complejidad de los problemas.
+Empezaremos el análisis viendo cuales son las características que hacen que un problema sea mas complejo que otro.
+
+Hablaremos de complejidad de los problemas en este capitulo, y dejaremos el análisis de la potencia de calculo para el siguiente capitulo.
+
+
+Complejidad de un problema:
+
+No todos los problemas son iguales.
+
+Algunos pueden resolverse fácilmente, otros requerirán un esfuerzo mayor, mientras que otros podrían considerarse inabordables o incluso irresolubles.
+
+Así podríamos clasificar a los problemas de acuerdo con su complejidad.
+
+No es el objetivo de este relato explicar en detalle teoría de la complejidad de los problemas, eso requeriría otro libro, o varios.
+Y este relato, como he comentado al principio, esta dirigido a todas las personas.
+De modo que no vamos a realizar aquí grandes desarrollos matemáticos.
+
+Y aun así, todavía podremos hablar de complejidad, de una forma simplificada, y a la vez rigurosa, que nos permita hacernos una idea aproximada de lo que la complejidad es.
+
+Porque aunque existen problemas de diferentes tipos, con diferentes factores que incrementan su complejidad, también es cierto que, la mayoría de los problemas pueden transformarse en problemas de decisión.
+
+Y utilizaremos esta idea.
+'Las decisiones incrementan la complejidad del problema'.
+
+Una decisión puede verse como, una bifurcación en el camino.
+Por donde debo continuar ?
+
+El numero de decisiones que deben tomarse para encontrar la solución es un buen indicador del grado de complejidad de un problema.
+
+
+Las decisiones tienen coste.
+
+Con cada decisión el camino se bifurca 
+y a medida que aumenta el numero de decisiones que deben tomarse aumentan el numero de caminos posibles que debemos recorrer para encontrar la solución del problema.
+
+(dibujo)
+
+Y a medida que se agregan mas y mas decisiones, rápidamente el numero de caminos tiende a infinito, 
+o dicho de otro modo, 
+el numero de caminos se vuelve demasiado grande para recorrerlos todos con el tiempo y recursos disponibles.
+
+Veamos un ejemplo.
+Digamos que queremos saber como ganar una partida de ajedrez.
+Analicemos las posibilidades.
+
+Partiendo del estado inicial, 
+el tablero con las fichas en su posición de salida, 
+cuantos posibles movimientos pueden hacerse a partir de aquí ?
+
+Desde la posición inicial, 
+pueden moverse alguno de los peones o alguno de los caballos.
+Y esto significa, 20 posibles movimientos diferentes.
+Cual sera el mejor de ellos ?
+
+Tendré que probarlos todos para compararlos.
+Solo para comenzar la partida, desde el punto de salida pueden verse 20 posibles caminos diferentes.
+
+Y cuantos movimientos diferentes podrían hacer las negras para responder a esta primera jugada de las blancas ?
+Otros 20.
+
+Esto creara 
+20 por 20 = 400 escenarios diferentes.
+
+Solo se han movido 2 fichas, una blanca y una negra, y ya se han abierto 400 caminos diferentes.
+Y con cada nuevo movimiento el numero de posibles caminos se multiplica.
+
+Este problema ciertamente no es trivial.
+
+Cual de todos estos caminos me llevara al estado final deseado ?
+Cual de todos ellos me llevara a ganar la partida ?
+
+Tendré que recorrerlos todos para saberlo.
+
+Resolver este problema requerirá recursos como tiempo y memoria.
+
+Tiempo, para recorrer todos los posibles caminos,
+Y memoria, para recordarlos todos y poder compararlos.
+Solo así sabre cual es el mejor.
+
+Las decisiones, incrementan la complejidad del problema, y los recursos necesarios para resolverlo.
+Esto se transforma en un incremento en el coste.
+
+Podemos decir que las decisiones son el problema.
+Y cuantas mas decisiones, mayor es el problema.
+
+En resumen.
+Los problemas se vuelven mas complejos a medida que aumenta el numero de decisiones que deben tomarse para resolverlo.
+
+
+

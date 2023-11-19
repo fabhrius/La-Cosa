@@ -1,0 +1,19 @@
+@startuml
+
+skin rose
+
+title Metodo para sumar un listado de numeros 
+
+
+start
+:Resultado parcial = 0;
+while (La lista contiene datos ?) is (Si)
+:Resultado parcial = Resultado parcial + Primer elemento de la lista;
+  :Eliminar el primer elemento de la lista;
+endwhile (No)
+
+:Resultado Total = Resultado parcial;
+
+stop
+
+@enduml

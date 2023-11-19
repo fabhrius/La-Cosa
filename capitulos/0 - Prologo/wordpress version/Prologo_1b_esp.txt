@@ -1,24 +1,24 @@
+
 La vida es un gran misterio para mi.
 
-Siempre lo ha sido, y he pasado mucho tiempo a lo largo de los anyos intentando encontrar respuestas.
-No puedo evitar preguntarme cosas como, 
+Siempre lo ha sido, y he pasado mucho tiempo a lo largo de los años intentando encontrar respuestas a preguntas como 
 
 La vida que es ?
-Porque sucede todo esto ?
-
 Yo que soy ?
-Porque estoy aqui ?
-O, porque debo morir ?
+Porque estoy aquí ?
+Porque debo morir ?
 
-Sera quizas que debo cumplir una mision importante y por eso estoy aqui ahora ?
-Y ahora que mi vida se acerca al fin, me pregunto si, habre conseguido cumplir con mi mision en este mundo.
+Sera quizás que debo cumplir una misión importante y por eso estoy aquí ahora ?
+Y ahora que mi vida se acerca al fin, me pregunto si, habré conseguido cumplir con mi misión en este mundo.
+Lo habre hecho bien ? o mal ?
 
-Claro que, si ni siquiera se de que se trata, como podria conseguirlo ? Como puedo llevar a cabo una mision que desconozco ?
+Claro que, si saber siquiera si tal misión existe, ni de que se trata, como podría conseguirlo ? 
+Como puedo llevar a cabo una misión que desconozco ?
 
-Tiene sentido pensar que existe una inteligencia tal que, es capaz de disenar todo esto ?
-Y que crea desde cero a cada criatura en cada pequeno detalle ?
+Tiene sentido pensar que existe una inteligencia tal que, es capaz de diseñar todo esto ?
+Una inteligencia que crea desde cero a cada criatura en cada pequeño detalle ?
 
-Una inteligencia que ha decidido lo que soy, lo que hago y lo que hare.
+Y que ha decidido lo que soy, lo que hago y lo que haré.
 Si eso fuera posible, esa inteligencia adonde esta ?
 Porque no puedo verla ?
 
@@ -27,118 +27,116 @@ Porque no puedo verla ?
 El relato contenido en estas paginas es, en lineas generales, la descripción de un  modelo teórico de computador.
 Un computador que, quizás, podría dar respuesta a algunas de estas preguntas.
 
-Un modelo que definiremos en detalle, pondremos a prueba, veremos en funcionamiento y analizaremos en sus características mas relevantes, en los siguientes capitulos.
+Un modelo que definiremos en detalle, pondremos a prueba, veremos en funcionamiento y analizaremos en sus características mas relevantes, en los siguientes capítulos.
 
 Y sin embargo, mientras desarrollamos una maquina de calculo, estaremos, en realidad, hablando de la vida y de nuestra propia existencia.
 
 Y aunque el contenido principal del relato se encuentra dentro del dominio de las ciencias de la computación, esta dirigido a todas las personas y no es necesario ningún conocimiento previo para entenderlo.
 
-Espero que las ideas que compartire en estas paginas proporcionen algo de confort a todas las personas que al igual que yo, desean encontrar respuestas a los misterios que plantea una vida plagada de incertidumbre.
+Espero que las ideas que compartiré en estas paginas proporcionen algo de confort, de tranquilidad, a todas las personas que al igual que yo, desean encontrar respuestas a las preguntas que plantea una vida plagada de misterio e incertidumbre.
 
----------------------------
+
 
 Hace algunos años, siendo yo un poco mas joven, vivía en una casa en las afueras de la ciudad.
-Era un lugar tranquilo, alejado del ruido, que disponía ademas de algo de terreno poblado por arboles frutales, que utilizábamos para criar patos y gallinas.
+Era un lugar tranquilo, alejado del ruido, que disponía ademas de algo de terreno poblado por arboles frutales, que utilizábamos también para criar patos y gallinas.
 
 No se trataba de una granja comercial, sino de criar aves solo para disfrutar de su compania.
 
 Lo recuerdo con cariño.
-Las aves son criaturas inteligentes y afectuosas y la convivencia con estos sorprendentes individuos ha sido una experiencia que considero, valiosa.
+Las aves son criaturas inteligentes y afectuosas y los pocos años que hemos convivido me han proporcionado una experiencia que considero de gran valor.
 
-Podia verlos desde las ventanas, un mundo de patos, ahora todos caminando para una lado, ahora todos caminando para el otro.
+Cada día, podía verlos desde las ventanas, un mundo de patos, ahora todos caminando hacia un lado, ahora todos caminando hacia el otro.
 Y así pasaban los días.
 Todos hacia un lado, todos hacia el otro, y con la llegada de la primavera, nacían mas patos.
 
 Verlos en acción, interactuar, era maravilloso.
 Y aun así, 
 no me ha parecido que hicieran mas cosas.
-solo hacian eso, ir de un lado al otro,
+solo hacían eso, ir de un lado al otro,
 comer, dormir, nadar en el estanque.
 
-Las cosas que hacian, en mi opinion, solo podian tener sentido para ellos.
+Las cosas que hacían, en mi opinión, solo podían tener sentido para ellos.
 
-No me ha parecido que la vida de los patos tuviera un impacto trascendental en el equilibrio de la naturaleza, ni en el destino del universo infinito.
-Juraria que, lo que suceda con sus vidas, solo les importa a ellos mismos.
+No me ha parecido que la vida de los patos tuviera un gran impacto en el equilibrio de la naturaleza, ni en el destino del universo infinito.
+Juraría que, lo que suceda con sus vidas, solo les importa a ellos mismos.
 
 Y entonces, 
 porque están aquí ?
 Porque la vida los crea ?
 
 
------------------------
+Alguien me ha comentado que, quizás serian necesarios para mantener el equilibrio del ecosistema.
+Y debo admitir que suena bien, parece tener sentido.
 
-Alguien me ha comentado que, quizas serian necesarios para mantener el equilibrio del ecosistema.
-Debo admitir que suena bien, parece tener sentido.
-
-Y sin embargo, cual es la necesidad de mantener el equilibrio del ecosistema, después de todo ?
+Sin embargo, cual es la necesidad de mantener el equilibrio del ecosistema, después de todo ?
 
 Tal vez mantener el equilibrio del ecosistema seria necesario para mantener con vida a las criaturas vivientes ?
-
-Y en este punto, el razonamiento empezara a dar vueltas en circulos, porque yo repetire la misma pregunta una y otra vez.
+Eso también suena bien, pero en este punto, el razonamiento empezara a dar vueltas en círculos, porque yo repetiré la misma pregunta una y otra vez.
 Cual es la necesidad de mantener con vida a las criaturas vivientes ?
  
-
----------------------------------
-
 
 La evidencia sugiere que, en este sistema biológico lo que es necesario es creado, y lo que ya no se necesita es eliminado.
 Y por lo tanto, si estamos aquí, es posible que sea porque somos necesarios por algún motivo.
 
 De modo que, arriesgare una hipótesis.
-Quizás formamos parte de algo mas grande, quizás somos una pieza de algún tipo de maquinaria, algo que desde nuestra posición no podemos ver ?
+Quizás formamos parte de algo mas grande, quizás somos una pieza de algún tipo de maquinaria, algo que desde nuestra perspectiva no podemos ver ?
 
-Analizaremos este punto con mas profundidad en los siguientes capitulos.
+Analizaremos este punto con mas profundidad en los siguientes capítulos.
 
 ----------------------
 
 
 La vida es un gran misterio.
-Y por muchos anyos que pasen, por mucho que observo y reflexiono, todo sigue igual, sin respuestas.
+Y por mucho tiempo que pase, por mucho que observo y reflexiono, todo sigue igual, sin respuestas.
 
-Y en el paso por la vida, muchas cosas me confunden, es todo muy extrano.
-Por ejemplo, cuando vemos que una especie se extingue,
-debemos evitarlo ?
+Como puedo estar seguro de lo que es real y lo que es un producto de mi imaginación ?
+
+Cuando veo una especie que se extingue,
+debo luchar para evitarlo ?
 
 Es un error que esa especie se extinga ?
 Es algo que no debe suceder ?
 
+Y porque tengo dientes en la boca ?
+Es eso algo malo ?
+Un error ?
+
 Puede equivocarse la vida ?
-Podemos nosotros encontrar errores en el diseno de la vida y proponer correcciones ?
+Podemos nosotros encontrar errores en el diseño de la vida y proponer correcciones ?
 
 Sera que somos mas inteligentes que la vida ?
 Es eso posible ?
 
-------------------------------
 
 Nuestros razonamientos dan vueltas en círculos cuando se trata de dar respuesta a preguntas sobre la vida y nuestra existencia.
 
-En parte porque nuestros razonamientos se basan en hipótesis que podrian contener errores.
+En parte porque nuestros razonamientos se basan en hipótesis que podrían contener errores.
 Y cuando intentamos razonar a partir de hipótesis erróneas, las conclusiones pueden ser absurdas.
 
 En particular, comentare 2 hipótesis que utilizamos con frecuencia y que podrían no ser correctas.
 
 
-La primera de estas hipotesis es:
+La primera de estas hipótesis es:
 
 Porque las criaturas se reproducen ? 
 La respuesta mas aceptada a esta pregunta es que: "Las criaturas se reproducen para propagar las especies".
 
 Es verdad que, al reproducirse las criaturas, las especies se propagan, si.
 
-Sin embargo, en mi opinion, la pregunta original sigue sin respuesta, "porque?".
+Sin embargo, en mi opinión, la pregunta original sigue sin respuesta, "porque?".
 Porque propagar las especies ?
 
 Veremos mas adelante que el motivo de la reproducción podría ser otro, ademas del mero hecho de propagar la especie, 
-que podria finalmente dar respuesta al "porque".
+que podría finalmente dar respuesta al "porque".
 
 
-La segunda hipotesis que comentare ahora es:
+La segunda hipótesis que comentare ahora es:
 
 Porque las criaturas mueren ?
-La respuesta mas comun a esta pregunta es: "La muerte no puede evitarse, porque la materia orgánica que forma a los seres vivientes se deteriora con el tiempo".
+La respuesta mas común a esta pregunta es: "La muerte no puede evitarse, porque la materia orgánica que forma a los seres vivientes se deteriora con el tiempo".
 
 Una vez mas la respuesta parece tener sentido, porque es verdad que la materia orgánica se deteriora con el tiempo.
-Pero nuevamente, esta respuesta podria ser un error, porque no esta probado que, la degradación de los tejidos no sea un mecanismo planificado.
+Pero nuevamente, esta respuesta podría ser un error, porque no esta probado que, la degradación de los tejidos no sea un mecanismo planificado.
 
 Veremos mas adelante que podría existir otro motivo que haría "necesaria" la muerte de las criaturas.
 
@@ -153,12 +151,13 @@ Y casi parece que hubiera una inteligencia descomunal, infinita, diseñando a to
 Es posible que exista una inteligencia semejante ?
 
 Ciertamente parece un personaje fantástico, del tipo mitológico.
-Y sin embargo, construir una maquinaria de estas características, requiere inteligencia.
+Y sin embargo, construir una maquinaria de estas características, requiere inteligencia, sin duda.
 De modo que, la inteligencia debe existir, necesariamente.
 
-Analizaremos esto, con detalle en los siguientes capitulos.
+Analizaremos esto, con detalle en los siguientes capítulos.
 
----------------------------
+
+
 
 
 Pero antes de entrar en mas detalles, antes de girar la primera pagina,
@@ -166,7 +165,7 @@ hay algunas cosas de las que ya estoy seguro.
 
 Y es que,
 Las criaturas vivientes, 
-un dia, de pronto, despertamos a la vida, como de un sueño.
+un día, despertamos a la vida, de pronto, como de un sueño.
 Y nos vemos obligados a luchar para sobrevivir en un entorno hostil.
 
 Y al igual que los patos que van hacia un lado, y después hacia el otro,
@@ -175,16 +174,39 @@ y así consumen otro día de sus vidas.
 Eso mismo hacemos todas las criaturas vivientes.
 Y seguimos hacia adelante, sin saber muy bien lo que hacemos ni porque.
 
+Y es quizás esta incertidumbre lo que nos preocupa.
+Creo que, al final de este relato, quedara claro lo que sucede, y la incertidumbre se disipara.
+Creo que quedara probado que no hay ningún error en ninguna parte.
+Y todo, esta perfectamente como esta.
+
+La vida es un regalo.
+Sin compromisos. No hemos adquirido ninguna deuda por ella. Y no se espera que paguemos ningún precio.
+
+Tu vida es tuya, vívela como quieras.
+Y todo ira bien, porque es así como debe ser.
+
+
+//////////////////////////////////
+
+
+No hay nada que un conejo pueda hacer, ninguna cosa, que ofenda a la vida.
+Del mismo modo en que una flor es incapaz de cometer errores.
+
+La hormiga trabajara duramente, para hacerlo a la perfección. Siempre.
+
+Porque todo es exactamente como debe ser.
+Y nada puede escapar al plan.
 
 Y el roble.
-Crece.
+Crece y crece.
 Y año tras año se cubre de flores.
-Y cada año crea bellotas y las esparce por la tierra.
+Y crea bellotas y las esparce por la tierra.
 
 Inmóvil.
 Crece.
 Durante mil años.
 Y un día, muere.
+
 
 
 

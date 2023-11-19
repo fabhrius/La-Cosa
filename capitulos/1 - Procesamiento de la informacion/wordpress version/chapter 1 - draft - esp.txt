@@ -149,18 +149,21 @@ El ADN:
 
 Una característica de todos los seres vivientes es que en todos ellos esta presente una molécula de gran tamaño que almacena la información necesaria para construir a un individuo.
 
+Llamaremos a esta molecula, ADN.
 
-El ADN, es diferente en todos los individuos.
+Podemos pensar en el ADN como en los planos de construccion del individuo.
+
+El ADN, es diferente en todos los individuos. Del mismo modo en que todos los individuos son diferentes.
 Dos individuos de la misma especie tendrán características en común, pero los detalles les harán diferentes.
 Del mismo modo el ADN sera diferente en los detalles.
 
 No es el objetivo de este relato describir el ADN de forma precisa.
-Solo utilizaremos una idea de forma muy general.
+Solo utilizaremos el concepto de forma muy general.
 Pensaremos que todos los individuos llevan la información que los define en su interior, y llamaremos a esto ADN.
 
-Y lo que nos interesa es lo siguiente, 
+Y lo que nos interesa, a efectos del experimento que estamos llevando a cabo, es lo siguiente, 
 si el ADN contiene la información necesaria para construir a un individuo, entonces esta funcionando como un soporte de información, o memoria.
-Esta es la utilidad que tendrá para nosotros, la de funcionar como memoria del sistema.
+Y esta es la utilidad que tendrá para nosotros, la de funcionar como memoria del sistema.
 
 El ADN tiene capacidad para almacenar una gran cantidad de información.
 Pensaremos en el ADN como una memoria de "solo lectura", es decir, que no puede ser modificada.
@@ -197,7 +200,7 @@ Esto es necesario para asegurar que no existan 2 individuos iguales. Veremos mas
 En la reproducción la información contenida en el ADN del padre sera modificada para crear al hijo.
 El hijo sera una nueva versión del padre.
 
-El mecanismo de reproducción, modifica la información, la procesa de algún modo para producir un nuevo individuo, un individuo diferente de todos los que han existido hasta ahora, e idealmente, un individuo mejorado.
+El mecanismo de reproducción, modifica la información contenida en el padre, la procesa de algún modo para producir un nuevo individuo, un individuo diferente de todos los que han existido hasta ahora, e idealmente, un individuo mejorado.
 
 No es, por lo tanto, una modificación aleatoria, es una modificación calculada cuidadosamente, podemos decir que es una modificación programada, ya que sobre los datos que describen al padre se ha aplicado algún tipo de "método", o función, para conseguir un resultado especifico.
 
@@ -205,7 +208,7 @@ No es, por lo tanto, una modificación aleatoria, es una modificación calculada
 De modo que, la información contenida en el padre no puede ser modificada por tratarse de una memoria de solo lectura, 
 sin embargo, puede ser leída, puede extraerse la información durante el proceso de reproducción, puede modificarse aplicando el método, y el resultado puede ser grabado en una nueva memoria de solo lectura, el hijo.
 
-De este modo podemos hacer que los datos que describen el contexto cambien de estado generación tras generación.
+De este modo podemos hacer que el conjunto de datos sobre los que esta trabajando el proceso, cambien de estado generación tras generación.
 
 La reproducción sera entonces el mecanismo que utilizaremos para procesar la información.
 
@@ -214,10 +217,10 @@ la vida proporciona todos los recursos necesarios, y no ha sido necesario modifi
 la vida es un computador natural.
 
 la función de Un individuo, en este modelo, es la de mantener un conjunto de datos.
-El estado en que el proceso se encontraba en un instante del tiempo.
+que describen el estado en que el proceso se encontraba en un instante del tiempo.
 
 Si consideramos que la información se procesa durante la reproducción, este sera un paso único, simple, en el proceso.
-la diferencia entre el padre y el hijo, sera la mínima de todas las posibles.
+y la diferencia entre el padre y el hijo, sera la mínima de todas las posibles.
 
 he comentado que, en general, la resolución de un problema requerirá de una serie de pasos, normalmente, mas de uno.
 De modo que, el padre no encontrara la solución al problema, ni tampoco el hijo.
@@ -234,7 +237,7 @@ un individuo representa el estado del calculo en un instante puntual del tiempo.
 
 observad que un individuo no es un computador, 
 sino únicamente la representación de un estado en el proceso de calculo.
-la maquina de calculo estará formada por todos los individuos de la especie.
+la maquina de calculo estará formada por todos los individuos de la especie, evolucionando a traves del tiempo.
 
 pero veamoslo mas despacio, paso a paso.
 he dicho que un individuo representa el "estado" del proceso en un particular instante del tiempo .

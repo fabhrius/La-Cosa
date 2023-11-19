@@ -30,7 +30,7 @@ y ademas, a que velocidad puede realizar el calculo.
 Hablamos de potencia de calculo en función de la complejidad de los problemas.
 Empezaremos el análisis viendo cuales son las características que hacen que un problema sea mas complejo que otro.
 
-Hablaremos de complejidad de los problemas en este capitulo, y dejaremos el análisis de la potencia de calculo para mas adelante.
+Hablaremos de complejidad de los problemas en este capitulo, y dejaremos el análisis de la potencia de calculo para el siguiente capitulo.
 
 
 Complejidad de un problema:
@@ -62,6 +62,8 @@ Las decisiones tienen coste.
 
 Con cada decisión el camino se bifurca 
 y a medida que aumenta el numero de decisiones que deben tomarse aumentan el numero de caminos posibles que debemos recorrer para encontrar la solución del problema.
+
+(dibujo)
 
 Y a medida que se agregan mas y mas decisiones, rápidamente el numero de caminos tiende a infinito, 
 o dicho de otro modo, 
