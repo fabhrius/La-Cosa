@@ -1,0 +1,150 @@
+
+
+Solo nos queda revisar una ultima idea antes de comenzar.
+Veamos a que llamaremos "estados del proceso", y de que modo podemos utilizar esta idea en el diseño de una maquina de calculo.
+
+
+Estados de un proceso.
+
+
+Digamos que estamos jugando una partida de ajedrez y que quisiéramos suspenderla por hoy para continuar mañana desde el mismo punto en que la hemos dejado.
+
+Para hacer esto, deberíamos recordar en que "estado" se encontraba la partida cuando la hemos suspendido.
+Con este propósito, seria suficiente apuntar en una lista la posición de cada ficha en el tablero, y quien debe jugar a continuación.
+
+Así podríamos reconstruir el juego, poniendo cada ficha en su posición, y retomar el juego desde el mismo estado en que había quedado cuando lo hemos suspendido.
+
+Podemos observar como el juego cambiara de estado a medida que evoluciona.
+Mas concretamente, cambiara de estado cada vez que se realice un movimiento.
+
+Una foto del tablero no nos mostrara la evolución completa del juego desde el principio hasta el fin, sino solo el "estado" en que se encontraba en un instante puntual del tiempo.
+
+El juego atravesara diferentes estados mientras avanza desde el inicio hacia el fin.
+
+
+Veamos otra vez el ejemplo de la suma de un listado de numero que hemos visto en el capitulo anterior.
+Encontrar la solución ha requerido 4 operaciones, 4 pasos en el proceso de calculo.
+
+(grafico)
+
+Y después de cada paso, después de cada operación de suma, algo ha cambiado en el conjunto de datos.
+El conjunto de datos cambia de estado cada vez que realizamos una operación.
+
+
+La idea de que el proceso de calculo evoluciona cambiando de estado nos sera útil.
+Y entre los posibles estados que atravesara un proceso podemos distinguir 3 tipos característicos:
+
+- el estado inicial
+- el estado final
+- y los estados intermedios
+
+
+El estado inicial, representa el estado en que el proceso se encontraba antes de empezar.
+
+En el caso de la partida de ajedrez, el estado inicial es cuando todas las fichas están colocadas en la posición de salida y todavía no se ha realizado ningún movimiento.
+
+En el caso de la suma del listado de números, el estado inicial es cuando tenemos el listado de números completo y el valor del resultado parcial es todavía cero. No se ha realizado ningún calculo.
+
+El estado final, representa el estado que queremos alcanzar. El momento en que el proceso alcanza su resolución y termina.
+
+En el caso de la partida de ajedrez, el estado final se alcanza cuando se ha dado jaque-mate.
+Y en el caso de la suma de números, el estado final se alcanza cuando obtenemos el resultado total.
+
+Los estados intermedios son todos aquellos estados que no son estados iniciales ni estados finales.
+
+En el caso de la partida de ajedrez, el juego atravesara por una serie de estados intermedios antes de llegar al estado final.
+En el caso de la suma de números, entre el estado inicial y el estado final existen 3 estados intermedios.
+
+
+(grafico)
+
+
+Grafos.
+
+El concepto de estados del proceso y entender como un proceso cambiara de estado cada vez que se realice una operación, 
+nos ayudara a resolver problemas.
+Junto con la idea de estados utilizaremos una estructura llamada "grafo".
+Comentare brevemente lo que es un grafo y como lo utilizaremos.
+
+En matemáticas y ciencias de la computación, un "grafo" es una estructura abstracta que representa relaciones entre objetos. 
+Un grafo consiste en un conjunto de nodos y un conjunto de aristas que conectan pares de nodos.
+
+Sobre el papel representaremos un nodo como un circulo y una arista como una linea.
+
+(dibujo)
+
+Dentro de los nodos, colocaremos estados, un estado en cada nodo, y las aristas nos mostraran la relación entre un estado y el anterior.
+
+Veamos algunos ejemplos con el juego de 3 en linea.
+
+El juego empieza con el tablero vacío.
+Por lo tanto, el estado inicial es un tablero sin fichas, todavía no ha sido realizado ningún movimiento.
+
+Colocaremos este estado inicial dentro de un nodo.
+
+(grafico)
+
+
+El siguiente estado se obtiene realizando un movimiento valido.
+El primer jugador debe colocar una ficha en el tablero.
+En este momento el tablero tiene 9 casillas vaciás, y por lo tanto existen 9 posibles movimientos validos.
+Nueve posibles nuevos estados.
+Colocamos cada uno de estos nuevos estados en nodos y los unimos al padre con aristas.
+
+(grafico)
+
+
+Observad que las aristas nos muestran la relación de padres a hijos, o de antepasados a descendientes, porque un estado es consecuencia del anterior.
+El nuevo estado se genera realizando una jugada valida desde el estado anterior y por lo tanto no puede ser consecuencia de otros estados, solo puede ser descendiente del estado padre.
+
+Los movimientos validos a partir del estado inicial son nueve, y han generado nueve nuevos estados.
+el siguiente paso es realizar todos los movimientos validos a partir de estos nuevos estados y agregar nuevos nodos al grafo.
+
+Lo mostrare gráficamente solo para uno de ellos.
+
+(grafico)
+
+
+Y continuar con este procedimiento hasta el final, hasta que se hayan generado todos los estados posibles y el proceso termine.
+Esto nos mostrara, todas las posibilidades que tiene el juego, y todos los posibles estados finales que existen.
+Existen muchas formas de ganar la partida.
+
+Nos mostrara también, los caminos, formados por nodos y aristas, que llevan desde el estado inicial hacia cualquiera de los estados finales.
+
+En el siguiente grafico vemos solo uno de los caminos que va desde el estado inicial hasta uno de los posibles estados finales.
+
+(grafico)
+
+En el dibujo se muestra solo el camino aislado, pero como podéis imaginar para encontrar este camino se han generado un gran numero de otros estados, nodos y aristas.
+
+En concreto, en este juego de 3 en linea, siendo un ejemplo simple, existen 
+9*8*7*6*5*4*3*2 posibles estados.
+Es decir 362.880 estados posibles.
+
+
+Lo importante aquí es que veáis como el concepto de estados puede utilizarse junto con un grafo para encontrar la solución a un problema.
+
+Intentad imaginar ahora la misma técnica aplicada al juego de ajedrez.
+El grafo sera notablemente mas complejo que el del juego de 3 en linea, el numero de estados por los que podría atravesar una partida de ajedrez es aproximadamente de 10 elevado a 120, algo así como un uno seguido por 120 ceros.
+
+Pero si consiguiéramos generar todos los estados y crear con ellos un grafo, entonces tendríamos un mapa que nos mostraría todos los posibles caminos entre estados que llevan desde el estado inicial hasta un estado final.
+Con este mapa podríamos buscar el estado en que nos encontramos ahora, y a partir de allí ver cual es la jugada que debo hacer a continuación para acercarme hasta alguno de los estados finales.
+Con este mapa siempre sabría que ficha debo mover a continuación para ganar. 
+Simplemente siguiendo el camino.
+
+Tomaros un momento para pensarlo.
+
+Antes de continuar debo comentar, sin embargo, que el grafo del juego de ajedrez es demasiado grande para alojarlo completamente en la memoria de un computador, y por lo tanto, aunque los computadores utilizan esta técnica para jugar al ajedrez, la utilizan combinada con otras técnicas que les permiten aprovechar grafos de tamaño reducido.
+
+La memoria de los computadores es limitada, y muchos problemas del universo real, podrían requerir mas memoria de la disponible, una característica que puede convertir a muchos de estos problemas en inabordables.
+Volveremos a comentar esta limitación de los computadores mas adelante.
+
+Muy bien.
+Hemos hablado de los estados de un proceso, hemos hablado de grafos, y de como es posible encontrar respuestas combinando grafos con estados.
+
+Ya lo tenemos todo.
+Con estas ideas en mente, estamos preparados para iniciar la construcción del computador y llevar a cabo el experimento.
+
+
+
+

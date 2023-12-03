@@ -12,6 +12,11 @@ el comportamiento de las criaturas.
 revision, que somos, reproduccion, muerte, objetivos.
 podemos corregirlo ?
 
+cual es la funcion del individuo ?
+puede un individuo fallar en su mision ?
+
+
+
 Conclusiones
 
 
@@ -89,6 +94,10 @@ el espiritu:
 
 mis acciones, mis deseos, mis necesidades, no las he creado yo.
 
+los impulsos, deseos, necesidades, guian nuestras acciones.
+es la forma de mostrarnos el camino, lo que debemos hacer.
+
+
 
 -------------------------
 
@@ -112,7 +121,20 @@ alli adonde exista sufiente cantidad de materia, la vida surgira espontaneamente
 probabilidad de error:
 
 la precision o exactitud, en matematicas viene determinada por la cantidad de digitos utilizados en la representacion de un valor o medida.
-Una balanza para pesar personas puede tener una precision de 100 gramos, es decir que puede decirnos cuantos kilos y hasta centanas de gramos pesa una persona, pero puede dar mas informacion.
-Una balanza farmaceutica puede tener una precision de miligramos.
+Una balanza para pesar personas puede tener una precision de 100 gramos, es decir que puede decirnos cuantos kilos y hasta centenas de gramos pesa una persona, pero no dara mas informacion.
+Una balanza farmaceutica tendra normalmente, como minimo, una precision de miligramos.
+Una balanza para pesar grandes vehiculos como camiones o barcos, tendra una precision de kilos.
 
+
+junto con la idea de precision, utilizamos la idea de error.
+el error es aquella parte de la informacion que no se conoce debido a la precision utilizada.
+
+si pesamos un gran barco, nos bastara con saber cual es su peso en toneladas.
+podemos pesarlo con una balanza que tenga una precision de kilos.
+Asi el valor sera exacto, kilo arriba, kilo abajo.
+Esta precision es mas que suficiente.
+Y el error, en este caso, sera de un kilo.
+
+digamos que tengo una medida en gramos con esta precision
+0.001
 
