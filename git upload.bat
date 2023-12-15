@@ -1,7 +1,6 @@
 
 REM Get the current date and time
 set "datetime=%DATE% %TIME%"
-set "datetime=%datetime:~0,2%%datetime:~3,2%%datetime:~6,4%_%datetime:~12,2%%datetime:~15,2%%datetime:~18,2%"
 
 REM Add all changes to the staging area
 git add .
