@@ -104,6 +104,8 @@ Como podria recorrer un camino que no tiene fin ?
 
 El sol se levantaba detras del bosque.
 Me puse en pie.
+Y avance.
+
 
 El camino mas largo se recorre,
 un paso a la vez.
@@ -174,7 +176,9 @@ por toda la eternidad.
 En un lugar del universo infinito,
 existe una criatura de una inteligencia extraordinaria.
 Una criatura inmortal, 
-que pasa su vida, sola.
+perteneciente a una especie en la que solo puede existir un ejemplar.
+
+Y pasa el tiempo
 Observando el universo.
 Pensando.
 Sola.
