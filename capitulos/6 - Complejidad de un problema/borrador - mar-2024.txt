@@ -1,0 +1,30 @@
+introducction:
+
+intentaremos ahora medir la potencia de calculo de este sistema.
+y cuando hablamos de potencia de calculo lo que nos interesa en realidad es determinar cual es la complejidad de los problemas que este sistema podria abordar.
+
+los sistemas computacionales pueden ser clasificados jerarquicamente segun su potencia de calculo.
+Desde los computadores personales que utilizamos a diario, hasta los potentes supercomputadores utilizados para la investigacion cientifica.
+Existe una amplia gama de modelos de sistemas computacionales, adaptados a diferentes propositos.
+La jerarquia de computadores segun su potencia de calculo evoluciona continuamente
+
+Y lo que nos proponemos es establecer el lugar que este sistema basado en familias de criaturas vivientes deberia ocupar en la jerarquia.
+ 
+para establecer la potencia de calculo, analizaremos primero cual es la complejidad de los problemas que puede abordar.
+y ese sera el objetivo de este capitulo.
+
+hablaremos de complejidad de los prombemas.
+Y dejaremos la potencia de calculo para el siguiente capitulo.
+
+
+-----------------------------
+
+no todos los problemas son iguales, algunos son triviales, y pueden resolverse sin esfuerzo, pero otros pueden ser extremadamente complejos, otros pueden ser irresolubles, otros pueden ser inabordables debido al alto coste en recursos como tiempo y memoria necesarios para su resolucion.
+
+un estudio minucioso de la complejidad de los problemas queda fuera del alcance de este relato.
+sin embargo, podemos hablar de complejidad
+
+
+
+
+

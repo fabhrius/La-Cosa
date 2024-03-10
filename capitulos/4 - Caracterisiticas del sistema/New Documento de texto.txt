@@ -7,6 +7,13 @@ que es exactamente esta cosa.
 que tipo de problemas puede resolver.
 que podemos esperar de un sistema como este
 
+-----------------
+
+para responder a estas preguntas podriamos compararlo con otros sistemas y establecer que lugar podria ocupar dentro de la jerarquia de los sistemas de calculo.
+
+
+------------------
+
 En los siguientes capitulos, analizaremos algunas de sus caracteristicas.
 En particular,
 
@@ -21,10 +28,13 @@ puede resolver problemas mas complejos que otros sistemas, o menos ?
 - su coste, 
 en terminos de, cual es el coste de resolver un problema utilizando un sistema de este tipo ?
 
+- su precision,
+intentaremos tambien establecer cual podria ser el grado de error que podemos esperar de un sistema como este.
 
-Con esta informacion podremos entender mejor lo que esta cosa es.
+
+Con esta informacion podremos entender mejor lo que esta maquina es.
 Podremos encontrar su lugar dentro del universo de los sistemas inteligentes.
-Y podremos entender la necesidad de algunos detalles que ahora pasan desapercibidos.
+Y podremos entender la necesidad de algunos detalles que ahora podrian pasan desapercibidos.
 
 
 

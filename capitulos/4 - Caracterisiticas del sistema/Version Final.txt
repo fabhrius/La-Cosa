@@ -1,0 +1,59 @@
+hemos visto como esta maquina ha realizado el calculo.
+
+y hemos visto que ha encontrado la solucion sin gran dificultad.                                      
+
+simplemente creando un individuo que almacena la informacion del contexto del problema, que sabe como procesar la informacion, y que cumplira con un ciclo de vida.
+
+Eso creara un sistema de calculo que una vez puesto en marcha terminara por encontrar la solucion al problema, solo es cuestion de tiempo.
+
+
+-------------------------------
+
+voy a proponer una teoria.
+
+tomemos como modelo un cerebro.
+de forma muy simplificada, un cerebro utiliza diferentes procesos que se ejecutan en paralelo.
+digamos que voy conduciendo un automovil.
+mientras conduzco, oigo la radio, pienso en mis propios asuntos, reconozco el lugar en el que estoy, respiro, reacciono rapidamente ante un obstaculo, entre otras cosas.
+toda esta actividad se realiza utilizando diferentes procesos que se ejecutan en paralelo.
+
+en el experimento del capitulo anterior hemos visto como una familia de individuos forman parte de un proceso de calculo.
+es por lo tanto posible que cada especie este realizando un proceso diferente ?
+
+algunos procesos se ejecutan mas rapidamente, otros mas lentamente.
+ciertos mamiferos pueden producir una generacion cada 20 anyos.
+el maiz puede producir una nueva generacion cada anyo.
+algunos insectos cada dia.
+algunas bacterias cada pocos minutos.
+
+si todas las distintas especies de seres vivientes, plantas y animales que vemos sobre la tierra realizan diferentes procesos, entonces podriamos establecer cierta similitud con el funcionamiento general de un cerebro ?
+
+y si todos estos individuos no estuvieran tan aislados como parece a simple vista, si no fueran tan independientes como aparentan sino que todos ellos fueran las celulas que forman a una criatura ?
+
+Es posible que la vida sea en realidad, una unica criatura ?
+Porque si asi fuera, entonces, esa criatura estaria pensando.
+
+-------------------------
+
+la percepcion del tiempo es subjetiva.
+para un insecto que vive una vida completa en un dia, un dia puede ser percibido como un siglo.
+
+cuanto dura un dia para una criatura inmortal ?
+quizas para una criatura inmortal un anyo es percibido como una pequena fraccion de un segundo.
+y con sus ojos veria la tierra girando a gran velocidad alrededor del sol, y a la luna girando rapidamente alrededor de la tierra.
+con esta percepcion del tiempo diferente, los procesos de calculo realizados por este sistema de familias y especies, se ejecutarian a gran velocidad.
+
+---------------------------------
+
+
+Vamos a dejar de momento esta idea.
+volveremos a revisar esto mas adelante, cuando tengamos mas informacion.
+
+Y ese sera el objetivo de los proximos capitulos.
+Obtener mas informacion.
+
+
+analizaremos con mas detalle el funcionamiento de esta maquina de calculo para averiguar
+
+
+
