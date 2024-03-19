@@ -8,7 +8,8 @@ Desde los computadores personales que utilizamos a diario, hasta los potentes su
 Existe una amplia gama de modelos de sistemas computacionales, adaptados a diferentes propositos.
 La jerarquia de computadores segun su potencia de calculo evoluciona continuamente
 
-Y lo que nos proponemos es establecer el lugar que este sistema basado en familias de criaturas vivientes deberia ocupar en la jerarquia.
+
+Y lo que nos proponemos es establecer el lugar que este sistema basado en familias de criaturas vivientes deberia ocupar en esta jerarquia.
  
 para establecer la potencia de calculo, analizaremos primero cual es la complejidad de los problemas que puede abordar.
 y ese sera el objetivo de este capitulo.
@@ -19,10 +20,117 @@ Y dejaremos la potencia de calculo para el siguiente capitulo.
 
 -----------------------------
 
-no todos los problemas son iguales, algunos son triviales, y pueden resolverse sin esfuerzo, pero otros pueden ser extremadamente complejos, otros pueden ser irresolubles, otros pueden ser inabordables debido al alto coste en recursos como tiempo y memoria necesarios para su resolucion.
+Complejidad de los problemas:
+
+no todos los problemas son iguales.
+Algunos son triviales y pueden resolverse sin esfuerzo, pero otros pueden ser extremadamente complejos.
+Ciertos problemas son irresolubles.
+Existen problemas que deben ser considerados inabordables, debido al alto coste en recursos como tiempo y memoria necesarios para su resolucion.
+
+la clasificacion de los problemas segun su complejidad es en si misma compleja.
+podemos hablar de determinismo y no determinismo, problemas tratables e intratables y un largo etcetera de otras posiblidades.
 
 un estudio minucioso de la complejidad de los problemas queda fuera del alcance de este relato.
-sin embargo, podemos hablar de complejidad
+sin embargo, podemos hablar de complejidad de forma simplificada y a la vez rigurosa.
+Eso bastara para hacernos una idea aproximada acerca de la capacidad de este sistema.
+
+para simplificar nuestros razonamientos acerca de la complejidad nos centraremos en un unico tipo de problemas, los problemas de decision.
+
+
+Y he elegido a los problemas de decision porque
+si dividimos a todos los problemas en 2 conjuntos, 
+los problemas de decision y los problemas que no son de decision, 
+veremos como el conjunto de los problemas de decision es muy grande y contiene a una gran variedad de tipos de problemas.
+E incluso dentro del conjunto de los problemas que no son de decision, muchos de ellos pueden transformarse en problemas de decision.
+
+Es por lo tanto, un conjunto que nos proporcionara una amplia vision cuando hablamos de complejidad.
+Ademas, podemos simplificar el analisis para que sea comprensible por todos.
+Y este analisis simplificado y accesible nos dara una idea acerca del impacto que la complejidad de los problemas puede tener en los sistemas de calculo.
+
+
+-----------------------------
+
+Hablemos pues de decisiones.
+
+todos nosotros debemos tomar decisiones continuamente.
+Y aunque algunas personas tienen mayor facilidad para tomar decisiones que otras, la realidad es que para todos tomar una decision siempre es un problema.
+
+llegamos a una esquina y nos preguntamos, ahora por donde debo continuar ?, voy hacia la izquierda o hacia la derecha ?
+En general podemos reducir las decisiones a responder a la pregunta, si o no ?
+
+
+
+
+............
+
+Y utilizaremos esta idea.
+'Las decisiones incrementan la complejidad del problema'.
+
+Una decisión puede verse como, una bifurcación en el camino.
+Por donde debo continuar ?
+
+El numero de decisiones que deben tomarse para encontrar la solución es un buen indicador del grado de complejidad de un problema.
+
+
+Las decisiones tienen coste.
+
+Con cada decisión el camino se bifurca 
+y a medida que aumenta el numero de decisiones que deben tomarse aumentan el numero de caminos posibles que debemos recorrer para encontrar la solución del problema.
+
+(dibujo)
+
+Y a medida que se agregan mas y mas decisiones, rápidamente el numero de caminos tiende a infinito, 
+o dicho de otro modo, 
+el numero de caminos se vuelve demasiado grande para recorrerlos todos con el tiempo y recursos disponibles.
+
+Veamos un ejemplo.
+Digamos que queremos saber como ganar una partida de ajedrez.
+Analicemos las posibilidades.
+
+Partiendo del estado inicial, 
+el tablero con las fichas en su posición de salida, 
+cuantos posibles movimientos pueden hacerse a partir de aquí ?
+
+Desde la posición inicial, 
+pueden moverse alguno de los peones o alguno de los caballos.
+Y esto significa, 20 posibles movimientos diferentes.
+Cual sera el mejor de ellos ?
+
+Tendré que probarlos todos para compararlos.
+Solo para comenzar la partida, desde el punto de salida pueden verse 20 posibles caminos diferentes.
+
+Y cuantos movimientos diferentes podrían hacer las negras para responder a esta primera jugada de las blancas ?
+Otros 20.
+
+Esto creara 
+20 por 20 = 400 escenarios diferentes.
+
+Solo se han movido 2 fichas, una blanca y una negra, y ya se han abierto 400 caminos diferentes.
+Y con cada nuevo movimiento el numero de posibles caminos se multiplica.
+
+Este problema ciertamente no es trivial.
+
+Cual de todos estos caminos me llevara al estado final deseado ?
+Cual de todos ellos me llevara a ganar la partida ?
+
+Tendré que recorrerlos todos para saberlo.
+
+Resolver este problema requerirá recursos como tiempo y memoria.
+
+Tiempo, para recorrer todos los posibles caminos,
+Y memoria, para recordarlos todos y poder compararlos.
+Solo así sabre cual es el mejor.
+
+Las decisiones, incrementan la complejidad del problema, y los recursos necesarios para resolverlo.
+Esto se transforma en un incremento en el coste.
+
+Podemos decir que las decisiones son el problema.
+Y cuantas mas decisiones, mayor es el problema.
+
+En resumen.
+Los problemas se vuelven mas complejos a medida que aumenta el numero de decisiones que deben tomarse para resolverlo.
+
+
 
 
 

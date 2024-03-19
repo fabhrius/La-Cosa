@@ -1,0 +1,7 @@
+post
+	en authors : 
+		hay otros principiantes como yo ? contacta
+	en ciencia :
+		alguien con teorias como yo ? contacta
+	en espiritualidad :
+		
