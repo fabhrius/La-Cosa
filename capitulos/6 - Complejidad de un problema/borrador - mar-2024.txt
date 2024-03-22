@@ -39,7 +39,7 @@ para simplificar nuestros razonamientos acerca de la complejidad nos centraremos
 
 Y he elegido a los problemas de decision porque
 si dividimos a todos los problemas en 2 conjuntos, 
-los problemas de decision y los problemas que no son de decision, 
+los problemas que son de decision y los problemas que no son de decision, 
 veremos como el conjunto de los problemas de decision es muy grande y contiene a una gran variedad de tipos de problemas.
 E incluso dentro del conjunto de los problemas que no son de decision, muchos de ellos pueden transformarse en problemas de decision.
 
@@ -50,38 +50,32 @@ Y este analisis simplificado y accesible nos dara una idea acerca del impacto qu
 
 -----------------------------
 
-Hablemos pues de decisiones.
+Hablemos de decisiones.
 
 todos nosotros debemos tomar decisiones continuamente.
-Y aunque algunas personas tienen mayor facilidad para tomar decisiones que otras, la realidad es que para todos tomar una decision siempre es un problema.
+Y aunque algunas personas tienen mas facilidad para tomar decisiones que otras, la realidad es que para todos tomar una decision siempre es un problema.
 
-llegamos a una esquina y nos preguntamos, ahora por donde debo continuar ?, voy hacia la izquierda o hacia la derecha ?
-En general podemos reducir las decisiones a responder a la pregunta, si o no ?
+Podemos reducir las decisiones a preguntas que se responden con  si o no.
 
-
-
-
-............
+Una decisión puede verse como, una bifurcación en el camino.
+Por donde debo continuar ?
+llegamos a una esquina y nos preguntamos, debo ir hacia la izquierda o hacia la derecha ?
 
 Y utilizaremos esta idea.
 'Las decisiones incrementan la complejidad del problema'.
 
-Una decisión puede verse como, una bifurcación en el camino.
-Por donde debo continuar ?
-
 El numero de decisiones que deben tomarse para encontrar la solución es un buen indicador del grado de complejidad de un problema.
-
 
 Las decisiones tienen coste.
 
 Con cada decisión el camino se bifurca 
-y a medida que aumenta el numero de decisiones que deben tomarse aumentan el numero de caminos posibles que debemos recorrer para encontrar la solución del problema.
+y a medida que aumenta el numero de decisiones que deben tomarse aumenta tambien el numero de caminos posibles que debemos recorrer para encontrar la solución del problema.
 
 (dibujo)
 
 Y a medida que se agregan mas y mas decisiones, rápidamente el numero de caminos tiende a infinito, 
 o dicho de otro modo, 
-el numero de caminos se vuelve demasiado grande para recorrerlos todos con el tiempo y recursos disponibles.
+el numero de caminos se vuelve demasiado grande para recorrerlos todos con el tiempo y los recursos disponibles.
 
 Veamos un ejemplo.
 Digamos que queremos saber como ganar una partida de ajedrez.
@@ -91,16 +85,29 @@ Partiendo del estado inicial,
 el tablero con las fichas en su posición de salida, 
 cuantos posibles movimientos pueden hacerse a partir de aquí ?
 
+Las blancas deben comenzar la partida.
 Desde la posición inicial, 
 pueden moverse alguno de los peones o alguno de los caballos.
-Y esto significa, 20 posibles movimientos diferentes.
+Los peones son ocho, y cada uno de ellos puede avanzar una casilla o dos.
+Esto nos proporciona, 8 por 2, 16 posibles movimientos para los peones.
+Los caballos son 2, y desde la posicion inicial cada uno de ellos puede mover en 2 direcciones.
+Asi, 2 por 2 son 4 posibles movimientos para los caballos.
+16 movimientos para los peones, mas 4 movimientos para los caballos.
+20 posibles movimientos diferentes.
 Cual sera el mejor de ellos ?
 
 Tendré que probarlos todos para compararlos.
+
+Imaginemos que creamos un grafo que nos muestre los caminos entre estados.
+en el primer nodo colocamos el estado inicial, el tablero con todas las fichas en su posicion de salida.
+despues de esto, con los 20 posibles movimientos que pueden hacerse desde el estado inicial, creamos los siguientes 20 estados, y los unimos al primer nodo con aristas.
+
 Solo para comenzar la partida, desde el punto de salida pueden verse 20 posibles caminos diferentes.
 
 Y cuantos movimientos diferentes podrían hacer las negras para responder a esta primera jugada de las blancas ?
 Otros 20.
+
+Es decir que por cada uno de los 20 estados que representan un primer movimiento de las blancas, las negras pueden responder de 20 formas diferentes, 20 nuevos estados que unimos con aristas a cada uno de los estados anteriores.
 
 Esto creara 
 20 por 20 = 400 escenarios diferentes.
