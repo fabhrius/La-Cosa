@@ -1,0 +1,3 @@
+el adn almacena informacion
+y la reproduccion la modifica
+realizaremos una simulacion que nos mostrara lo que es posible hacer con estos recursos.

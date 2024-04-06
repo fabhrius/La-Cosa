@@ -15,7 +15,7 @@ para establecer la potencia de calculo, analizaremos primero cual es la compleji
 y ese sera el objetivo de este capitulo.
 
 hablaremos de complejidad de los prombemas.
-Y dejaremos la potencia de calculo para el siguiente capitulo.
+Y continuaremos hablando de potencia de calculo en el siguiente capitulo.
 
 
 -----------------------------
@@ -45,7 +45,7 @@ E incluso dentro del conjunto de los problemas que no son de decision, muchos de
 
 Es por lo tanto, un conjunto que nos proporcionara una amplia vision cuando hablamos de complejidad.
 Ademas, podemos simplificar el analisis para que sea comprensible por todos.
-Y este analisis simplificado y accesible nos dara una idea acerca del impacto que la complejidad de los problemas puede tener en los sistemas de calculo.
+Y este analisis simplificado y accesible nos dara una buena idea sobre el impacto que la complejidad de los problemas puede tener en los sistemas de calculo.
 
 
 -----------------------------
