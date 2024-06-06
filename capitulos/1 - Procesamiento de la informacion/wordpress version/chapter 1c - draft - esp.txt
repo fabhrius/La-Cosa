@@ -1,0 +1,333 @@
+Introducción: 
+
+/*******************/
+
+Voy a proponer algunas ideas con el objetivo de establecer la base teorica para la construccion de un computador.
+
+Lo desarrollaremos juntos, paso a paso.
+Y para ponerlo a prueba haremos que juegue a un juego de mesa.
+
+Espero que este experimento nos ayude a desvelar algunos de los muchos misterios que rodean a la vida, 
+y en particular, entender un poco mejor lo que nosotros somos.
+
+El modelo de computador que discutiremos no es electronico, como aquellos que utilizamos a diario, 
+sino "biologico".
+Se trata de una maquina que esta viva.
+
+El sistema de calculo que comentaremos forma parte de toda la vida que conocemos.
+
+Veremos que se trata de un sistema inteligente capaz de procesar informacion, encontrar soluciones y aprender.
+
+----------------
+
+Como punto de partida, adelantare de forma resumida algunos detalles de la estructura de este sistema inteligente.
+
+La maquina sera una simulacion de la vida.
+Vida en accion, viviendo, evolucionando.
+
+La maquina, estara formada por un conjunto de individuos de alguna especie de seres vivientes.
+Los individuos se reproduciran haciendo variar la población a medida que transcurre el tiempo.
+Y sera la población, la colonia de individuos, la que encontrara solucion a los problemas logicos que plantearemos, de forma parecida a como lo haria un computador.
+
+Querremos que la población sea tan numerosa como sea posible.
+Sin embargo, siendo que los individuos se reproducen, para poner en marcha el sistema bastara con crear a un unico individuo, el primero.
+
+Este individuo sera una abstracción lógica que simulara el comportamiento mínimo, general, que tienen en común todos los individuos de todas las especies de seres vivientes.
+
+-------
+
+Todos los individuos de todas las especies de seres vivientes, nacen, se reproducen y mueren.
+Este es el comportamiento que todos ellos comparten.
+Y esto sera lo único que un individuo en esta simulación podrá hacer.
+Nacer, reproducirse y morir.
+
+Un individuo con estas características sera el único bloque de construcción que necesitamos para construir una maquina de calculo.
+
+
+Lo veremos en detalle, paso a paso.
+
+
+Pero antes de empezar, discutiremos algunas ideas que nos ayudaran a entender como funciona este sistema y nos guiaran en el diseño del modelo.
+
+(EL PROCESO DE CALCULO)
+
+/******************/
+
+A lo largo de los próximos capítulos, desarrollaremos un computador y lo pondremos a prueba.
+Realizaremos con el un experimento que nos ayudara a entender un poco mejor lo que nosotros somos.
+Y espero que, nos ayude a desvelar algunos de los muchos misterios que rodean a la vida.
+
+El modelo de computador que voy a proponer no es electrónico como aquellos que utilizamos a diario, sino que esta basado en una tecnología diferente, podemos decir que se trata de un computador "biológico", ya que la maquina esta viva.
+Y aunque no disponemos de los recursos necesarios para crear vida en el laboratorio, podremos simularlo con abstracciones matemáticas.
+
+-------
+
+Para entender este punto, adelantare de forma resumida algunos detalles de la estructura del sistema.
+
+La maquina simulara a la vida en acción, evolucionando, y estará formada por individuos de alguna especie de seres vivientes que a su vez formaran una colonia.
+Y sera esta colonia de criaturas la que resolverá los problemas lógicos que le planteemos, de manera parecida a como lo haría un computador.
+
+Estoy seguro que ver a la vida en acción en este experimento, aportara información valiosa, y nos proporcionara una perspectiva diferente, acerca de lo que la vida podría ser.
+
+Para construir a esta colonia, crearemos primero a un individuo.
+Este individuo sera una abstracción lógica que simulara el comportamiento mínimo, general, que tienen en común todos los individuos de todas las especies de seres vivientes.
+
+Todos los individuos de todas las especies de seres vivientes, nacen, se reproducen y mueren.
+Este es el comportamiento que todos ellos comparten.
+Y esto sera lo único que un individuo en esta simulación podrá hacer.
+Nacer, reproducirse y morir.
+
+Un individuo con estas características sera el único bloque de construcción que necesitamos para construir una maquina de calculo.
+
+Lo veremos mas adelante en detalle.
+
+
+Pero antes de empezar, discutiremos algunas ideas que nos ayudaran a entender como funciona este sistema y nos guiaran en el diseño del modelo.
+
+
+
+------------------------
+
+El proceso de calculo en lineas generales:
+
+
+Los computadores pueden encontrar soluciones para un cierto tipo de problemas.
+Aquellos problemas que llamamos "computables".
+Y para llevar a cabo esta tarea, "procesan información".
+
+El proceso de resolución de un problema, se inicia con la declaración de un "conjunto de datos" que describen el contexto del problema.
+
+Por ejemplo, si digo: "dos trenes salen de la estación A, ..., cual de ellos llegara primero a destino ?"
+Necesitare algo de información para realizar el calculo, verdad ?, como por ejemplo, la velocidad de los trenes.
+Esta información es el conjunto de datos iniciales que describen el contexto del problema.
+
+Es sobre estos datos que se realizaran operaciones, y estas operaciones aportaran nueva información que se incluirá, a su vez, en el conjunto de datos conocidos.
+
+A medida que agregamos nueva información al conjunto de datos, este "cambia de estado".
+Y con cada nueva operación obtenemos mas información, sabemos mas, e idealmente, estaríamos mas cerca de encontrar la respuesta que buscamos.
+
+Algunos problemas podrían resolverse de inmediato, en un único paso, aquellos que llamamos "triviales", 
+pero problemas de mayor complejidad requerirán una secuencia de pasos mayor para encontrar la solución.
+A la secuencia de pasos que deben ser realizados podemos llamarle, "método", "algoritmo" o "programa".
+
+Voy demasiado rápido ?
+Tranquilos porque lo veremos mas despacio, paso a paso.
+
+En el párrafo anterior las palabras clave son :
+procesar información
+conjunto de datos
+método
+cambio de estado
+
+Veamos ahora a que llamaremos "procesar información" y cuales son las características mínimas que un computador debería tener para realizar esta tarea.
+
+
+----------------
+
+Como procesar la información:
+
+
+Para ilustrar el proceso de la información comentare un par de problemas simples que seguramente todos conocemos.
+
+Ejemplo 1.
+En los exámenes de la escuela elemental, alguna vez ha salido un problema que hablaba de trenes y que, en su enunciado, decía algo parecido a esto:
+
+-"si dos trenes salen de la estación, (en diferentes condiciones) ... (mas datos aquí) ..., cual de los dos llegara primero a destino ?"-
+
+Observad que con la información proporcionada en el enunciado, es imposible dar una respuesta razonada.
+Se necesita mas información para resolver este problema.
+Como por ejemplo,
+A que velocidad viajan los trenes ? A que distancia se encuentra el destino ?
+
+Esto describe de forma general el procedimiento que utilizamos para resolver problemas de este tipo.
+Es decir,
+1- partimos de un conjunto de datos que describen el contexto del problema y
+2- es sobre los datos que realizamos cálculos, por ejemplo aplicando operaciones matemáticas, que transforman los datos generando nueva información, que nos acerca, paso a paso, hacia la solución.
+
+Dicho de forma mas resumida, en el procesamiento de la información intervienen 2 elementos, 
+- los datos, que describen el contexto del problema
+- y el método, que nos dice cuales son los cálculos que debemos realizar sobre los datos
+
+Datos y Método.
+
+
+Veamos otro ejemplo.
+
+El objetivo ahora es, ver la forma en que "el conjunto de datos" "cambia de estado" a medida que aplicamos "el método".
+Lo veremos realizando la suma de un listado de números.
+
+Ejemplo 2;
+Digamos que quiero saber:
+-"Cuanto hemos gastado esta semana ?"-
+
+En este caso, 
+1- el conjunto de datos iniciales que describen el contexto del problema esta formado por : el listado de gastos.
+2- el método, consiste en : sumar uno a uno todos los elementos de la lista
+
+Lo haré paso a paso.
+Digamos que ya tenemos el listado de gastos.
+Ahora propondré un método.
+
+Para ayudarme en el calculo utilizare una variable auxiliar que llamare 'resultado_parcial' a la que inicialmente asignare un valor de cero.
+E iré sumando uno a uno los números de la lista con el resultado parcial.
+
+Lo haré del siguiente modo, 
+sumo el primer numero de la lista con el resultado parcial.
+Elimino el primer elemento de la lista.
+Y repito estos pasos una y otra vez hasta que no queden números en la lista.
+
+Cuando ya no queden números en la lista, el 'resultado_total' sera lo que tenemos acumulado en el 'resultado_parcial'.
+
+Esquemáticamente el método tiene esta forma : 
+
+(diagrama)
+
+
+Observad en el siguiente grafico la forma en que el conjunto de datos cambia de estado en cada iteración al aplicar el método.
+
+(grafico)
+
+
+
+Recordemos que nuestra intención es construir una maquina que resuelva problemas automáticamente procesando información.
+Ahora sabemos que en el proceso intervienen 2 elementos, datos y método.
+Por lo tanto, las características mínimas que una maquina de calculo debe poseer son:
+- la capacidad de mantener y modificar datos
+- la capacidad de ejecutar un método
+
+Los computadores electrónicos que utilizamos a diario, disponen de dispositivos de memoria, adonde mantienen la información sobre la que están trabajando, los datos.
+Y disponen ademas de otros dispositivos, como el procesador, que les permiten ejecutar programas, métodos.
+ *
+Las memorias, pueden clasificarse dentro de 2 categorías, y estas son:
+- las memorias de "solo lectura"
+- y las memorias de "lectura y escritura"
+
+Ejemplos de memoria de "lectura y escritura" son, las que utilizan los computadores personales, en donde la información puede grabarse, borrarse, modificarse.
+
+Ejemplos de memoria de "solo lectura", son los viejos discos de vinilo (o de pasta, todavía mas antiguos) utilizados para grabar música.
+Un viejo disco de vinilo de Pink Floyd no puede ser modificado grabando otra música en su lugar, una vez grabado ya no puede modificarse.
+
+
+----------------
+
+Con esta información, volvamos al computador que estamos desarrollando.
+Al principio del capitulo he comentado que el diseño estaría basado en el modelo que proporciona la vida, y que estaría formado por seres vivientes.
+
+Hemos hablado acerca de como procesar información y hemos visto cuales son los elementos principales en los que se basa este procedimiento.
+Datos y método.
+Veamos ahora como la vida podría proporcionar estos recursos, y como una familia de criaturas vivientes podría ser adecuada para realizar esta tarea de forma automática.
+
+---------------------
+
+
+ADN y reproducción:
+
+
+El ADN:
+
+Una característica de todos los seres vivientes es que en todos ellos esta presente una molécula de gran tamaño que almacena la información necesaria para construir a un individuo.
+
+Llamaremos a esta molécula, ADN.
+
+Podemos pensar en el ADN como en los planos de construcción del individuo.
+
+El ADN, es diferente en todos los individuos. Del mismo modo en que todos los individuos son diferentes.
+Dos individuos de la misma especie tendrán características en común, pero los detalles les harán diferentes.
+Del mismo modo el ADN sera diferente en los detalles.
+
+No es el objetivo de este relato describir el ADN de forma precisa.
+Solo utilizaremos el concepto de forma muy general.
+Pensaremos que todos los individuos llevan la información que los define en su interior, y llamaremos a esto ADN.
+
+Y lo que nos interesa, a efectos del experimento que estamos llevando a cabo, es lo siguiente, 
+si el ADN contiene la información necesaria para construir a un individuo, entonces esta funcionando como un soporte de información, o memoria.
+Y esta es la utilidad que tendrá para nosotros, la de funcionar como memoria del sistema.
+
+El ADN tiene capacidad para almacenar una gran cantidad de información.
+Pensaremos en el ADN como una memoria de "solo lectura", es decir, que no puede ser modificada.
+Una vez escrita la información en el soporte esta ya no puede modificarse.
+
+De este modo, la información que describe al individuo permanecerá constante durante toda la vida del individuo,
+y así, el individuo sera siempre el mismo, Con las mismas huellas digitales, con las mismas características que lo diferenciaran de otros individuos, durante toda su vida.
+
+Yo seré siempre yo.
+Podre aprender nuevos trucos, envejeceré, pero siempre seré yo.
+
+He comentado que cuando procesamos información, el conjunto de datos que describen el contexto "cambiara de estado" a medida que realizamos operaciones sobre los datos.
+la nueva información que obtenemos debe ser incluida en el conjunto de datos, modificando su estado.
+
+El conjunto de datos debe cambiar a medida que avanza el proceso.
+Pero si vamos a utilizar el ADN del individuo como memoria del sistema, el conjunto de datos no podrá ser modificado, por tratarse de una memoria de "solo lectura".
+
+Veamos como podemos superar este obstáculo.
+
+------------------
+
+Hablemos de,
+
+La reproducción: 
+
+
+Esta es otra característica que poseen todos los seres vivientes. Todos ellos tienen la capacidad de reproducirse.
+
+Cuando un individuo se reproduce, sus hijos no serán copias exactas del padre.
+Los hijos serán muy parecidos al padre, pero no iguales. 
+Esto es necesario para asegurar que no existan 2 individuos iguales. Veremos mas adelante porque es tan importante que exista esta diferencia.
+
+En la reproducción la información contenida en el ADN del padre sera modificada para crear al hijo.
+El hijo sera una nueva versión del padre.
+
+El mecanismo de reproducción, modifica la información contenida en el padre, la procesa de algún modo para producir un nuevo individuo, un individuo diferente de todos los que han existido hasta ahora, e idealmente, un individuo mejorado.
+
+No es, por lo tanto, una modificación aleatoria, sino una modificación calculada cuidadosamente.
+Podemos decir que se trata de una modificación programada, ya que sobre los datos que describen al padre se ha aplicado algún tipo de "método", o función, para conseguir un resultado especifico.
+
+En otras palabras, la información contenida en el ADN del padre es procesada, modificada, para generar al hijo.
+
+En este proceso el hijo es necesario porque 
+
+la información contenida en el padre no puede ser modificada por tratarse de una memoria de solo lectura.
+sin embargo, puede ser leída, puede extraerse la información durante el proceso de reproducción, puede modificarse aplicando el método, y el resultado puede ser grabado en una nueva memoria de solo lectura, el ADN del hijo.
+
+De este modo podemos hacer que el conjunto de datos sobre los que esta trabajando el proceso, cambien de estado generación tras generación.
+
+La reproducción sera entonces el mecanismo que utilizaremos para procesar la información en nuestro sistema experimental de calculo.
+
+y con esto, lo maquina que queríamos construir ya existe.
+la vida proporciona todos los recursos necesarios, y no ha sido necesario modificar nada.
+la vida es un computador natural.
+
+Lo pondremos a prueba en los siguientes capítulos y veremos como la vida encuentra solución a los problemas que planteemos.
+
+la función de Un individuo, en este modelo, es la de mantener un conjunto de datos.
+que describen el estado en que el proceso se encontraba en un instante del tiempo.
+
+Si consideramos que la información se procesa durante la reproducción, este proceso no resolverá el problema, 
+no avanzara mucho en el calculo, sino que sera un paso único elemental, en el proceso.
+y la diferencia entre el padre y el hijo, sera la mínima de todas las posibles.
+
+he comentado que, en general, la resolución de un problema requerirá de una serie de pasos, normalmente, mas de uno.
+De modo que, el padre no encontrara la solución al problema, ni tampoco el hijo.
+sera el trabajo de toda la familia, o de toda la especie.
+el proceso de resolución del problema avanzara paso a paso, lentamente, generación tras generación.
+un paso a la vez.
+
+en los próximos capítulos crearemos un computador basado en criaturas vivientes, o mejor dicho, en familias o especies de seres vivientes
+en donde, 
+la especie ha sido creada a la medida del problema.
+la nueva especie es el computador, y este computador solo es útil para resolver un problema concreto y ningún otro, 
+y en donde,
+un individuo representa el estado del calculo en un instante puntual del tiempo.
+
+observad que un individuo no es un computador, 
+sino únicamente la representación de un estado en el proceso de calculo.
+la maquina de calculo estará formada por todos los individuos de la especie, evolucionando a través del tiempo.
+
+pero veamoslo mas despacio, paso a paso.
+he dicho que un individuo representa el "estado" del proceso en un particular instante del tiempo .
+Veamos a que llamaremos "estados del proceso".
+
+
+
+
+
