@@ -49,7 +49,7 @@ Lo veremos en detalle, paso a paso.
 
 Pero antes de empezar, discutiremos algunas ideas que nos ayudaran a entender como funciona este sistema y nos guiaran en el diseño del modelo.
 
-(EL PROCESO DE CALCULO)
+(ADN 47)
 
 /******************/
 
