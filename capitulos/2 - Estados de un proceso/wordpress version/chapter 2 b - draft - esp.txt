@@ -16,16 +16,6 @@ y lanzarnos a realizar el experimento en el siguiente capitulo.
 
 
 
-
-------------
-
-Solo nos queda revisar una ultima idea antes de comenzar.
-Veamos a que llamaremos "estados del proceso", y de que modo podemos utilizar esta idea en el diseño de una maquina de calculo.
-
--------------------------------------
-
-En este capitulo comentaremos 2 ideas que la maquina utilizara para encontrar solucion a los problemas.
-
 ------------------------------------
 
 Estados de un proceso.
