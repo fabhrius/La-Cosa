@@ -11,8 +11,27 @@ Estas ideas son:
 - exploracion en grafos
 
 
-Al final del capitulo, con estas ideas, tendremos todos los elementos necesarios para construir la maquina, 
-y lanzarnos a realizar el experimento en el siguiente capitulo.
+----------------------------------
+
+Supongamos que estamos jugando una partida de ajedrez y que queremos suspenderla por hoy para continuar mañana desde el mismo punto en que la dejamos ahora.
+
+Podemos hacer esto recordando en que "estado" se encuentra la partida.
+Para recordar el estado de la partida podriamos tomar una foto del tablero de juego, o crear una lista con la posicion de todas las fichas sobre el tablero.
+Y apuntar, ademas, cual de los dos jugadores debe jugar a continuacion.
+
+Con esta informacion podriamos reconstruir el juego poniendo cada ficha en su posicion y retomarlo desde el mismo punto.
+
+
+
+Para hacer esto, 
+deberíamos recordar en que 
+				"estado" 
+se encontraba la partida cuando la hemos suspendido.
+Con este propósito, seria suficiente apuntar en una lista la posición de cada ficha en el tablero, y quien debe jugar a continuación.
+
+El juego pasara por diferentes estados mientras evoluciona desde el inicio hasta el fin, cada vez que un jugador realice un movimiento.
+
+-----------------------------
 
 
 
