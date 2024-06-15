@@ -1,10 +1,13 @@
+Introduccion:
+
 En el capitulo anterior hemos hablado de datos y metodo.
 El metodo, o programa, que hemos comentado es una descripcion de la forma en que queremos que la informacion sea procesada para obtener el resultado deseado.
 Este metodo es exclusivo del problema y por lo tanto, diferentes problemas utilizaran metodos diferentes.
 Por ejemplo, 
 ordenar una baraja de naipes y jugar una partida de ajedrez son problemas diferentes que utilizaran metodos diferentes.
 
-en este capitulo comentaremos 2 ideas que la maquina utilizara para encontrar solucion a los problemas, que formaran parte de la maquina y que seran aplicadas a todos los problemas, independientemente del metodo o programa.
+en este capitulo comentaremos 2 conceptos que nos ayudaran a crear la estrategia que la maquina utilizara para encontrar solucion a los problemas.
+Esta estrategia formara parte de la maquina y sera aplicada a todos los problemas, independientemente del metodo.
 
 Estas ideas son:
 - estados del proceso, y
@@ -12,6 +15,8 @@ Estas ideas son:
 
 
 ----------------------------------
+
+Estados de un proceso:
 
 Supongamos que estamos jugando una partida de ajedrez y que queremos suspenderla por hoy para continuar mañana desde el mismo punto en que la dejamos ahora.
 
@@ -21,18 +26,115 @@ Y apuntar, ademas, cual de los dos jugadores debe jugar a continuacion.
 
 Con esta informacion podriamos reconstruir el juego poniendo cada ficha en su posicion y retomarlo desde el mismo punto.
 
-
-
-Para hacer esto, 
-deberíamos recordar en que 
-				"estado" 
-se encontraba la partida cuando la hemos suspendido.
-Con este propósito, seria suficiente apuntar en una lista la posición de cada ficha en el tablero, y quien debe jugar a continuación.
-
 El juego pasara por diferentes estados mientras evoluciona desde el inicio hasta el fin, cada vez que un jugador realice un movimiento.
+
+Esta idea de cambio de estado es aplicable a todos los procesos de calculo.
 
 -----------------------------
 
+Tipos de estados:
+
+
+	Recordemos el ejemplo de la suma de un listado de números que hemos comentado en el capitulo anterior.
+
+Para encontrar la solución hemos realizado 3 operaciones de suma. 
+							3 pasos en el proceso de calculo.
+
+(grafico)
+
+
+
+Y después de cada paso, después de cada operación de suma, algo ha cambiado en el conjunto de datos.
+El conjunto de datos cambia de estado cada vez que realizamos una operación.
+
+Y entre los posibles estados por los que atravesara un proceso de calculo
+podemos distinguir tres tipos característicos:
+
+					- El Estado Inicial
+					- El Estado Final
+						- y los estados intermedios
+
+-----------------------
+
+El estado inicial:
+
+representa el estado en que el proceso se encuentra antes de empezar el calculo. 
+
+			Es el punto de partida.
+
+
+
+Por ejemplo, 
+
+en el caso de una partida de ajedrez, 
+en el estado inicial  
+todas las fichas están colocadas 
+		en la posición de salida 
+y todavía no se ha realizado 
+		ningún movimiento.
+
+En el caso de la suma de un listado de números, en el estado inicial 
+el listado de números esta completo 
+y el valor del resultado parcial 
+es todavía cero. 
+No se ha realizado ningún calculo.
+
+
+El estado final:
+
+					representa el estado que queremos alcanzar. 
+
+El momento en que el proceso alcanza su resolución y termina.
+
+
+
+
+En el caso de una partida de ajedrez, 
+el estado final se alcanza cuando 
+		se ha dado jaque-mate.
+En la suma de un listado de números, 
+el estado final se alcanza cuando 	obtenemos el resultado total.
+
+
+Los estados intermedios:
+
+son todos aquellos estados que no son estados iniciales ni estados finales.
+
+
+
+
+
+En el caso de una partida de ajedrez, el juego atravesara por 
+una serie de estados intermedios mientras evoluciona desde el estado incial hacia el estado final.
+
+
+En el ejemplo de 
+suma de un listado de números, 
+que hemos realizado,
+entre el estado inicial y el estado final existen 
+		2 estados intermedios.
+
+(grafico)
+
+
+--------------------------------
+
+Exploracion en grafos:
+
+entender como un proceso cambia de estado nos ayudará a resolver problemas.
+
+Junto con la idea de estados utilizaremos una estructura llamada "grafo".
+
+En matemáticas y ciencias de la computación, un "grafo" es una estructura que representa relaciones entre objetos. 
+Un grafo consiste en un conjunto de nodos y un conjunto de aristas que conectan pares de nodos.
+
+
+Sobre el papel representaremos un nodo como un circulo y una arista como una linea.
+
+(grafico)
+
+-----------------------------
+/*****************************/
 
 
 ------------------------------------
