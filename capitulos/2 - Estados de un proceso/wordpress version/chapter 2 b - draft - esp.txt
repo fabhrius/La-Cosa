@@ -160,6 +160,8 @@ Colocamos cada uno de estos nuevos estados en nodos
 Las aristas muestran una relacion de descendencia.
 Un estado desciende del anterior.
 
+Ya que, el nuevo estado (estado hijo), se obtiene realizando una jugada valida desde la situacion en que se encontraba el juego en el estado anterior (estado padre).
+
 Los movimientos validos 
 a partir del estado inicial son nueve, 
 y han generado 
@@ -172,7 +174,68 @@ agregando mas nodos y aristas al grafo.
 
 
 
-Lo mostrare gráficamente solo para uno de ellos.
+Lo mostrare gráficamente solo para uno de ellos, ya que el grafo crece rapidamente en tamano.
+
+(grafico)
+
+
+-------------
+
+Continuaremos desarrollando el grafo, 
+			hasta que se hayan incluido todos los estados posibles .
+
+
+
+Esto nos mostrara, 
+todas las posibilidades que tiene el juego, 
+y todos los posibles estados finales que existen.
+Ya que existen muchas formas diferentes de ganar la partida.
+
+Nos mostrara también, 
+				los caminos 
+formados por nodos y aristas, 
+que llevan desde el estado inicial hacia cualquiera de los estados finales.
+
+
+
+En el siguiente grafico vemos solo uno de los caminos que va desde el estado inicial hasta uno de los posibles estados finales.
+
+(grafico)
+
+
+En el dibujo se muestra solo el camino aislado, pero para encontrar este camino se han generado un gran numero de otros estados, nodos y aristas, que no incluyo en el grafico por claridad.
+
+En concreto, en este juego de 3 en linea, siendo un ejemplo simple, existen 
+9*8*7*6*5*4*3*2 posibles estados.
+Es decir 362.880 estados posibles.
+
+
+Lo importante aquí es que veáis como el concepto de estados puede utilizarse junto con un grafo para encontrar la solución a un problema.
+
+
+--------------------------------
+
+	Si aplicamos esta técnica al juego de ajedrez, 
+el grafo sera notablemente mas complejo que el del juego de 3 en linea.
+
+El numero de estados por los que podría atravesar una partida de ajedrez 
+es aproximadamente de 10 elevado a 120, 
+					algo así como un uno seguido por 120 ceros.
+
+Pero si consiguiéramos generar todos los estados y crear con ellos un grafo, entonces tendríamos un mapa que nos mostraría todos los posibles caminos entre estados que llevan desde el estado inicial hasta un estado final.
+
+
+Con este mapa podríamos buscar el estado en que nos encontramos en cualquier momento dentro de una partida, y a partir de allí ver cual es el movimiento que nos pone en camino hacia alguno de los estados finales.
+
+Siempre sabríamos que ficha mover a continuación para ganar la partida.
+Simplemente siguiendo el camino.
+
+
+Sin embargo, el grafo del juego de ajedrez es demasiado grande para alojarlo completamente en la memoria de un computador, y por lo tanto, aunque los computadores utilizan esta técnica para jugar al ajedrez, la utilizan combinada con otras técnicas que les permiten aprovechar grafos de tamaño reducido, y asi evitar tener que generar el grafo completo con todos los estados posibles.
+
+La memoria de los computadores es limitada, y muchos problemas del universo real, podrían requerir mas memoria de la disponible, una característica que puede convertir a muchos de estos problemas en inabordables.
+Volveremos a comentar esta limitación de los computadores mas adelante.
+
 
 -----------------------------
 /*****************************/
