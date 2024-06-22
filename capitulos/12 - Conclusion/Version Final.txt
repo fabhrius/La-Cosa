@@ -1,37 +1,41 @@
+En el prologo, cap 0, habia planteado una serie de preguntas acerca de nuestra existencia.
+Preguntas tales como: 
 
+-------------------------------------
 
-Cuál es el propósito de nuestra existencia ? 
+-Cuál es el propósito de nuestra existencia ? 
 
 (function del individuo en el sistema)
 
-Cual es el objetivo de la vida de un individuo cualquiera , el "porque."
+-Cual es el objetivo de la vida de un individuo cualquiera , el "porque."
 
-Porque estoy aquí ?
-	Porque sucede todo esto ?
+-Porque estoy aquí ?
+-	Porque sucede todo esto ?
 
 (porque se crean criaturas ? Coste cap8 - se crean para resolver el problema)
 
 
-		La vida que es ?
-Que soy yo ?
-	Porque debo morir ?
+-		La vida que es ?
+-Que soy yo ?
+-	Porque debo morir ?
 
-Existe algún motivo que hace que 
+-Existe algún motivo que hace que 
 	mi existencia sea necesaria ?
 
-Sera quizás, que debo cumplir con una misión y por eso estoy aquí ahora ?
+-Sera quizás, que debo cumplir con una misión y por eso estoy aquí ahora ?
 
 Y me pregunto si 
-habre conseguido cumplir 
+-habre conseguido cumplir 
 	con mi misión en este mundo ?
 
-Y me pregunto, como podría llevar a cabo una misión que desconozco ?
+Y me pregunto, 
+-como podría llevar a cabo una misión que desconozco ?
 (instinto)
 
 Y me pregunto si, 
-	lo habré hecho bien, o mal ?
+	-lo habré hecho bien, o mal ?
 
-Tiene sentido pensar que existe una inteligencia tal que, 
+-Tiene sentido pensar que existe una inteligencia tal que, 
 				es capaz de diseñar a todas las criaturas vivientes ?
 
 Una inteligencia que crea desde cero a cada especie, en cada pequeño detalle. 
@@ -39,7 +43,7 @@ Y que ha decidido lo que soy y lo que hago,
 		y me ha puesto aquí, sobre la tierra, por un motivo concreto.
 
 		Si eso fuera posible, 
-					esa inteligencia adonde esta ?
+					-esa inteligencia adonde esta ?
 
 (extraterrestres, dioses)
 
@@ -80,3 +84,34 @@ Porque las criaturas se reproducen ?
 Porque morimos ?
 
 Despertar a la vida, luchar, y seguir adelante sin saber que es lo que pasa, que es lo que hago, porque.
+
+
+-----------------------------------------
+
+Intentemos responder a estas preguntas ahora que hemos visto los resultados de la simulacion experimental que hemos llevado a cabo en los capitulos anteriores.
+
+
+------------------------------------
+
+Cual es el proposito de la vida de un individuo ?
+
+
+en el capitulo 3
+para entender como funciona la inteligencia de la vida, permitiendole conocer el entorno, aprender y encontrar solucion a problemas logicos, hemos realizado un experimento en donde el objetivo era encontrar la solucion a un juego de mesa que hemos llamado laberinto.
+para esto hemos creado una nueva especie de seres vivientes, adaptada al problema.
+
+en el capitulo 5
+cuando hablamos de eficiencia, hemos visto que el sistema habia recorrido el camino hacia la salida en 7 generaciones.
+
+en el capitulo 8
+cuando hablamos de costes, hemos visto que en esas 7 generaciones se habian creado un gran numero de individuos.
+
+creo que ahora podemos responder a la pregunta.
+Con que proposito han sido creados todos esos individuos ?
+
+El sistema ha creado millones de individuos, porque
+queriamos saber cual es el camino que lleva desde la entrada hasta la salida del laberinto.
+
+
+
+
