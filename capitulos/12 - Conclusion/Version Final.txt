@@ -113,5 +113,30 @@ El sistema ha creado millones de individuos, porque
 queriamos saber cual es el camino que lleva desde la entrada hasta la salida del laberinto.
 
 
+-----------------------------------
+
+Especies que se extinguen:
+
+Es un error, algo que no debe suceder ?
+
+
+en el capitulo 8
+cuando hablamos de costes, hemos visto como el coste del sistema crece exponencialmente con la complejidad del problema.
+hemos visto Tambien como resolver un problema simple como el que hemos planteado tiene un coste muy elevado.
+para encontrar la solucion recorriendo solo 7 casillas en un tablero de juego, el sistema habia creado millones de individuos.
+
+Ahora que tenemos la solucion al problema.
+Ahora que el sistema nos ha dado la respuesta que buscabamos.
+que debemos hacer con esta especie ?
+dejamos que continue reproduciendose ?
+
+recordemos que se trata de un sistema de una gran inteligencia.
+recordemos que cada detalle en los individuos esta optimizado.
+horas de suenyo, tiempo de vida, consumo de recursos, etc.
+
+
+
+
+
 
 
