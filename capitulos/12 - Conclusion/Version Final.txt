@@ -163,5 +163,45 @@ unidades individuales y ciclo de vida
 
 
 
+---------------------
+
+
+la vida es una poderosa inteligencia.
+con las siguientes caracteristicas:
+ADN, reproduccion y unidades individuales que cumplen un ciclo de vida.
+
+estas caracteristicas forman una maquina de calculo de gran potencia que funciona del siguiente modo:
+la informacion que debe ser procesada es almacenada en una estructura molecular llamada ADN.
+esta informacion es procesada mediante la reproduccion, que produce una nueva version de la informacion en donde se han realizado modificaciones.
+la informacion es almacenada en unidades individuales  que cumplen un ciclo de vida que consiste en nacer, reproducirse y morir.
+
+llamaremos a estas unidades individuales, "individuos".
+la tarea de procesar la informacion se delega en los individuos.
+
+el individuo es creado al nacer.
+procesa la informacion al reproducirse.
+y es eliminado en la muerte, para asegurar que el proceso de calculo avanza hacia su resolucion.
+
+
+------------
+
+el numero de individuos que forman el sistema crece exponencialmente con el tiempo
+esta caracteristica se traduce en un gran numero de replicas del conjunto de la informacion que esta siendo procesada asi como de procesadores
+proporcionando una alta redundancia tanto de la informacion como de los recursos de la maquina.
+despues de un tiempo de puesta en marcha el numero de unidades tendera a infinito reduciendo la probabilidad de  perdida de datos o de que el proceso se detenga.
+
+----------------------
+
+podemos pensar en la vida como en una unica entidad formada por todos los individuos que han sido creados.
+
+
+
+
+
+
+
+
+
+
 
 
