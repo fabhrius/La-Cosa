@@ -151,5 +151,17 @@ horas de suenyo, tiempo de vida, consumo de recursos, etc.
 
 
 
+-------------------------------------------------
+/********************************************/
+
+
+
+ADN - datos
+Reproduccion - modificacion de la informacion
+
+unidades individuales y ciclo de vida
+
+
+
 
 
