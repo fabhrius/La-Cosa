@@ -194,6 +194,16 @@ despues de un tiempo de puesta en marcha el numero de unidades tendera a infinit
 
 podemos pensar en la vida como en una unica entidad formada por todos los individuos que han sido creados.
 
+una especie procesa informacion con el objetivo de encontrar solucion a un problema concreto.
+y las diferentes especies ejecutan diferentes procesos abordando problemas diferentes.
+asi el conjunto de todas las especies de seres vivientes representan diferentes procesos que se ejecutan en paralelo, confiriendo a la vida una estructura logica que recuerda de algun modo a la de un cerebro.
+
+
+
+
+
+
+
 
 
 
