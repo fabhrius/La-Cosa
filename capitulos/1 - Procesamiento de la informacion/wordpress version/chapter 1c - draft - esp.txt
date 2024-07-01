@@ -1,6 +1,8 @@
 Introducción: 
 
 /*******************/
+(inicio refactorizacion)
+
 
 Voy a proponer algunas ideas con el objetivo de establecer la base teorica para la construccion de un computador.
 
@@ -49,8 +51,9 @@ Lo veremos en detalle, paso a paso.
 
 Pero antes de empezar, discutiremos algunas ideas que nos ayudaran a entender como funciona este sistema y nos guiaran en el diseño del modelo.
 
-(ADN 47)
+(ADN pag47)
 
+(fin refactorizacion)
 /******************/
 
 A lo largo de los próximos capítulos, desarrollaremos un computador y lo pondremos a prueba.
