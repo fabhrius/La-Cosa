@@ -1,0 +1,25 @@
+borrador de la version mejorada.
+
+
+--------------------------------
+
+
+en toda la vida podemos observar los siguientes elementos caracteristicos:
+
+- esta compuesta por especies diferentes.
+- las especies estan compuestas por individuos similares.
+- los individuos cumplen con un ciclo de vida, que consiste en nacer, reproducirse y morir.
+- las criaturas vivientes poseen ADN, cuya function mas evidente es la de almacenar informacion.
+- en la reproduccion la informacion contenida en el ADN del individuos es modificada para crear al hijo.
+
+
+---------------------
+
+con estos elementos es posible construir una potente maquina de calculo, 
+capaz de encontrar solucion a problemas logicos de gran complejidad y aprender.
+
+
+
+
+
+
