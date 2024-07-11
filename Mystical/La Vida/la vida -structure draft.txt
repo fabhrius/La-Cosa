@@ -1,3 +1,9 @@
+Estructura de un post - sugerido por ChatGPT
+---------------------------------------------
+
+
+
+
 ### 1. **Hook (Opening Paragraph)**
    - **Start with a Captivating Scene or Question:** Begin with a thought-provoking scene, a mysterious event, or an intriguing question that relates to the chapter's theme. This will draw readers in immediately.
 
