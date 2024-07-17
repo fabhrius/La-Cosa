@@ -93,8 +93,8 @@ Cuál es mi misión en todo esto
 1-Action:
 
 Elara escala la montana por la pared mas dificil alli adonde la montana cae a pique.
-pero presiente que en alguna parte, cerca de alli, debe haber una cueva oculta a los ojos del mundo.
-y el libro, el libro debe estar en su interior.
+su objetivo es encontrar un antiguo libro perdido y
+presiente que en alguna parte, cerca de alli, debe haber una cueva oculta a los ojos del mundo.
 Elara se detiene un momento para recuperar el aliento
 se encuentra a gran altura.
 
@@ -113,7 +113,7 @@ Cual es mi mission ?
 
 Krom guardo silencio por un momento.
 La inteligencia de Elara era notable.
-El anciano sabia que la joven necesitaba mas que palabras.
+El anciano sabia que la joven buscaba la verdad.
 
 Y si te digo que tu mission es limpiar el templo ?
 pregunto el sacerdote.
@@ -139,9 +139,45 @@ Elara continua la escalada.
 todavia quedan un par de horas de luz antes de que llegue la noche.
 y de pronto, al llegar a la siguiente corniza, se presento ante sus ojos la entrada de una cueva, invisible  desde otra posicion.
 
+Esta entrada no estaba aqui hace un momento. penso.
+una voz susurro su nombre.
+Elara.
+
+Ha sido una illusion. posiblemente el viento.
+Elara. susurro otra vez
+
+Hay alguien alli ?. Pregunto.
+Elara. se volvio a escuchar
+
+camino despacio hacia el interior. con cautela.
+Elara. la voz otra vez.
+
 
 
 4-Climax:
+
+mas adelante, en el interior de la cueva, alli adonde no llega la luz del sol,
+un extrano resplandor brillaba en la oscuridad.
+
+se acerco.
+el techo y las paredes de la cueva se iluminaban como con un reflejo sobre el agua.
+debe haber un lago interior y la se refleja en su superficie.
+pero no veo el lago, no ve agua, y no veo de donde puede proceder la luz.
+
+al avanzar mas hacia el interior de la cueva
+vio que la luz procedia de un punto entre las rocas.
+al acercarse, entre las rocas vio un libro.
+
+Magico.
+porderoso.
+
+El antiguo codice perdido de Rainland.
+Al tocarlo sintio el poder.
+No pudo resistir la atraccion y lo abrio.
+El intenso resplandor que emanaban sus paginas la cego.
+y un instante despues todo se oscurecio.
+
+
 
 5-Ending:
 
