@@ -1,12 +1,12 @@
 Cap 0
 Elara encuentra el libro.
-todas las preguntas y ninguna respuesta.
+**** todas las preguntas y ninguna respuesta.
 el capitulo termina cuando Elara encuentra el libro y queda inconsciente.
 
 Cap 1
 Elara despierta en el bosque.
 conoce al buho.
-El buho explica el porque de la confusion.
+**** El buho explica el porque de la confusion.
 no vemos las respuestas poruqe no vemos la imagen completa.
 solo vemos una imagen estatica, una foto, desde un unico Angulo, sin perspectiva.
 no vemos la evolucion, no vemos cambios, no podemos ver la accion del tiempo, ni el conjunto en su totalidad.
@@ -15,8 +15,24 @@ el capitulo termina cuando Elara cae al rio y se hunde.
 Cap 2
 Elara consigue alcanzar una cueva en la profundidad del rio.
 En el interior conoce al mago.
-El mago le muestra a la vida como una unica criatura inmortal.
+**** El mago le muestra a la vida como una unica criatura inmortal.
 el capitulo termina cuando el suelo se derrumba y Elara cae en un pozo sin fin.
+
+Cap 3
+Elara esta cayendo en un pozo que parece no tener fin.
+pero por el fondo del pozo discurre un rio subterraneo.
+Elara cae al agua y la corriente la arrastra.
+finalmente Elara cae por una cascada y termina flotando en un lago en el interior del bosque.
+Elara se encuentra con :
+El anfitrion explica :
+**** 
+Elara encuentra un nuevo peligro
+
+Cap 4
+Escena inicial - resolucion del peligro del fin del capitulo anterior
+Elara encuentra el anfitrion
+El anfitriosn explica el contenido del capitulo
+Elara encuentra un nueva peligro
 
 
 
