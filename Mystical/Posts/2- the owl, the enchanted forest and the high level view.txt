@@ -80,7 +80,9 @@ ESTRUCTURA:
 
 --------------------------------
 
+PLOT:
 
+1- RESOLUTION
 
 (recordemos que el capitulo anterior termina cuando Elara abre el libro y cae inconsciente, el lector no sabe si Elara podria haber muerto por el poder magico del libro)
 
@@ -101,6 +103,9 @@ a continuacion una descripcion de los sentimientos de Elara, tales como confusio
 Elara avanza por el bosque con paso decidido.
 
 ----
+
+2- BACKGROUND
+
 (flashback)
 Elara recuerda a su abuela, Mag, en una manyana de primavera, cuando ella era una pequena ninya que jugaba a ser un hada del bosque.
 Mag cocinaba en un caldero, sobre una fogata detras de la casa, cerca de la orilla del rio.
@@ -118,6 +123,8 @@ es alli adonde pertenecen las hadas como tu.
 (termina el flashback)
 
 ----
+3- EL ANFITRION
+
 Elara vuelve a la realidad.
 continua avanzando por el bosque.
 Claro. este debe ser el bosque encantado de Rainland, tal como decia Mag.- Elara piensa.
@@ -134,6 +141,11 @@ y oye una voz que la llama por su nombre.
 'Elara'
 Al girarse, ve a un buho, posado sobre una rama de un arbol.
 El buho habla y se comporta como si fuera el duenyo del lugar.
+
+
+---
+
+4- SCIENCE
 
 El buho interroga a Elara.
 Que haces aqui?
@@ -215,6 +227,27 @@ consigue una hoja de plata del viejo arbol y podre mostrarte todo lo que necesit
 adonde se encuentra el viejo arbol?
 se encuentra al otro lado del bosque, en al orilla del rio que murmura.
 es un largo viaje.
+
+
+---
+
+5- CLIMAX
+
+
+---
+
+6- CLIFFHANGER
+
+
+---
+
+7- ENGAGEMENT WITH READERS
+
+
+---
+
+8- PREVIEW NEXT CHAPTER
+
 
 
 
