@@ -26,6 +26,29 @@ podrias expandir un poco el borrador agregando descripciones y darle el formato 
 
 -------------------------
 
+muy bien.
+ahora ya sabes como puedes ayudarme.
+comenzaremos enseguida.
+pero antes de empezar quiero que veas el primer capitulo que ya tengo redactado.
+asi veras el estilo que estoy utilizando y podras arreglar los siguientes capitulos de forma consistente.
+
+el primer capitulo es asi:
+
+""
+------------------------
+
+Very well.
+Now you know how you can help me.
+We'll start right away.
+But before we start, I want you to see the first chapter that I've already written.
+This way you'll see the style I'm using and you'll be able to arrange the following chapters in a consistent way.
+
+The first chapter is like this:
+
+""
+
+-----------------------
+
 
 I am writing a book.
 Could you help me?
@@ -85,6 +108,17 @@ I have a draft of the script for each chapter.
 Could you expand the draft a bit by adding descriptions and giving it the format and style of a fairy tale?
 
 
+-------------------------------------------------------------
 
 
+Elara en su viaje atravesara 15 escenarios fantasticos.
+en cada capitulo se encontrara en un lugar diferente.
+al final de cada capitulo Elara se enfrentara a una situacion de extremado peligro.
+y al principio de cada capitulo la situacion anterior le llevara a un nuevo lugar desconocido y fantastico.
 
+en el primer capitulo Elara esta escalando la gran montanya de Raninland.
+en el segundo capitulo Elara se encuentra en el bosque encantado.
+en el tercer capitulo Elara estara en el castillo de un poderoso mago.
+
+
+podrias proponer 15 escenarios fantasticos como estos para los siguientes capitulos ?

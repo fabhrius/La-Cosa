@@ -98,9 +98,12 @@ no ha visto pajaros, conejos, ardillas, ni siquiera ha visto insectos
 tampoco se mueve el viento, el bosque esta en silencio.
 el lugar es irreal.
 
-a continuacion una descripcion de los sentimientos de Elara, tales como confusion, miedo, cansancio, dolor de espalda y el deseo de salir de alli.
+a continuacion una descripcion de los sentimientos de Elara, tales como 
+confusion, Elara no sabe adonde se encuentra, 
+miedo, el bosque tiene un aspecto misterioso y amenazante,
+cansancio, dolor de espalda y el deseo de salir de alli.
 
-Elara avanza por el bosque con paso decidido.
+Elara continua avanzando por el bosque con paso decidido.
 
 ----
 
@@ -127,13 +130,13 @@ es alli adonde pertenecen las hadas como tu.
 
 Elara vuelve a la realidad.
 continua avanzando por el bosque.
-Claro. este debe ser el bosque encantado de Rainland, tal como decia Mag.- Elara piensa.
+"Este debe ser el bosque encantado de Rainland, tal como decia Mag"- Elara piensa.
 
 Y de pronto, un sonido, lejano, algo asi como agua cayendo.
 Elara avanza para averiguar que es.
 El sonido se hace mas intenso, esta cada vez mas cerca.
 hasta que Elara ve una cascada.
-el agua sale directamente desde la mitad de una pared de piedra, una cueva, y cae en un lago de agua transparente.
+el agua sale directamente desde la mitad de una pared de piedra, desde una cueva, y cae en un lago de agua transparente.
 
 Elara se acerca a beber al lago fascinada por la belleza de la cascada.
 
@@ -151,43 +154,25 @@ El buho interroga a Elara.
 Que haces aqui?
 
 Elara responde que busca respuestas acerca de la existencia tales como 
-que somos ?
+
 porque estamos vivos ?
 que es lo que debo hacer ?
 cual es mi mission?
+que soy yo ?
 
-El buho contesta que para encontrar respuestas a estas preguntas es necesario recorrer un largo camino.
- porque las respuestas no son evidentes, estan ocultas a tus ojos.
 
-Elara pregunta al buho con impaciencia, porque ?
 
-porque estas en el interior de una gran maquinaria.
-y tu posicion te impide ver el sistema completo desde el exterior, ni su funcion.
-
-del mismo modo que un clavo que forma parte de un carruaje no puede entender el porque de su existencia.
-no puede saber que forma parte de un carruaje.
-cree que todo lo que lo rodea ha sido creado solo para darle el entorno que necesita.
-lo importante es el mismo.
-el es el protagonista y lo demas solo existe para el.
-su mission es sostener una pieza en una maquina, no sabe de la existencia del carruaje.
-y el carruaje existe para transportar a una persona.
-no es posible que el clavo pueda entender la complejidad del universo que le rodea.
-
-Y asi, el clavo podria creer que todo lo que le rodea ha sido creado solo para darle un entorno agradable.
-Y el mismo, ha sido creado por capricho.
-Existe solo por existir.
-Lo que es un error.
-
----------------------
-
-eres parte de una gran maquinaria.
+"eres parte de una gran maquinaria.
 sin embargo, desde tu posicion no puedes verlo, porque estas en el interior.
-
+tu eres una pequenya parte de un sistema de gran complejidad que se extiende por todo el universo.
 para entender lo que sucede deberias abandonar tu posicion, elevarte a un nivel mas alto, y ver el conjunto desde el exterior.
 solo asi podras entender lo que la vida es, lo que hace, y cual es tu function en el sistema.
+lo primero que debes saber es que tu no eres el centro, ni el fin.
 
-puedo ayudarte si quieres, pero te advierto que tendras que recorrer un largo camino.
-podria ser peligroso y quizas las respuestas que encontraras no te gusten.
+y que lo que tu ves es solo una imagen estatica, un instante en la eternidad.
+
+No sera facil recopilar toda la informacion necesaria para responder a tus preguntas y sera necesario recorrer un largo camino." - responde el buho.
+
 
 
 
