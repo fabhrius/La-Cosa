@@ -256,6 +256,7 @@ pero Elara ya no saldra a la superficie, ha desaparecido bajo las aguas.
 
 
 /********************************************************/
+/***   AI   ***/
 
 
 Certainly! Here's the expanded script for the second chapter, formatted and styled as a fairy tale, maintaining the essence of your first chapter:
