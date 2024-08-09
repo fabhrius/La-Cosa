@@ -1,0 +1,30 @@
+Ok.
+
+You have done the owl go 
+and we need him to keep on talking with Elara
+but is ok.
+they can meet again in the forest.
+
+Let's go with the next chunk.
+the script we have now is the following:
+
+'
+#### **Mysticism and Science Integration**
+
+"What are you doing here?" the owl questioned, its voice echoing in the stillness.
+
+Elara hesitated but then spoke from her heart. "I am looking for answers about existence. Why are we alive? What should I do? What is my mission? What am I?"
+
+The owl hooted softly, as if pondering her questions. "You are part of a great machine, a small part of a very complex system that extends throughout the universe. However, from your position, you cannot see it because you are inside. To understand what is happening, you should leave your position, rise to a higher level, and see the whole from the outside. Only then will you be able to understand what life is, what it does, and what your role is in the system. The first thing you should know is that you are not the center, nor the end. And what you see is a static image, just an instant in eternity."
+
+Elara felt a mix of awe and determination. "I will not stop until I find the answers. Can you help me?"
+
+The owl nodded. "Get a silver leaf from an Eldertree, and I can show you everything you need to know. You can find the Eldertree on the other side of the forest, on the banks of the Muttering River."
+'
+
+
+
+
+
+
+
