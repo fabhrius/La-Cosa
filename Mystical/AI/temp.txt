@@ -1,12 +1,12 @@
 Ok.
 
-You have done the owl go 
-and we need him to keep on talking with Elara
-but is ok.
-they can meet again in the forest.
+You've made the owl go away
+and we need him to keep talking to Elara
+but that's okay.
+They can meet again in the forest.
 
-Let's go with the next chunk.
-the script we have now is the following:
+Let's move on to the next fragment.
+The script we have now is as follows:
 
 '
 #### **Mysticism and Science Integration**
@@ -21,6 +21,8 @@ Elara felt a mix of awe and determination. "I will not stop until I find the ans
 
 The owl nodded. "Get a silver leaf from an Eldertree, and I can show you everything you need to know. You can find the Eldertree on the other side of the forest, on the banks of the Muttering River."
 '
+
+The owl should start the search for answers somehow and should give some initial answers but I'm not sure how to do this. Do you have any suggestions?
 
 
 
