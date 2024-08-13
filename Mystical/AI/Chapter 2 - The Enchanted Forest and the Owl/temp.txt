@@ -1,34 +1,20 @@
-I like it.
-well done.
+"Puedes formular una pregunta ahora", dijo Whox.
+"Como he llegado hasta aqui?", pregunto Elara.
+
+"Tu busqueda de respuestas te ha traido hasta este lugar", dijo Whox.
+"Como saldre de aqui?, Cual es el camino de vuelta a Rainland?", pregunto Elara.
+
+"Saldras de aqui tal y como has llegado. No hay camino de vuelta a Rainland porque es en Rainland adonde estas", respondio Whox.
+
+"Veo que tienes respuestas para todo", interrumpio Elara disgustada por las respuestas, que considero sin valor.
+
+"mmm..., veo que no te gustan mis respuestas. quizas necesitas mas tiempo para entender. Mis ojos pueden ver mas alla. Y puedo ver en tu interior", respondio el buho.
+"Echas de menos a Mag".
 
 
-ok.
-let's go on with the next chunk.
-the script we have so far is this:
+Elara se derrumbo.
+-"Porque me ha abandonado?, Porque morimos?"- pregunto Elara con urgencia.
 
-
-'
-#### Cliffhanger
-
-Elara ran with all her might, her legs pumping furiously. She jumped over a fallen tree trunk, but on the other side, there was no ground. She plunged down a ten-meter drop into a river that flowed below.
-
-She hit the water hard, sinking beneath the surface. She struggled to swim, to reach the air above, but the current pulled her down. Above, the owl watched from a branch, calling her name desperately. "Elara, Elara!"
-
-But Elara did not rise. She disappeared beneath the water, leaving the forest and the owl in a haunting, dramatic silence.
-'
-
----
-
-
-You can add whatever you want here to create the atmosphere we need to keep the reader looking forward to the next episode.
-Action, suspense, and drama.
-
-The reader should think that this is the end of Elara.
-And we want them to be eager to read the next chapter to find out more about Elara's fate.
-
-
-
-
-
+-"Para responder a esas preguntas primero tendremos que responder a muchas otras"- respondio el buho.
 
 
