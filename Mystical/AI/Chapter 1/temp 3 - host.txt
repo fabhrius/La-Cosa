@@ -2,11 +2,12 @@ Ok.
 veamos ahora que podemos hacer con la tercera seccion del capitulo 1, 'the host'.
 
 En este caso, el host sera el libro.
-En resumen, esta seccion ...
 
 
 
 
+El texto que tenemos hasta ahora es el siguiente: 
+'
 Elara reanudó su escalada. El sol comenzaba su descenso, proyectando largas sombras sobre el accidentado terreno. Sabía que le quedaban solo un par de horas de luz antes del anochecer. Al llegar al siguiente saliente, un espectáculo la dejó sin aliento: la entrada de una cueva, previamente invisible desde cualquier otro ángulo, apareció ante sus ojos.
 
 "Esta entrada no estaba aquí hace un momento," pensó, desconcertada. De repente, escuchó un susurro, suave y escalofriante, llamando su nombre. "Elara."
@@ -24,5 +25,16 @@ Más adentro, donde la luz del sol no alcanzaba, un extraño resplandor comenzó
 A medida que se acercaba, se dio cuenta de que la luz emanaba de un punto entre las rocas. La respiración de Elara se detuvo cuando lo vio: un libro escondido entre las piedras, brillando con una luz etérea.
 
 El antiguo códice perdido de Rainland.
+'
+
+
+---
+
+
+En resumen, esta seccion  sucede lo siguiente
+- Elara encuentra el libro, la busqueda previa explorando la cueva debe relatarse en tono de aventura y suspenso.
+con descripciones de la cueva y situaciones que creen suspenso como por ejemplo la aparicion de algun pequeno animal que cruza el camino de Elara mientras huye.
+- se presenta al libro, y  este es uno de los pocos momentos en la historia en que el libro tiene protagonismo, de modo que conviene agregar descripciones para el libro, tales como que el libro contiene una gran cantidad de conocimiento de gran valor, ademas, el libro tiene un gran poder magico, Tambien, el libro tiene conciencia propia, puede ver en el interior de las personas y puede alterar la realidad, el libro tiene voluntad. El libro ha sido no solo escrito, sino construido por un antiguo pueblo, ya extinto, del que apenas se tiene conocimiento.
+El libro puede brillar, hablar, alterar la realidad, elevarse en el aire, lanzar rayos y toda clase prodigios y de otras manifestaciones sobrenaturales.
 
 
