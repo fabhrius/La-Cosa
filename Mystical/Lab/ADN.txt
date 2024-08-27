@@ -9,6 +9,8 @@ Todos los individuos, de todas las especies, llevan la información que los defi
 
 el ADN funciona como un soporte de información, o memoria.
 
+
+***
 En las ciencias de la computacion existen dos tipos de memoria utilizadas en los sistemas computacionales.
 Las memorias de "solo lectura" y las memorias de "lectura y escritura".
 
@@ -19,13 +21,46 @@ en este sentido, pensaremos en el ADN contenido en el interior de un individuo c
 De este modo, la información que describe al individuo permanecerá constante durante toda la vida del individuo.
 Y así, el individuo sera siempre el mismo, con las mismas características que lo diferenciaran de otros individuos, durante toda su vida.
 
+***
+
 El ADN tiene capacidad para almacenar una gran cantidad de información.
 
 El ADN es mucho mas que la informacion que define al individuo, es el individuo mismo, es su Espiritu, es la vida misma, y el Espiritu de la vida.
+Es el ADN el que proporciona a los individuos todas sus caracteristicas.
+
 Es ademas, una inteligencia poderosa, que explora el universo aprendiendo.
 Para esta inteligencia no existen los problemas complejos.
 
 El ADN, ademas de definir a los individuos, Tambien es, en si mismo, un complejo sistema inteligente.
+
+--------------
+
+
+No es el objetivo de este relato hacer un analisis detallado del ADN.
+En cambio, utilizaremos solo algunas ideas simples.
+
+Lo que nos interesa realmente es solo ciertos aspectos de su funcionalidad.
+Y lo que haremos es crear una abstraccion matematica que simule esta funcionalidad, para con ella realizar un experimento.
+
+Y las ideas que utilizaremos acerca el ADN son las siguientes:
+el ADN crea individuos.
+Los individuos almacenan informacion y cumplen con un ciclo de vida.
+el ciclo de vida consiste en nacer, reproducirse y morir.
+al reproducirse, la informacion almacenada en el individuo es modificada para crear a un nuevo individuo.
+no existen dos individuos iguales
+la informacion contenida en dos individuos es diferente.
+y todo el sistema esta definido en el ADN.
+
+
+Esta es la base de un potente sistema inteligente.
+Lo desarrollaremos paso a paso, capitulo a capitulo, y lo veremos en funcionamiento.
+
+
+
+
+
+
+
 
 
 --------------
@@ -61,3 +96,59 @@ Más allá de definir a los individuos, el ADN es en sí mismo un sistema comple
 ---
 
 ¿Te gustaría agregar algo más o ajustar alguna parte?
+
+
+---
+
+
+Aquí tienes un desarrollo más detallado y estilizado del texto sobre el ADN:
+
+---
+
+**El ADN: La Esencia de la Vida y la Inteligencia**
+
+En todos los seres vivientes, desde la más simple bacteria hasta el organismo más complejo, existe una molécula que juega un rol fundamental: el ADN (ácido desoxirribonucleico). Esta molécula es mucho más que un simple componente bioquímico; es el portador de la esencia misma de la vida. En su estructura helicoidal, el ADN almacena la información necesaria para construir y mantener a cada individuo, permitiéndole crecer, desarrollarse, y, finalmente, reproducirse.
+
+**El ADN como Planos de Construcción**
+
+Podemos pensar en el ADN como un conjunto de planos de construcción. Así como un arquitecto necesita planos detallados para construir un edificio, el ADN proporciona las instrucciones precisas para ensamblar un organismo, célula por célula, tejido por tejido. Cada organismo, independientemente de su especie, lleva en su interior una copia de estos planos, una secuencia única de bases nitrogenadas que definen sus características físicas, su funcionamiento interno, y, en muchos sentidos, su destino biológico.
+
+**El Almacenamiento de Información en el ADN**
+
+Lo asombroso del ADN es su capacidad para almacenar una cantidad inmensa de información en una estructura relativamente compacta. Si pudiéramos desenrollar todo el ADN contenido en una sola célula humana, mediría aproximadamente dos metros de longitud, y, sin embargo, está meticulosamente empaquetado en el núcleo de cada célula. La información contenida en el ADN no solo define los rasgos visibles, como el color de ojos o la altura, sino que también codifica el funcionamiento de cada sistema y proceso dentro del organismo.
+
+**Más Allá de la Información: El ADN como Espíritu de la Vida**
+
+Pero el ADN no es solo información. Es el alma misma del organismo, su esencia vital. El ADN no solo define lo que somos; es lo que somos. Es el espíritu de la vida que, de alguna manera misteriosa, impregna a cada ser con una chispa de vitalidad. A través del ADN, la vida se expresa, se perpetúa, y evoluciona. Es el ADN el que dota a cada organismo de sus características únicas, desde su forma hasta su comportamiento, y le permite interactuar con el entorno de maneras complejas y sorprendentes.
+
+**El ADN como Inteligencia Evolutiva**
+
+Además de su rol como portador de la información genética, el ADN representa una forma de inteligencia poderosa, una inteligencia que ha evolucionado a lo largo de miles de millones de años. Esta inteligencia, aunque no consciente en el sentido humano, tiene la capacidad de adaptarse, experimentar, y aprender del universo que la rodea. A través de mutaciones y la selección natural, el ADN explora nuevas posibilidades, encuentra soluciones a desafíos ambientales, y, en última instancia, asegura la supervivencia de la especie. Para esta inteligencia, no existen problemas irresolubles, solo oportunidades para innovar y evolucionar.
+
+**Una Inteligencia Compleja e Intrínseca**
+
+No debemos olvidar que el ADN es, en sí mismo, un sistema complejo de inteligencia. Es el motor que impulsa la vida, el algoritmo que gobierna la creación de nuevos individuos y la perpetuación de la especie. Aunque no es el objetivo de este relato adentrarnos en un análisis exhaustivo del ADN, es esencial comprender algunas de sus funciones básicas para apreciar el experimento que llevaremos a cabo en este laboratorio.
+
+**Abstracción Matemática del ADN**
+
+Nuestro enfoque no será desglosar todos los detalles moleculares del ADN, sino utilizar ciertas ideas clave para crear una abstracción matemática. Esta abstracción nos permitirá simular el comportamiento del ADN y realizar un experimento que nos proporcionará respuestas a algunas de las preguntas fundamentales que plantea la historia de Elara. Nos interesa, sobre todo, cómo el ADN crea individuos, cómo almacena información, y cómo estos individuos cumplen con un ciclo de vida que incluye nacer, reproducirse, y morir.
+
+**El Ciclo de Vida y la Evolución**
+
+El ciclo de vida es un proceso cíclico en el que el ADN juega un papel central. Cada vez que un individuo se reproduce, el ADN que porta se mezcla y se modifica para dar lugar a un nuevo ser. Este nuevo individuo no es idéntico a sus progenitores; es una combinación única de la información genética de ambos. Esta variabilidad es lo que impulsa la evolución, permitiendo que nuevas características surjan y se propaguen en una población a lo largo del tiempo.
+
+**La Singularidad de Cada Individuo**
+
+Una de las características más fascinantes del ADN es que no existen dos individuos exactamente iguales. Incluso entre los gemelos idénticos, que comparten el mismo código genético, existen pequeñas diferencias que los hacen únicos. Cada organismo es, en esencia, una manifestación única de su ADN, un ser individual con sus propias características, comportamiento y destino.
+
+**El Sistema Inteligente del ADN**
+
+Todo este proceso, desde la creación del individuo hasta su evolución, está gobernado por las leyes inscritas en el ADN. Este es el fundamento de un sistema inteligente extremadamente poderoso. A lo largo de este laboratorio, desarrollaremos este sistema paso a paso, capítulo a capítulo, y lo veremos en funcionamiento. No solo entenderemos cómo el ADN crea la vida, sino también cómo utiliza su inteligencia inherente para adaptarse y evolucionar, explorando las posibilidades del universo.
+
+**Conclusión: Hacia la Comprensión del ADN**
+
+En resumen, el ADN es mucho más que una simple molécula biológica. Es el arquitecto, el constructor y el espíritu de la vida. Es una inteligencia intrínseca que guía a los seres vivientes en su viaje a través del cosmos, adaptándose, evolucionando, y aprendiendo en el proceso. A medida que avancemos en este laboratorio, utilizaremos estos conceptos como base para un experimento que nos ayudará a desentrañar los misterios de la existencia, tal como Elara busca hacer en su propio viaje. Nos espera un fascinante recorrido, donde la ciencia y la fantasía se entrelazan para revelar las verdades más profundas de la vida.
+
+---
+
+Este texto introduce de manera detallada y clara las ideas clave sobre el ADN, destacando tanto su importancia biológica como su papel en el experimento que se desarrollará a lo largo del cuento.

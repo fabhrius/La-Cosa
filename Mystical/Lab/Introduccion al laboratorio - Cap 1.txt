@@ -1,10 +1,14 @@
 Bienvenidos al Laboratorio
-En esta sección, emprenderemos un viaje paralelo al de nuestra protagonista, Elara. Mientras ella recorre un universo fantástico en busca de respuestas a las grandes preguntas de la existencia, nosotros las abordaremos desde una perspectiva científica.
+En esta sección, emprenderemos un viaje paralelo al de nuestra protagonista, Elara. 
+Mientras ella recorre un universo fantástico en busca de respuestas a las grandes preguntas de la existencia, nosotros las abordaremos desde una perspectiva científica.
 
 ¿Es posible encontrar respuestas comprobables a preguntas como: ¿Por qué nacemos? ¿Por qué morimos? ¿Existe una inteligencia que crea a los seres vivientes? ¿Tiene la vida un propósito? ¿Tengo una misión? ¿Cuál es mi misión?
 
 En este laboratorio, exploraremos estas cuestiones desde la ciencia, buscando respuestas que no solo satisfagan la curiosidad, sino que también resuenen con el propósito que Elara persigue en su aventura.
 
-A lo largo de este cuento, acompañaremos a Elara en su búsqueda de respuestas, sumergiéndonos tanto en su mundo de fantasía y magia como en los fundamentos de la ciencia y la tecnología. Mientras Elara descubre reinos encantados y seres místicos, aquí desentrañaremos los misterios del universo utilizando las herramientas de las matemáticas, la lógica y las ciencias de la computación.
+A lo largo de este cuento, acompañaremos a Elara en su búsqueda de respuestas, sumergiéndonos tanto en su mundo de fantasía y magia como en los fundamentos de la ciencia y la tecnología. 
+Y mientras Elara descubre reinos encantados y seres místicos, aquí desentrañaremos los misterios de la existencia utilizando las herramientas de las matemáticas, la lógica y las ciencias de la computación.
 
-Cada capítulo incluirá una sección especial donde discutiremos conceptos científicos clave. A través de estas herramientas, realizaremos un experimento que nos permitirá examinar las profundas cuestiones que plantea la historia de Elara. Juntos, descubriremos cómo la ciencia puede ser una poderosa forma de entender y dar sentido al mundo que nos rodea, complementando la magia y la aventura del relato.
+Cada capítulo incluirá una sección especial donde discutiremos conceptos científicos clave. 
+A través de estas herramientas, realizaremos un experimento que nos permitirá examinar las profundas cuestiones que plantea la historia de Elara. 
+Juntos, descubriremos cómo la ciencia puede ser una poderosa forma de entender y dar sentido al mundo que nos rodea, complementando la magia y la aventura del relato.
