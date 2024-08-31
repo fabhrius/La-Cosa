@@ -21,6 +21,9 @@ no lo creo.
 algun motivo debe haber.
 alguna necesidad debe existir.
 
+
+--------------------------------
+
 el hecho de que a mi me parezca bien, es subjetivo.
 yo siento la necesidad de proteger la vida, proteger a los debiles, algo asi como un sindrome del heroe.
 esto se debe a que soy un mamifero.
@@ -32,13 +35,60 @@ el instinto me obliga.
 para entender el porque de la reproduccion debemos Tambien entender el porque de la muerte.
 la necesidad del ciclo de vida.
 
+---------------------------
+
+y porque no crear seres inmortales ?
+sera que la muerte es inevitable ?
+
 cuando afirmamos que las criaturas vivientes se reproducen para perpetuar las especies lo hacemos con la conviccion de que la muerte es inevitable.
 pero esto podria no ser verdad.
 
 --------------------
 
-y porque no crear seres inmortales ?
-sera que la muerte es inevitable ?
+a lo largo de los siguientes capitulos veremos el porque del ciclo de vida de las criaturas.
+existe un motivo para que las criaturas deban cumplir con un ciclo de vida.
+
+veremos Tambien cual es el motivo que hace que la muerte de las criaturas sea necesaria.
+
+
+----------------
+he comentado ya que realizaremos una simulacion de la vida.
+con algunos elementos que podemos observar en la vida crearemos un sistema inteligente que resolvera problemas logicos.
+lo veremos paso a paso en los siguientes capitulos.
+uno de los elementos de la vida que utilizaremos para crear el sistema es la reproduccion.
+
+que sucede durante la reproduccion ?
+la informacion almacenada en el ADN de un individuo es modificada durante la reproduccion, para crear al hijo.
+
+el nuevo individuo, el hijo, no sera igual que el padre.
+padre e hijo son parecidos, pero no iguales.
+padre e hijo no son copias exactas.
+porque no deben existir dos individuos iguales.
+
+de esta forma se asegura que no existen dos individuos haciendo el mismo trabajo.
+es una forma de optimizacion del sistema.
+
+asi, cada individuo abre un nuevo camino de exploracion, su propio camino en la busqueda de la solucion a un problema, creando una nueva especie.
+
+---
+
+memorias
+
+he comentado que el ADN almacena informacion.
+del mismo modo que lo hace una memoria.
+
+los computadores utilizan memorias.
+las memorias puedes clasificarse dentro de 2 tipos.
+las memorias de solo lectura y las memorias de lectura y escritura.
+las memorias de lectura y escritura son aquellas en donde la informacion puede grabarse, borrarse y reutilizar el espacio para escribir nueva informacion, como en el caso de los computadores personales que utilizamos a diario.
+Las memorias de solo lectura son aquellas en donde una vez grabada la informacion ya no puede ser modificada, como en el caso de los disco de vinilo utilizados para grabar musica.
+
+el ADN funciona como una memoria de solo lectura, es decir que la informacion no puede ser modificada.
+un individuo mantendra la informacion que lo define durante toda su vida, asi el individuo sera siempre el mismo, manteniendo las caracteristicas que lo diferencian de otros individuos durante toda su vida.
+
+
+
+
 
 -----------------------
 
