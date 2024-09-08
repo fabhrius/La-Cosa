@@ -113,6 +113,10 @@ PLOT:
 /***********************************************/
 ------------------------------------------------
 
+
+1- Resolucion
+
+
 podrias ayudarme a desarrollar el tercer capitulo ?
 lo haremos por secciones.
 te proporcionare un borrador del guion y tu debes desarrollarlo agregando las descripciones y detalles que sean necesarios.
@@ -185,7 +189,7 @@ posiblemente las mazmorras de un castillo medieval.
 /*********************/
 
 
-3- background
+2- background
 
 un anciano vecino del pueblo, Berthz, explica a Elara que 
 existe un castillo habitado por un mago poderoso en Rainland.
@@ -224,6 +228,73 @@ Elara vio el amuleto, y el escudo.
 el mismo escudo que encontro en la pared de esta construccion, en un descanso de la escalera.
 
 Es posible que este sea el castillo del mago, penso.
+
+
+----------------------------------
+/*********************************/
+
+
+
+
+3- El anfitrion
+
+
+alli conoce a el mago.
+el mago pregunta a Elara como ha llegado hasta alli.
+Elara explica que por accidente en la busqueda de respuestas.
+Elara lista las preguntas.
+
+
+---------------------
+
+guion:
+
+Elara asciende por la escalera lentamente, peldano a peldano, abriendose paso en la oscuridad gracias a su antorcha, en una oscuridad profunda, como nunca habia visto antes.
+la escalera parecia interminable, infinita.
+hasta que termino en el extremo de un pasillo.
+la luz de su antorcha solo le permitia ver unos pocos metros.
+mas adelante la oscuridad era absoluta.
+la unica forma de saber adonde llevaba el pasillo era avanzar, explorarlo.
+unos cuantos pasos mas adelante, encontro una puerta.
+al abrirla encontro una habitacion con una mesa con unos cuantos libros sobre ella cubiertos de polvo y una silla.
+nadie habia entrado en esa habitacion en anos.
+la antorcha solo podia iluminar en un radio estrecho y alrededor las sombras se movian de forma extrana.
+y no habiendo mas objetos en la habitacion, era dificil entender de donde procedian aquellas sombras danzantes.
+quizas eran producto de la imaginacion, un efecto optico.
+solo el sonido de sus pasos, su respiracion, sus movimientos, rompian el silencio era absoluto que reinaba en el lugar.
+abrio uno de los libros.
+estaba escrito en una lengua extrana.
+dejo la habitacion y volvio al pasillo.
+la oscuridad hacia imposible saber la longitud que podria tener.
+camino algunos metros y encontro otra puerta.
+otra habitacion.
+en su interior habia algo asi como un laboratorio quimico.
+con aspecto de haber sido avandonado hace anos.
+todavia algunas probetas contenian liquido de distintos colores.
+y alrededor de la sala, igual que la anterior, sombras danzantes en la oscuridad.
+desde la posicion de Elara no era posible determinar el tamano de la habitacion, ya que las paredes se ocultaban en la oscuridad.
+y en la profunda oscuridad que la rodeaba, parecian moverse sombras, bultos, como si algo oculto en la oscuridad se moviera alrededor, en silencio.
+es mi imaginacion, penso.
+retrocedio caminando hacia atras hacia el pasillo.
+al salir de la habicion, en el pasillo, coloco su espalda contra la pared, y continuo avanzando despacio, sin despegar la espalda de la pared.
+despacio, paso a paso, por el pasillo.
+apenas habia recorrido unos pocos metros, la puerta de la habitacion todavia era visible en la penumbra, cuando vio algo.
+una sombra salio rapidamente de la habitacion y se oculto en la oscuridad del pasillo.
+"hey!"-, grito Elara sorprendida en un acto reflejo.
+era la sombra de un hombre.
+lo he visto, penso, no ha sido mi imaginacion, estoy segura de haberlo visto.
+"Quien esta ahi?"-, pregunto.
+pero el silencio era absoluto.
+nadie puede moverse sin hacer algun sonido.
+es imposible, penso.
+es mi imaginacion.
+continuo avanzando por el pasillo hasta encontrar otra puerta.
+intento abrirla, pero estaba cerrada con cerrojo.
+intento forzarla.
+y en ese instante, una gran cantidad de antorchas colocadas en las paredes del pasillo se encendieron a la vez, iluminando el pasillo.
+un largo pasillo de ladrillos de piedra.
+y a unos escasos metros de Elara, la sombra de un hombre se proyectaba sobre una de las paredes.
+
 
 
 
