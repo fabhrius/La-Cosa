@@ -1,0 +1,58 @@
+ok.
+continuemos con la siguiente seccion, "Desarrollo".
+En esta seccion el anfitrion proporciona alguna de las respuestas que busca Elara.
+Igual que con las otras secciones, tu objetivo es desarrollarla agregando descripciones y detalles, mateniendo el estilo.
+Puedes agregar descripciones del castillo, el mago, la atmosfera, los pensamientos y sentimientos de Elara, y agregar cualquier detalle que creas que puede enriquecer el relato.
+la seccion igual que las anteriores deberia tener una longitud aproximada de 1000 palabras.
+El relato debe girar alrededor de los fenomenos sobrenaturales, de modo que puedes explayarte en ellos tanto como creas necesario agregando a los trucos del mago suspense y dramatismo, creando una atmosfera de terror que sorprenda al lector.
+
+el guion es el siguiente: 
+'
+Elara esta intrigada por la sombra que se proyecta sobre la pared.
+Es la figura de un hombre, pero no se explica desde donde es proyectada ya que no hay objetos en el pasillo.
+como es posible?
+se acerca para observarla buscando una explicacion.
+Al acercarse, aparece una segunda sombra junto a la primera, igual que la anterior.
+El corazon de Elara se acelera, sus musculos se tensan al instante.
+Pero entonces aparece una tercera sombra, y una cuarta, y una quinta.
+Y muchas mas.
+Las paredes del pasillo se llenan de sombras identicas, hombres que ahora se mueven, caminan por el pasillo adelante y atras, se cruzan, se alejan y se acercan, una multitud de sombras que se mueven en todas direcciones.
+la imagen es fantasmal, sobrenatural.
+Elara siente frio.
+Y en un instante todas las sombras se desvanecen, todas excepto una, la sombra original que continua en el mismo lugar, inmovil.
+
+Elara mueve la antorcha que todavia lleva en la mano delante de la sombra, esperando que se desvanezca, pero la luz de la antorcha no le afecta, la sombra permanece en la pared inmutable.
+Y una voz la llama por su nombre: "Elara".
+Elara asustada da un paso atras. "Quien eres", pregunta.
+
+la sombra continua hablando. "Te dare una de las respuestas que buscas".
+"Porque? Porque haras eso?", pregunto Elara.
+"Porque tu a cambio me ayudaras a salir de aqui", respondio la sombra.
+
+Tras decir esto, el pasillo cambio de forma, y se transformo en un gran salon.
+el techo abobedado con arcos goticos, grandes lamparas de fuego congaban del techo iluminando la sala.
+Elara se encontraba de pie junto a una gran chimenea, y junto a ella la sombra continuaba proyectandose en la pared.
+
+"Mas trucos?", exclamo Elara, "tu debes ser el mago".
+El silencio como respuesta.
+"La imagen de Meg en el bosque, la has creado tu?"
+
+La sombra responde con otra pregunta: "Quieres saber lo que la vida es?"
+"La respuesta esta escrita en el libro", continuo.
+Tras lo cual, un gran libro en un atril de madera tallada aparecio delante de Elara.
+
+El libro se abrio magicamente, primero la cubierta, despues las paginas pasaron hasta detenerse en una pagina concreta.
+Elara avanzo un paso para leer.
+Escrita con grandes letras goticas, la frase:
+"Existe un universo
+Habitado por una criatura inmortal, 
+con una inteligencia extraordinaria.
+
+Perteneciente a una especie en la que 
+solo puede existir un  único ejemplar.
+
+Y consume su tiempo sola, 
+observando el universo,
+Y pensando, 
+					por toda la eternidad."
+'

@@ -108,7 +108,7 @@ ESTRUCTURA:
 
 -------------------------------
 
-PLOT:
+SECCIONES PLOT:
 
 /***********************************************/
 ------------------------------------------------
@@ -294,6 +294,84 @@ intento forzarla.
 y en ese instante, una gran cantidad de antorchas colocadas en las paredes del pasillo se encendieron a la vez, iluminando el pasillo.
 un largo pasillo de ladrillos de piedra.
 y a unos escasos metros de Elara, la sombra de un hombre se proyectaba sobre una de las paredes.
+
+
+/***********************************/
+------------------------------------
+
+
+
+4- Development:
+
+El mago utiliza una asombrosa herramienta magica para explicar a Elara lo que es la vida.
+
+
+la herramienta magica del mago no podra dar mas respuestas 
+a menos que se le proporcione una pluma de la espalda de un buitre.
+
+solo podras encontrarla en la montanya pero no hay forma de salir del castillo.
+existe una llave, pero nunca la he encontrado - afirma el mago.
+siento su presencia en la parte alta del castillo hacia el norte.
+pero es peligroso caminar por los pasillos.
+el castillo se esta derrumbando poco a poco.
+
+Intentare encontrarla - afirma Elara
+y se lanza a recorrer los pasillos del castillo en su busqueda.
+
+
+-----------------------------
+
+
+GUION:
+
+Elara esta intrigada por la sombra que se proyecta sobre la pared.
+Es la figura de un hombre, pero no se explica desde donde es proyectada ya que no hay objetos en el pasillo.
+como es posible?
+se acerca para observarla buscando una explicacion.
+Al acercarse, aparece una segunda sombra junto a la primera, igual que la anterior.
+El corazon de Elara se acelera, sus musculos se tensan al instante.
+Pero entonces aparece una tercera sombra, y una cuarta, y una quinta.
+Y muchas mas.
+Las paredes del pasillo se llenan de sombras identicas, hombres que ahora se mueven, caminan por el pasillo adelante y atras, se cruzan, se alejan y se acercan, una multitud de sombras que se mueven en todas direcciones.
+la imagen es fantasmal, sobrenatural.
+Elara siente frio.
+Y en un instante todas las sombras se desvanecen, todas excepto una, la sombra original que continua en el mismo lugar, inmovil.
+
+Elara mueve la antorcha que todavia lleva en la mano delante de la sombra, esperando que se desvanezca, pero la luz de la antorcha no le afecta, la sombra permanece en la pared inmutable.
+Y una voz la llama por su nombre: "Elara".
+Elara asustada da un paso atras. "Quien eres", pregunta.
+
+la sombra continua hablando. "Te dare una de las respuestas que buscas".
+"Porque? Porque haras eso?", pregunto Elara.
+"Porque tu a cambio me ayudaras a salir de aqui", respondio la sombra.
+
+Tras decir esto, el pasillo cambio de forma, y se transformo en un gran salon.
+el techo abobedado con arcos goticos, grandes lamparas de fuego congaban del techo iluminando la sala.
+Elara se encontraba de pie junto a una gran chimenea, y junto a ella la sombra continuaba proyectandose en la pared.
+
+"Mas trucos?", exclamo Elara, "tu debes ser el mago".
+El silencio como respuesta.
+"La imagen de Meg en el bosque, la has creado tu?"
+
+La sombra responde con otra pregunta: "Quieres saber lo que la vida es?"
+"La respuesta esta escrita en el libro", continuo.
+Tras lo cual, un gran libro en un atril de madera tallada aparecio delante de Elara.
+
+El libro se abrio magicamente, primero la cubierta, despues las paginas pasaron hasta detenerse en una pagina concreta.
+Elara avanzo un paso para leer.
+Escrita con grandes letras goticas, la frase:
+"Existe un universo
+Habitado por una criatura inmortal, 
+con una inteligencia extraordinaria.
+
+Perteneciente a una especie en la que 
+solo puede existir un  único ejemplar.
+
+Y consume su tiempo sola, 
+observando el universo,
+Y pensando, 
+					por toda la eternidad."
+
 
 
 
