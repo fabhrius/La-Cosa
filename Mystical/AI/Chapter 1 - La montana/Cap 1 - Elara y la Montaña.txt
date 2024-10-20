@@ -1,5 +1,14 @@
  1 - The Hook*
 
+
+Hace mucho, muho tiempo, cuando la tierra era aun joven, en un lugar remoto, existio un reino que desaparecio en la antiguedad, cubierto por las arenas del tiempo.
+Un reino de exuberante belleza, rebozante de vida, llamado
+
+RAINLAND.
+
+Y fue asi que,
+en uno de aquellos dias, en una manana de primavera, sucedio que...
+
 En el corazón de Rainland, donde las montañas rozan el cielo y los bosques susurran secretos ancestrales, una joven llamada Elara se encontraba enfrentando uno de sus mayores desafíos.
 
 Suspendida a gran altura en la cara oeste de la Gran Montaña, el pico mas alto de Rainland,  Escalaba lentamente, paso a paso,  la imponente pared escarpada. 
@@ -14,7 +23,6 @@ Y Elara subia, sin pausa, mas y mas alto.
 
 A cada paso que subía, a cada nuevo metro que ganaba, la incertidumbre crecía. El mapa que llevaba en su mochila había indicado un lugar preciso en la montaña. Según las antiguas leyendas, allí se encontraba el Codex de Rainland, un libro perdido que contenía los secretos del universo, las respuestas a todas las preguntas que Elara había acumulado en su vida. Sin embargo, la idea de que el libro pudiera no estar allí, de que tal vez todo fuera un mito, empezaba a corroer su determinación.
 
---- (inicio la fe 1)
 
 Elara se aferraba con fuerza a las rocas resbaladizas de la Gran Montaña, sintiendo el frío viento que azotaba su rostro. Cada paso hacia arriba era más difícil que el anterior. La misión que había emprendido, la búsqueda del Codex, el antiguo libro que contenía los secretos de Rainland, se sentía cada vez más inalcanzable.
 
@@ -30,16 +38,16 @@ Durante varios minutos más, Elara continuó subiendo, pero cada vez más despac
 
 Se detuvo, apoyando su frente contra la roca fría. El cansancio la invadía. Por primera vez, consideró la posibilidad de rendirse.
 
-Pero justo cuando la desesperanza parecía tomar el control, algo en su interior le recordó las palabras de Mag: "No importa si el Espíritu de la Lluvia responde o no. Lo importante es que tengas fe, Elara. La fe es lo que te hará fuerte en los momentos más difíciles. Confía en que el camino se abrirá para ti."
-
-Elara levantó la cabeza. Miró hacia el cielo nublado y respiró profundamente. Aunque no había sentido ninguna señal del Espíritu, decidió seguir adelante. Tal vez el Espíritu no siempre responde de la manera que esperamos, pero su abuela siempre decía que la fe no se trataba solo de esperar respuestas inmediatas, sino de mantener la esperanza y seguir luchando.
-
-
-
---- (fin la fe 1)
-
 Elara alcanzó finalmente un pequeño saliente en la roca, un lugar donde pudo detenerse y descansar unos momentos. Se sentó sobre la fría piedra y, por primera vez desde que había comenzado su ascenso, permitió que la frustración se instalara en su pecho. 
 "¿Por qué estoy aquí?"
+
+su mano busco el amuleto que llevaba colgando del cuello.
+recordo como Johf un anciano amigo se lo dio el dia de su partida.
+-"Te dara suerte"-, dijo.
+Ahora, sin el mapa, perdida en la montana, sin esperanza de encontrar lo que habia venido a buscar y al limite de sus fuerzas, sentia que aquel amuleto estaba teniendo el efecto opuesto al esperado.
+
+Arranco el amuleto con fuerza y sin pensar lo arrojo al vacio y lo vio caer alli por donde la montanya cae a plomo sobre el valle.
+
 Estaba agotada, tanto física como mentalmente. Miró hacia el gran valle bajo sus pies, hacia ese paisaje que tan bien conocía pero que ahora parecía irreconocible.
 
 El viento producía aquí un sonido diferente, un murmullo que la envolvía, como si la montaña misma intentara hablarle. Pero, como tantas veces antes, el viento no proporcionaba las respuestas que necesitaba.
@@ -93,6 +101,12 @@ El sonido lejano de los cantos de los monjes volvía a llenar la sala, como un e
 
 Eran las primeras horas de la manana y El sol se encontraba todavia del otro lado de la montana.
 Se levantó con esfuerzo y sacudió el polvo de sus manos. No podía rendirse, no ahora.
+
+Recordó las palabras de Mag: "No importa si el Espíritu de la Lluvia responde o no. Lo importante es que tengas fe, Elara. La fe es lo que te hará fuerte en los momentos más difíciles. Confía en que el camino se abrirá para ti.
+Manten la esperanza.
+Lucha, hasta el final."
+
+
 Elara ajustó su mochila y se preparó para reanudar su escalada.
 Cuando algo inesperado la sorprendio.
 
@@ -106,14 +120,9 @@ Se acerco para observar la entrada desde diferentes angulos antes de decidirse a
 
 --- (inicio la fe 2)
 
-Allí, en medio de una roca alta, vio un símbolo tallado, el mismo que había visto en los antiguos pergaminos: el signo del Espíritu de la Lluvia. Elara sintió un escalofrío recorrer su cuerpo. **Había encontrado la entrada de la cueva.**
-
-—Lo hice —susurró, con una sonrisa débil pero llena de esperanza.
-
-En ese momento, Elara comprendió una verdad importante. **No importaba si el Espíritu de la Lluvia era real o solo existía en su mente**. Lo que realmente importaba era que su fe, su esperanza de recibir ayuda, la había mantenido en movimiento cuando todo parecía estar perdido. Esa fe le había dado la fuerza para no rendirse.
-
-Mientras entraba en la cueva, Elara se dio cuenta de que la fe no siempre significa tener respuestas claras o señales evidentes. **La fe es confiar en que, de una manera u otra, encontrarás el camino**. 
-La fe en que recibiras ayuda, la esperanza de que al final todo saldra bien, te daran la resistencia necesaria para atravesar los momentos más dificiles y posiblemente cambiar la suerte a tu favor.
+Allí, en medio de una roca alta, vio un símbolo tallado, el mismo que había visto en los antiguos pergaminos: el signo del Espíritu de la Lluvia, el arbol y la serpiente, simbolo de la vida.
+Elara sintió un escalofrío recorrer su cuerpo. 
+— Es aqui. Esta es la cueva. —susurró.
 
 Elara volvio a escuchar la voz de su abuela, Mag, que le decia: -"El Espiritu de la lluvia no te abandonara."-
 
@@ -140,11 +149,13 @@ Cuando algo se avalanzo sobre ella. Una sombra, que casi la golpea en el rostro,
 un pequeño animal, probablemente un murciélago, que se deslizaba rápidamente entre las sombras antes de desaparecer. 
 Elara exhaló un suspiro de alivio, pero el incidente no hizo más que intensificar la sensación de que algo la estaba observando desde el interior de la cueva.
 Algo la observaba. Podía sentirlo, una presencia desconocida parecía vigilar cada uno de sus movimientos. 
+
 Se giro para continuar su camino y se topo con un hombre parado justo delante de ella.
 Su rostro palidecio y su sangre se helo al instante, un grito de terror escapo de su boca.
 dio un salto hacia atras y entonces vio su rostro.
 Era Khrom, el sacerdote.
-"No es posible, Khrom, que haces aqui?"- pregunto confundida.
+
+"No es posible. Khrom, que haces aqui?"- pregunto confundida.
 Khrom respondio mirandola a los ojos : -"Tu fé te protegera, y La esperanza te guíara allí adonde quieras llegar "-
 Y en ese instante desaparecio, delante de sus ojos.
 
