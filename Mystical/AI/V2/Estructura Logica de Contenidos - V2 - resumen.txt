@@ -1,11 +1,5 @@
 #### **Acto 1: La Búsqueda de la Verdad**
-En este primer acto, Elara empieza a explorar preguntas existenciales fundamentales, y los primeros conceptos científicos empiezan a presentarse.
-
-
-#### **Acto 1: La Búsqueda de la Verdad**
 introduccion - presentacion de personajes y localizacion - presentacion de las preguntas existenciales que seran analizadas
-
-
 
 
 cap 1 - El libro
@@ -48,63 +42,116 @@ El libro lucha contra Elara.
 Elara muere.
 
 
+---
 
-( Acto 2 - la busqueda de respuestas - primeras ideas)
+(en los siguientes actos Elara se encuentra inconsciente, toda la accion sucede dentro de la imaginacion de Elara, es por lo tanto un viaje onirico, surreal, que nos permite introducir elementos fantasticos sin limite, tales como sucesos paranormales, elementos magicos, etc)
+---
 
-cap 3 - Monstruos
-
-
-cap 4 - La fe
-
-
-cap 5 - El amor
+#### **Acto 2**
+se exponen las primeras ideas 
 
 
-cap 6 - La magia
+cap 3 - 
+tema: Monstruos
+escenario: el bosque encantado
+(la aparicion de este escenario debe transmitir la idea de que Elara ya no se encuentra en la realidad)
 
-( Acto 3 - la vida como un sistema inteligente - componentes y simulacion)
+feedback: Elara recuerda las historias de su abuela Mag acerca del bosque encantado.
+desarrollo:
+climax:
+cliffhanger:
 
-cap 7 - La vida
-
-cap 8 - El ADN
-
-cap 9 - Reproduccion
-
-cap 10 - Individuos como componentes del sistema y ciclo de vida
-
-cap 11 - El sistema en funcionamiento - resolviendo un problema
-
-( Acto 4 - analisis - caracteristicas del sistema)
-
-cap 12 - Eficiencia
-
-cap 13 - Fiabilidad
-
-cap 14 - Potencia
-
-cap 15 - Coste
-
-cap 16 - Redundancia
-
-cap 17 - Poda
-
-( Acto 5 - mas alla)
-
-cap 18 - La inteligencia creadora
-
-cap 19 - El Espiritu
-
-cap 20 - La vida eterna
-
-cap 21 - el origen de la vida
-
-( Acto 6 - conclusiones)
+cap 4 - 
+tema: La fe
 
 
-cap 22 - vuelta a la realidad
+cap 5 -  
+tema: El amor
 
-cap 23 - lo trascendente
 
-cap 24 - la paz interior
+cap 6 -  
+tema: La magia
 
+
+---
+
+#### **Acto 3**
+la vida como un sistema inteligente - componentes y simulacion
+
+cap 7 -  
+tema: La vida
+
+cap 8 -  
+tema: El ADN
+
+cap 9 -  
+tema: Reproduccion
+
+cap 10 -  
+tema: Individuos como componentes del sistema y ciclo de vida
+
+cap 11 -  
+tema: El sistema en funcionamiento - resolviendo un problema
+
+---
+
+#### **Acto 4**
+analisis de caracteristicas del sistema
+
+
+cap 12 -  
+tema: Eficiencia
+
+cap 13 -  
+tema: Fiabilidad
+
+cap 14 -  
+tema: Potencia
+
+cap 15 -  
+tema: Coste
+
+cap 16 -  
+tema: Redundancia
+
+cap 17 -  
+tema: Poda
+
+
+---
+
+#### **Acto 5**
+Mas alla
+
+
+cap 18 -  
+tema: La inteligencia creadora
+
+cap 19 -  
+tema: El Espiritu
+
+cap 20 -  
+tema: La vida eterna
+
+cap 21 -  
+tema: el origen de la vida
+
+---
+
+#### **Acto 6**
+conclusiones
+(Elara recupera la conciencia y recuerda en detalle el viaje imaginario que ha realizado, es el momento de volver a la realidad y utilizar lo aprendido para extraer conclusiones)
+
+
+cap 22 -  
+tema: de vuelta a la vida
+
+cap 23 -  
+tema: lo trascendente
+
+cap 24 -  
+tema: la paz interior
+
+cap 25 -
+tema: Elara vuelve a la aldea y se plantea una nueva vida utilizando lo aprendido
 
