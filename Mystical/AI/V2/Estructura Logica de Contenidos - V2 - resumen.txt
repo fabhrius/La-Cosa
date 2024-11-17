@@ -72,6 +72,9 @@ tema: El amor
 cap 6 -  
 tema: La magia
 
+---
+
+(conclusiones)
 
 ---
 
