@@ -59,7 +59,18 @@ El lector debe desear continuar leyendo el resto del capitulo para descubrir lo 
 
 ------------
 
-Introduction (section):
+ok.
+Vamos a continuar ahora con una seccion de "Introduccion".
+El objetivo de esta seccion es 
+- presentar el escenario en que se desarrollara el capitulo
+- presentar el tema que se tratara en el capitulo
+- mostrar informacion relevante para el desarrollo del capitulo tales como el estado de animo de Elara
+
+
+
+el guion para esta seccion es el siguiente:
+'
+2- Introduction:
 
 (Escenario: Elara llega a un valle escondido donde se alza un antiguo templo en ruinas)
 
@@ -76,16 +87,63 @@ y ahora estaba perdida en un lugar desconocido.
 Todo parece estar saliendo mal.
 Elara se siente sola.
 Y no solo ha perdido la fe en el Espiritu de la Lluvia, Tambien estaba perdiendo la fe en si misma.
+Y empezaba a dudar en si seria capaz de encontrar el camino de vuelta a casa.
+Este lugar no estaba en ninguno de los mapas que Elara conocia.
 
 No.
 Los dioses protectores son fantasias para los ninos.
-(tema del capitulo: El Espiritu protector)
+(el tema del capitulo es: El Espiritu protector)
+
+'
+
+desarrolla este argumento describiendo el valle y el exterior del templo, comentando como Elara siempre habia confiado en el Espiritu la Lluvia como protector y guia, y describiendo mas en profundidad su estado de animo actual, su frustracion, su impotencia y en como Elara sin todavia saberlo ya se ha dado por vencida.
+esta seccion debe tener una longitud de aproximadamente 1000 palabras.
+queremos que el lector sienta la aventura del viaje como si estuviera entrando en el valle el mismo, y que sienta los mismos sentimientos que invaden a Elara en este momento, haciendole dudar de si Elara finalmente sera capaz de completar su mission.
+
+
 
 -------------
 
-Flashback
+
+continuemos ahora con la siguiente seccion, "Flashback"
+en esta seccion Elara recuerda algun momento de su vida que servira como antecedente para lo que sucedera en el capitulo.
+
+
+---
+
+el guion para esta seccion es el siguiente:
+
+'
+3- Flashback
 
 (recuerda cómo, de niña, se sentía segura al rezar al Espíritu. Ahora, esos recuerdos le parecen lejanos y vacíos)
+
+sus recuerdos la invadieron por un momento.
+la transportaron a otros tiempos.
+la infancia es deliciosa. 
+la alegria con que vivimos cada instante. la energia que ponemos en cada cosa que hacemos. la intensidad con que percibimos cada descubrimiento.
+
+Y recordo cuando su abuela Mag la llevo por primera vez al templo debajo de una fuerte tormenta, para agredecer la primera lluvia de la temporada.
+se vistieron con sus mejores ropas y cruzaron el pueblo de camino al templo caminando bajo la lluvia.
+era una manana calurosa y el cielo se habia cubierto completamente por nubes de color purpura oscuro que habian convertido el dia en noche.
+En el templo se habian reunido toda la aldea hablando, riendo, "Este sera un buen ano", comentaban abrazandose, todos estaban felices.
+Los relampagos iluminaban intermitentemente la gran sala del templo a traves de las ventanas de vitros.
+Y los truenos participaban en la conversacion de la aldea, mezclandose con las voces de los vecinos, recordandonos que el Espiritu de Lluvia estaba entre nosotros.
+Despues de un rato, la tormenta amaino.
+las nubes se disiparon y el sol volvio a brillar.
+Entonces volvimos a casa, caminando despacio.
+Mag me tomo de la mano y salimos del templo.
+Era una hermosa manana de primavera.
+Y en el cielo, el arcoiris, nos guio todo el camino de vuelta a casa.
+Y senti que con el el Espiritu de la Lluvia me hablaba, y decia, "Todo ira bien Elara, todo ira bien".
+'
+
+desarrolla este guion con descripciones acerca del pueblo, el templo, la fiesta, la gran tormenta electrica que estaba descargando, y la alegria e imaginacion de Elara nina, descubriendo un nuevo mundo en donde todos parecian ser felices.
+puedes incluir Tambien detalles acerca de las creencias y tradiciones de la aldea.
+la nina Elara debe resultar encantadora por su inocencia y alegria ante los ojos del lector.
+esta seccion debe tener una longitud aproximada de 1000 palabras.
+
+
 
 ------------
 
