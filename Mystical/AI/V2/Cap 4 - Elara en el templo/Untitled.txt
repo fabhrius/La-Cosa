@@ -226,23 +226,81 @@ creemos un gran misterio con fuerte suspenso para el lector
 
 ----------------
 
-Emotional and Philosophical Depth:
+
+continuemos ahora con la siguiente seccion, "Emotional and Philosophical Depth".
 
 
+en esta seccion resolveremos el cliffhanger de la seccion anterior, y mostraremos la diferencia de caracter entre los 2 protagonistas.
+El monje se deja guiar por la supersticion y teme profundamente todo aquello que desconoce.
+Mientras que Elara utiliza la razon como guia y disfruta con la emocion de resolver el misterio.
 
+las emociones de los protagonistas deben cobrar un papel importante en esta seccion,
+El monje siente, miedo paralizante.
+Elara no puede resistir averiguar que hay al otro lado.
+
+Esta seccion Tambien debe transmitir al lector ideas filosoficas edificantes. Como por ejemplo, no le pidas a la deidad que haga por ti aquello que es tu trabajo.
+
+
+---
+
+El guion es el siguiente:
+
+'
+6- Emotional and Philosophical Depth:
+
+Elara se detiene un antes de atravesar la entrada.
+El monje le dice con preocupacion: "No entres ahi Elara, es peligroso"
+Elara lo mira a la cara. Duda. Por un segundo.
+Pero al instante Se gira y continua avanzando.
 Elara, siguiendo el eco del sonido rítmico, convence a Toran de explorar juntos las profundidades del templo. A medida que avanzan, las paredes se vuelven más estrechas y húmedas, y el sonido parece provenir de una sala al final de un pasillo bloqueado por escombros.  
 
-Elara, usando su fuerza y habilidades físicas, comienza a mover las piedras mientras Toran la observa con cierta duda. Finalmente, abren un paso estrecho y entran a una antigua sala de maquinaria oculta. Dentro, encuentran un intrincado mecanismo hidráulico conectado a las fuentes subterráneas del templo.  
+Elara, comienza a mover las piedras mientras Toran la observa con cierta duda. 
+El monje mira alrededor con miedo, esperando que algo malo suceda en cualquier momento.
+"Ayudame, vamos a entrar alli.", dice Elara con tono de urgencia.
+El monje duda.
+Elara continua trabajando sin mirarlo, "Vamos, echame una mano", insiste.
+Entre los dos consiguen mover algunas piedras y 
+Finalmente, abren un paso estrecho y entran a una antigua sala de maquinaria oculta. Dentro, encuentran un intrincado mecanismo hidráulico conectado a las fuentes subterráneas del templo.  
 
-El sonido rítmico proviene de un conjunto de engranajes y pistones que, aunque corroídos por el tiempo, aún intentan funcionar. Toran, maravillado, explica que siempre creyó que el templo estaba construido sobre una fuente mágica, pero Elara se da cuenta de que el sistema fue diseñado por antiguos ingenieros para canalizar y regular el agua, creando un flujo constante que probablemente alimentaba la cascada y el simbolismo del Espíritu de la Lluvia.  
+El sonido rítmico proviene de un conjunto de engranajes y pistones que, aunque corroídos por el tiempo, aún intentan funcionar. 
+El monje confundido se detiene a observar aquella maquinaria.
+No consigue entender que podria ser eso.
 
-Elara, con su aguda observación, descubre una válvula bloqueada por raíces. Con algo de esfuerzo, logra despejarla y activar el sistema. Los engranajes comienzan a girar, y el sonido rítmico se vuelve un flujo armónico mientras el agua comienza a correr nuevamente. La cascada del templo cobra vida con una fuerza renovada, llenando el espacio con un rugido revitalizador.  
+El monje, Despues de un momento de silencio y observacion, dice: "El sonido proviene de aqui, de esta maquina, es evidente, y sin embargo no consigo entender cual es su funcion"
 
-Toran, impresionado, se arrodilla frente a Elara:  
-"Lo que para mí era un misterio sagrado, para ti ha sido un desafío que resolviste con valentía y lógica. Gracias a ti, el templo volverá a prosperar."  
+Pero mientras el monje observa la maquina desde cierta distancia, Elara, en cambio, se lanza inmediatamente a mirarla mas de cerca, la toca, intenta mover las piezas con sus  manos, y casi por accidente descubre algo que parece una válvula bloqueada por raíces.
+Con algo de esfuerzo, logra despejarla y entonces, Los engranajes comienzan a girar, y el sonido rítmico se vuelve un flujo armónico, y un instante despues un torrente de agua comienza a correr por un canal. y en seguida otro, y otro y otro y otro.
+"has reactiva el sistema !", dice el monje con sorpresa y algo de temor.
 
-Elara responde con humildad:  
-"Quizás el Espíritu de la Lluvia no sea una historia fantástica, sino una metáfora de la fuerza que nos impulsa a buscar soluciones y seguir adelante, incluso cuando todo parece perdido."  
+Y entonces, un gran rugido, un estruendo, que sono con fuerza en la sala principal del tempo.
+El monje al instante se lanzo a correr.
+Elara lo siguio.
+
+Al llegar a la gran sala la vision era sobrecogedora.
+La cascada del templo, que habia sido apenas un hilo de agua era ahora un gran torrente, una cascada magnifica.
+
+El monje se llevo las manos a la cabeza.
+Y se quedo observando la caida del agua.
+
+"Jamas habia visto esta cascada, en toda mi vida, no asi.", afirmo el monje sin quitarle la vista de encima.
+
+Elara unos pasos atras, le observaba respetuosamente, sin hablar.
+
+"Sabes?", continuo el monje, "a lo largo de mi vida, muchas veces, he pasado tiempo, pidiendo al Espiritu de la Lluvia que cambie cosas. Aquellas cosas en este mundo que deben ser cambiadas."
+Y despues de momento de silencio continuo: "Pero Despues de ver lo que has hecho, ahora pienso que,
+en muchas ocasiones, le he estado pidiendo que haga aquello que es mi trabajo.
+Quizas por eso estoy aqui. Quizas yo soy sus manos."
+'
+
+---
+
+esta seccion debe tener unas 2000 palabras.
+desarrollalo un poco agregando descripciones del templo mostrando la parte subterranean como una zona misteriosa, cargada de relieves con mensajes e historias en las paredes que, aunque para ellos resultan indescifrables, a simple vista podrian parecer amenazantes, de este modo justificaremos el miedo del monje.
+Describe Tambien la maquina con mas detalle, Elara puede detenerse a revisar diferentes partes de la maquina antes de encontrar la solucion.
+Tambien es necesario agregar mas detalle a la interaccion entre Elara y el monje para mostrar claramente la diferencia de caracteres.
+Elara debe ser respetuosa pero decidida e independiente.
+El monje debe ser protector y asumir el rol de padre, dificultado sin embargo por su profundo miedo a lo desconocido.
+De modo  que el monje, por principios, no puede dejar sola a Elara ante algo que el considera peligroso, y asi, a pesar de su miedo paralizante se ve obligado a seguirla para protegerla.
 
 
 ----------
