@@ -1,0 +1,79 @@
+
+### **Análisis de Requisitos: Proyecto "Elara y el Codex"**  
+
+#### **1. Identificación de Requisitos Principales**  
+Los requisitos del libro se agrupan en categorías clave, y cada uno será detallado en fases posteriores del análisis:  
+1. **Requisitos narrativos:**  
+   - Resumen del guion principal.  
+   - Descripción de los personajes principales y secundarios.  
+   - Temas principales y secundarios.  
+   - Tono y estilo narrativo.  
+
+2. **Requisitos estructurales:**  
+   - Estructura general del libro.  
+   - Estructura interna de los capítulos.  
+   - Relación entre narrativa y sección científica (*Laboratorio*).  
+
+3. **Requisitos científicos:**  
+   - Definición de conceptos clave que se abordarán en la sección científica.  
+   - Planificación del experimento científico central del libro.  
+   - Relación de la ciencia con los temas filosóficos y narrativos.  
+
+4. **Requisitos de audiencia:**  
+   - Perfil de los lectores objetivo.  
+   - Lenguaje y nivel de complejidad adecuado.  
+   - Estrategias para captar el interés de la audiencia (cliffhangers, reflexiones profundas, etc.).  
+
+5. **Requisitos técnicos:**  
+   - Formato de publicación (blog por capítulos).  
+   - Plan de retroalimentación con lectores.  
+   - Propuesta visual para complementar la narrativa, si aplica.  
+
+---
+
+#### **2. Desarrollo del Análisis de Requisitos**  
+Para cada requisito, desarrollaremos los siguientes elementos:  
+
+1. **Identificación del requisito:**  
+   - Qué se necesita.  
+2. **Descripción detallada:**  
+   - Por qué es importante.  
+   - Qué rol juega en el proyecto.  
+3. **Historias de usuario (si aplica):**  
+   - Cómo el lector interactúa o experimenta este elemento.  
+4. **Criterios de aceptación:**  
+   - Cómo sabemos que el requisito está cumplido correctamente.  
+
+---
+
+#### **3. Ejemplo de Desarrollo de Requisitos**  
+Para ilustrar cómo desarrollaremos los requisitos, aquí tienes un ejemplo:  
+
+##### **Requisito Narrativo: Resumen del Guion Principal**  
+1. **Identificación:**  
+   - Crear un resumen que describa la trama general del libro desde el inicio hasta el desenlace.  
+2. **Descripción:**  
+   - El resumen servirá como mapa para guiar la narrativa, asegurando coherencia y dirección en la escritura.  
+   - El guion principal incluye el viaje de Elara a través de 15 escenarios fantásticos en búsqueda de respuestas existenciales.  
+   - Cada capítulo incluye elementos de misticismo, acción y ciencia.  
+3. **Historia de usuario:**  
+   - *"Como lectora, quiero sentirme inmersa en un mundo fantástico y comprender el propósito del viaje de Elara, para disfrutar tanto de la narrativa como de las reflexiones filosóficas."*  
+4. **Criterios de aceptación:**  
+   - El resumen cubre inicio, desarrollo y desenlace de la historia.  
+   - Incluye los principales hitos de Elara y su interacción con los anfitriones.  
+   - Resalta la relación entre el viaje narrativo y las preguntas existenciales.  
+
+---
+
+### **4. Próximos Pasos**  
+1. **Definir los requisitos en detalle:**  
+   - Desarrollar cada categoría de requisitos usando el formato anterior.  
+2. **Revisar y priorizar:**  
+   - Determinar cuáles requisitos son imprescindibles y cuáles pueden ajustarse según el desarrollo del proyecto.  
+3. **Implementar:**  
+   - Utilizar los requisitos para estructurar y escribir el contenido del libro de manera coherente y efectiva.  
+
+---
+
+### **¿Qué opinas de este enfoque?**  
+Si estás de acuerdo, podemos comenzar por desglosar un grupo específico de requisitos, como los narrativos o estructurales. Esto nos permitirá avanzar paso a paso en la definición del proyecto.  
