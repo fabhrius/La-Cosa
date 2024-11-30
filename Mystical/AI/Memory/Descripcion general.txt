@@ -1,6 +1,8 @@
 Descripcion general:
 
 
+Objetivos:
+
 el libro tiene como objetivo encontrar respuestas a las preguntas existenciales que todos nos hacemos a lo largo de nuestras vidas.
 Tales como 
 porque nacemos
@@ -11,4 +13,26 @@ cual es mi mission
 entre otras
 
 
-el libro analiza la existencia de las criaturas vivientes 
+------------
+
+
+guion:
+
+Existe un libro magico, referido en la historia como 'el codice perdido', que contiene todo el conocimiento y por lo tanto todas las respuestas. El libro ha desaparecido mucho tiempo atras y hoy nadie sabe con certeza si es real o solo una leyenda.
+
+Elara, una joven atletica y decidida, desea encontrar respuestas a las preguntas acerca de su propia existencia que siempre se ha formulado.
+Con tal proposito Elara se embarca en la busqueda del libro, en un largo viaje que la llevara a atravesar un mundo desconocido, conociendo personas y lugares, aprendiendo, viviendo aventuras y afrontando peligros.
+
+
+Localizacion:
+todo el relato se desarrolla en un antiguo reino llamado 'Rainland'
+Rainland existio en un lugar desconocido, totalmente aislado del mundo, una isla.
+Rainland es una tierra muy fertil, de verdes valles, densos bosques y altas montanas.
+La población vive en pequenas aldeas distribuidas de forma uniforme por el reino.
+
+
+Tiempo:
+
+el relato sucede en tiempos medievales.
+los habitantes de Rainland tienen herramientas de hierro.
+y visten ropas un poco mas elaboradas que las tunicas de la antiguedad.
