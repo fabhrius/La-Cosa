@@ -1,0 +1,54 @@
+### **Requisito Narrativo: Resumen del Guion Principal**
+
+#### **1. Identificación del Requisito**  
+- **Título:** Resumen del Guion Principal.  
+- **Propósito:** Documentar la trama general que guiará el desarrollo narrativo del libro, asegurando coherencia y dirección.  
+
+#### **2. Descripción**  
+El guion principal describe la travesía de Elara, la protagonista, en su búsqueda de un libro mágico llamado *el códice perdido*, el cual contiene todo el conocimiento y las respuestas a las preguntas más profundas de la existencia. La historia mezcla aventura, misticismo y un trasfondo filosófico, explorando temas como la identidad, la búsqueda de propósito y el valor del conocimiento.  
+
+El relato transcurre en **Rainland**, un reino aislado y fértil, donde la sociedad medieval está profundamente influida por la veneración al *Espíritu de la Lluvia*, una deidad protectora y creadora según sus creencias.  
+
+El tono combina el estilo clásico de cuentos de hadas con elementos de realismo y toques fantásticos puntuales, creando un equilibrio entre lo mágico y lo creíble.  
+
+#### **3. Historia de Usuario**  
+- *"Como lectora, quiero acompañar a Elara en su viaje a través de Rainland, descubriendo un mundo fascinante y reflexionando sobre las preguntas filosóficas que guían su búsqueda, para disfrutar tanto de la aventura como de la introspección."*  
+
+#### **4. Elementos Esenciales del Guion Principal**  
+
+**Trama:**  
+1. **El códice perdido:**  
+   - Un libro mágico que contiene todas las respuestas y todo el conocimiento.  
+   - Se perdió hace mucho tiempo, y su existencia es incierta (realidad o leyenda).  
+
+2. **La protagonista, Elara:**  
+   - Joven atlética, inteligente, independiente e intrépida.  
+   - Motivada por encontrar respuestas a preguntas existenciales sobre su propósito en la vida.  
+   - Emprende un viaje lleno de aprendizaje, experiencias y peligros.  
+
+3. **El viaje:**  
+   - Elara recorre Rainland, una tierra de verdes valles, densos bosques y altas montañas.  
+   - Conoce personajes únicos que le ayudan, desafían o enseñan.  
+   - Explora lugares místicos y fantásticos que combinan realismo y magia.  
+   - Al final del viaje, encuentra respuestas a sus preguntas existenciales.  
+
+**Localización:**  
+- Rainland, un antiguo reino en una isla desconocida y aislada del mundo.  
+- La sociedad está organizada en pequeñas aldeas que valoran la amistad, el conocimiento, el trabajo y el respeto mutuo.  
+- Su religión está centrada en *El Espíritu de la Lluvia*, protector y guía de Rainland y sus habitantes.  
+
+**Tiempo:**  
+- Época medieval, con herramientas de hierro y ropa más elaborada que en la antigüedad.  
+
+**Estilo narrativo:**  
+- Aventuras fantásticas con un enfoque realista.  
+- Escenarios y personajes creíbles, con elementos mágicos y paranormales puntuales.  
+- El tono está más cerca de *El Señor de los Anillos* que de *Alicia en el País de las Maravillas*.  
+
+#### **5. Criterios de Aceptación**  
+- El resumen debe:  
+  - Cubrir inicio, desarrollo y desenlace de la trama principal.  
+  - Integrar la localización, el tiempo y el estilo narrativo como elementos esenciales.  
+  - Resaltar los temas filosóficos y la combinación de realismo con elementos fantásticos.  
+  - Reflejar la relación entre el viaje de Elara y la búsqueda de respuestas existenciales.  
+

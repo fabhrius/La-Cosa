@@ -6,20 +6,20 @@ El libro se divide en 2 partes:
 Cada capitulo contiene una parte de la historia fantastica y una parte del ensayo cientifico.
 
 
-
-
-En el ensayo cientifico se encuentra el contenido real que queremos transmitir al lector.
+En el ensayo cientifico se encuentra el contenido de valor que queremos transmitir al lector.
 Se compone de ideas y un experimento.
 
 Ideas acerca de algunas caracteristicas de la vida que, a modo de base de conocimiento, ayudaran al lector a comprender el experimento que se realizara.
 
-Un experimento que demostrara lo que es posible hacer utilizando algunos elementos presentes en la vida.
-Sera una simulacion logica de vida que funcionara para nosotros como un sistema inteligente.
-Lo pondremos a prueba jugando a un juego de mesa
-y mediremos algunas de sus caracteristicas tales como eficiencia, potencia o coste, entre otras.
+Y Un experimento que demostrara lo que es posible hacer utilizando algunos elementos presentes en la vida.
+
+Sera una simulacion logica de la vida que utilizaremos como un sistema inteligente.
+pondremos a prueba el sistema inteligente creado haciendo que juegue a un juego de mesa.
+Despues de verlo en funcionamiento mediremos algunas caracteristicas del sistema inteligente que hemos creado tales como eficiencia, potencia o coste, entre otras.
 
 
 
-La historia de fantasia se utiliza como un wrapper para el ensayo cientifico.
+La historia de fantasia es utilizada como un 'envoltorio' para el ensayo cientifico.
 Es la parte atractiva, su function es mantener al lector interesado.
 En ella los protagonistas analizan los mismos temas que en la parte cientifica, sin embargo desde una perspectiva fantastica y mistica, permitiendo que sea la imaginacion y el instinto los que guien el razonamiento.
+Aportando conclusiones subjetivas que contrastaran con las conclusion objetivas de la parte cientifica.

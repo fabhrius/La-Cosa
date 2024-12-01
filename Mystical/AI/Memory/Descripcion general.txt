@@ -21,9 +21,9 @@ guion:
 
 Existe un libro magico, referido en la historia como 'el codice perdido', que contiene todo el conocimiento y todas las respuestas a todas las preguntas. El libro ha desaparecido mucho tiempo atras y hoy nadie sabe con certeza si es real o solo una leyenda.
 
-Elara, una joven atletica y decidida, desea encontrar respuestas para las preguntas acerca de su propia existencia que siempre se ha formulado.
-Con tal proposito Elara se embarca en la busqueda del libro, en un largo viaje que la llevara a atravesar un mundo desconocido, conociendo personas y lugares, aprendiendo, viviendo experiencias y aventuras y afrontando peligros.
-
+Elara, una joven atletica, inteligente, independiente e intrepida, desea encontrar respuestas para las preguntas acerca de su propia existencia que siempre se ha formulado.
+Con tal proposito Elara se embarca en la busqueda del codice perdido, en un largo viaje que la llevara a atravesar un mundo desconocido, conociendo personas y lugares, aprendiendo, viviendo experiencias y aventuras y afrontando peligros.
+Al final de su viaje, Elara Habra encontrado las respuestas que busca.
 
 Localizacion:
 todo el relato se desarrolla en un antiguo reino llamado 'Rainland'
@@ -32,7 +32,6 @@ Rainland es una tierra muy fertil, de verdes valles, densos bosques y altas mont
 La población vive en pequenas aldeas distribuidas de forma uniforme por el reino.
 Los habitantes de Rainland beneran a una deidad llamada 'El Espiritu de la Lluvia', que segun sus creencias, es el creador de todos los seres vivientes, protege Rainland y es el protector y guia de todos sus habitantes.
 La sociedad de Rainland esta basada en el respeto mutuo, la amistad, el trabajo y el conocimiento.
-Rainland esta dirigida por un poderoso rey que nunca nadie ha visto, pero que aseguran que vive en el gran palacio del norte
 
 
 Tiempo:
@@ -40,3 +39,11 @@ Tiempo:
 el relato sucede en tiempos medievales.
 los habitantes de Rainland tienen herramientas de hierro.
 y visten ropas un poco mas elaboradas que las tunicas de la antiguedad.
+
+Estilo:
+el relato es una aventura fantastica, escrito con el estilo de los cuentos de hadas.
+sin embargo, escenarios, personajes, elementos y situaciones son de gran realismo.
+insertando toques fantasticos en la forma de sucesos paranormales o magicos, que suceden de forma puntual.
+Es decir que, aun siendo un relato fantastico no se trata de una historia de pura fantasia como "Alicia en el pais de las maravillas"
+Posiblemente mas cerca del estilo de "El senor de los anillos".
+

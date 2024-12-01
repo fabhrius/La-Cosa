@@ -64,49 +64,51 @@ cap 5 - El amor
 
 cap 6 - La magia
 
+cap 7 - Primeras conclusiones - Fin del segundo acto
+
 ( Acto 3 - la vida como un sistema inteligente - componentes y simulacion)
 
-cap 7 - La vida
+cap 8 - La vida
 
-cap 8 - El ADN
+cap 9 - El ADN
 
-cap 9 - Reproduccion
+cap 10 - Reproduccion
 
-cap 10 - Individuos como componentes del sistema y ciclo de vida
+cap 11 - Individuos como componentes del sistema y ciclo de vida
 
-cap 11 - El sistema en funcionamiento - resolviendo un problema
+cap 12 - El sistema en funcionamiento - resolviendo un problema
 
 ( Acto 4 - analisis - caracteristicas del sistema)
 
-cap 12 - Eficiencia
+cap 13 - Eficiencia
 
-cap 13 - Fiabilidad
+cap 14 - Fiabilidad
 
-cap 14 - Potencia
+cap 15 - Potencia
 
-cap 15 - Coste
+cap 16 - Coste
 
-cap 16 - Redundancia
+cap 17 - Redundancia
 
-cap 17 - Poda
+cap 18 - Poda
 
 ( Acto 5 - mas alla)
 
-cap 18 - La inteligencia creadora
+cap 19 - La inteligencia creadora
 
-cap 19 - El Espiritu
+cap 20 - El Espiritu
 
-cap 20 - La vida eterna
+cap 21 - La vida eterna
 
-cap 21 - el origen de la vida
+cap 22 - el origen de la vida
 
 ( Acto 6 - conclusiones)
 
 
-cap 22 - vuelta a la realidad
+cap 23 - vuelta a la realidad
 
-cap 23 - lo trascendente
+cap 24 - lo trascendente
 
-cap 24 - la paz interior
+cap 25 - la paz interior
 
 
