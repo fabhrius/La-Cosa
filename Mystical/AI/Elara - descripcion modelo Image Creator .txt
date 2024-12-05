@@ -1,0 +1,5 @@
+Nombre: Elara
+Descripcion fisica: joven (25 anos), posee un exelente estado fisico, es blanca, tiene el pelo negro y los ojos verdes, mide 160 centimetros de altura y pesa 50 kilogramos, viste pantalon, botas y camisa.
+Personalidad: aventurera, inteligente, decidida, intrepida, independiente, seria, objetiva, realista, reflexiva, diplomatica, tolerante, justa.
+Ambientacion: fantasia medieval.
+Estilo artistico: realista

@@ -2,6 +2,7 @@ Elara:
 es la protagonsita de la historia.
 
 Elara es joven, hermosa, posee un exelente estado fisico, es blanca, tiene el pelo negro y los ojos verdes, mide 160 centimetros de altura y pesa 50 kilogramos.
+
 Elara es aventurera, inteligente, decidida, intrepida, independiente.
 Elara tiene 25 anos, y aunque joven es seria, objetiva, realista, reflexiva, diplomatica, tolerante, justa.
 Elara piensa por si misma, pero respeta las ideas y puntos de vista de otras personas.
@@ -14,3 +15,9 @@ Elara quiere saber porque esta en este mundo, y esta decidida a utilizar todos s
 Elara ha crecido en una pequena casa junto al rio Murmurer.
 Y su abuela Mag ha sido siempre su unica familia.
 
+
+
+Mag:
+es la abuela de Elara.
+Mag ha criado a Elara con amor y respeto.
+Mag ha inculcado en Elara valores tales como, el respeto por las personas, la libertad de pensamiento, el amor por el trabajo, el respeto por la justicia
