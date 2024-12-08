@@ -12,6 +12,7 @@ Elara cae al vacio y este parece ser el fin, pero sus manos aferradas a las soga
 Elara permanece colgando de los restos del puente durante un momento.
 Despues empieza a escalar hasta llegar a la cima.
 Elara esta del otro lado, a pesar de la rotura del puente ha conseguido cruzar.
+Elara se detiene un momento para recuperarse y observa hacia abajo la vertiginosa profundidad del abismo.
 
 
 /**/
@@ -51,7 +52,14 @@ Elara no puede resistirlo y lanza a buscarlo a toda velocidad.
 Algo terrible esta sucediendo.
 No puede ignorarlo.
 
+Elara trepa por el arbol, mas arriba, y entonces lo ve.
+Un pequeno polluelo esta posado en una rama ancha.
+parece haber caido pero No se ve el nido cerca.
+Se trata de polluelo de Aguila, no tiene plumas todavia en las alas, no puede volar, y esta a punto de caerse del arbol.
 
+Elara utiliza su poncho para cogerlo y proporcionarle un lugar comodo.
+Despues se sienta en la rama durante un momento, lo mira, y piensa.
+"Que voy a hacer contigo?"
 
 
 
@@ -66,6 +74,42 @@ No puede ignorarlo.
    - **Propósito:** Proporcionar contexto o antecedentes relevantes.
    - **Contenido:**
      - Flashback donde Elara recuerda situaciones o eventos que enriquecen la narrativa o explican los sucesos actuales.
+
+
+
+Elara recuerda cuando siendo una nina jugaba detras de la casa cerca de la orilla del rio y un pequeno gatito se acerco.
+Su abuela Mag estaba cerca, realizando tareas como siempre solia hacer.
+"mira abuela, un gatito", dijo Elara, "puedo quedarmelo?"
+"esta bien, pero solo hasta que su madre venga a buscarlo, entonces dejaremos que se lo lleve", contesto Mag.
+
+"Y que pasa si la madre no viene a buscarlo?", pregunto Elara.
+"En ese caso tendremos que protegerlo nosotras", respondio Mag.
+"El gatito es como tu, una criatura viviente que ve el mundo con sus ojos y siente miedo, y frio, y cansancio y hambre.
+Y necesita proteccion, es por eso que debes tratarlo con respeto y con carino.
+Si decides encargarte de el, tendras que continuar haciendolo durante mucho tiempo, no solo un dia.
+Pero si lo haces bien el te lo agradecera con su afecto, y sereis muy buenos amigos."
+
+Y los dias pasaron, y la madre del gatito nunca vino a buscarlo.
+Y Elara lo alimento y lo protegio, y le llamo Hach.
+Y con la ayuda de Mag construyeron un pequeno refugio de madera que Elara coloco junto a su cama.
+Y compartieron muchas horas de juegos y compania.
+Y Hach crecio.
+Y fueron grandes amigos, tal como habia dicho Mag.
+Y el tiempo paso, y Hach envejecio.
+Y fue asi como un cierto dia Hach habia consumido una larga vida, llena de alegrias y momentos felices, y siendo Elara ya una joven mujer, Hach murio.
+
+Y el corazon de Elara se rompio.
+Y lloro.
+Y sintio un dolor tan profundo como no habia sentido antes.
+
+Y coloco a Hach en una caja de madera.
+Y lo enterro en el Jardin.
+Y en ese lugar coloco una placa con una inscripcion, que decia: "Aqui descansa Hach, mi amigo del alma."
+
+
+
+
+
 
 ---
 
