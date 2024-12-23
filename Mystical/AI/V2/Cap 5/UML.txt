@@ -1,0 +1,22 @@
+@startmindmap
+
+skin rose
+
+'Compatible with OrgMode 
+
+* Chapter 5 \n Elara y el aguila \n (el amor)
+
+** The Hook
+*** Resolucion
+
+** Introduction
+*** Presentacion del escenario
+*** Presentacion del tema del capitulo
+
+** El Anfitrion
+** Mistical and Filosofical
+** Laboratorio
+** Climax
+** Cliffhanger
+
+@endmindmap
