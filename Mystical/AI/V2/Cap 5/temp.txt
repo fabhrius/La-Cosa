@@ -493,7 +493,7 @@ La figura encapuchada desapareció entre las sombras del bosque, dejando solo el
 
 —¡Tenemos que ir tras él! —exclamó 
 
-El herrero, con los ojos llenos de determinación, tomó un arco y algunas flechas
+El herrero, con los ojos llenos de determinación, tomó un arco y algunas flechas, Elara tomo otro arco.
 —Es más rápido que nosotros —dijo,  Pero no conoce este bosque como nosotros
 Y se lanzaron en una frenética carrera a través del bosque.
 
@@ -501,7 +501,7 @@ Se movieron en silencio, esperando que el ladron al no sentirse perseguido se de
 el águila los guiaba, alzándose sobre las copas de los árboles.
 
 No tardaron mucho en dar con el.
-el encapuchado se detuvo un momento a mirar la roca y a pensar en su proximo movimiento.
+el encapuchado se detuvo un momento a mirar la roca de star ore que habia robado y a pensar en su proximo movimiento. Se creia a salvo ya.
 
 Elara y Tharok se separaron rodeando al ladron sin hacer ruido, ocultos por los arboles y la vegetacion del bosque.
 
@@ -545,11 +545,7 @@ Como despedirse de Tharok? como separarse de Skira?
 
 
 
-Podemos crear una escena profundamente emotiva al enfocarnos en los lazos que Elara ha forjado con Tharok y Skira, resaltando los pequeños momentos compartidos que los han convertido en una familia para ella. Aquí hay un borrador para la despedida:
 
----
-
-### La Despedida
 
 El día estaba a punto de despertar cuando Elara salió del taller por última vez. El cielo, teñido de un gris perlado, anticipaba la llegada de un nuevo amanecer. Tharok y Skira la acompañaban hasta la linde del bosque, un silencio cargado de emociones flotando entre ellos.
 
@@ -582,12 +578,14 @@ Elara tomó el paquete y lo sostuvo con cuidado, como si fuera un tesoro. Dio un
 
 Con esas palabras, se giró y comenzó a caminar hacia el bosque. Skira emitió un último grito, y Tharok alzó una mano en un gesto de despedida. Elara no miró atrás, sabiendo que si lo hacía, quizá no sería capaz de continuar.
 
-Mientras se adentraba entre los árboles, el sol empezó a asomarse, iluminando el camino frente a ella. Una mezcla de tristeza y determinación llenaba su pecho, pero sabía que, aunque la despedida doliera, las enseñanzas de Tharok y el cariño de Skira le darían fuerzas para enfrentar lo que estaba por venir.
-
-
+Mientras se adentraba entre los árboles, el sol empezó a asomarse, iluminando el camino frente a ella. 
 
 
 (on the road)
+
+
+Y asi fue que Elara continuo caminando a traves del bosque hacia el nor-oeste.
+Su primera parada seria en Forestville.
 
 era casi mediodia y Elara habia recorrido una gran distancia ya.
 el pequeno pueblo de Coyotewood con la herreria habian quedado ya lejos.
@@ -604,7 +602,43 @@ se acerco a beber, el tiempo era bueno.
 
 
 
+### Despedida Final: Elara y Skira  
 
+El sol comenzaba a descender en el horizonte, tiñendo el cielo de tonos anaranjados y rosados. Elara había caminado todo el día, dejando atrás los recuerdos de la herrería y la calidez de la compañía de Tharok y Skira. El camino ante ella era cada vez más oscuro, rodeado por árboles cuyos troncos se alzaban como pilares de un templo antiguo. Las sombras de las ramas danzaban sobre el suelo, moviéndose al ritmo de la brisa.  
+
+Con el cansancio pesando sobre sus hombros, Elara decidió que era hora de buscar un lugar donde acampar. Sus pies dolían tras la larga jornada, y el silencio del bosque se había convertido en su único acompañante. Mientras inspeccionaba el terreno en busca de un claro adecuado, una sombra en movimiento cruzó el suelo frente a ella, llamando su atención.  
+
+Elara alzó la vista y su corazón dio un vuelco. Allí estaba Skira, su imponente figura surcando los cielos, describiendo círculos perfectos sobre su cabeza. Elara dejó caer su mochila al suelo y dio un paso adelante, extendiendo los brazos hacia el cielo, como si al hacerlo pudiera acortar la distancia entre ellas.  
+
+—¿Skira? —murmuró, su voz temblando entre la incredulidad y la alegría.  
+
+El águila descendió con gracia, batiendo sus alas con fuerza antes de aterrizar frente a Elara. En su pico, Skira llevaba una pequeña lagartija, idéntica a las que Elara le ofrecía cada mañana en la herrería. La joven sintió cómo sus ojos se llenaban de lágrimas al comprender el gesto.  
+
+—Oh, Skira… —susurró, tomando el regalo con manos temblorosas. La voz se le quebró mientras acariciaba las plumas del águila, que se mantenía firme, observándola con sus intensos ojos dorados.  
+
+Elara se arrodilló frente a Skira, rodeándola con los brazos en un abrazo que parecía contener todo el dolor y el amor que sentía.  
+
+—No sabes cuánto te voy a extrañar —dijo, su voz apenas un murmullo—. Pero no puedes quedarte conmigo, Skira. Tienes que volver a la herrería. Tharok te necesita más de lo que yo te necesito ahora.  
+
+Skira ladeó la cabeza, como si intentara comprender las palabras de Elara. Elara tomó aire, luchando por mantener la compostura, y acarició la cabeza del águila con ternura.  
+
+—Te prometo que volveré. Cuando todo esto termine, cuando haya cumplido con mi misión, regresaré a buscarte. Pero hasta entonces… cuida de Tharok por mí, ¿de acuerdo?  
+
+El águila soltó un leve chillido, casi como una respuesta. Elara sonrió entre lágrimas, apoyando su frente contra la de Skira por un momento que deseó que pudiera durar para siempre.  
+
+Finalmente, con un esfuerzo desgarrador, se levantó y dio un paso atrás.  
+
+—Vuela, Skira. Sé libre y protege nuestro hogar.  
+
+Skira la miró un instante más antes de abrir sus alas y lanzarse al aire con un potente batir. Elara siguió su vuelo con la mirada, observando cómo ascendía hasta perderse entre las copas de los árboles. El eco de sus alas aún resonaba en el aire cuando Elara se dejó caer al suelo, sintiendo el vacío que quedaba en su pecho.  
+
+La noche cayó rápidamente, y Elara encendió un pequeño fuego para calentarse. Pero, incluso mientras se preparaba para descansar, su mente estaba con Skira, imaginando al águila regresando a la herrería, llevando consigo un pedazo de su propio corazón.  
+
+Un leve sonido en el cielo la hizo mirar hacia arriba. Una gran sombra cruzó el cielo estrellado, y por un instante, Elara creyó ver a Skira surcando la noche, como si quisiera asegurarse de que ella estaba bien.  
+
+—Gracias, Skira —susurró, dejando que sus lágrimas fluyeran libremente, solitarias en la inmensidad del bosque.  
+
+Elara cerró los ojos y, por primera vez en mucho tiempo, se permitió llorar. Su viaje continuaría al amanecer, pero esa noche, su corazón se quedó un poco más en el lugar que había llamado hogar, con aquellos que la habían amado y cuidado.
 
 
 
