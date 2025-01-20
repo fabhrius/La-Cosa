@@ -45,7 +45,7 @@ No todo es oscuridad, una luz tenue ilumina el camino hacia la superficie y Elar
 Elara sale a una gran boveda.
 En uno de los lados del lago hay una construccion, un muelle, un suelo hecho de bloques de piedra y una pared con algunas antorchas encendidas.
 Elara sale del agua y empieza a explorar el lugar.
-Encuentra una escalera.
+Encuentra una entrada con forma de arco en la construccion de bloques de piedra que lleva a una escalera en espiral que sube.
 
 
 ---
