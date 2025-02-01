@@ -70,9 +70,9 @@ cap 7 - Primeras conclusiones - Fin del segundo acto
 
 cap 8 - La vida
 
-cap 9 - El ADN
+cap 9 - El ADN (memoria del sistema)
 
-cap 10 - Reproduccion
+cap 10 - Reproduccion (el proceso del calculo)
 
 cap 11 - Individuos como componentes del sistema y ciclo de vida
 
@@ -80,25 +80,25 @@ cap 12 - El sistema en funcionamiento - resolviendo un problema
 
 ( Acto 4 - analisis - caracteristicas del sistema)
 
-cap 13 - Eficiencia
+cap 13 - Eficiencia (a que velocidad encontrara la solucion?)
 
-cap 14 - Fiabilidad
+cap 14 - Fiabilidad (encontrara la solucion?)
 
-cap 15 - Potencia
+cap 15 - Potencia (cual es la complejidad de los problemas que el sistema puede abordar)
 
 cap 16 - Coste
 
 cap 17 - Redundancia
 
-cap 18 - Poda
+cap 18 - Poda (la muerte, porque morimos, porque no queremos morir)
 
 ( Acto 5 - mas alla)
 
-cap 19 - La inteligencia creadora
+cap 19 - La inteligencia creadora (que es?, adonde esta?)
 
-cap 20 - El Espiritu
+cap 20 - El Espiritu (conciencia y Espiritu)
 
-cap 21 - La vida eterna
+cap 21 - La vida eterna (existe?)
 
 cap 22 - el origen de la vida
 
