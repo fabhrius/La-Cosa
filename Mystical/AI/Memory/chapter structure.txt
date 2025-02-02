@@ -1,8 +1,8 @@
 En todos los capitulos se relata un 'cuento unitario'.
 Llamaremos 'cuento unitario' a una historia relacionada con el tema del capitulo que empieza y termina dentro del capitulo y que termina con una moraleja.
 
-En todos los capitulos se muestra una 'frase mistica'.
-Llamaremos 'frase mistica' a, una frase redactada con el estilo de las frases misticas de la antiguedad, tales como las encontradas en textos sagrados como la biblia, que en tono dramatico nos recuerdan la moraleja del 'cuento unitario' del capitulo.
+En todos los capitulos se muestran distintas 'frases misticas'.
+Llamaremos 'frase mistica' a, una frase redactada con el estilo de las frases misticas de la antiguedad, tales como las encontradas en textos sagrados como la biblia, que en tono dramatico nos recordaran distintas moralejas relacionadas con el 'cuento unitario' del capitulo.
 
 
 
@@ -13,6 +13,8 @@ La estructura general de un capitulo, por secciones, es la siguiente:
 ### 1. **Hook (Opening Paragraph)**
    - **Start with a Captivating Scene or Question:** Begin with a thought-provoking scene, a mysterious event, or an intriguing question that relates to the chapter's theme. This will draw readers in immediately.
 
+	cada capitulo termina con Elara cayendo en un peligro mortal, que utilizaremos como cliffhanger.
+	en la seccion hook de cada capitulo mostraremos la 
 	"Resolucion" del cliffhanger del capitulo anterior (peligro mortal en que cae Elara al final de cada capitulo)
 	Elara supera el peligro y la aventura continua.
 	
@@ -22,6 +24,7 @@ La estructura general de un capitulo, por secciones, es la siguiente:
 	
 	Presentacion del escenario (cada capitulo se desarrolla en un entorno diferente)
 	Presentacion del tema del capitulo (en cada capitulo se tratara un tema diferente)
+	Presentacion de las preguntas que encontraran respuestas en el capitulo.
 
 
 
@@ -33,15 +36,17 @@ La estructura general de un capitulo, por secciones, es la siguiente:
 ### 4. **El Anfitrion**
 	(Character Development and Plot Advancement)
    - **Character Focus:** Develop your main characters further, revealing new aspects of their personalities, backgrounds, or struggles.
-   - **Plot Progression:** Advance the plot by presenting new challenges, discoveries, or events that push the story forward. Ensure each chapter ends with a development that propels the story.
 
 	En cada capitulo Elara conoce a un personaje diferente con el que hablara acerca del tema del capitulo.
-	El anfitrion proporcionara alguna de las respuesta que Elara busca, pero desde una perspectiva mistica.
+	El anfitrion es coprotagonista.
+	El anfitrion proporcionara alguna de las respuesta que Elara busca, pero desde una perspectiva mistica y fantastatica.
 
 ### 5. **Mysticism and Science Integration**
    - **Blend Mysticism and Science:** Weave in elements of mysticism and science to explore the theme. Use metaphors, allegories, or fantastical elements to illustrate scientific concepts or existential questions.
    - **Balance Explanation and Storytelling:** Make sure the scientific explanations are embedded naturally within the story, maintaining the fairy tale feel.
+   - **Plot Progression:** Advance the plot by presenting new challenges, discoveries, or events that push the story forward. Ensure each chapter ends with a development that propels the story.
 	
+	En esta seccion la historia unitaria se desarrolla
 	Esta seccion termina con un cliffhanger que mantendra al lector interesado en continuar leyendo la historia al finalizar el laboratorio, este cliffhanger es necesario porque el laboratorio detiene la historia de Elara llevando al lector a un ambiente diferente.
 
 	
@@ -56,12 +61,13 @@ La estructura general de un capitulo, por secciones, es la siguiente:
 
 	En esta seccion se resuelve el cliffhanger previo al laboratorio.
 	Termina aqui el 'cuento unitario' del capitulo.
-	Se continua hablando del tema del capitulo desde una perspectiva mistica agregando la leccion aprendida  y la moraleja.
+	Se continua hablando del tema del capitulo desde una perspectiva mistica agregando lecciones aprendidas  y  moralejas.
 	Se muestran con mas claridad los sentimientos de los protagonistas.
 	Y se ofrece una nueva perspectiva, mejorada con lo aprendido del tema del capitulo
 
 	Este es un momento de tranquilidad en la aventura en donde parece que llegamos a un final feliz.
 	Sin embargo, justo cuando el lector se ha relajado, sucede algo imprevisto que lo cambia todo, un giro en la historia que deja al lector pensando.
+	el final de esta seccion es el "climax" de la historia.
 
 	
 
@@ -71,6 +77,10 @@ La estructura general de un capitulo, por secciones, es la siguiente:
 	Elara se dispone a continuar su viaje y entonces se encuentra con un peligro mortal del que parece no haber escapatoria.
 	El capitulo termina aqui, dejando a Elara al borde de la muerte.
 
+
+--------------
+
+(las siguientes secciones se incluiran solo en la version de BLOG, pero no en la publicacion del libro)
 
 ### 9. **Engagement with Readers**
    - **Reader Interaction:** Encourage readers to leave comments, share their thoughts, or ask questions about the chapter. This creates a sense of community and makes them feel more connected to the story.

@@ -86,9 +86,13 @@ cap 12 - El sistema en funcionamiento - resolviendo un problema
 
 ( Acto 4 - analisis - caracteristicas del sistema)
 
-cap 13 - Eficiencia (a que velocidad encontrara la solucion?)
+cap 13 - Eficiencia 
 
-cap 14 - Fiabilidad (encontrara la solucion?)
+(preguntas: - a que velocidad encontrara la solucion?)
+
+cap 14 - Fiabilidad 
+
+(preguntas: - encontrara la solucion?)
 
 cap 15 - Potencia 
 
