@@ -58,11 +58,17 @@ Elara en el bosque
 cap 4 - La fe
 Elara en el templo
 
+(preguntas: - que es la fe? - porque creemos?)
+
 
 cap 5 - El amor
 
+(preguntas: que es el amor? - todas las criaturas vivientes sienten el amor? - )
 
 cap 6 - La magia
+
+(preguntas: - que es la magia? - porque creemos en la magia? )
+
 
 cap 7 - Primeras conclusiones - Fin del segundo acto
 
@@ -84,23 +90,38 @@ cap 13 - Eficiencia (a que velocidad encontrara la solucion?)
 
 cap 14 - Fiabilidad (encontrara la solucion?)
 
-cap 15 - Potencia (cual es la complejidad de los problemas que el sistema puede abordar)
+cap 15 - Potencia 
+
+(preguntas: - cual es la complejidad de los problemas que el sistema puede abordar)
 
 cap 16 - Coste
 
+(preguntas: - cual es el coste de un sistema como este? - y cual es el coste de resolver un problema? )
+
+
 cap 17 - Redundancia
 
-cap 18 - Poda (la muerte, porque morimos, porque no queremos morir)
+cap 18 - Poda 
+
+(preguntas: - que es la muerte?, - porque morimos?, - porque no queremos morir? )
 
 ( Acto 5 - mas alla)
 
-cap 19 - La inteligencia creadora (que es?, adonde esta?)
+cap 19 - La inteligencia creadora 
 
-cap 20 - El Espiritu (conciencia y Espiritu)
+(preguntas: - que es?, - adonde esta?)
 
-cap 21 - La vida eterna (existe?)
+cap 20 - El Espiritu 
+
+(preguntas: - conciencia y Espiritu son la misma cosa? )
+
+cap 21 - La vida eterna 
+
+(preguntas: - existe?)
 
 cap 22 - el origen de la vida
+
+(preguntas: - como se origina? - puede ser destruida? )
 
 ( Acto 6 - conclusiones)
 
