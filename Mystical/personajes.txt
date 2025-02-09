@@ -10,8 +10,9 @@ Khub - el traidor
 Hach - el gato
 Toran - el monje del templo de la eterna lluvia
 Khron - el monje
-
-
+Kael - el Hombre de Cristal
+Aeloria - lider de la resistencia
+Phluvius - el Espiritu de la lluvia
 
 ----------------------
 
@@ -25,6 +26,8 @@ Nytharion: El Rey del Tiempo.
 
 nombres de pueblos y civilizaciones:
 
+
+Acquanthis - La ciudad que creo el codex
 
 Xantheia - La civilizacion que creo el libro - Una civilización que veneraba el conocimiento como la luz que guía la vida
 
