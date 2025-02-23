@@ -470,14 +470,34 @@ DESA:
 "Nuestras acciones y decisiones no solo afectan nuestro propio destino, sino también el de las generaciones futuras"
 
 
+todos estamos conectados por una memoria colectiva que trasciende el tiempo
+
+
+Nuestras acciones y decisiones no solo afectan nuestro propio destino, sino también el de las generaciones futuras
+
+
+Cada individuo es único por su historia y experiencias, pero todos compartimos una memoria común que nos conecta como especie
+
+
+
+
+
+DESA:
+
+
+"aunque cada individuo es único, todos estamos conectados por una memoria colectiva que trasciende el tiempo"
+
+"Nuestras acciones y decisiones no solo afectan nuestro propio destino, sino también el de las generaciones futuras"
+
+
 - Intro:
 
-- Conoces a ese hombre? -, preguntó Kael desconcertado 
-- Le he visto, no muy lejos de aquí- , respondió Elara 
-- Los hechos grabados en estos registros sucedieron hace nueve siglos-, comentó Kael 
-- Morgerathus continua con vida -, afirmó Elara, confirmando una realidad que Kael no se atrevió a negar 
+- Conoces a ese hombre? -, preguntó Kael desconcertado 
+- Le he visto, no muy lejos de aquí- , respondió Elara 
+- Los hechos grabados en estos registros sucedieron hace nueve siglos-, comentó Kael 
+- Morgerathus continua con vida -, afirmó Elara, confirmando una realidad que Kael no se atrevió a negar 
 
-- Y que sucedió después?, lo que hemos visto no explica la destrucción de la ciudad y la desaparición de los...-, preguntó Elara 
+- Y que sucedió después?-, preguntó Elara, - lo que hemos visto no explica la destrucción de la ciudad- 
 
 Solo quedaba un único tubo de cristal por revisar
 Si los sucesos que destruyeron la ciudad habían quedado registrados debían estar allí
@@ -486,24 +506,49 @@ Si los sucesos que destruyeron la ciudad habían quedado registrados debían est
 
 - Aeloria:
 
-Al activar el cristal las primeras imágenes sorprenden a Elara.
-Se ve a si misma hablando en una reunión del consejo 
-No puede creer lo que vé 
-- Soy yo -, comenta confundida 
-- tenéis un gran parecido -, dice Kael, y continua, - su nombre es Aeloria 
-Aeloria fue una mujer muy respetable, integra, de sólidos principios 
-Consiguió reunir al pueblo para formar un ejército de resistencia contra Morgerathus 
 
-Aeloria se convirtió en líder de la resistencia 
-Lucho con energía 
-Y el pueblo había depositado en ella toda su confianza 
-Y sus acciones la convirtieron en un héroe -
+Al activar el cristal las 
+imagenes muestran al consejo reunido en un lugar oculto bajo la ciudad, debatiendo los ultimos acontecimientos, discutiendo ideas para derrotar al invasor.
+los ataques se multiplican y la poblacion ha huido a las montanas.
+dentro de la ciudad solo quedan los integrantes de la resistencia y el ejercito de Morgerathus que cada vez es mas numeroso.
+Morgerathus utilizando la magia y el conocimiento de Omniscentis esta duplicando a sus soldados creando copias sin voluntad propia, demonios fieles a sus ordenes.
+Y con cada dia que pasa su ejercito crece.
+Las calles de la ciudad estan desiertas.
 
-En la grabación Aeloria explica al consejo que Omniscientis ya está en poder de Morgerathus y que se prepara para realizar un conjuro que lo convertirá en el amo del mundo 
-Aeloria urge al consejo para que le proporcione los recursos necesarios para detenerlo antes de la media noche, después de eso será demasiado tarde, Morgerathus habrá conseguido un poder ilimitado y ya nada podrá detenerlo 
+Uno de los miembros del consejo toma la palabra, es Kael.
+Elara lo reconoce inmediatamente.
+- Kael, ese eres tu ? -, pregunta
+- No puedo recordar eso -, respondio el hombre de cristal, - supongo que esa reunion tuvo lugar despues de realizar la copia -, agrego.
+- supongo que, en realidad, ese era Kael, y yo soy Aeternus -
 
-En ese momento la grabación se interrumpe y no hay nada más grabado 
-Ese es el último registro 
+Kael, el miembro del consejo, decia que el tiempo se estaba acabando, que un agente infiltrado en el palacio habia informado que Morgerathus se preparaba para realizar un conjuro utilizando a Omniscientis que lo convertiria en invencible, que sucederia a medianoche, y que despues de eso ya nada podria detener a Morgerathus.
+
+Fue entonces cuando una mujer tomo la palabra.
+Las imagenes sorprendieron a Elara que no podia creer lo que veia.
+Era ella misma hablando frente al consejo.
+- Esa soy yo ? -, pregunto confundida.
+
+- tenéis un gran parecido -, respondio el hombre de cristal, 
+- su nombre es Aeloria, 
+Aeloria fue una mujer muy respetable, integra, de sólidos principios 
+Consiguió reunir al pueblo para formar un ejército de resistencia contra Morgerathus 
+
+Aeloria se convirtió en líder de la resistencia 
+Lucho con energía 
+Y el pueblo había depositado en ella toda su confianza 
+sus acciones la convirtieron en un héroe -
+
+
+Aeloria urge al consejo para que le proporcione los recursos necesarios.
+Un mapa del palacio, y unas llaves que solo unos pocos miembros del consejo poseian.
+Explica que su ejercito esta listo para entrar en accion inmediatamente.
+Y que un gran numero de combatientes estan ocultos bajo el palacio en las dependencias subterraneas esperando sus ordenes para atacar.
+
+
+
+En ese momento un fuerte terremoto sacude el lugar, la gente se dispersa buscando refugio, la grabación se interrumpe alli.
+Ya no hay nada más grabado 
+Ese es el último registro 
 
 
 
