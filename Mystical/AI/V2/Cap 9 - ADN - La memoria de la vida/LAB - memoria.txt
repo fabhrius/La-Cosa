@@ -1,0 +1,32 @@
+memoria
+
+
+
+
+ADN:
+
+- gran cantidad de informacion
+- descripcion del individuo en todos sus detalles
+
+INDIVIDUOS:
+
+- no es posible contruir un individuo desde cero
+- el ADN contiene la informacion de todos los antepasados.
+- somos un paso evolutivo del individuo anterior en la cadena
+- la informacion en el ADN es el Espiritu
+
+EJEMPLOS EN EL RELATO:
+
+- Elara es descendiente de Aeloria
+- Aeternus es una copia de Kael
+
+
+UTILIDAD EN EL EXPERIMENTO:
+
+- memoria del sistema
+
+
+LA MEMORIA EN EL PROCESO DE CALCULO:
+
+- suma de un listado de numeros
+
