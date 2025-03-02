@@ -76,11 +76,12 @@ cap 7 - Primeras conclusiones - Fin del segundo acto
 
 cap 8 - La vida
 
-cap 9 - El ADN (memoria del sistema)
+cap 9 - Individuos como componentes del sistema y ciclo de vida
 
-cap 10 - Reproduccion (el proceso del calculo)
+cap 10 - El ADN (memoria del sistema)
 
-cap 11 - Individuos como componentes del sistema y ciclo de vida
+cap 11 - Reproduccion (el proceso del calculo)
+
 
 cap 12 - El sistema en funcionamiento - resolviendo un problema
 

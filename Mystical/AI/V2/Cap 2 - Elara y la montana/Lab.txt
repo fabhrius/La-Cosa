@@ -1,0 +1,55 @@
+LAB: 
+
+resumen de objetivos del libro:
+
+Intentaremos juntos encontrar respuestas a las preguntas acerca de nuestra propia existencia que todos nos hacemos.
+
+----------------------
+
+presentacion de las preguntas existenciales que seran analizadas:
+
+la vida:
+- que es la vida?
+- porque vivimos?
+- porque nos reproducimos?
+- porque morimos?
+
+la creacion:
+- existe una inteligencia que disena y crea a todos los seres vivientes en cada detalle?
+
+la mission:
+- he sido creado para cumplir con una mission?
+- como puedo saber cual es mi mission?
+- como sabre si lo he hecho bien?
+
+el ser:
+- yo que soy?
+- es mi vida una historia independiente? o es la continuacion de alguna otra cosa?
+- es mi vida personal lo mas importante? o formamos parte de algo mas grande?
+- que es el libre albedrio?
+
+
+la vida eterna:
+- existe la vida eterna?
+- y si la vida eterna existe, entonces, porque morimos?
+- mi Espiritu, que es?
+- existe vida despues de la muerte?
+
+
+------------------------
+
+
+metodologia:
+
+analizaremos la vida como una entidad para extraer los elementos basicos de su funcionamiento.
+utilizaremos estos elementos para crear una simulacion.
+Un modelo logico, funcional, que pondremos en marcha para ver como se comporta la vida.
+que es lo que hace.
+
+esto nos proporcionara una vision de alto nivel 
+que nos permitira obtener informacion util para el analisis.
+
+
+
+
+
