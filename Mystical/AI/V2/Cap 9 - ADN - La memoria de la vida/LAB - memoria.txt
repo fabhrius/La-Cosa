@@ -1,10 +1,16 @@
-memoria
+
+Prefacio:
+
+- la vida 
+- inteligencia y sistemas de cálculo 
+- ADN y memoria 
 
 
 
 
 ADN:
 
+- el ADN está presente en todas los seres vivientes 
 - gran cantidad de informacion
 - descripcion del individuo en todos sus detalles
 
@@ -19,6 +25,8 @@ EJEMPLOS EN EL RELATO:
 
 - Elara es descendiente de Aeloria
 - Aeternus es una copia de Kael
+- los escritos y registros 
+- la memoria de lo que ha pasado se ha perdido 
 
 
 UTILIDAD EN EL EXPERIMENTO:
@@ -26,7 +34,98 @@ UTILIDAD EN EL EXPERIMENTO:
 - memoria del sistema
 
 
+Tipos de memoria:
+
+- lectura escritura 
+- solo lectura 
+
 LA MEMORIA EN EL PROCESO DE CALCULO:
 
 - suma de un listado de numeros
+
+
+
+---------------------------------------------
+
+
+
+La memoria almacena información experiencias y conocimientos 
+Y esta es la base del aprendizaje la mejora la evolución 
+
+-----
+
+Proceso de Mejora Continua:
+
+Digamos que nos proponemos construir una máquina, un sistema que realice alguna tarea 
+
+El mejor enfoque es pensar que el primer diseño no será el mejor de los posibles 
+Y que posiblemente podamos mejorarlo en el futuro aprendiendo de la experiencia 
+
+Con esta idea crearíamos un primer modelo que podemos llamar V1
+Lo pondríamos a prueba y recogeriamos información útil de la experiencia, tal como cosas que han funcionado mal, y cosas que han funcionado bien, para encontrar posibles puntos de mejora 
+
+Con este conocimiento podremos modificar el modelo para construir una versión mejorada, llamemosle V2
+
+La nueva versión del modelo, V2, a su vez, también podrá ser mejorada 
+
+De modo que Este procedimiento de mejora continuaría mientras el sistema estuviera en funcionamiento, en un proceso que podemos llamar 'mejora continua'
+
+–---_-------
+
+Para implementar este proceso de mejora continua necesitamos los siguientes elementos:
+- el modelo (su definición)
+- la información recogida de la experiencia 
+- un mecanismo que procese la información encontrando puntos de mejora y con ellos modifique el modelo para producir una nueva versión 
+
+_-----------
+
+ADN 
+
+Podemos ver al ADN como los planos de construcción de un individuo 
+Ya que almacena la información que define al individuo 
+El ADN realiza muchas funciones 
+En este relato nos enfocaremos en su capacidad para almacenar información 
+El ADN tiene capacidad para almacenar una gran cantidad de información 
+
+En los siguientes capítulos crearemos una simulación de la vida que utilizaremos como un sistema inteligente, la vida será en esta simulación una máquina de calculo que resolverá problemas lógicos 
+
+El modelo que utilizaremos será una versión muy simplificada de un ser viviente y estará compuesto por algunas características presentes en la vida, tales como memoria, reproducción y ciclo de vida, entre otras 
+
+
+En este capítulo comentaremos brevemente el ADN desde un punto de vista conceptual y la función que cumplirá dentro del sistema que construiremos 
+
+El ADN en la simulación que desarrollaremos cumplirá la función de memoria del sistema 
+
+-----
+
+
+La vida:
+
+
+
+
+-----
+
+
+Reproducción:
+
+Esta es una característica de la vida 
+Todos los seres vivientes se reproducen 
+
+
+/**********************************************/
+
+
+DESA:
+
+
+-------------------------
+
+Prefacio:
+
+- la vida 
+- inteligencia y sistemas de cálculo 
+- ADN y memoria 
+
+
 
