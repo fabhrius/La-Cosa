@@ -2,7 +2,7 @@ LAB:
 
 resumen de objetivos del libro:
 
-Intentaremos juntos encontrar respuestas a las preguntas acerca de nuestra propia existencia que todos nos hacemos.
+Intentaremos juntos encontrar respuestas a las preguntas que todos nos hacemos acerca de nuestra propia existencia.
 
 ----------------------
 
@@ -48,6 +48,24 @@ que es lo que hace.
 
 esto nos proporcionara una vision de alto nivel 
 que nos permitira obtener informacion util para el analisis.
+
+Espero que el experimento que llevaremos a cabo nos proporcionara suficiente informacion para responder a todas las preguntas del listado.
+
+-------------------------
+
+
+Estructura del libro:
+
+el libro esta estructurado en capitulos que constan de dos partes.
+
+- una historia de fantasia
+en donde Elara, la protagonista, dejara que sea su propia imaginacion quien la guie en la busqueda de respuestas a las preguntas acerca de su propia existencia
+
+- y una seccion de laboratorio
+en donde las mismas preguntas seran abordadas desde un punto de vista cientifico.
+
+
+
 
 
 
