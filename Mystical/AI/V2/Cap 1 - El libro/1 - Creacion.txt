@@ -16,12 +16,10 @@ Cuando la última palabra del conjuro fue pronunciada, el libro respiró por pri
 ------------------------------------------
 
 
+(1- descripcion de los Acquahrkai)
+
 En un tiempo muy lejano, en la mas remota de las eras, cuando los cielos eran aún jóvenes y la magia fluía como los ríos de la tierra, impregnandolo todo, 
 un pueblo de sabios vivía en armonía con los misterios del universo.
-
----
-
-(descripcion de los Acquahrkai)
 
 Una civilizacion prodigiosa, que desvelo los mas profundos secretos de la creacion, y cuyos asombrosos logros cientificos deslumbraron a la humanidad y cuyo resplandor cegador se consumio en el viento del tiempo.
 Una civilizacion llamada "Acquahrkai", que comprendió que el conocimiento era la esencia que sostenía el equilibrio del mundo.
@@ -32,7 +30,7 @@ Y su poderosa magia consiguio controlar lo sobrenatural.
 
 ---
 
-(descripcion de Phluvius, el Espiritu de la lluvia)
+(2- descripcion de Phluvius, el Espiritu de la lluvia)
 
 Los Acquahrkai veneraban al conocimiento profundamente.
 Casi tanto como a Phluvius, el espititu de la lluvia.
@@ -40,7 +38,7 @@ Un Dios de gran poder y bondad, creador de toda la vida sobre la tierra, que fue
 
 ---
 
-(descripcion de Nytharion, el rey)
+(3- descripcion de Nytharion, el rey)
 
 Y fue entonces cuando sucedio.
 Bajo el reinado de Nytharion.
@@ -56,14 +54,14 @@ Y la riqueza de su pueblo convirtio a Nytharion en el mas rico y poderoso de los
 
 ---
 
-(descripcion de la ciudad, Acquahntis)
+(4- descripcion de la ciudad, Acquahntis)
 
 Su riqueza y conocimientos llevaron a los Acquahrkai a contruir la mas extraordinaria de las ciudades que el mundo jamas ha visto,  Acquahntis.
 Una ciudad de prodigios tecnologicos inimaginables construida para durar eternamente.
 
 ---
 
-(descripcion del proyecto Omniscientis)
+(5- descripcion del proyecto Omniscientis)
 
 Nytharion lo sabia.
 Los libros eran la clave. Los libros tenian el poder de controlar el destino.
@@ -73,31 +71,31 @@ El conocimiento se acumulaba en ellos, crecia con el tiempo, Y el conocimiento e
 Y fue asi que se propuso crear el mas grande de todos los libros.
 Un objeto que contuviera todo lo aprendido y lo que estaba por aprenderse, un legado para las generaciones futuras.
 
+---
+
+(6- descripcion del equipo del proyecto)
+
 Para iniciar el proyecto, Nytharion convoco a los 3 ciudadanos mas ancianos y respetables del reino.
 Aquellos con la vision y el conocimiento para dirigir el proyecto cuando el rey no pudiera ocuparse personalmente.
 Y nombro a estos tres como el consejo de supervision.
 La primera decision del consejo fue que seria necesario reunir a los 26 cientificos mas sabios del reino para iniciar el desarrollo del proyecto.
-Los mas dotados cientificos, de todas las areas del conocimiento fueron convocados para una ardua seleccion que llevo semanas.
+Los mas eruditos cientificos, de todas las areas del conocimiento fueron convocados para una ardua seleccion que llevo semanas.
 Finalmente, cuando la plantilla de cientificos estubo completa, esta formulo su primer consejo.
 Para llevar a cabo el proyecto deberian ser incluidos en el equipo los 64 magos mas poderosos del mundo.
 
+Un sinfin de expedicionarios partieron en busca de los magos hacia los mas remotos confines de la tierra.
+Recorrieron valles y montanas, exploraron las cuevas y las islas, escalaron las alturas y descendieron a las profundidades, en una busqueda que les llevo hasta cada rincon del mundo.
+Y despues de meses de arduo trabajo, por fin, los 64 magos mas poderosos del mundo se reunieron en Acquahntis.
 
+---
 
+(7- descripcion de la creacion del libro)
 
+Y en el amanecer del primer dia, despues de la primera luna llena, en el solsticio de invierno, Reunidos en el templo, los cientificos más sabios y los magos mas poderosos unieron sus fuerzas.
+Y sucedio que, con materiales que ya no existen en este mundo, extraídos de lo más profundo de la tierra y utilizando la energia de las estrellas más distantes. En un ritual que duró veinte días y veinte noches, infundieron al objeto de su creación una capacidad sin precedentes: la de almacenar el conocimiento de manera infinita.
 
+Bajo su cubierta, se abría un abismo sin fin, un espacio donde la luz y la oscuridad se mezclaban en un torbellino eterno.
+en donde el infinito se fundia con la eternidad en una sola cosa.
 
-
---------------------------------------------------
-
-Reunidos en un gran templo, los más sabios y poderosos magos de la ciudad unieron sus fuerzas. Utilizaron materiales que ya no existen en este mundo, extraídos de lo más profundo de la tierra y de las estrellas más distantes. En un ritual que duró veinte días y veinte noches, infundieron al objeto de su creación una capacidad sin precedentes: la de almacenar el conocimiento de manera infinita. Bajo su cubierta, se abría un abismo sin fin, un espacio donde la luz y la oscuridad se mezclaban en un torbellino eterno.
-
-Cuando la última palabra del conjuro fue pronunciada, el libro respiró por primera vez. Parecía un objeto inofensivo, con una cubierta de cuero envejecido y páginas de pergamino dorado. Pero los sabios sabían que, en su interior, se escondía la fuente más grande de conocimiento jamás concebida.
-
-
-
-
-
-
-
-
-
+Cuando la última palabra del conjuro fue pronunciada, el libro respiró por primera vez. 
+A simple vista tenia el aspecto de un objeto ordinario, con una cubierta de cuero y páginas de pergamino. Pero los sabios sabían que, en su interior, se escondía la fuente más grande de conocimiento jamás concebida.
