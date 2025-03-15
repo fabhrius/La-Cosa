@@ -1,0 +1,20 @@
+preguntas:
+
+- cual es el valor de la memoria?
+- es mi vida una historia independiente? o la continuacion de alguna otra historia?
+- cuanto de mis antepasados se conserva en mi?
+
+
+
+laboratorio objetivos:
+
+- memoria y proceso de calculo
+- tipos de memoria
+
+- el ADN como memoria del sistema
+
+
+ensenanzas:
+
+
+

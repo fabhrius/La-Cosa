@@ -1,0 +1,22 @@
+preguntas:
+
+no basta con crear mi Espiritu y dejarlo vivir eternamente?
+porque hay mas como yo?
+
+porque la vida crea individuos?
+que son los individuos?
+
+
+lab objetivos:
+
+- el individuo como bloque de construccion
+- el individuo como contenedor de un bloque de memoria
+- ciclo de vida: un conjunto reducido de instrucciones
+
+ensenanzas:
+
+- los individuos no viven independientemente
+- los individuos son el bloque de contruccion del sistema
+- los individuos contienen el estado actual del proceso de calculo
+- la maquina esta compuesta por todo el conjunto de individuos y cada individuo es la maquina
+
