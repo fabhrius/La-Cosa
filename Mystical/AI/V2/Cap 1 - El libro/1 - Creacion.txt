@@ -52,15 +52,17 @@ Y su poderosa magia consiguio controlar lo sobrenatural.
 
 ---
 
-(2- descripcion de Phluvius, el Espiritu de la lluvia)
+(3- descripcion de Phluvius, el Espiritu de la lluvia)
 
-Los Acquahrkai veneraban al conocimiento profundamente.
-Casi tanto como a Phluvius, el espititu de la lluvia.
-Un Dios de gran poder y bondad, creador de toda la vida sobre la tierra, que fue su protector y su guia.
+Los Acquahrkai veneraban el conocimiento por encima de todo, pues en él hallaban las claves del universo y el equilibrio del mundo. Pero aún más sagrada que su devoción por la sabiduría era su fe en Phluvius, el Espíritu de la Lluvia, el eterno dador de vida, cuyo aliento fecundaba la tierra y cuyos designios regían el destino de Lluviara.
+
+Se decía que Phluvius no solo gobernaba las tormentas y los ríos, sino que era la esencia misma del agua que fluía por la tierra y por la sangre de los seres vivos. Su voz resonaba en el murmullo de la lluvia, en el bramido de las cascadas y en el susurro del rocío al deslizarse sobre las hojas al alba. Bajo su manto de nubes, los campos florecían con un verdor sin igual, y los ríos, plenos y generosos, llevaban consigo la promesa de la abundancia.
+
+Los Acquahrkai le ofrecían su gratitud en templos abiertos al cielo, donde las gotas caían como bendiciones sobre sus altares de piedra azulada. No le temían, pues Phluvius no era un dios de ira ni castigo, sino un guardián piadoso, protector de su pueblo y guía de su destino. Creían que su sabiduría fluía con la lluvia misma, impregnando la tierra con conocimientos ocultos, y que aquellos que escucharan con atención podrían desentrañar los secretos de la creación en el sonido del agua al tocar la tierra.
 
 ---
 
-(3- descripcion de Nytharion, el rey)
+(4- descripcion de Nytharion, el rey)
 
 Y fue entonces cuando sucedio.
 Bajo el reinado de Nytharion.
@@ -76,14 +78,14 @@ Y la riqueza de su pueblo convirtio a Nytharion en el mas rico y poderoso de los
 
 ---
 
-(4- descripcion de la ciudad, Acquahntis)
+(5-descripcion de la ciudad, Acquahntis)
 
 Su riqueza y conocimientos llevaron a los Acquahrkai a contruir la mas extraordinaria de las ciudades que el mundo jamas ha visto,  Acquahntis.
 Una ciudad de prodigios tecnologicos inimaginables construida para durar eternamente.
 
 ---
 
-(5- descripcion del proyecto Omniscientis)
+(6- descripcion del proyecto Omniscientis)
 
 Nytharion lo sabia.
 Los libros eran la clave. Los libros tenian el poder de controlar el destino.
