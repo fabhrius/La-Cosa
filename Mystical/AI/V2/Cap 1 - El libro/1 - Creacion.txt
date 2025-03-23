@@ -97,7 +97,7 @@ Un objeto que contuviera todo lo aprendido y lo que estaba por aprenderse, un le
 
 ---
 
-(6- descripcion del equipo del proyecto)
+(7- descripcion del equipo del proyecto)
 
 Para iniciar el proyecto, Nytharion convoco a los 3 ciudadanos mas ancianos y respetables del reino.
 Aquellos con la vision y el conocimiento para dirigir el proyecto cuando el rey no pudiera ocuparse personalmente.
@@ -113,7 +113,7 @@ Y despues de meses de arduo trabajo, por fin, los 64 magos mas poderosos del mun
 
 ---
 
-(7- descripcion de la creacion del libro)
+(8- descripcion de la creacion del libro)
 
 Y en el amanecer del primer dia, despues de la primera luna llena, en el solsticio de invierno, Reunidos en el templo, los cientificos más sabios y los magos mas poderosos unieron sus fuerzas.
 Y sucedio que, con materiales que ya no existen en este mundo, extraídos de lo más profundo de la tierra y utilizando la energia de las estrellas más distantes. En un ritual que duró veinte días y veinte noches, infundieron al objeto de su creación una capacidad sin precedentes: la de almacenar el conocimiento de manera infinita.
