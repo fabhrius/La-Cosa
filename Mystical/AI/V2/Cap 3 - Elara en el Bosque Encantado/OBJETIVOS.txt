@@ -20,6 +20,7 @@ laboratorio objetivos:
 
 - hablar de conocimiento heredado 
 - y patrones logicos
+- explicar el patron del monstruo como ejemplo de patrones logicos
 
 
 
@@ -36,6 +37,16 @@ existen dos clases de monstruos,
 los que estan dentro de ti
 y los que estan fuera
 
-seres sobrenaturales con características aterradoras. Estos monstruos simbolizan el peligro 
+seres sobrenaturales con características aterradoras. Estos monstruos simbolizan el peligro o manifestaciones de los miedos internos
 
-o manifestaciones de los miedos internos
+---
+
+
+el bien contra el mal:
+- Elara es atacada por un monstruo y consigue escapar.
+lejos de alli alguien esta observando la escena en un bola de cristal.
+el ataque no es fortuito sino planificado.
+el objetivo del ataque es dirigir a Elara hacia el castillo de Morgerathus.
+El mal gana su primera batalla.
+
+

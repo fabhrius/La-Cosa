@@ -1,6 +1,7 @@
 objetivo general:
 
-se plantean las preguntas
+- presentacion de Elara, la protagonista de la historia.
+- se plantean las preguntas
 y se inicia la busqueda de respuestas
 
 
@@ -9,7 +10,6 @@ y se inicia la busqueda de respuestas
 preguntas:
 
 - listado completo de preguntas del libro
-
 
 ---
 
@@ -23,4 +23,8 @@ laboratorio objetivos:
 ensenanzas:
 
 
+---
 
+
+el bien contra el mal: 
+- presentacion de Elara representando al bien.
