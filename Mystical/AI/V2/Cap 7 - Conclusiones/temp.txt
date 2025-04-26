@@ -4,7 +4,10 @@ nuestra mente nos juega malas pasadas.
 
 el instinto, el conocimiento heredado, nuestras propias necesidades, nuestra propia experiencia, la falta de informacion, nuestras creencias, nuestra cultura, entre otros factores, introducen ruido en nuestra percepcion de la realidad.
 
-con estas ideas desarrollaremos un capitulo que muestre como podemos equivocarnos, incluso cuando la informacion que necesitamos para tomar una decision se muestra claramente delante de nuestros ojos.
+con estas ideas desarrollaremos un capitulo que muestre como 
+estos factores generan ruido que puede distorcionar nuestra percepcion de la realidad.
+
+y como podemos equivocarnos, incluso cuando la informacion que necesitamos se muestra claramente delante de nuestros ojos.
 
 
 
@@ -68,5 +71,4 @@ la moraleja de la historia sera:
 ---------------
 
 
-podrias proponer un borrador para una historia con estas caracteristicas?
 
