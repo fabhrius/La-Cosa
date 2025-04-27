@@ -36,13 +36,16 @@ Estructura del capitulo (por secciones) :
 Introduction:
 
 Tema:
-la vida
+
+
 
 Escenario:
 
 
 Preguntas:
-que es la vida?
+
+
+
 
 
 
@@ -50,11 +53,8 @@ que es la vida?
 
 Laboratorio:
 
-- somos seres vivientes
-- formamos parte de algo mayor : la vida como un unico organismo
-- la vida como sistema inteligente : la inteligencia de la vida - como funciona
-- elementos que forman el sistema : individuos - ADN - reproduccion - ciclo de vida
-- el proceso de calculo generico : suma de una lista de numeros
+el sistema en marcha
+resolver un problema
 
 
 ------------

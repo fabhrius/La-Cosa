@@ -8,21 +8,21 @@ nombres de personajes:
 
 Elara
 Mag - la abuela
-Morgerathus - el mago
-Tharok - el herrero
+Morgerathus - el mago - lider de las fuerzas del mal
+Tharok - el herrero - bueno
 Skira - el aguila
-Khub - el traidor
+Khub - el traidor - aliado de Morgerathus - malo
 Hach - el gato
-Toran - el monje del templo de la eterna lluvia
-Khron - el monje
+Toran - el monje del templo de la eterna lluvia- bueno
+Khron - el monje del templo de la lluvia - bueno
 Kael -  la conciencia del Hombre de Cristal
-Aeternus - el proyecto de la vida eterna - el hombre de cristal
-Aeloria - lider de la resistencia
+Aeternus - el proyecto de la vida eterna - el hombre de cristal - superviviente de Acquanthis - bueno
+Aeloria - lider de la resistencia en Acquanthis - antepasado de Elara
 Phluvius - el Espiritu de la lluvia
-Mythralis - escritor de la primera frase
+Mythralis - escritor de la primera frase - mago bueno de Acquanthis
 Omhistrine - bruja malvada con aspecto de nina - aliada de Morgerathus - peligrosa y astuta
-Halven - mercader que viaja en una carreta de pueblo en pueblo
-
+Halven - mercader que viaja en una carreta de pueblo en pueblo - bueno
+Grendha - mujer anciana que vende pan en el mercado de Rainbowtown - es buena
 ----------------------
 
 nombre del rey que ordeno la construccion del libro:
