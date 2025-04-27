@@ -22,4 +22,4 @@ Despues de verlo en funcionamiento mediremos algunas caracteristicas del sistema
 La historia de fantasia es utilizada como un 'envoltorio' para el ensayo cientifico.
 Es la parte atractiva, su function es mantener al lector interesado.
 En ella los protagonistas analizan los mismos temas que en la parte cientifica, sin embargo desde una perspectiva fantastica y mistica, permitiendo que sea la imaginacion y el instinto los que guien el razonamiento.
-Aportando conclusiones subjetivas que contrastaran con las conclusion objetivas de la parte cientifica.
+Aportando conclusiones subjetivas que contrastaran con las conclusiones objetivas de la parte cientifica.
