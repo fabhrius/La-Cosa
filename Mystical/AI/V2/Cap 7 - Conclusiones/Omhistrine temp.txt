@@ -15,7 +15,9 @@ sin embargo la nina es en realidad una bruja con mas de 100 anos que no ha envej
 utiliza su aspecto de nina para enganar a sus victimas y forma parte del ejercito del mal liderado por Morgerathus.
 
 enganara a Elara y la perjudicara seriamente.
-Elara no descubrira el engano sino hasta el ultimo momento, y para entonces sera tarde, Elara es derrotada esta vez.
+Elara no descubrira el engano sino hasta el ultimo momento, y para entonces sera tarde.
+
+esta vez Elara ha sido derrotada por su buena fe, su instinto la ha enganado.
 
 
 su objetivos son
@@ -26,21 +28,6 @@ nunca conseguira esta informacion, pero puede obtener informacion acerca de cual
 
 Elara ha conocido a Morgerathus, el poderoso mago del mal, en el capitulo anterior, pero todavia no sabe que Morgerathus es su enemigo, ni que planea utilizar el codex para dominar el mundo.
 
-
------------------------------
-
-he dividido la historia en tres partes, aunque todavia no se como las voy a desarrollar.
-tu como lo harias? las 3 partes son las siguientes:
-
-1 - Elara conoce a la nina, Omhistrine. esta sola y necesita ayuda.
-se crea una relacion de amistad intensa, un sentimiento que Tambien debe afectar al lector.
-el lector debe creer igual que Elara que la nina es encantadora y debe sentir el deseo de ayudarla
-
-2- la nina pide a Elara que actue para ayudarla (dandole informacion, actuando contra otros, proporcionandole cosas, etc)
-Elara tiene dudas al principio, pero despues accede.
-
-
-3- Omhistrine ha enganado a Elara para conseguir sus objetivos. Elara no se dara cuenta del engano hasta el ultimo momento, y entonces sera tarde. esta vez Elara ha sido derrotada por su buena fe, su instinto la ha enganado.
 
 
 
@@ -78,7 +65,6 @@ Intentando robarle
 La niña huye y desaparece entre la multitud
 
 Esc. 2:
-
 La tienda de antigüedades
 
 el vendedor le recuerda a un hombre de su pueblo natal.
@@ -96,9 +82,7 @@ Esto confirma las sospechas de Elara. el vendedor es deshonesto y abandona el pu
 
 
 Esc. :
-
 El ladrón
-
 
 Unos pasos mas adelante
 Caminando entre la gente alguien la empuja.
@@ -106,16 +90,51 @@ Elara siente el tiron, le han robado ...
 Se trata de un hombre joven que escapa corriendo entre la gente.
 
 
-Esc  :
+Esc :
+la nina de las flores
 
-y visita la tienda de panadería, conoce a Grendha, la panadera.
+La imagen ideal que Elara se habia formado al llegar del pueblo y su mercado se estaba derrumbando.
+apenas habia caminado unos cuantos metros y ya habia encontrado a una panadera malvada que maltrataba a los ninos, un vendedor deshonesto que timaba a la gente y ladrones que la habian robado.
+La actitud relajada con que habia iniciado el paseo por el mercado habia cambiado por una mucho mas cautelosa y desconfiada.
+
+Empezaba a sentirse decepcionada, el lugar tan bonito y pintoresco al principio, se estaba lentamente transformando en uno sombrio y deslucido.
+
+Hasta que vio a la nina sentada en un lugar apartado, llorando sola.
+una hermosa nina inocente, que le proporciono esperanza, como un rayo de sol en un dia nublado.
+era la misma nina que la panadera habia echado fuera de su tienda.
+
+Elara no pudo resistir la atraccion.
+si habia algo bueno en este extrano lugar estaba alli, sentada, sola, indefensa.
+
+Elara se acerco.
+"Porque lloras", pregunto.
+"La panadera me ha robado el amuleto que mi madre me regalo antes de morir.
+Es el unico recuerdo que me ha quedado de ella. Y ahora ya no lo tengo", respondio la nina.
+"como te llamas", pregunto Elara
+"mi nombre es Omhistrine", respondio.
+"Yo soy Elara".
+
+La nina la miro a la cara con sus grandes ojos de nina, que parecian iluminar el Callejon con la luz de la inocencia.
+Casi podia verse a traves de ellos el mundo de fantasia que habitaba en su interior.
+
+"Podras ayudarme a recuperarlo", pregunto con inocencia, depositando en un instante todas sus esperanzas en ella, como apelando a la voluntad de un heroe colosal, un dios.
+
+
+
+
+Esc  :
+Elara visita la tienda de panadería, conoce a Grendha, la panadera.
+
 Observa el amuleto expuesto a la vista colgando
 Comenta que se parece a uno que tenía
 Pregunta si puede verlo
 La panadera se lo alcanza
+y le dice que se lo dio su madre, antes de morir, cuando era nina.
+
 Cuando Elara lo toca el amuleto brilla
 Grendha se sorprende, nunca habia visto que ese amuleto hiciera algo asi.
-se lo dio su madre cuando era nina y le explico que el amuleto tenia un gran poder magico, pero Grendha nunca lo habia creido.
+
+le explico que el amuleto tenia un gran poder magico, pero Grendha nunca lo habia creido.
 Su madre le explico que tenian ese amuleto ara custodiarlo, para evitar que cayera en las manos del mal.
 Y que debia asegurar que despues de ella alguien continuaria custodiandolo.
 que debia buscar un sucesor, Alguien digno, y que ella lo reconoceria.
