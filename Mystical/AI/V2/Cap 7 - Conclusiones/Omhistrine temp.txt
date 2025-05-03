@@ -58,17 +58,29 @@ Esc. 1:
 
 Elara llega al mercado
 
-La panadera está echando de su puesto a una niña
+camina entre los puestos.
+es un hermoso dia y Elara se siente bien.
+el mercado es hermoso y se ve muy animado, con gente que va y viene, voces, colores y aromas.
+en particular el aroma del pan recien hecho atrae a Elara hasta el puesto de pan.
+al acercarse ve a La panadera echando de su puesto a una niña
 Le grita que no vuelva a acercarse
-La acusa de revolver sus cosas
-Intentando robarle
+La acusa de revolver sus cosas. de querer robarle
 La niña huye y desaparece entre la multitud
+
+la escena disgusta a Elara.
+la panadera es una mujer mayor malhumorada.
+Elara se aleja preocupada.
 
 Esc. 2:
 La tienda de antigüedades
 
-el vendedor le recuerda a un hombre de su pueblo natal.
-Era un hombre malvado y deshonesto, muy parecido en aspecto.
+un poco mas adelante un puesto llama su atencion.
+extranos objetos antiguos se exponen.
+Un gran cartel afirma que estas antiguedades son magicas.
+
+el vendedor le recuerda a un hombre de su pueblo natal malvado y deshonesto, muy parecido en aspecto.
+sus recuerdos, su experiencia, le dicen que desconfie, que tenga cuidado, porque las personas malvadas te atacaran cuando menos te lo esperes.
+
 Elara se ha formado una idea negativa de este vendedor cuando le ha visto en la distancia.
 sin embargo se acerca a la tienda atraida por los extranos objetos que expone.
 
@@ -76,9 +88,11 @@ El vendedor intenta vender a Elara un espejo de mano mágico que muestra la verd
 Elara examina el espejo por un momento cuando un 
 
 Cliente insatisfecho interrumpe la conversacion abruptamente con una queja por un producto defectuoso, exige que le devuelva su dinero.
-aparentemente es una antiguedad fabricada, es falso.
+el cliente afirma que se trata de una antiguedad falsa, fabricada.
+afirma que le han timado.
 
-Esto confirma las sospechas de Elara. el vendedor es deshonesto y abandona el puesto.
+Esto confirma las sospechas de Elara. el vendedor es deshonesto.
+sin querer oir mas, Elara se aleja del puesto mientras la discussion continua.
 
 
 Esc. :
@@ -99,8 +113,13 @@ La actitud relajada con que habia iniciado el paseo por el mercado habia cambiad
 
 Empezaba a sentirse decepcionada, el lugar tan bonito y pintoresco al principio, se estaba lentamente transformando en uno sombrio y deslucido.
 
-Hasta que vio a la nina sentada en un lugar apartado, llorando sola.
-una hermosa nina inocente, que le proporciono esperanza, como un rayo de sol en un dia nublado.
+Y la alegria y el optimismo conque habia llegado se estaban desvaneciendo.
+
+Fue entonces cuando, al alejarse del bullicio del centro de la feria, vio a una nina sentada en un lugar apartado, llorando sola.
+una hermosa nina inocente.
+Esto era diferente de lo que habia visto hasta ahora.
+Su belleza e inocencia le proporcionaron la esperanza que necesitaba en este momento.
+Como un rayo de sol en un dia nublado.
 era la misma nina que la panadera habia echado fuera de su tienda.
 
 Elara no pudo resistir la atraccion.
@@ -117,8 +136,12 @@ Es el unico recuerdo que me ha quedado de ella. Y ahora ya no lo tengo", respond
 La nina la miro a la cara con sus grandes ojos de nina, que parecian iluminar el Callejon con la luz de la inocencia.
 Casi podia verse a traves de ellos el mundo de fantasia que habitaba en su interior.
 
-"Podras ayudarme a recuperarlo", pregunto con inocencia, depositando en un instante todas sus esperanzas en ella, como apelando a la voluntad de un heroe colosal, un dios.
+"Podras ayudarme a recuperarlo", pregunto con inocencia, depositando en un instante todas sus esperanzas en ella, como apelando a la voluntad de un heroe colosal, regalandole con su mirada tierna el poder de un dios.
 
+
+---------------------
+
+El robo
 
 
 
