@@ -23,6 +23,8 @@ Mythralis - escritor de la primera frase - mago bueno de Acquanthis
 Omhistrine - bruja malvada con aspecto de nina - aliada de Morgerathus - peligrosa y astuta
 Halven - mercader que viaja en una carreta de pueblo en pueblo - bueno
 Grendha - mujer anciana que vende pan en el mercado de Rainbowtown - es buena
+Eldrihk - vendedor de antiguedades en el mercado de Rainbowtown - bueno
+
 ----------------------
 
 nombre del rey que ordeno la construccion del libro:
