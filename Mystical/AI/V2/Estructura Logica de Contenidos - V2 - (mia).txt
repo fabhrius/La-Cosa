@@ -72,7 +72,10 @@ cap 6 - La magia
 
 cap 7 - Primeras conclusiones - Fin del segundo acto
 
-(preguntas: - si las respuestas que busco estan delate de mis ojos, porque no puedo verlas? - algo limita mi capacidad para pensar libremente? )
+(preguntas: 
+- si las respuestas que busco estan delate de mis ojos, porque no puedo verlas? 
+- porque no consiguo entender lo que sucede?
+- algo limita mi capacidad para pensar libremente? )
 
 
 ( Acto 3 - la vida como un sistema inteligente - componentes y simulacion)
