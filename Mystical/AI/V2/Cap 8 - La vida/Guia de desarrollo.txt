@@ -38,11 +38,24 @@ Introduction:
 Tema:
 la vida
 
-Escenario:
-
-
 Preguntas:
 que es la vida?
+
+respuesta mistica:
+- las criaturas vivientes aparecen con la lluvia
+- estan porque tienen que estar
+- existen para que la gente viva en un lugar bonito
+
+
+escenario:
+la selva
+
+enemigo:
+el brujo - se oculta en la selva camuflandose - confunde las mentes de sus enemigos con posiones magicas que prepara a partir de plantas de la selva
+
+
+anfitrion:
+
 
 
 

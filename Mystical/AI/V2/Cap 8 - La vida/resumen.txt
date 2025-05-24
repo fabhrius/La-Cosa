@@ -1,0 +1,21 @@
+hook:
+Elara es rescatada del pantano por el ladron, Drhey.
+Drhey la lleva en su caballo por el camino largo.
+se separan antes de llegar a Timberway.
+Elara se pregunta porque Omhistrine queria el amuleto.
+Drhey le dice que puede consultar al sabio, Greghsius, para obtener informacion acerca de los amuletos.
+
+el escenario:
+Timberway es un pueblo dentro de una selva desbordante de vida.
+
+
+
+el sabio Greghsius ha desaparecido.
+Elara Debera resolver el misterio de su desaparicion.
+
+otros personajes:
+- el sacerdote: 
+- el brujo de la selva:
+- el cientifico:
+
+
