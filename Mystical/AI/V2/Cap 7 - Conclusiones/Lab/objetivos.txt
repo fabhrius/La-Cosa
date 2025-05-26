@@ -3,13 +3,14 @@ objetivos
 
 estructura de objetivos:
 
+--------------------
+introduccion.txt
 
-intro
 - reflexionar acerca de como influye la forma en que pensamos en nuestra vision de la realidad
 
 --------------------
 
-la fantasia
+la imaginacion en el proceso de razonamiento - fantasia y realidad
 
 
 -------------------
