@@ -5,15 +5,23 @@ estructura de objetivos:
 
 --------------------
 introduccion.txt
+AI - introduccion.odt
+
 
 - reflexionar acerca de como influye la forma en que pensamos en nuestra vision de la realidad
 
 --------------------
 
+imaginacion.txt
+AI - imaginacion.odt
+
+
 la imaginacion en el proceso de razonamiento - fantasia y realidad
 
 
 -------------------
+
+herencia.txt
 
 
 patrones logicos
@@ -30,16 +38,23 @@ conocimiento heredado
 
 nuestra propia naturaleza
 
-
+somos mamiferos
+tenemos manos
+caminamos sobre la tierra
 
 -----------------
 
 nuestras necesidades
 
+necesitamos proteccion
+
 
 --------------------
 
 el instinto
+
+
+lo feo es malo
 
 -------------------
 
@@ -57,6 +72,7 @@ un ejemplo de error
 
 
 los errores de Elara en el capitulo
+
 
 
 -------------------
