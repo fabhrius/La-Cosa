@@ -22,6 +22,14 @@ la imaginacion en el proceso de razonamiento - fantasia y realidad
 -------------------
 
 herencia.txt
+AI - herencia.odt
+
+conocimiento heredado
+
+
+----------------
+
+patrones.txt
 
 
 patrones logicos
@@ -30,10 +38,7 @@ patrones logicos
 ------------------
 
 
-conocimiento heredado
 
-
-----------------
 
 
 nuestra propia naturaleza
