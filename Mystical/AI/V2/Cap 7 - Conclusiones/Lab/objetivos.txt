@@ -30,6 +30,7 @@ conocimiento heredado
 ----------------
 
 patrones.txt
+AI - patrones.odt
 
 
 patrones logicos
@@ -37,7 +38,7 @@ patrones logicos
 
 ------------------
 
-
+naturaleza.txt
 
 
 
