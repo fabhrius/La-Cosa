@@ -1,0 +1,34 @@
+chat
+
+
+---
+
+
+
+vamos a empezar a pensar en como podria ser el capitulo 9.
+en este capitulo hablaremos de "individuos".
+los individuos como elementos caracteristicos de la vida.
+
+a lo largo de todo el relato intentaremos explicar lo que es la vida.
+en este capitulo la vida es una cosa no del todo definida
+en el laboratorio comentaremos que:
+
+-la vida crea individuos.
+-las especies estan formadas por individuos similares.
+-no existen dos individuos iguales.
+-los individuos cumplen con un ciclo de vida.
+-a simple vista los individuos parecen unidades funcionales independientes y aparentemente serian el ultimo objetivo de la vida, sin embargo, los individuos son en realidad los bloques de contruccion de un sistema mayor.
+lo verdaderamente importante es el sistema.
+
+este sera el tema del laboratorio.
+
+ahora debemos crear una aventura para Elara que sirva como envoltorio.
+en su aventura Elara Debera encontrar respuesta a preguntas tales como:
+- porque la vida crea individuos?
+- que son los individuos ?
+- porque hay tanta variedad ?
+- son todas las hormigas iguales ?
+
+
+necesitaremos algunos elementos antes de empezar.
+
