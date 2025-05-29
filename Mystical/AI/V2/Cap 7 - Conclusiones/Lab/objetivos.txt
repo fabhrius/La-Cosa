@@ -39,6 +39,7 @@ patrones logicos
 ------------------
 
 naturaleza.txt
+AI - naturaleza.odt
 
 
 
@@ -49,6 +50,10 @@ tenemos manos
 caminamos sobre la tierra
 
 -----------------
+
+necesidades.txt
+AI - necesidades.odt
+
 
 nuestras necesidades
 
