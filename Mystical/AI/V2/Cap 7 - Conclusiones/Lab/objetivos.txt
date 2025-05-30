@@ -26,7 +26,6 @@ AI - herencia.odt
 
 conocimiento heredado
 
-
 ----------------
 
 patrones.txt
@@ -35,12 +34,10 @@ AI - patrones.odt
 
 patrones logicos
 
-
 ------------------
 
 naturaleza.txt
 AI - naturaleza.odt
-
 
 
 nuestra propia naturaleza
@@ -56,9 +53,7 @@ AI - necesidades.odt
 
 
 nuestras necesidades
-
 necesitamos proteccion
-
 
 --------------------
 
