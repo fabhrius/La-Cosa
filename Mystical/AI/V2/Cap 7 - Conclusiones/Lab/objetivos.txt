@@ -57,13 +57,17 @@ necesitamos proteccion
 
 --------------------
 
+instinto.txt
+AI - instinto.odt
+
+
 el instinto
-
-
 lo feo es malo
 
 -------------------
 
+condicionantes.txt
+AI - condicionantes.odt
 
 condicionantes
 
@@ -76,12 +80,16 @@ un ejemplo de error
 
 ---------------
 
+errores.txt
+
 
 los errores de Elara en el capitulo
 
 
 
 -------------------
+
+AI - conclusiones.odt
 
 conclusiones
 
