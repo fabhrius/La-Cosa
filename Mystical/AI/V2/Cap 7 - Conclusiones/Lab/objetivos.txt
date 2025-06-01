@@ -26,6 +26,15 @@ AI - herencia.odt
 
 conocimiento heredado
 
+--------------------
+
+instinto.txt
+AI - instinto.odt
+
+
+el instinto
+lo feo es malo
+
 ----------------
 
 patrones.txt
@@ -55,14 +64,7 @@ AI - necesidades.odt
 nuestras necesidades
 necesitamos proteccion
 
---------------------
 
-instinto.txt
-AI - instinto.odt
-
-
-el instinto
-lo feo es malo
 
 -------------------
 
