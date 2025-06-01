@@ -32,5 +32,22 @@ ensenanzas:
 ---
 
 
+
 el bien contra el mal:
-- Omhistrine, la bruja con aspecto de nina, enganara a Elara para conseguir un amuleto de cristal de roca.
+- enemigos: Omhistrine, la bruja con aspecto de nina, enganara a Elara para conseguir un amuleto de cristal de roca.
+- aliados: 
+-----------------------------------------------
+
+
+Elara:
+
+objetivos del capitulo:
+
+progreso:
+
+contratiempo:
+
+desafios:
+
+amenazas:
+
