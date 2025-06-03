@@ -4,22 +4,60 @@
 
 * Elara y el codice perdido
 ** Acto 1
-*** cap 1
-**** presentacion libro
-*** cap 2
-**** presentacion Elara \n e incio de la busqueda
+*** cap 1 \n- El libro
+**** Objetivos
+***** presentacion libro
 
+*** cap 2 \n- Elara y la montana
+**** Objetivos
+***** presentacion Elara \n e incio de la busqueda
+**** Lab
+***** Objetivos
+****** Presentacion
+****** Preguntas existenciales
+****** Metodologia
+**** Aventura
+***** Preguntas
+***** Elara \n objetivos de entrada
+****** Escalar la Gran Montana \n para encontrar el antiguo codice perdido
+***** Anfitrion:\n Khron, el monje del templo de la lluvia
+***** Enemigo: \n El codice perdido
+***** Elara \n objetivos de salida
+****** 1- recuperar el amuleto \n2- entender las palabras de Khron \n "abre los ojos, porque solo puede ver quien lo desea con el corazon"
+***** Plot
+****** 1 - Hook
+******* Elara - esta escalando la gran montana
+****** 2
+******* Elara recuerda la investigacion, junto a Khron, \n que la ha llevado a descubrir la ubicacion del codex
+****** 3
+******* Elara - la cueva no esta adonde esperaba
+****** 4
+******* Elara recuerda, Khron le regala el amuleto
+****** 5
+******* Elara - resa por ayuda al Espiritu de la Lluvia \n se pierde en la montana \n el tiempo empeora \n pierde la fe \n arroja el amuleto
+****** 6
+******* Elara encuentra la cueva accidentalmente
+****** 7
+******* Elara encuentra el codex \nel libro lucha contra Elara \n el libro muestra grandes poderes magicos \n se producen fenomentos sobrenaturales \n Elara tiene visiones
+****** 8
+******* Elara ve a Khon en una vision \n Khron le dice "recupera el amuleto porque no podras completar tu mision sin el" y \n "abre los ojos, porque solo puede ver quien lo desea con el corazon"
+****** 9 - Cliffhanger
+******* Elara - intenta abrir el libro y \n el codex la mata con una poderosa descarga de energia
 
 ** Acto 2
 *** cap 3 - Monstruos
-**** Lab: Patrones logicos
+**** Lab
+***** Objetivos
+****** Patrones logicos
 **** Aventura
 ***** Elara \n objetivos de entrada
-****** volver a la gran montana
-***** Anfitrion
-***** Enemigo
+****** 1- recuperar el amuleto \n2- entender las palabras de Khron \n "abre los ojos, porque solo puede ver quien lo desea con el corazon" \n3- volver a la gran montana
+***** Anfitrion: \n Rughof, el lenador
+***** Enemigo: \n Morgerathus
+****** Sinopsis:
+****** Objetivo:
 ***** Elara \n objetivos de salida
-****** Llegar al mercado de Rainbowtown
+****** 1- recuperar el amuleto \n2- entender las palabras de Khron \n "abre los ojos, porque solo puede ver quien lo desea con el corazon" \n3- volver a la gran montana \n4- Llegar al mercado de Rainbowtown
 
 *** cap 4 - La fe
 **** Lab: instinto

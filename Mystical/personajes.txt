@@ -8,13 +8,14 @@ nombres de personajes:
 
 Elara
 Mag - la abuela
+Khron - el monje del templo de la lluvia - bueno
+
 Morgerathus - el mago - lider de las fuerzas del mal
 Tharok - el herrero - bueno
 Skira - el aguila
 Khub - el traidor - aliado de Morgerathus - malo
 Hach - el gato
 Toran - el monje del templo de la eterna lluvia- bueno
-Khron - el monje del templo de la lluvia - bueno
 Kael -  la conciencia del Hombre de Cristal
 Aeternus - el proyecto de la vida eterna - el hombre de cristal - superviviente de Acquanthis - bueno
 Aeloria - lider de la resistencia en Acquanthis - antepasado de Elara
