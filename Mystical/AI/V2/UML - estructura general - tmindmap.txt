@@ -63,55 +63,10 @@
 
 ** Acto 3
 *** cap 8
-**** Lab: 
-**** Aventura
-***** Elara \n objetivos de entrada
-****** n
-***** Anfitrion
-***** Enemigo
-***** Elara \n objetivos de salida
-****** n
-
 *** cap 9
-**** Lab: 
-**** Aventura
-***** Elara \n objetivos de entrada
-****** n
-***** Anfitrion
-***** Enemigo
-***** Elara \n objetivos de salida
-****** n
-
 *** cap 10
-**** Lab: 
-**** Aventura
-***** Elara \n objetivos de entrada
-****** n
-***** Anfitrion
-***** Enemigo
-***** Elara \n objetivos de salida
-****** n
-
 *** cap 11
-**** Lab: 
-**** Aventura
-***** Elara \n objetivos de entrada
-****** n
-***** Anfitrion
-***** Enemigo
-***** Elara \n objetivos de salida
-****** n
-
 *** cap 12
-**** Lab: 
-**** Aventura
-***** Elara \n objetivos de entrada
-****** n
-***** Anfitrion
-***** Enemigo
-***** Elara \n objetivos de salida
-****** n
-
 
 ** Acto 4
 *** cap 13
