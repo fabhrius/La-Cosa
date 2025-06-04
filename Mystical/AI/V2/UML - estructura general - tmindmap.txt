@@ -11,22 +11,38 @@
 ***** presentacion libro
 
 
+
 *** cap 2 \n- Elara y la montana
+
 **** Objetivos
-***** presentacion Elara \n e incio de la busqueda
+***** presentacion Elara \n y la busqueda de respuestas
+
 **** Lab
 ***** Objetivos
 ****** Presentacion
 ****** Preguntas existenciales
 ****** Metodologia
+
 **** Aventura
 ***** Preguntas
 ***** Elara \n objetivos de entrada
 ****** Escalar la Gran Montana \n para encontrar el antiguo codice perdido
+
 ***** Anfitrion:\n Khron, el monje del templo de la lluvia
+****** Sinopsis:
+******* Khron ayuda a Elara a encontrar la ubicacion del codex descifrando los antiguos escritos \n Khron le regala un amuleto con poderes magicos que la protegera
+****** Preguntas
+******* Que es la vida? \n Porque estoy aqui ? \n Porque debo morir ?
+****** Respuestas
+******* Las respuestas que buscas quizas se encuentren en las paginas del antiguo codice perdido
+
 ***** Enemigo: \n El codice perdido
+****** Sinopsis:
+******* el codice no permitira que nadie vea el contenido de sus paginas
+
 ***** Elara \n objetivos de salida
 ****** 1- recuperar el amuleto \n2- entender las palabras de Khron \n "abre los ojos, porque solo puede ver quien lo desea con el corazon"
+
 ***** Plot
 ****** 1 - Hook
 ******* Elara - esta escalando la gran montana
@@ -52,28 +68,39 @@
 
 
 
+
 ** Acto 2
 
 
 *** cap 3 - Monstruos
 **** Lab
+
 ***** Objetivos
+****** El miedo
 ****** Patrones logicos
+
 **** Aventura
 ***** Elara \n objetivos de entrada
-****** 1- recuperar el amuleto \n2- entender las palabras de Khron \n "abre los ojos, porque solo puede ver quien lo desea con el corazon" \n3- volver a la gran montana
+****** 1- recuperar el amuleto \n2- entender las palabras de Khron \n "abre los ojos, porque solo puede ver quien lo desea con el corazon" \n3- volver a la gran montana \n abandonar Otherside Forest cuanto antes
+
 ***** Anfitrion: \n Rughof, el lenador
 ****** Sinopsis:
-******* Elara encuentra a Rughof en el bosque.\n Le dice que esta perdida y le pregunta \n que lugar es este y como llegar a la gran montana \n Rughof responde que \n estan en "Otherside Forrest" \n y que no sabe como llegar a la gran montana.\n Urge a Elara a abandonar Otherside Forest cuanto antes, porque \n el lugar es peligroso, \n nadie vive alli, \n esta dominado por un Espiritu maligno con grandes poderes, \n y al llegar la noche los monstruos despiertan.
+******* Elara encuentra a Rughof en el bosque.\n Le dice que esta perdida y le pregunta \n que lugar es este y como llegar a la gran montana \n Rughof responde que \n estan en "Otherside Forrest" \n y que no sabe como llegar a la gran montana.\n Urge a Elara a abandonar Otherside Forest cuanto antes, porque \n el lugar es peligroso, \n nadie vive alli, \n esta dominado por un Espiritu maligno con grandes poderes, \n y al llegar la noche los monstruos despiertan. \n Elara estara a salvo cuando llegue a las montanas que rodean el bosque.
 ****** Preguntas
-******* "crees existen los monstruos?"
+******* "que es el miedo ?" \n "crees que realmente existen los monstruos?"
 ****** Respuestas
 ******* Existen monstruos de 2 tipos, los internos y los externos, \n los internos viven dentro de ti, los externos viven alli afuera
+
 ***** Enemigo: \n Morgerathus
 ****** Sinopsis:
 ****** Objetivo:
 ***** Elara \n objetivos de salida
 ****** 1- recuperar el amuleto \n2- entender las palabras de Khron \n "abre los ojos, porque solo puede ver quien lo desea con el corazon" \n3- volver a la gran montana \n4- Llegar al mercado de Rainbowtown
+***** Plot
+****** 1- Hook - Resolucion
+******* Elara despierta en un lugar desconocido sin saber como ha llegado alli \n la invade un sentimiento tan intenso como no habia sentido antes \n el miedo
+****** n- Cliffhanger
+******* Elara consigue llegar a las montanas pero el monstruo la sigue \n Elara entra en una cueva con una entrada estrecha para refugiarse \n el monstruo no puede pasar por la entrada y la amenaza desde afuera \n Elara retrocede hacia el interior de la cueva alejandose de la entrada \n el suelo cede bajo sus pies y Elara cae en la oscuridad de un vacio sin fin
 
 
 *** cap 4 - La fe

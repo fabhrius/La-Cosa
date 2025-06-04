@@ -1,0 +1,41 @@
+@startmindmap
+
+'Compatible with OrgMode 
+
+* Elara y el codice perdido
+** Acto 2
+
+
+*** cap 3 - Monstruos
+**** Lab
+
+***** Objetivos
+****** El miedo
+****** Patrones logicos
+
+**** Aventura
+***** Elara \n objetivos de entrada
+****** 1- recuperar el amuleto \n2- entender las palabras de Khron \n "abre los ojos, porque solo puede ver quien lo desea con el corazon" \n3- volver a la gran montana \n abandonar Otherside Forest cuanto antes
+
+***** Anfitrion: \n Rughof, el lenador
+****** Sinopsis:
+******* Elara encuentra a Rughof en el bosque.\n Le dice que esta perdida y le pregunta \n que lugar es este y como llegar a la gran montana \n Rughof responde que \n estan en "Otherside Forrest" \n y que no sabe como llegar a la gran montana.\n Urge a Elara a abandonar Otherside Forest cuanto antes, porque \n el lugar es peligroso, \n nadie vive alli, \n esta dominado por un Espiritu maligno con grandes poderes, \n y al llegar la noche los monstruos despiertan. \n Elara estara a salvo cuando llegue a las montanas que rodean el bosque.
+****** Preguntas
+******* "que es el miedo ?" \n "crees que realmente existen los monstruos?"
+****** Respuestas
+******* Existen monstruos de 2 tipos, los internos y los externos, \n los internos viven dentro de ti, los externos viven alli afuera
+
+***** Enemigo: \n Morgerathus
+****** Sinopsis:
+****** Objetivo:
+***** Elara \n objetivos de salida
+****** 1- recuperar el amuleto \n2- entender las palabras de Khron \n "abre los ojos, porque solo puede ver quien lo desea con el corazon" \n3- volver a la gran montana \n4- Llegar al mercado de Rainbowtown
+***** Plot
+****** 1- Hook - Resolucion
+******* Elara despierta en un lugar desconocido sin saber como ha llegado alli \n la invade un sentimiento tan intenso como no habia sentido antes \n el miedo
+****** n- Cliffhanger
+******* Elara consigue llegar a las montanas pero el monstruo la sigue \n Elara entra en una cueva con una entrada estrecha para refugiarse \n el monstruo no puede pasar por la entrada y la amenaza desde afuera \n Elara retrocede hacia el interior de la cueva alejandose de la entrada \n el suelo cede bajo sus pies y Elara cae en la oscuridad de un vacio sin fin
+
+
+
+@endmindmap

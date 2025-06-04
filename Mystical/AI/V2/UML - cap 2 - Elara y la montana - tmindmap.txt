@@ -1,0 +1,67 @@
+@startmindmap
+
+'Compatible with OrgMode 
+
+* Elara y el codice perdido
+** Acto 1
+
+*** cap 2 \n- Elara y la montana
+
+**** Objetivos
+***** presentacion Elara \n y la busqueda de respuestas
+
+**** Lab
+***** Objetivos
+****** Presentacion
+****** Preguntas existenciales
+****** Metodologia
+
+**** Aventura
+***** Preguntas
+***** Elara \n objetivos de entrada
+****** Escalar la Gran Montana \n para encontrar el antiguo codice perdido
+
+***** Anfitrion:\n Khron, el monje del templo de la lluvia
+****** Sinopsis:
+******* Khron ayuda a Elara a encontrar la ubicacion del codex descifrando los antiguos escritos \n Khron le regala un amuleto con poderes magicos que la protegera
+****** Preguntas
+******* Que es la vida? \n Porque estoy aqui ? \n Porque debo morir ?
+****** Respuestas
+******* Las respuestas que buscas quizas se encuentren en las paginas del antiguo codice perdido
+
+***** Enemigo: \n El codice perdido
+****** Sinopsis:
+******* el codice no permitira que nadie vea el contenido de sus paginas
+
+***** Elara \n objetivos de salida
+****** 1- recuperar el amuleto \n2- entender las palabras de Khron \n "abre los ojos, porque solo puede ver quien lo desea con el corazon"
+
+***** Plot
+****** 1 - Hook
+******* Elara - esta escalando la gran montana
+****** 2 - Background - Flashback
+******* Elara recuerda la investigacion, junto a Khron, \n que la ha llevado a descubrir la ubicacion del codex
+****** 3 - Desarrollo
+******* Elara - la cueva no esta adonde esperaba
+****** 4 - Flashback
+******* Elara recuerda, Khron le regala el amuleto
+****** 5
+******* Elara - resa por ayuda al Espiritu de la Lluvia \n se pierde en la montana \n el tiempo empeora \n pierde la fe \n arroja el amuleto
+****** 6
+******* Elara encuentra la cueva accidentalmente
+****** 7 - Climax
+******* Elara encuentra el codex \nel libro lucha contra Elara \n el libro muestra grandes poderes magicos \n se producen fenomentos sobrenaturales \n Elara tiene visiones
+****** 8 - Cliffhange del laboratorio
+******* Khon aparece misteriosamente en la cueva 
+****** 9 LABORATORIO
+****** 10
+******* Elara ve a Khon en una vision \n Khron le dice \n "recupera el amuleto porque no podras completar tu mision sin el" y \n "abre los ojos, porque solo puede ver quien lo desea con el corazon"
+****** 11 - Cliffhanger
+******* Elara - intenta abrir el libro y \n el codex la mata con una poderosa descarga de energia
+
+
+
+
+
+
+@endmindmap
