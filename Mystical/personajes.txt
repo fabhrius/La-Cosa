@@ -25,7 +25,10 @@ Omhistrine - bruja malvada con aspecto de nina - aliada de Morgerathus - peligro
 Halven - mercader que viaja en una carreta de pueblo en pueblo - bueno
 Grendha - mujer anciana que vende pan en el mercado de Rainbowtown - es buena
 Eldrihk - vendedor de antiguedades en el mercado de Rainbowtown - bueno
-Drhey - 
+Drhey - el ladron bueno de Rainbowtown
+Greghsius - el sabio de Greenwood Village
+Tenebrakhus - mago malvado que vive oculto en la selva y utiliza pociones para confundir las mentes de sus enemigos
+
 ----------------------
 
 nombre del rey que ordeno la construccion del libro:

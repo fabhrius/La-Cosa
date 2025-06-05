@@ -19,7 +19,7 @@
 
 ***** Anfitrion: \n Rughof, el lenador
 ****** Sinopsis:
-******* Elara encuentra a Rughof en el bosque.\n Le dice que esta perdida y le pregunta \n que lugar es este y como llegar a la gran montana \n Rughof responde que \n estan en "Otherside Forrest" \n y que no sabe como llegar a la gran montana.\n Urge a Elara a abandonar Otherside Forest cuanto antes, porque \n el lugar es peligroso, \n nadie vive alli, \n esta dominado por un Espiritu maligno con grandes poderes, \n y al llegar la noche los monstruos despiertan. \n Elara estara a salvo cuando llegue a las montanas que rodean el bosque.
+******* Elara encuentra a Rughof en el bosque.\n Le dice que esta perdida y le pregunta \n que lugar es este y como llegar a la gran montana \n Rughof responde que \n estan en "Otherside Forrest", en el extremo oeste de Lluviara \n y que no sabe como llegar a la gran montana. Tal vez puedan ayudarla en Hiddenvillage, un pequeno pueblo hacia el este \n Urge a Elara a abandonar Otherside Forest cuanto antes, porque \n el lugar es peligroso, \n nadie vive alli, \n esta dominado por un Espiritu maligno con grandes poderes, \n y al llegar la noche los monstruos despiertan. \n Elara estara a salvo cuando llegue a las montanas que rodean el bosque.
 ****** Preguntas
 ******* "que es el miedo ?" \n "crees que realmente existen los monstruos?"
 ****** Respuestas
@@ -28,8 +28,10 @@
 ***** Enemigo: \n Morgerathus
 ****** Sinopsis:
 ****** Objetivo:
+
 ***** Elara \n objetivos de salida
 ****** 1- recuperar el amuleto \n2- entender las palabras de Khron \n "abre los ojos, porque solo puede ver quien lo desea con el corazon" \n3- volver a la gran montana \n4- Llegar al mercado de Rainbowtown
+
 ***** Plot
 ****** 1- Hook - Resolucion
 ******* Elara despierta en un lugar desconocido sin saber como ha llegado alli \n la invade un sentimiento tan intenso como no habia sentido antes \n el miedo

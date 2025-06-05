@@ -1,9 +1,33 @@
+
+- Hook - (resolución del cliffhanger del capitulo anterior) 
+- introduccion - (tema - escenario - preguntas)
+- historia 1
+- background - flashback 
+- el anfitrión - (presentacion del coprotagonista) 
+- historia 2
+- misticismo y ciencia
+- cliffhanger (previo a la seccion de laboratorio)
+- Laboratorio
+- resolución del cliffhanger previo al laboratorio
+- historia 3
+- climax
+- cliffhanger (final del capitulo)
+
+
+
+-----------------------------------------------
+
+
+
+
+
 hook:
 Elara es rescatada del pantano por el ladron, Drhey.
 Drhey la lleva en su caballo por el camino largo.
-se separan antes de llegar a Timberway.
 Elara se pregunta porque Omhistrine queria el amuleto.
 Drhey le dice que puede consultar al sabio, Greghsius, para obtener informacion acerca de los amuletos.
+se separan antes de llegar a Timberway.
+
 
 el escenario:
 Timberway es un pueblo dentro de una selva desbordante de vida.

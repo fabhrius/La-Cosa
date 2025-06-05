@@ -1,0 +1,69 @@
+@startmindmap
+
+'Compatible with OrgMode 
+
+* Elara y el codice perdido
+** Acto 3 - Inteligencia
+
+
+*** cap 8 - La vida
+**** Lab
+***** Preguntas
+****** que es la vida?
+***** Objetivos
+****** -la vida como un unico individuo \n -la vida como un sistema de calculo \n -elementos funcionales de la vida, componentes del sistema \n -presentacion del experimento que se realizara en los siguientes capitulos
+
+***** Ensenanzas
+****** la vida es una inteligencia inmortal que habita el universo
+
+**** Aventura
+
+***** Resumen
+****** Elara Debera descubrir el paradero de Greghsius actuando como detective en una investigacion al estilo del film noir.
+
+***** Elara \n objetivos para este capitulo (entrada)
+****** -conocer la verdad que hay detras de los amuletos magicos \n -encontrar transporte o informacion para llegar a Rainy Valley
+***** Escenario
+****** la aldea de Greenwood Village, en La selva de Ravenous Jungle
+
+***** Anfitrion
+****** Greghsius, el sabio
+******* descripcion 
+******** cientifico que vive en la jungla estudiando la vida
+******* sinopsis
+******** Elara tendra dificultades para encontrarlo porque ha desaparecido misteriosamente \n Elara lo busca porque tiene informacion relacionada con los amuletos magicos \n explicara a Elara sus teorias sobre la vida .
+******* objetivos
+******** no
+
+
+***** Enemigo
+****** Tenebrakhus, el brujo de la selva
+******* descripcion 
+******** brujo malvado que vive oculto en la selva camuflandose \n utiliza pociones para confundir las mentes de sus enemigos
+******* sinopsis
+******** confundira la mente de Elara haciendo que entre en un estado de alucinacion onirico, \n en donde se encontrara con amigos y seres queridos que la interrogaran insistentemmente \n intentando averiguar adonde esta el codex \n (el trance onirico se relata en una historia con el estilo de "La dimension desconocida")
+******* objetivos
+******** averiguar la localizacion del codex \n conseguir el amuleto
+
+***** Otros personajes
+****** kuiqenhus, el sacerdote y guia espiritual de la aldea
+******* sinopsis
+******** ayudara a Elara en la investigacion
+
+****** Brek, cientifico amigo de Greghsius
+******* sinopsis
+******** habia mantenido una fuerte discusion con Greghsius \n es el principal sospechoso
+
+****** Gerthru, vecina de Greghsius que le ayuda en el trabajo de laboratorio
+******* sinopsis
+******** Elara la interrogara \n es la ultima persona en haber visto a Greghsius 
+
+
+***** Elara \n objetivos para el siguiente capitulo (salida)
+****** n
+***** Plot
+
+
+
+
+@endmindmap
