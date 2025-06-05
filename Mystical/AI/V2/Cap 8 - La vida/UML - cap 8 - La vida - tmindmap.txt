@@ -13,13 +13,19 @@
 ***** Objetivos
 ****** -la vida como un unico individuo \n -la vida como un sistema de calculo \n -elementos funcionales de la vida, componentes del sistema \n -presentacion del experimento que se realizara en los siguientes capitulos
 
-***** Ensenanzas
-****** la vida es una inteligencia inmortal que habita el universo
 
 **** Aventura
-
 ***** Resumen
-****** Elara Debera descubrir el paradero de Greghsius actuando como detective en una investigacion al estilo del film noir.
+****** Elara Debera descubrir el paradero de Greghsius actuando como detective en una investigacion (estilo film noir).
+***** Preguntas
+****** Que es la vida?
+***** Respuestas
+****** kuiqenhus
+******* La lluvia, al tocar la tierra, crea plantas y ranas magicamente. \n Y despues, la magia de el viento, la luna y el sol los transforma en todas las criaturas que ves. \n Siempre han existido y siempre existiran porque cuando ya no haya, volvera a llover. \n El Espiritu de la lluvia las crea para que la tierra sea un lugar bonito. \n La vida no tiene dueño, ni principio, ni fin; solo existe, porque debe existir. \n Y las criaturas solo son, porque deben ser.
+****** Greghsius 
+******* 1- la vida es una sola criatura inteligente \n2- la vida es una inteligencia inmortal que habita el universo
+***** Ensenanzas
+****** la vida es una inteligencia inmortal que habita el universo
 
 ***** Elara \n objetivos para este capitulo (entrada)
 ****** -conocer la verdad que hay detras de los amuletos magicos \n -encontrar transporte o informacion para llegar a Rainy Valley
@@ -32,8 +38,7 @@
 ******** cientifico que vive en la jungla estudiando la vida
 ******* sinopsis
 ******** Elara tendra dificultades para encontrarlo porque ha desaparecido misteriosamente \n Elara lo busca porque tiene informacion relacionada con los amuletos magicos \n explicara a Elara sus teorias sobre la vida .
-******* objetivos
-******** no
+
 
 
 ***** Enemigo
