@@ -69,8 +69,21 @@
 ****** n
 ***** Plot
 ****** 1- Hook - Resolucion
-******* Elara se hunde en el pantano en la oscuridad de la noche, \n pero cuando ya ha perdido la esperanza, \n una mano al sujeta fuertemente por el brazo y comienza a tirar. \n Elara es rescatada del pantano por Drhey, el ladron. \n Drhey la lleva en su caballo por el camino largo. \n Elara tendra que hacer varias escalas antes de llegar a Rainy Valley, pero es la forma mas segura de llegar. \n Elara se pregunta porque Omhistrine queria el amuleto. \n Drhey le dice que puede consultar al sabio, Greghsius, para obtener informacion acerca de los amuletos. \n Despues de salvar la vida de Elara y llevarla hasta Greenwood Village la opinion de Elara con respecto a Drhey cambia. \n Drhey es una buena persona, no parece que realmente sea un ladron, sino talvez un heroe. \n Elara y Drhey se convierten en buenos amigos. \n Se separan antes de llegar a Greenwood Village. \n Drhey continua su viaje hacia el oeste, mientras que Elara debe ir hacia el este.
+******* Elara se hunde en el pantano en la oscuridad de la noche, \n pero cuando ya ha perdido la esperanza, \n una mano al sujeta fuertemente por el brazo y comienza a tirar. \n Elara es rescatada del pantano por Drhey, el ladron. \n Drhey la lleva en su caballo por el camino largo. \n Elara tendra que hacer varias escalas antes de llegar a Rainy Valley, pero es la forma mas segura de llegar. \n Elara se pregunta porque Omhistrine queria el amuleto. \n Drhey le dice que puede consultar al sabio, Greghsius, para obtener informacion acerca de los amuletos. \n Despues de salvar la vida de Elara y llevarla hasta Greenwood Village la opinion de Elara con respecto a Drhey cambia. \n Drhey es una buena persona, no parece que realmente sea un ladron, sino talvez un heroe. \n Elara y Drhey se convierten en buenos amigos. \n Se separan al llegar a Greenwood Village. \n Drhey continua su viaje hacia el oeste, mientras que Elara debe ir hacia el este.
 
+****** 2- introduccion - (escenario - preguntas - tema)
+******* Greenwood Village
+******* La casa del profesor
+******* El sueno
+
+
+****** 3- background - flashback 
+
+
+****** 4- 
+
+
+****** n- Cliffhanger
 
 
 

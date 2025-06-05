@@ -17,11 +17,22 @@
 
 -----------------------------------------------
 
+plot:
+
+el sabio Greghsius ha desaparecido.
+Elara Debera resolver el misterio de su desaparicion.
+
+escenario: Greenwood Village es una aldea dentro de una selva desbordante de vida.
+
+otros personajes:
+- el sacerdote: 
+- el brujo de la selva:
+- el cientifico:
 
 
 
 
-hook:
+1- hook:
 Elara es rescatada del pantano por Drhey, el ladron.
 Drhey la lleva en su caballo por el camino largo. Elara tendra que hacer varias escalas antes de llegar a Rainy Valley, pero es la forma mas segura de llegar.
 Elara se pregunta porque Omhistrine queria el amuleto.
@@ -32,18 +43,87 @@ Elara y Drhey se convierten en buenos amigos.
 se separan antes de llegar a Greenwood Village. 
 Drhey continua su viaje hacia el oeste, mientras que Elara debe ir hacia el este.
 
-
-el escenario:
-Greenwood Village es una aldea dentro de una selva desbordante de vida.
+----------------
 
 
+2- - introduccion - (escenario - preguntas - tema)
+- Elara llega a Greenwood Village.
 
-el sabio Greghsius ha desaparecido.
-Elara Debera resolver el misterio de su desaparicion.
+Drhey y Elara bajaban por el camino montana abajo a lomos del caballo.
+a medida que se acercaban a la base de la montana la vegetacion se hacia mas espesa.
+El cielo comenzaba a despejarse y la luz de la luna hacia visible un paisaje desconocido para Elara.
+Nunca habia visto un lugar con tanta vegetacion.
+Los sonidos del ambiente Tambien eran desconocidos para ella.
+la selva parecia estar poblada por un sin fin de animales desconocidos.
+Drhey detuvo el caballo.
+Hemos llegado, dijo. Greenwood Village.
+Adonde esta la aldea?, pregunto Elara confundida.
+Bajo las plantas, respondio Drhey.
+El profesor Greghsius vive alli, dijo senalando hacia adelante.
+Esa es su casa.
+Elara todavia tardo un momento en verlo. Delante a menos de 10 metros algo que parecia una puerta asomaba entre arboles y arbustos.
+Elara bajo del caballo y camino dos pasos para confirmar lo que veia.
+se giro hacia Drhey, y entonces, el la miro con una sonrisa tranquila y dijo:
+Yo debo irme ahora. Espero volver a verte.
+Gracias, respondio Elara. Buena suerte, dijo despues a modo de despedida.
+Y Drhey se alejo en silencio, lentamente por el camino.
 
-otros personajes:
-- el sacerdote: 
-- el brujo de la selva:
-- el cientifico:
+
+- la casa del profesor
+
+Elara se acerco a la puerta.
+Era la puerta de una casa que habia sido cubierta por la vegetacion.
+Como si hubiera crecido tan rapido que no habian podido evitar que cubriera la casa por completo.
+la vegetacion parecia estar comiendose la casa.
+miro alrededor.
+y entonces vio otra puerta un poco mas lejos.
+y despues otra.
+empezaba a distinguirlas ahora.
+un pueblo entero, toda la aldea cubierta por la vegetacion. tragada por la selva.
+la vida aqui estaba fuera de control. desbocada.
+
+Golpeo la puerta, y la puerta se abrio.
+Hola, dijo.
+Empujo la puerta despacio para abrirla por completo.
+No habia luz ni movimiento, ni sonido dentro.
+la casa parecia vacia.
+Hola, hay alguien?, dijo en voz mas alta.
+nadie respondio.
+
+dio un paso dentro de la casa, y otro.
+recorrio la sala, el dormitorio, la cocina.
+no habia nadie.
+Decidio esperar.
+Y se durmio.
+habia sido un largo dia.
+
+- el sueno
+
+y mientras estaba tumbada en el suelo de la sala, veia por la ventana como las plantas se movian, lentamente.
+querian entran, cubrirlo todo.
+y desde el suelo, oia las voces de los animales que se movian sobre los arboles, entre la maleza, por todas partes.
+la vida lo cubria todo aqui.
+y entonces comprendio.
+todo aquello estaba vivo.
+nunca lo habia visto asi.
+siempre habia pensado que ella estaba viva, y sus amigos, pero nunca habia pensado en todo lo demas.
+las plantas, y las criaturas que se alejan cuando nos acercamos, todo esta vivo.
+todas esas criaturas tienen sus vidas.
+y las ramas de los arboles entraron en la casa y lo cubrieron todo.
+primero el techo, depues el suelo, los muebles.
+Y vio, desde el suelo, como las criaturas de la selva habitaron sus ramas y la casa.
+y desde su posicion en el suelo, sin moverse, contemplo como la vida lo cubria todo.
+reclamaba su espacio.
+
+Y la pregunta resono dentro de su cabeza.
+Que esta pasando? Que es todo esto?
+Que es la vida?
+
+--------------------------------------------
+
+
+3- - background - flashback 
+
+
 
 
