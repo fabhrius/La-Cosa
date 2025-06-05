@@ -22,15 +22,19 @@
 
 
 hook:
-Elara es rescatada del pantano por el ladron, Drhey.
-Drhey la lleva en su caballo por el camino largo.
+Elara es rescatada del pantano por Drhey, el ladron.
+Drhey la lleva en su caballo por el camino largo. Elara tendra que hacer varias escalas antes de llegar a Rainy Valley, pero es la forma mas segura de llegar.
 Elara se pregunta porque Omhistrine queria el amuleto.
 Drhey le dice que puede consultar al sabio, Greghsius, para obtener informacion acerca de los amuletos.
-se separan antes de llegar a Timberway.
+Despues de salvar la vida de Elara y llevarla hasta Greenwood Village la opinion de Elara con respecto a Drhey cambia.
+Drhey es una buena persona, no parece que realmente sea un ladron, sino talvez un heroe.
+Elara y Drhey se convierten en buenos amigos.
+se separan antes de llegar a Greenwood Village. 
+Drhey continua su viaje hacia el oeste, mientras que Elara debe ir hacia el este.
 
 
 el escenario:
-Timberway es un pueblo dentro de una selva desbordante de vida.
+Greenwood Village es una aldea dentro de una selva desbordante de vida.
 
 
 

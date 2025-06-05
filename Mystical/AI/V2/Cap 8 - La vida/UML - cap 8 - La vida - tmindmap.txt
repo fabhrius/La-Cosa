@@ -15,20 +15,23 @@
 
 
 **** Aventura
+
 ***** Resumen
 ****** Elara Debera descubrir el paradero de Greghsius actuando como detective en una investigacion (estilo film noir).
+
 ***** Preguntas
 ****** Que es la vida?
 ***** Respuestas
 ****** kuiqenhus
 ******* La lluvia, al tocar la tierra, crea plantas y ranas magicamente. \n Y despues, la magia de el viento, la luna y el sol los transforma en todas las criaturas que ves. \n Siempre han existido y siempre existiran porque cuando ya no haya, volvera a llover. \n El Espiritu de la lluvia las crea para que la tierra sea un lugar bonito. \n La vida no tiene dueño, ni principio, ni fin; solo existe, porque debe existir. \n Y las criaturas solo son, porque deben ser.
 ****** Greghsius 
-******* 1- la vida es una sola criatura inteligente \n2- la vida es una inteligencia inmortal que habita el universo
+******* 1- la vida es una unica criatura \n2- la vida es una inteligencia inmortal que habita el universo
+
 ***** Ensenanzas
-****** la vida es una inteligencia inmortal que habita el universo
+****** 1- la vida es una unica criatura \n2- la vida es una inteligencia inmortal que habita el universo
 
 ***** Elara \n objetivos para este capitulo (entrada)
-****** -conocer la verdad que hay detras de los amuletos magicos \n -encontrar transporte o informacion para llegar a Rainy Valley
+****** 1-conocer la verdad que hay detras de los amuletos magicos \n 2-encontrar transporte o informacion para llegar a Rainy Valley
 ***** Escenario
 ****** la aldea de Greenwood Village, en La selva de Ravenous Jungle
 
@@ -39,8 +42,6 @@
 ******* sinopsis
 ******** Elara tendra dificultades para encontrarlo porque ha desaparecido misteriosamente \n Elara lo busca porque tiene informacion relacionada con los amuletos magicos \n explicara a Elara sus teorias sobre la vida .
 
-
-
 ***** Enemigo
 ****** Tenebrakhus, el brujo de la selva
 ******* descripcion 
@@ -48,7 +49,7 @@
 ******* sinopsis
 ******** confundira la mente de Elara haciendo que entre en un estado de alucinacion onirico, \n en donde se encontrara con amigos y seres queridos que la interrogaran insistentemmente \n intentando averiguar adonde esta el codex \n (el trance onirico se relata en una historia con el estilo de "La dimension desconocida")
 ******* objetivos
-******** averiguar la localizacion del codex \n conseguir el amuleto
+******** 1- averiguar la localizacion del codex \n 2- conseguir el amuleto
 
 ***** Otros personajes
 ****** kuiqenhus, el sacerdote y guia espiritual de la aldea
@@ -67,6 +68,8 @@
 ***** Elara \n objetivos para el siguiente capitulo (salida)
 ****** n
 ***** Plot
+****** 1- Hook - Resolucion
+******* Elara se hunde en el pantano en la oscuridad de la noche, \n pero cuando ya ha perdido la esperanza, \n una mano al sujeta fuertemente por el brazo y comienza a tirar. \n Elara es rescatada del pantano por Drhey, el ladron. \n Drhey la lleva en su caballo por el camino largo. \n Elara tendra que hacer varias escalas antes de llegar a Rainy Valley, pero es la forma mas segura de llegar. \n Elara se pregunta porque Omhistrine queria el amuleto. \n Drhey le dice que puede consultar al sabio, Greghsius, para obtener informacion acerca de los amuletos. \n Despues de salvar la vida de Elara y llevarla hasta Greenwood Village la opinion de Elara con respecto a Drhey cambia. \n Drhey es una buena persona, no parece que realmente sea un ladron, sino talvez un heroe. \n Elara y Drhey se convierten en buenos amigos. \n Se separan antes de llegar a Greenwood Village. \n Drhey continua su viaje hacia el oeste, mientras que Elara debe ir hacia el este.
 
 
 
