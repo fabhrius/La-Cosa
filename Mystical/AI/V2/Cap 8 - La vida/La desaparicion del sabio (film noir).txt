@@ -28,7 +28,7 @@ recorrio la casa lentamente, observando los detalles con la luz del dia.
 La casa No estaba abandonada. estaba limpia y ordenada, con excepcion de la sala, en donde habia algunos papeles por el suelo, y otros objetos visiblemente fuera de lugar, como si alguien hubiera estado buscando algo con mucha prisa.
 
 
-3- La mujer ayudante
+2- La mujer ayudante
 
 entonces una mujer entra por la puerta.
 se sorprende al ver a Elara en la casa.
@@ -37,19 +37,26 @@ su nombre es Rima, ayuda al profesor en su trabajo.
 dice estar preocupada porque el profesor ha desaparecido hace dos dias sin explicacion.
 comenta que el profesor solo abandona la casa para realizar estudios en la selva, pero solo en lugares concretos que ella conoce bien, y nunca se ausenta sin que ella lo sepa.
 
-"mira el estado en que esta la casa. todo esta revuelto. alguien ha entrado con seguridad y se ha llevado algo. algo ha pasado aqui", dice Rima.
+"mira el estado en que esta la casa. todo esta revuelto. alguien ha entrado con seguridad y se ha llevado algo. algo ha pasado aqui", dice Rima con preocupacion.
 
 afirma que es el momento de preocuparse. dos dias es mucho tiempo para desparecer en la selva. 
-dice que pedira ayuda a los vecinos para organizar la busqueda.
+dice que pedira ayuda a los vecinos para organizar una busqueda.
+"Cuando fue la ultima vez que has visto al profesor?", pregunto Elara.
+"en la manana del sabado, durante el desayuno. Vengo cada dia a preparar las comidas. Y me quedo a comer con el mientras me cuenta los detalles de su trabajo.
+Despues del desayuno fui hasta el rio para poner trampas para los peces. Volvi antes del mediodia para preparar su almuerzo, pero el ya no estaba.", explico Rima.
+"En que estaba trabajando el profesor?", pregunto Elara.
+"Estaba muy exitado estos dias, trabajaba en una nueva teoria acerca de la vida que he creado discusiones y altercados entre los vecinos de la aldea.
+Descubrió algo importante sobre la conciencia colectiva de la vida, y estaba escribiendo un manifiesto.", respondio Rima, sugiriendo que su trabajo podria haberlo puesto en peligro.
+
 Elara se compromete a formar parte del equipo de busqueda.
+"Por favor, avisame cuando se inicie la busqueda. Yo estare aqui, por si el profesor vuelve.", dijo Elara.
+Rima sale de la casa a toda prisa.
 
-Rima sale de la casa preocupada.
-
-2- El sacerdote
+3- El sacerdote
 
 Elara sale al exterior de la casa.
 En ese momento un hombre se acerca caminando.
-Es  El sacerdote local, Kuiqenhus, hombre mayor, amable y de voz suave.
+Es  El sacerdote local, Kuiqenhus, un hombre mayor, amable y de voz suave.
 
 Saluda a Elara, se presenta y se interesa por ella. 
 Elara pregunta por el profesor, le comenta que parece haber desaparecido misteriosamente.
@@ -57,8 +64,8 @@ Elara pregunta por el profesor, le comenta que parece haber desaparecido misteri
 Kuiqenhus no se preocupa.
 "tranquila, seguramente aparecera pronto. debe estar estudiando alguna planta como siempre", dice, restando importancia a la desaparicion del profesor.
 
-"Rima, su ayudante, cree que al profesor le ha pasado algo.
-y Esta organizando un equipo de busqueda con los vecinos de la aldea", comenta Elara.
+"Rima, su ayudante, cree que al profesor le ha pasado algo y esta organizando un equipo de busqueda con los vecinos de la aldea", comenta Elara.
+"Oh. Eso piensa? Mmm. Bueno, dile si la ves que cuente conmigo para la busqueda.", dijo Kuiqenhus, y sin decir mas se alejo caminando.
 
 
 
@@ -71,6 +78,60 @@ y Esta organizando un equipo de busqueda con los vecinos de la aldea", comenta E
 
 4- el cientifico amigo
 
+Elara decidio dar una vuelta alrededor de la casa.
+en el suelo junto a la ventana de la parte trasera de la casa encontro huellas. pisadas.
+las huellas llegaban en un camino claro hasta la ventana, una sola persona, habia muchas huellas justo debajo de la ventana, y despues un camino simple de huellas que continuaban en la otra direccion.
+alguien se habia acercado, habia estado un momento observando por la ventana hacia el interior, y despues continuo girando alrededor dela casa, posiblemente hacia la entrada.
+las huellas eran claras, posiblemente se habrian grabado en un dia de lluvia.
+
+Fue entonces,cuando estaba mirando por la ventana hacia el interior de la casa cuando vio a un hombre entrar en la casa furtivamente.
+se ocultaba, miraba alrededor sospechosamente.
+se movio rapidamente hacia el salon, cogio un cuaderno que estaba sobre la mesa, comenzo a hojearlo con nerviosismo.
+Parecia estar buscando algo.
+entonces por la puerta entra Rima.
+
+el hombre se sobresalta, deja el cuaderno rapidamente sobre la mesa, intenta disimular, se gira rapidamente hacia la puerta.
+"Hola Rima", saluda.
+"Que haces aqui?", pregunta ella.
+"He venido a hablar con Greghsius", dijo con nerviosismo.
+"No se adonde esta Greghsius.", respondio Rima, "hace dos dias que no se nada de el."
+El hombre parecio no escucharla.
+"Dile que he venido.", dijo, y salio rapidamente de alli.
+
+Elara entro en la casa para reunirse con Rima.
+"Quien era ese hombre?", pregunto.
+"Brek, un amigo del profesor.", respondio Rima.
+"Crees que Brek podria tener motivos para hacer desaparecer al profesor?", pregunto Elara.
+"Bueno, Brek estaba muy disgustado con las teorias del profesor, pero no creo que la desaparicion del profesor tengo relacion con Brek, no seria capaz.", afirmo Rima.
+"Muy disgustado dices? En que sentido?", pregunto Elara.
+"Brek Tambien es un cientifico, trabajan en areas relacionadas, y temia que las teorias del profesor perjudicaran su trabajo de investigacion. Discutian mucho ultimamente. La ultima vez fue hace una semana. 
+Brek estaba muy disgustado y levantaba la voz para decir cosas acerca del trabajo del profesor.
+Cosas como que el profesor estaba obsesionado con su trabajo y que se estaba volviendo peligroso para si mismo y para otros.
+Se fue dando un portazo.
+Ese fue el ultimo dia que he visto a Brek por aqui.
+"
+
+
+5- analisis de la escena del crimen
+
+algo fuera de lugar?
+la puerta del laboratorio esta abierta. El profesor no permite que nadie entre alli. nunca nadie mas que el profesor ha entrado alli, y siempre esta cerrado con llave.
+
+falta algo?
+falta el manifiesto en el que estaba trabajando, con la informacion completa de su teoria sobre la vida.
+un cuaderno grueso con tapas rojas.
+
+
+
+
+
+6- el templo oculto
+
+- la vida segun Kuiqenhus
+- lista de sospechosos segun Kuiqenhus
+
+
+7- busqueda en la selva
 
 
 5- el brujo de la selva
@@ -84,7 +145,7 @@ y Esta organizando un equipo de busqueda con los vecinos de la aldea", comenta E
 
 8- la vida
 
-9- el amuleto
+9- la leyenda del amuleto magico
 
 
 10- continua el viaje
