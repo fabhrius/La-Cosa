@@ -69,13 +69,6 @@ Kuiqenhus no se preocupa.
 
 
 
-    • El sacerdote local, Ardeon, hombre mayor, amable y de voz suave, ofrece su ayuda. Dice estar preocupado: “Nael había cruzado ciertos límites. Algunos conocimientos no deben ser liberados.”
-    • Elara toma nota de su tono: paternal, pero algo evasivo.
-
-
-
-
-
 4- el cientifico amigo
 
 Elara decidio dar una vuelta alrededor de la casa.
@@ -101,12 +94,17 @@ El hombre parecio no escucharla.
 Elara entro en la casa para reunirse con Rima.
 "Quien era ese hombre?", pregunto.
 "Brek, un amigo del profesor.", respondio Rima.
-"Crees que Brek podria tener motivos para hacer desaparecer al profesor?", pregunto Elara.
-"Bueno, Brek estaba muy disgustado con las teorias del profesor, pero no creo que la desaparicion del profesor tengo relacion con Brek, no seria capaz.", afirmo Rima.
+
+"y sabes que contiene el cuaderno que esta sobre la mesa?", pregunto Elara senalando el cuaderno que Brek estaba revisando.
+"Es el cuaderno de notas del profesor, el borrador de sus ideas, lo utiliza continuamente, nunca se separa de el, cuando sale de la casa lo lleva siempre con el.", respondio Rima.
+
+"Crees que Brek podria estar relacionado con la desaparicion del profesor?", pregunto Elara.
+"Bueno, Brek estaba muy disgustado con las teorias del profesor, pero no creo que la desaparicion del profesor tengo relacion con Brek.", afirmo Rima empezando a dudar.
+
 "Muy disgustado dices? En que sentido?", pregunto Elara.
 "Brek Tambien es un cientifico, trabajan en areas relacionadas, y temia que las teorias del profesor perjudicaran su trabajo de investigacion. Discutian mucho ultimamente. La ultima vez fue hace una semana. 
-Brek estaba muy disgustado y levantaba la voz para decir cosas acerca del trabajo del profesor.
-Cosas como que el profesor estaba obsesionado con su trabajo y que se estaba volviendo peligroso para si mismo y para otros.
+Brek estaba muy disgustado y levantaba la voz para expresar su desacuerdo con el trabajo del profesor, hasta peder la compostura.
+Dijo cosas fuera de lugar, como que el profesor estaba obsesionado con su trabajo y que se estaba volviendo peligroso para si mismo y para otros.
 Se fue dando un portazo.
 Ese fue el ultimo dia que he visto a Brek por aqui.
 ", dijo Rima.
@@ -120,15 +118,16 @@ Elara pregunta, Rima responde.
 - tiene enemigos el profesor?
 Rima responde: no que yo sepa. Es un buen hombre que ayuda a la comunidad. Nadie podria tener algo contra el, excepto quizas por sus teorias. Aunque no creo que alguien quisiera hacerle dano solo por sus ideas.
 
-- algo que no pertenece a este lugar?
+- ves algo que no pertenece a este lugar?
 en el salon, un extrano colgante de plumas y trozos de cuero con simbolos grabados. Rima asegura que no estaba alli ayer. Tiene el aspecto de un fetiche de la antigua magia trival, posiblemente pertenezca al brujo de la selva.
 
--algo fuera de lugar?
-Rima afirma que : la puerta del laboratorio esta abierta. El profesor no permite que nadie entre alli. nunca nadie mas que el profesor ha entrado alli, y siempre esta cerrado con llave.
+-ves algo fuera de lugar?
+Rima senala que : la puerta del laboratorio esta abierta. El profesor no permite que nadie entre alli. nunca nadie mas que el profesor ha entrado alli, y siempre esta cerrado con llave.
 
 -falta algo?
 Rima afirma que: falta el manifiesto en el que estaba trabajando con la informacion completa de su teoria sobre la vida.
-un cuaderno grueso con tapas rojas.
+un cuaderno grueso con tapas rojas. Tampoco veo ninguno de sus manuscritos con la informacion de su trabajo de investigacion sobre la vida. El proyecto completo ha desaparecido.
+Las mujeres lo buscan por toda la casa, incluido el laboratorio para asegurarse. Los manuscritos no estan.
 
 - elementos que pueden ser pistas?
 dentro del laboratorio una taza de cafe se ha volcado en la mesa derramando un poco sobre el suelo. junto a la mancha en el suelo la huella de un zapato.
@@ -141,7 +140,7 @@ dentro del laboratorio una taza de cafe se ha volcado en la mesa derramando un p
 - al igual que toda la aldea, el templo esta cubierto por la vegetacion de tal modo que solo aquellos que saben exactamente adonde esta pueden encontrarlo.
 - el sacerdote no esta en el templo cuando llegan.
 
-- Elara explora el templo, se interesa por los grabados en los muros. simbolos, oraciones antiguas, profecias, relatos. encuentra una escalera que lleva a una gran sala en el subsuelo con mas grabados en la piedra. uno de los grabados parece ser el mapa de un laberinto, quizas parte de un antiguo ritual.
+- Elara explora el templo, se interesa por los grabados en los muros, que cubren todo el templo con una extraordinaria coleccion de simbolos, oraciones antiguas, profecias, relatos y ensenanzas. encuentra una escalera que lleva a una gran sala en el subsuelo con mas grabados en la piedra. uno de los grabados parece ser el mapa de un laberinto, quizas parte de un antiguo ritual.
 - el sacerdote llega cuando Elara esta abandonando el templo.
 - le invita a sentarse y a relajarse, prepara una infusion de hiervas, conversan y comen galletas.
 congenian inmediatamente, Kuiqenhus es un gran orador y un politico eficaz. su trato es agradable, relajado, paternal.
@@ -151,8 +150,6 @@ pregunta a Elara si tiene alguna pregunta sobre la existencia que no haya encont
 Y Elara pregunta: en un lugar desbordante de vida como este, tal vez hayas podido encontrar la respuesta, dime, 
 que es la vida?
 - la vida segun Kuiqenhus
-
-El mago sacerdote inclinó la cabeza, y su voz reverbero como el eco de un trueno atrapado entre los pilares del mundo.
 
 "La vida es lo que debe ser, porque así lo ha susurrado el Espíritu de la Lluvia en los pliegues invisibles del viento. Nada puede alterar su curso, como la sombra de la luna no puede tocar el fuego ni las piedras pueden discutir con el río.
 Es un ciclo que danza con el pulso infinito de las estrellas y despierta en el latido de los hongos que crecen en la madera olvidada. 
@@ -169,35 +166,56 @@ El silencio los envuelve.
 Despues de un rato, Elara pregunta:
 "y que piensas sobre las teorias del profesor acerca de la vida?"
 
-
+"pobre Greghsius. Sus teorias? creo que no pueden ser tomadas seriamente. van en contra de todo lo que nos han ensenado nuestros ancestros. han cruzado el limite de lo prohibido. y en mi opinion son el producto de una mente enferma. creo que el pobre Greghsius ha perdido la razon.
+por eso no me ha sorprendido su desaparicion. el pobre podria estar perdido en la selva sin saber siquiera quien es.
+"
 
 un momento despues, Kuiqenhus coge la ultima galleta, la parte en dos, ofrece la mitad a Elara y pregunta:
-"sabes algo del profesor?"
+"has sabido algo mas de el?, ha vuelto ya a la casa?"
 
 "todavia no ha vuelta a la casa. he venido para preguntar si querias participar en la busqueda.
 los vecinos ya lo esta buscando en los alrededores de la aldea.", dijo Elara.
 "por supuesto, es mejor salir cuanto antes.", dijo Kuiqenhus.
-
+"en ese caso nuestra zona de busqueda es desde el templo hacia el norte hasta el rio, y desde el templo hacia el oeste hasta la base de las montanas durmientes. nos separaremos, tu ve hacia las montanas y yo ire hacia rio. Nos reuniremos nuevamente aqui a mediodia.", respondio Elara.
 
 
 "sabes quien podria tener interes en la desaparicion del profesor?", pregunto Elara.
+"no creeras que alguien lo ha hecho desaparecer, verdad?", pregunto Kuiqenhus.
+y se respondio a si mismo al instante, "no, claro que no".
+"Aunque tal vez Brek, no se llevaba muy bien con el profesor ultimamente y les he oido discutir", agrego.
+"sus teorias absurdas estaban molestando a mucha gente." 
+
+"Reconoces este objeto?", pregunto Elara mostrandole el fetiche de cuero y plumas que habia encontrado en la casa del profesor.
+"mmm, si. He visto cosas como esa antes.
+Creo que podria pertenecer a Tenebrakhus, el brujo de la selva. Un hombre peligroso.
+De donde has sacado eso?", respondio Kuiqenhus.
+"Estaba en la casa del profesor", respondio Elara.
+"Oh. Creo que has encontrado al culpable. Tenebrakhus es impredecible. Podria hacer cualquier cosa. Algunos dicen que no es humano.", respondio el sacerdote.
+"Sabes adonde puedo encontrarlo?", pregunto Elara.
+"Ten cuidado. Es extremadamente peligroso. Se mueve por la selva como un animal salvaje. Es invisible. Es parte de la selva, como un espiritu. Muy pocos han podido verle. Los demas solo podemos sentir su presencia. Algunos dicen que es mitad hombre y mitad planta. Es malvado y tiene grandes poderes magicos. Puede echizar tu mente. He oido de viajeros que dicen haberle visto en la region cercana al rio. Aunque si vas por alli no le encontraras. El te encontrara a ti.", dijo Kuiqenhus.
 
 
 "y adonde estabas tu el sabado por la manana entre las 9 y las 12?", pregunto Elara.
+"Oh, vamos... No creeras que yo...", dijo Kuiqenhus, sin responder a la pregunta.
+"No, claro que no", interrumpio Elara.
+"Pero tener una idea precisa de lo que estaba sucediendo en la aldea en aquel momento nos ayudara a encontrar al profesor", explico Elara con seguridad.
+"Dime, que hacias tu en aquel momento?", insistio.
 
-""
+"bueno. dejame pensar. no lo recuerdo bien. creo que habia ido a pescar al rio", respondio Kuiqenhus sin dar mas detalles.
 
-- Elara habla de la busqueda del profesor
-- Elara interroga al sacerdote
-- lista de sospechosos segun Kuiqenhus
-- hablan del brujo de la selva, quien es, como encontrarlo
-- se separan para iniciar la busqueda del profesor
+"es el momento de iniciar la busqueda", dijo Elara poniendose en pie.
+"caminare hasta el rio. Nos reuniremos nuevamente aqui dentro de una hora.", agrego.
+
+El sacerdote la acompano hasta la entrada del templo, y alli se separaron.
+
+
+
 
 
 7- busqueda en la selva
 
 
-5- el brujo de la selva
+8- el brujo de la selva
 
 
 algo se movio delante de Elara entre la maleza. Un animal? El profesor?
@@ -220,7 +238,16 @@ al cabo de un rato encontro una casa, posiblemente de un granjero, posiblemente 
 llamo a la puerta.
 
 
-6- reunion con todos los sospechosos para desvelar el culpable
+9- insertar relato aqui ****** La casa en la selva (dimension desconocida).odt
+
+
+10- LABORATORIO
+
+
+11- Elara vuelve a la aldea
+
+
+12- reunion con todos los sospechosos para desvelar el culpable
 
 
 7- el profesor aparece
