@@ -13,6 +13,31 @@ lab objetivos:
 - el individuo como contenedor de un bloque de memoria
 - ciclo de vida: un conjunto reducido de instrucciones
 
+
+
+objetivo Elara:
+
+(entrada)
+
+- respuestas sobre por qué la vida se divide en seres separados
+- porque la vida crea individuos?
+- cual es la function del individuo?
+
+(salida)
+
+
+
+
+
+
+respuesta mistica:
+
+
+
+
+
+
+
 ensenanzas:
 
 - los individuos no viven independientemente
