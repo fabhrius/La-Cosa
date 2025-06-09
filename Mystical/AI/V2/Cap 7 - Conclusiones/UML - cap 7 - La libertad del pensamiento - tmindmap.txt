@@ -1,0 +1,20 @@
+@startmindmap
+
+
+* Elara y el codice perdido
+
+** Acto 2
+
+
+*** cap 7 - Conclusiones - \n La libertad de pensamiento
+**** Lab: Libertad de pensamiento y percepcion de la realidad
+**** Aventura
+***** Elara \n objetivos de entrada
+****** n
+***** Anfitrion
+***** Enemigo
+***** Elara \n objetivos de salida
+****** n
+
+
+@endmindmap

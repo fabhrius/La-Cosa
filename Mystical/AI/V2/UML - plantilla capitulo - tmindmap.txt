@@ -1,0 +1,75 @@
+@startmindmap
+
+* Elara y el codice perdido
+
+** Acto 3
+
+*** cap 9 - Individuos
+
+**** Lab: 
+***** Objetivos
+****** n
+***** Preguntas
+****** Que ?
+***** Respuestas
+****** Personaje 1
+***** Ensenanzas
+****** 1- l
+***** Sinopsis:
+****** n
+
+
+
+
+**** Aventura
+***** Resumen
+****** E
+
+***** Preguntas
+****** Que ?
+
+***** Respuestas
+****** Personaje 1
+******* L
+****** Personaje n
+******* 1
+
+***** Ensenanzas
+****** 1- l
+
+***** Elara \n objetivos de entrada
+****** n
+***** Elara \n objetivos de salida
+****** n
+
+***** Anfitrion
+******* descripcion 
+******** c
+****** Sinopsis:
+******* E
+****** Preguntas
+******* "que ?"
+****** Respuestas
+******* E
+
+***** Enemigo
+******* descripcion 
+******** c
+****** Sinopsis:
+****** Objetivo:
+
+***** Otros personajes
+****** nombre personaje
+******* descripcion 
+******** c
+******* sinopsis
+******** a
+
+***** Plot
+****** 1 - Hook
+******* E
+****** n - Cliffhanger
+******* E
+
+
+@endmindmap
