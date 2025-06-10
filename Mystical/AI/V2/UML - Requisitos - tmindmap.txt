@@ -1,5 +1,7 @@
 @startmindmap
 
+
+
 * Libro
 
 ** Titulo
@@ -7,7 +9,7 @@
 
 ** Descripcion general
 *** Guion principal 
-**** Describe la travesía de Elara, la protagonista, en su búsqueda de un libro mágico, el códice perdido, \n el cual contiene todo el conocimiento y todas las respuestas, \n entre ellas las respuestas a las preguntas más profundas de la existencia. \n En su viaje, Elara atravesara un universo fantastico plagado de peligros, \n y seran su inteligencia, su destreza fisica y su capacidad de supervivencia los elementos que le permitiran cumplir con su mission y llegar a destino.
+**** Describe la travesía de Elara en su búsqueda de un libro mágico que contiene todo el conocimiento y todas las respuestas, \n entre ellas las respuestas a las preguntas más profundas de la existencia. \n En su viaje, Elara atravesara un universo fantastico plagado de peligros, \n y seran su inteligencia, su destreza fisica y su capacidad de supervivencia los elementos que le permitiran cumplir con su mission y llegar a destino.
 
 *** Elementos esenciales del guion
 
@@ -56,7 +58,7 @@
 **** En las secciones científicas del laboratorio, haciendo que los conceptos sean comprensibles.
 
 ** Publico objetivo
-*** público adulto de diferentes edades y niveles de conocimiento, \n interesado en cuentos de fantasía con profundidad filosófica y científica. \n La narrativa busca entretener, enseñar e inspirar.
+*** público adulto de diferentes edades y niveles de conocimiento, interesado en cuentos de fantasía con profundidad filosófica y científica. \n La narrativa busca entretener, enseñar e inspirar.
 
 ** Estructura general
 
@@ -119,6 +121,67 @@
 
 
 ** Estructura interna de los capitulos
+
+*** Objetivos
+**** El viaje de Elara en la busqueda de respuestas avanza a traves de El Reino de Lluviara. \n Elara se encuentra en un escenario diferente y se analiza un tema diferente. \n se relata un cuento unitario, una historia que empieza y termina, como un libro dentro de una coleccion.
+
+
+*** Secciones
+
+**** 1. Hook (Apertura)
+***** Propósito
+****** Capturar la atención del lector desde el inicio. 
+***** Contenido
+****** Resolución del cliffhanger del capítulo anterior, donde Elara supera un peligro mortal. \n La aventura continúa con un inicio impactante o intrigante.
+
+
+**** 2. Introducción del Tema
+***** Propósito
+****** Presentar el escenario y el tema central del capítulo.
+***** Contenido
+****** Descripción del entorno donde se desarrolla el capítulo (un lugar único en cada ocasión). \n Introducción de la pregunta existencial o el tema a explorar.
+
+
+**** 3. Background
+***** Propósito
+****** Proporcionar contexto o antecedentes relevantes.
+***** Contenido
+****** Flashback donde Elara recuerda situaciones o eventos que enriquecen la narrativa o explican los sucesos actuales.
+
+
+**** 4. El Anfitrión
+***** Propósito
+******  Avanzar la trama y explorar el tema desde una perspectiva mística.
+***** Contenido
+****** Introducción de un nuevo personaje (el anfitrión), quien conversa con Elara sobre el tema del capítulo. \n El anfitrión aporta respuestas parciales o insights místicos a las preguntas de Elara.
+
+
+**** 5. Misticismo e Integración Científica
+***** Propósito
+****** Combinar elementos místicos y científicos para enriquecer el análisis del tema.
+***** Contenido
+****** Uso de metáforas o elementos fantásticos que expliquen conceptos científicos de manera accesible. \n Finaliza con un nuevo cliffhanger que mantiene el interés del lector antes del laboratorio.
+
+
+**** 6. Laboratorio
+***** Propósito
+****** Explorar científicamente el tema del capítulo. 
+***** Contenido
+****** Ensayo científico independiente de la narrativa de Elara. \n Revisión de ideas científicas y explicación de conceptos que se relacionan con el tema del capítulo.
+
+
+**** 7. Profundidad Emocional y Filosófica
+***** Propósito
+****** Resolver el cliffhanger previo al laboratorio y aportar una conclusión mística al "cuento unitario."
+***** Contenido
+****** Resolución del conflicto narrativo. \n Reflexión emocional y filosófica sobre la lección aprendida. \n Momento de tranquilidad, la historia parece estar llegando a un final feliz. \n La historia da un giro inesperado y la situacion de Elara vuelve a complicarse.
+
+
+**** 8. Cliffhanger o Avance
+***** Propósito
+****** Dejar al lector en suspenso para garantizar el interés en el próximo capítulo.
+***** Contenido
+****** Elara se pone en marcha nuevamente para continuar su viaje. \n Elara enfrenta un nuevo peligro mortal aparentemente insuperable. \n El capítulo concluye abruptamente, dejando al lector en expectativa.
 
 
 
