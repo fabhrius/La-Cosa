@@ -59,7 +59,68 @@
 *** público adulto de diferentes edades y niveles de conocimiento, \n interesado en cuentos de fantasía con profundidad filosófica y científica. \n La narrativa busca entretener, enseñar e inspirar.
 
 ** Estructura general
+
+*** Acto 1: La Búsqueda de la Verdad (Introducción)
+**** Descripcion
+***** Presenta personajes, localización y preguntas existenciales.
+**** Capitulos
+***** Cap. 1: El libro.  
+***** Cap. 2: Elara y la montaña.  
+
+*** Acto 2: La Búsqueda de Respuestas (Primeras Ideas)
+**** Descripcion
+***** Explora conceptos como los monstruos, la fe, el amor y la magia.
+**** Capitulos
+***** Cap. 3: Monstruos.  
+***** Cap. 4: La fe.  
+***** Cap. 5: El amor.  
+***** Cap. 6: La magia.  
+***** Cap. 7: Primeras conclusiones.  
+
+*** Acto 3: La Vida como un Sistema Inteligente (Simulación y Componentes)
+**** Descripcion
+***** Introduce el ADN, la reproducción, y el sistema en funcionamiento.
+**** Capitulos
+***** Cap. 8: La vida.  
+***** Cap. 9: Individuos como componentes. 
+***** Cap. 10: El ADN.  
+***** Cap. 11: Reproducción.       
+***** Cap. 12: El sistema en funcionamiento.  
+
+*** Acto 4: Análisis (Características del Sistema) 
+**** Descripcion
+***** Analiza la eficiencia, fiabilidad, potencia, coste y otras características del sistema.  
+**** Capitulos
+***** Cap. 13: Eficiencia.  
+***** Cap. 14: Fiabilidad.  
+***** Cap. 15: Potencia.  
+***** Cap. 16: Coste.  
+***** Cap. 17: Redundancia.  
+***** Cap. 18: Poda.  
+
+*** Acto 5: Más Allá (Lo Trascendente)
+**** Descripcion  
+***** Reflexiona sobre la inteligencia creadora, la vida eterna, y el origen de la vida. 
+**** Capitulos 
+***** Cap. 19: La inteligencia creadora.  
+***** Cap. 20: El Espíritu.  
+***** Cap. 21: La vida eterna.  
+***** Cap. 22: El origen de la vida.  
+
+*** Acto 6: Conclusiones
+**** Descripcion 
+***** Cierra el viaje con reflexiones sobre la realidad, lo trascendente y la paz interior.
+**** Capitulos
+***** Cap. 23: Vuelta a la realidad.  
+***** Cap. 24: Lo trascendente.  
+***** Cap. 25: La paz interior.  
+
+
+
+
 ** Estructura interna de los capitulos
+
+
 
 
 
