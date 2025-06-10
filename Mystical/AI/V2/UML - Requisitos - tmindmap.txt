@@ -7,7 +7,7 @@
 
 ** Descripcion general
 *** Guion principal 
-**** Describe la travesía de Elara, la protagonista, en su búsqueda de un libro mágico, el códice perdido, el cual contiene todo el conocimiento y todas las respuestas, entre ellas las respuestas a las preguntas más profundas de la existencia. \n En su viaje, Elara atravesara un universo fantastico plagado de peligros, y seran su inteligencia, su destreza fisica y su capacidad de supervivencia los elementos que le permitiran cumplir con su mission y llegar a destino.
+**** Describe la travesía de Elara, la protagonista, en su búsqueda de un libro mágico, el códice perdido, \n el cual contiene todo el conocimiento y todas las respuestas, \n entre ellas las respuestas a las preguntas más profundas de la existencia. \n En su viaje, Elara atravesara un universo fantastico plagado de peligros, \n y seran su inteligencia, su destreza fisica y su capacidad de supervivencia los elementos que le permitiran cumplir con su mission y llegar a destino.
 
 *** Elementos esenciales del guion
 
@@ -15,7 +15,7 @@
 ***** Nombre
 ****** Elara
 ***** Descripcion
-****** edad 25, atlética, inteligente, independiente e intrépida. \n Motivada por encontrar respuestas a preguntas existenciales sobre el propósito de la vida. \n Emprende un viaje lleno de aventuras, aprendizaje, experiencias y peligros. 
+****** edad 25, atlética, inteligente, independiente e intrépida. \n Motivada por encontrar respuestas a preguntas existenciales sobre el propósito de la vida.
 
 **** El libro
 ***** Nombre
@@ -24,10 +24,10 @@
 ****** libro mágico que contiene todo el conocimiento y todas las respuestas. \n Se perdió siglos atras, y su existencia es incierta (realidad o leyenda). 
 
 **** El viaje
-***** Elara recorre el reino de Lluviara, un pais en donde abunda la magia, explorando lugares místicos y fantásticos que combinan realismo y magia, y conociendo personajes que le ayudan, desafían o enseñan.  
+***** Elara recorre el reino de Lluviara, un pais en donde abunda la magia, \n explorando lugares místicos y fantásticos que combinan realidad y fantasia, \n conociendo personajes que le ayudan, desafían, combaten o enseñan.  
 
 **** Localizacion
-***** Lluviara, un antiguo reino en una isla desconocida y aislada del mundo. \n Cuya sociedad está organizada en pequeñas aldeas que valoran la amistad, el conocimiento, el trabajo y el respeto mutuo, \n y cuya poblacion incluye magos, brujos, hechiceros, sacerdotes, cientificos, campesinos, pastores, artistas, comerciantes, entre otros. \n Y que profesa culto a una religion en donde la divinidad es  El Espíritu de la Lluvia, protector y guía de Lluviara y sus habitantes, creador de toda la vida sobre la tierra.
+***** Lluviara, un antiguo reino en una isla desconocida aislada del mundo. \n Cuya sociedad está organizada en pequeñas aldeas que valoran la amistad, el conocimiento, el trabajo y el respeto mutuo, \n y cuya poblacion incluye magos, brujos, hechiceros, sacerdotes, cientificos, campesinos, pastores, artistas, comerciantes, herreros, artesanos, entre otros. \n Y que profesa culto a una religion en donde la divinidad es  El Espíritu de la Lluvia, protector y guía de Lluviara y sus habitantes, creador de toda la vida sobre la tierra.
 
 **** Tiempo
 ***** Época medieval
@@ -35,10 +35,29 @@
 
 
 ** Estilo Narrativo
+*** combina elementos de los cuentos tradicionales con \n una narrativa moderna y rica en detalles
+**** Descriptivo y Visual
+***** Uso de descripciones detalladas para crear escenarios fantásticos y atmósferas inmersivas. \n Metáforas y simbolismos que añaden una capa de significado a los paisajes y eventos.
+**** Fluido y Natural
+***** Prosa clara y armoniosa que fluye de manera natural. \n Diálogos que reflejan las personalidades de los personajes y sus perspectivas sobre los temas tratados.  
+**** Místico y Poético
+***** Incorporación de frases místicas que evocan la antigüedad, como si provinieran de textos sagrados o proverbios. \n Ritmo cadencioso en las secciones introspectivas, casi lírico en ocasiones. 
+**** Intercalación de Ciencia y Fantasía
+***** El estilo mezcla la lógica científica con elementos de fantasía, \n creando una narrativa híbrida donde la magia y la ciencia coexisten y se complementan. \n Se utilizan alegorías para explicar conceptos científicos \n de manera que encajen naturalmente en el contexto de la historia.
 
-** Tono
+** Tono Narrativo
+*** místico, reflexivo y aventurero
+**** con una mezcla de emociones que van desde la intriga y la curiosidad hasta la serenidad y el asombro. \n Se busca mantener un equilibrio entre lo épico y lo íntimo, destacando los momentos de peligro, descubrimiento y aprendizaje de la protagonista. 
+*** intenso y dinámico
+**** En las escenas de acción y peligro, transmitiendo urgencia y emoción.
+*** profundo y contemplativo
+**** En las conversaciones con el anfitrión o en los momentos de reflexión, invitando a los lectores a pensar en preguntas existenciales. 
+*** didáctico pero accesible
+**** En las secciones científicas del laboratorio, haciendo que los conceptos sean comprensibles.
 
 ** Publico objetivo
+*** público adulto de diferentes edades y niveles de conocimiento, \n interesado en cuentos de fantasía con profundidad filosófica y científica. \n La narrativa busca entretener, enseñar e inspirar.
+
 ** Estructura general
 ** Estructura interna de los capitulos
 
