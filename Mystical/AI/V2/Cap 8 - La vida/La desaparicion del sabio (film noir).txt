@@ -30,20 +30,21 @@ La casa No estaba abandonada. estaba limpia y ordenada, con excepcion de la sala
 
 2- La mujer ayudante
 
-entonces una mujer entra por la puerta.
-se sorprende al ver a Elara en la casa.
+entonces una mujer entro por la puerta.
+se sorprendio al ver a Elara en la casa.
 se presentan.
 su nombre es Rima, ayuda al profesor en su trabajo.
 dice estar preocupada porque el profesor ha desaparecido hace dos dias sin explicacion.
 comenta que el profesor solo abandona la casa para realizar estudios en la selva, pero solo en lugares concretos que ella conoce bien, y nunca se ausenta sin que ella lo sepa.
 
 "mira el estado en que esta la casa. todo esta revuelto. alguien ha entrado con seguridad y se ha llevado algo. algo ha pasado aqui", dice Rima con preocupacion.
-
 afirma que es el momento de preocuparse. dos dias es mucho tiempo para desparecer en la selva. 
 dice que pedira ayuda a los vecinos para organizar una busqueda.
+
 "Cuando fue la ultima vez que has visto al profesor?", pregunto Elara.
-"en la manana del sabado, durante el desayuno. Vengo cada dia a preparar las comidas. Y me quedo a comer con el mientras me cuenta los detalles de su trabajo.
+"en la manana del sabado, durante el desayuno (hoy es lunes). Vengo cada dia a preparar las comidas. Y me quedo a comer con el mientras me cuenta los detalles de su trabajo.
 Despues del desayuno fui hasta el rio para poner trampas para los peces. Volvi antes del mediodia para preparar su almuerzo, pero el ya no estaba.", explico Rima.
+
 "En que estaba trabajando el profesor?", pregunto Elara.
 "Estaba muy exitado estos dias, trabajaba en una nueva teoria acerca de la vida que he creado discusiones y altercados entre los vecinos de la aldea.
 Descubrió algo importante sobre la conciencia colectiva de la vida, y estaba escribiendo un manifiesto.", respondio Rima, sugiriendo que su trabajo podria haberlo puesto en peligro.
@@ -77,7 +78,7 @@ las huellas llegaban en un camino claro hasta la ventana, una sola persona, habi
 alguien se habia acercado, habia estado un momento observando por la ventana hacia el interior, y despues continuo girando alrededor dela casa, posiblemente hacia la entrada.
 las huellas eran claras, posiblemente se habrian grabado en un dia de lluvia.
 
-Fue entonces,cuando estaba mirando por la ventana hacia el interior de la casa cuando vio a un hombre entrar en la casa furtivamente.
+Fue entonces,cuando Elara estaba mirando por la ventana hacia el interior de la casa, cuando vio a un hombre entrar en la casa furtivamente.
 se ocultaba, miraba alrededor sospechosamente.
 se movio rapidamente hacia el salon, cogio un cuaderno que estaba sobre la mesa, comenzo a hojearlo con nerviosismo.
 Parecia estar buscando algo.
@@ -99,7 +100,7 @@ Elara entro en la casa para reunirse con Rima.
 "Es el cuaderno de notas del profesor, el borrador de sus ideas, lo utiliza continuamente, nunca se separa de el, cuando sale de la casa lo lleva siempre con el.", respondio Rima.
 
 "Crees que Brek podria estar relacionado con la desaparicion del profesor?", pregunto Elara.
-"Bueno, Brek estaba muy disgustado con las teorias del profesor, pero no creo que la desaparicion del profesor tengo relacion con Brek.", afirmo Rima empezando a dudar.
+"Bueno, Brek estaba muy disgustado con las teorias del profesor, pero no creo que la desaparicion del profesor tengo relacion con Brek.", respondio Rima empezando a dudar.
 
 "Muy disgustado dices? En que sentido?", pregunto Elara.
 "Brek Tambien es un cientifico, trabajan en areas relacionadas, y temia que las teorias del profesor perjudicaran su trabajo de investigacion. Discutian mucho ultimamente. La ultima vez fue hace una semana. 
@@ -136,9 +137,16 @@ dentro del laboratorio una taza de cafe se ha volcado en la mesa derramando un p
 
 6- el templo oculto
 
-- Elara y Rima van al templo de la primera lluvia para encontrarse con Kuiqenhus.
+Rima invita a Elara a participar en la busqueda del profesor. "cuantos mas seamos mas espacio podremos abarcar."
+Los vecinos del pueblo se reuniran en el templo para organizar la busqueda.
+El templo ha sido siempre el lugar de reunion para los vecinos del pueblo.
+
+- Elara y Rima salen inmediatamente hacia el templo de la primera lluvia.
+Para sorpresa de Elara, el templo no estaba muy lejos de la casa del profesor.
 - al igual que toda la aldea, el templo esta cubierto por la vegetacion de tal modo que solo aquellos que saben exactamente adonde esta pueden encontrarlo.
-- el sacerdote no esta en el templo cuando llegan.
+- Kuiqenhus, el sacerdote, no esta en el templo cuando llegan.
+
+Rima deja a Elara en el templo y vuelve a salir para hablar con los vecinos.
 
 - Elara explora el templo, se interesa por los grabados en los muros, que cubren todo el templo con una extraordinaria coleccion de simbolos, oraciones antiguas, profecias, relatos y ensenanzas. encuentra una escalera que lleva a una gran sala en el subsuelo con mas grabados en la piedra. uno de los grabados parece ser el mapa de un laberinto, quizas parte de un antiguo ritual.
 - el sacerdote llega cuando Elara esta abandonando el templo.
@@ -152,10 +160,11 @@ que es la vida?
 - la vida segun Kuiqenhus
 
 "La vida es lo que debe ser, porque así lo ha susurrado el Espíritu de la Lluvia en los pliegues invisibles del viento. Nada puede alterar su curso, como la sombra de la luna no puede tocar el fuego ni las piedras pueden discutir con el río.
+La vida debe existir necesariamente, para que la tierra sea un lugar bonito.
 Es un ciclo que danza con el pulso infinito de las estrellas y despierta en el latido de los hongos que crecen en la madera olvidada. 
 La lluvia cae, y de su toque magico nacen el musgo y las ranas. Y al igual que los cantos que los búhos nunca enseñaron a los hombres, en la hora sin nombre, cuando el sol y la luna intercambian sus secretos, el viento murmura la plegaria que transforma la piel de la tierra en criaturas errantes.
 Porque no hay dueño, ni tejedor, ni escriba que pueda trazar el inicio o el fin de la existencia. 
-Porque cuando el dia llegue en que las criaturas hayan desaparecido, cuando el último grillo haya callado, la lluvia volvera a caer, y la piedra a cantar, y el mundo renacera sin haber nacido jamás.
+Porque cuando el dia llegue en que las criaturas hayan desaparecido, cuando el último grillo haya callado, la lluvia volvera a caer, y la piedra a cantar, y el mundo renacera.
 Las criaturas existen porque deben existir. El pez y el fuego, la raíz y el relámpago, el susurro en la grieta de la montaña... Todo es y será, porque la noche necesita su reflejo y el sueño de los espiritus nunca termina.
 Las criaturas son, porque deben ser.
 "
@@ -170,19 +179,13 @@ Despues de un rato, Elara pregunta:
 por eso no me ha sorprendido su desaparicion. el pobre podria estar perdido en la selva sin saber siquiera quien es.
 "
 
-un momento despues, Kuiqenhus coge la ultima galleta, la parte en dos, ofrece la mitad a Elara y pregunta:
-"has sabido algo mas de el?, ha vuelto ya a la casa?"
-
-"todavia no ha vuelta a la casa. he venido para preguntar si querias participar en la busqueda.
-los vecinos ya lo esta buscando en los alrededores de la aldea.", dijo Elara.
-"por supuesto, es mejor salir cuanto antes.", dijo Kuiqenhus.
-"en ese caso nuestra zona de busqueda es desde el templo hacia el norte hasta el rio, y desde el templo hacia el oeste hasta la base de las montanas durmientes. nos separaremos, tu ve hacia las montanas y yo ire hacia rio. Nos reuniremos nuevamente aqui a mediodia.", respondio Elara.
+un momento despues, Kuiqenhus coge la ultima galleta, la parte en dos y ofrece la mitad a Elara.
 
 
 "sabes quien podria tener interes en la desaparicion del profesor?", pregunto Elara.
 "no creeras que alguien lo ha hecho desaparecer, verdad?", pregunto Kuiqenhus.
 y se respondio a si mismo al instante, "no, claro que no".
-"Aunque tal vez Brek, no se llevaba muy bien con el profesor ultimamente y les he oido discutir", agrego.
+"Aunque tal vez Brek..., no se llevaba muy bien con el profesor ultimamente y les he oido discutir", agrego.
 "sus teorias absurdas estaban molestando a mucha gente." 
 
 "Reconoces este objeto?", pregunto Elara mostrandole el fetiche de cuero y plumas que habia encontrado en la casa del profesor.
@@ -201,15 +204,10 @@ De donde has sacado eso?", respondio Kuiqenhus.
 "Pero tener una idea precisa de lo que estaba sucediendo en la aldea en aquel momento nos ayudara a encontrar al profesor", explico Elara con seguridad.
 "Dime, que hacias tu en aquel momento?", insistio.
 
-"bueno. dejame pensar. no lo recuerdo bien. creo que habia ido a pescar al rio", respondio Kuiqenhus sin dar mas detalles.
+"bueno. dejame pensar. no lo recuerdo bien, pero creo que habia ido a pescar al rio", respondio Kuiqenhus sin dar mas detalles.
 
-"es el momento de iniciar la busqueda", dijo Elara poniendose en pie.
-"caminare hasta el rio. Nos reuniremos nuevamente aqui dentro de una hora.", agrego.
-
-El sacerdote la acompano hasta la entrada del templo, y alli se separaron.
-
-
-
+En ese momento los vecinos del pueblo comenzaron a llegar.
+Era el momento de organizar la busqueda.
 
 
 7- busqueda en la selva

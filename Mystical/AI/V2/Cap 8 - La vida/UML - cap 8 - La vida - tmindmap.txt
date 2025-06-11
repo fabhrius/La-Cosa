@@ -11,29 +11,28 @@
 ***** Preguntas
 ****** que es la vida?
 ***** Objetivos
-****** -la vida como un unico individuo \n -la vida como un sistema de calculo \n -elementos funcionales de la vida, componentes del sistema \n -presentacion del experimento que se realizara en los siguientes capitulos
+****** la vida como un unico individuo \n -la vida como un sistema de calculo \n elementos funcionales de la vida, componentes del sistema \n presentacion del experimento que se realizara en los siguientes capitulos
 
 
 **** Aventura
 
 ***** Resumen
-****** Elara Debera descubrir el paradero de Greghsius actuando como detective en una investigacion (estilo film noir).
+****** Elara llega a Wetwood Village, un pueblo oculto en la selva de Ravenous Jungle, \n en busca del profesor Greghsius, el sabio, quien ha estudiado los secretos de la vida. \n Elara ha oido que es la persona con mas conocimientos en este campo en el mundo conocido, y espera que el pueda explicarle lo que la vida es. \n Pero al llegar a Wetwood Village el profesor ha desaparecido misteriosamente. \n Elara utilizara sus habilidades de investigacion para descubrir lo que ha sucedido con el profesor. \n Pero tendra que tener cuidado, porque como siempre, los aliados del malvado mago Morgerathus estan al asecho. \n En esta occasion, el enemigo es invisible, Tenebrakhus, el brujo de la selva. Quien intentara obtener informacion, creando serios problemas a Elara.
 
 ***** Preguntas
 ****** Que es la vida?
 ***** Respuestas
-****** kuiqenhus
+****** Kuiqenhus
 ******* La lluvia, al tocar la tierra, crea plantas y ranas magicamente. \n Y despues, la magia de el viento, la luna y el sol los transforma en todas las criaturas que ves. \n Siempre han existido y siempre existiran porque cuando ya no haya, volvera a llover. \n El Espiritu de la lluvia las crea para que la tierra sea un lugar bonito. \n La vida no tiene dueño, ni principio, ni fin; solo existe, porque debe existir. \n Y las criaturas solo son, porque deben ser.
 ****** Greghsius 
-******* 1- la vida es una unica criatura \n2- la vida es una inteligencia inmortal que habita el universo
-
+******* 1- la vida es una unica criatura inmortal que habita el universo \n2- la vida es una inteligencia 
 ***** Ensenanzas
-****** 1- la vida es una unica criatura \n2- la vida es una inteligencia inmortal que habita el universo
+****** 1- la vida es una unica criatura inmortal que habita el universo \n2- la vida es una inteligencia 
 
 ***** Elara \n objetivos para este capitulo (entrada)
 ****** 1-conocer la verdad que hay detras de los amuletos magicos \n 2-encontrar transporte o informacion para llegar a Rainy Valley
 ***** Escenario
-****** la aldea de Greenwood Village, en La selva de Ravenous Jungle
+****** la aldea de Greenwood Village, en Ravenous Jungle
 
 ***** Anfitrion
 ****** Greghsius, el sabio
@@ -52,7 +51,7 @@
 ******** 1- averiguar la localizacion del codex \n 2- conseguir el amuleto
 
 ***** Otros personajes
-****** kuiqenhus, el sacerdote y guia espiritual de la aldea
+****** Kuiqenhus, el sacerdote y guia espiritual de la aldea
 ******* sinopsis
 ******** ayudara a Elara en la investigacion
 
