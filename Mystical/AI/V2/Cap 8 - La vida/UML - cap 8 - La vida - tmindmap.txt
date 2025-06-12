@@ -1,6 +1,6 @@
 @startmindmap
 
-'Compatible with OrgMode 
+scale 3/4
 
 * Elara y el codice perdido
 ** Acto 3 - Inteligencia
@@ -19,7 +19,7 @@
 ***** Resumen
 ****** Elara llega a Wetwood Village, un pueblo oculto en la selva de Ravenous Jungle, \n en busca del profesor Greghsius, el sabio, quien ha estudiado los secretos de la vida. \n Elara ha oido que es la persona con mas conocimientos en este campo en el mundo conocido, y espera que el pueda explicarle lo que la vida es. \n Pero al llegar a Wetwood Village el profesor ha desaparecido misteriosamente. \n Elara utilizara sus habilidades de investigacion para descubrir lo que ha sucedido con el profesor. \n Pero tendra que tener cuidado, porque como siempre, los aliados del malvado mago Morgerathus estan al asecho. \n En esta occasion, el enemigo es invisible, Tenebrakhus, el brujo de la selva. Quien intentara obtener informacion, creando serios problemas a Elara.
 
-***** Preguntas
+***** Preguntas 
 ****** Que es la vida?
 ***** Respuestas
 ****** Kuiqenhus
@@ -30,7 +30,7 @@
 ****** 1- la vida es una unica criatura inmortal que habita el universo \n2- la vida es una inteligencia 
 
 ***** Elara \n objetivos para este capitulo (entrada)
-****** 1-conocer la verdad que hay detras de los amuletos magicos \n 2-encontrar transporte o informacion para llegar a Rainy Valley
+****** 1-Reunirse con el profesor Greghsius, el sabio, un cientifico que estudia la vida, \n con el objetivo de encontrar respuesta a la pregunta: que es la vida? \n2- conocer la verdad que hay detras de los amuletos magicos
 ***** Escenario
 ****** la aldea de Greenwood Village, en Ravenous Jungle
 
@@ -65,7 +65,7 @@
 
 
 ***** Elara \n objetivos para el siguiente capitulo (salida)
-****** n
+****** averiguar porque la vida se divide en seres separados \n porque la vida crea individuos? \n cual es la function del individuo?
 ***** Plot
 ****** 1- Hook - Resolucion
 ******* Elara se hunde en el pantano en la oscuridad de la noche, \n pero cuando ya ha perdido la esperanza, \n una mano al sujeta fuertemente por el brazo y comienza a tirar. \n Elara es rescatada del pantano por Drhey, el ladron. \n Drhey la lleva en su caballo por el camino largo. \n Elara tendra que hacer varias escalas antes de llegar a Rainy Valley, pero es la forma mas segura de llegar. \n Elara se pregunta porque Omhistrine queria el amuleto. \n Drhey le dice que puede consultar al sabio, Greghsius, para obtener informacion acerca de los amuletos. \n Despues de salvar la vida de Elara y llevarla hasta Greenwood Village la opinion de Elara con respecto a Drhey cambia. \n Drhey es una buena persona, no parece que realmente sea un ladron, sino talvez un heroe. \n Elara y Drhey se convierten en buenos amigos. \n Se separan al llegar a Greenwood Village. \n Drhey continua su viaje hacia el oeste, mientras que Elara debe ir hacia el este.
