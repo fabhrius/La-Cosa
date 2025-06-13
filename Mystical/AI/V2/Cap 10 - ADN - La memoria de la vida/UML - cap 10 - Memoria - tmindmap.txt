@@ -8,15 +8,10 @@
 
 **** Lab: 
 ***** Objetivos
-****** n
+****** 1- la memoria en el proceso de calculo \n 2- tipos de memoria \n 3- el ADN como memoria del sistema
 ***** Preguntas
-****** Que ?
+****** Que es la memoria ? \n Cual es su utilidad ?
 ***** Respuestas
-****** Personaje 1
-***** Ensenanzas
-****** 1- l
-***** Sinopsis:
-****** n
 
 
 
@@ -24,6 +19,11 @@
 **** Aventura
 ***** Resumen
 ****** E
+
+***** Objetivos de entrada
+****** n
+***** Objetivos de salida
+****** n
 
 ***** Preguntas
 ****** Que ?
@@ -37,10 +37,7 @@
 ***** Ensenanzas
 ****** 1- l
 
-***** Elara \n objetivos de entrada
-****** n
-***** Elara \n objetivos de salida
-****** n
+
 
 ***** Anfitrion
 ******* descripcion 

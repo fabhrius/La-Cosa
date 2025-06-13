@@ -42,9 +42,10 @@ Alli adonde exista suficiente cantidad de materia, la inteligencia surgira espon
 si pensamos en la vida como una maquina que realiza alguna function podemos descomponerla en los elementos necesarios para su funcionamiento
 
 Asi la maquina se compone de los siguientes elementos:
-ADN 
-reproduccion
-individuos que cumplen un ciclo de vida
+- ADN (memoria)
+- reproduccion (procesamiento de la informacion)
+- individuos (bloque de construccion)
+- ciclo de vida (programa principal)
 
 
 ----------------------

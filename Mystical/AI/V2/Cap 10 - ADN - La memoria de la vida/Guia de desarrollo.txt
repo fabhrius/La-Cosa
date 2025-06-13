@@ -15,6 +15,7 @@ Procedimiento de desarrollo de un capitulo:
 
 ---------------------------
 
+5-
 Estructura del capitulo (por secciones) :
 
 - Hook - (resolución del cliffhanger del capitulo anterior) 

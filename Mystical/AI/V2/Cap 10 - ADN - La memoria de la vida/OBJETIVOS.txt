@@ -1,20 +1,40 @@
+
+
+
+
+laboratorio :
+objetivos:
+
+- la memoria en el proceso de calculo
+- tipos de memoria
+- el ADN como memoria del sistema
+
 preguntas:
 
+- que es la memoria?
+- cual es su function?
+
+---------------------
+
+Aventura:
+
+preguntas:
+
+- porque recordar?
 - cual es el valor de la memoria?
 - es mi vida una historia independiente? o la continuacion de alguna otra historia?
 - cuanto de mis antepasados se conserva en mi?
 
 
 
-laboratorio objetivos:
 
-- memoria y proceso de calculo
-- tipos de memoria
-
-- el ADN como memoria del sistema
 
 
 ensenanzas:
 
+- sin memoria no es posible resolver problemas
+- sin memoria no es posible realizar calculos
+- sin memoria no hay progreso
+- sin memoria no hay evolucion
 
 
