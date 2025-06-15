@@ -1,3 +1,97 @@
+
+### **Requisito Estructural: Estructura General del Libro**  
+
+#### **1. Identificación del Requisito**  
+- **Título:** Estructura General del Libro.  
+- **Propósito:** Establecer la estructura narrativa y científica para organizar el contenido del libro de manera coherente.  
+
+#### **2. Descripción**  
+El libro se divide en dos partes complementarias, integradas dentro de cada capítulo:  
+
+1. **Historia de Fantasía:**  
+   - Narra el viaje de Elara en búsqueda del códice perdido, abordando preguntas existenciales desde un enfoque místico y subjetivo.  
+   - Funciona como un "envoltorio" atractivo que mantiene al lector interesado.  
+
+2. **Ensayo Científico:**  
+   - Introduce ideas sobre las características de la vida y un experimento central: una simulación lógica de la vida como sistema inteligente.  
+   - Proporciona respuestas objetivas y contrastes con las conclusiones subjetivas de la historia.  
+
+#### **3. Estructura del Libro**  
+El libro consta de 6 actos, divididos en 25 capítulos:  
+
+- **Acto 1: La Búsqueda de la Verdad (Introducción)**  
+  - Presenta personajes, localización y preguntas existenciales.  
+  - **Capítulos:**  
+    - Cap. 1: El libro.  
+    - Cap. 2: Elara y la montaña.  
+
+- **Acto 2: La Búsqueda de Respuestas (Primeras Ideas)**  
+  - Explora conceptos como los monstruos, la fe, el amor y la magia.  
+  - **Capítulos:**  
+    - Cap. 3: Monstruos.  
+    - Cap. 4: La fe.  
+    - Cap. 5: El amor.  
+    - Cap. 6: La magia.  
+    - Cap. 7: Primeras conclusiones.  
+
+- **Acto 3: La Vida como un Sistema Inteligente (Simulación y Componentes)**  
+  - Introduce el ADN, la reproducción, y el sistema en funcionamiento.  
+  - **Capítulos:**  
+    - Cap. 8: La vida.  
+    - Cap. 9: El ADN.  
+    - Cap. 10: Reproducción.  
+    - Cap. 11: Individuos como componentes.  
+    - Cap. 12: El sistema en funcionamiento.  
+
+- **Acto 4: Análisis (Características del Sistema)**  
+  - Analiza la eficiencia, fiabilidad, potencia, coste y otras características del sistema.  
+  - **Capítulos:**  
+    - Cap. 13: Eficiencia.  
+    - Cap. 14: Fiabilidad.  
+    - Cap. 15: Potencia.  
+    - Cap. 16: Coste.  
+    - Cap. 17: Redundancia.  
+    - Cap. 18: Poda.  
+
+- **Acto 5: Más Allá (Lo Trascendente)**  
+  - Reflexiona sobre la inteligencia creadora, la vida eterna, y el origen de la vida.  
+  - **Capítulos:**  
+    - Cap. 19: La inteligencia creadora.  
+    - Cap. 20: El Espíritu.  
+    - Cap. 21: La vida eterna.  
+    - Cap. 22: El origen de la vida.  
+
+- **Acto 6: Conclusiones**  
+  - Cierra el viaje con reflexiones sobre la realidad, lo trascendente y la paz interior.  
+  - **Capítulos:**  
+    - Cap. 23: Vuelta a la realidad.  
+    - Cap. 24: Lo trascendente.  
+    - Cap. 25: La paz interior.  
+
+#### **4. Historias de Usuario**  
+- *"Como lectora, quiero que cada capítulo me presente una parte emocionante de la historia de Elara y conceptos científicos que me permitan reflexionar sobre los temas principales."*  
+
+#### **5. Criterios de Aceptación**  
+- Cada capítulo debe contener una sección narrativa y una científica.  
+- Ambas partes deben estar relacionadas temáticamente.  
+- Los capítulos deben seguir un flujo lógico dentro de los actos y mantener la atención del lector.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------
+
 @startmindmap
 
 'Compatible with OrgMode 
