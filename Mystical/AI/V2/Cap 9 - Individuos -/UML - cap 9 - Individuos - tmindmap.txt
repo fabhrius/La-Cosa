@@ -8,7 +8,7 @@
 
 **** Lab: 
 ***** Objetivos
-****** n
+****** el individuo como bloque de construccion \n el individuo como contenedor de un bloque de memoria \n ciclo de vida: un conjunto reducido de instrucciones
 ***** Preguntas
 ****** Que ?
 ***** Respuestas
@@ -26,8 +26,7 @@
 ****** E
 
 ***** Preguntas
-****** Que ?
-
+****** - porque la vida crea individuos? \n cual es la function del individuo? \n porque todos los individuos son diferentes?
 ***** Respuestas
 ****** Personaje 1
 ******* L
@@ -43,8 +42,8 @@
 ****** n
 
 ***** Anfitrion
-******* descripcion 
-******** c
+****** descripcion 
+******* c
 ****** Sinopsis:
 ******* E
 ****** Preguntas
@@ -53,8 +52,8 @@
 ******* E
 
 ***** Enemigo
-******* descripcion 
-******** c
+****** descripcion 
+******* c
 ****** Sinopsis:
 ****** Objetivo:
 
