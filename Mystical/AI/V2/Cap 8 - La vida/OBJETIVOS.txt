@@ -7,10 +7,10 @@ que es  la vida
 
 laboratorio objetivos:
 
-- la vida como un unico individuo
-- la vida como un sistema de calculo
-- explicacion del experimento
-- elementos funcionales de la vida
+- mostrar a la vida como un unico individuo
+- describir a la vida como un sistema de calculo
+- describir los elementos que forman el sistema de calculo (ADN, reproduccion, individuos y ciclo de vida)
+- explicar el experimento que realizaremos en los proximos capitulos
 
 
 
