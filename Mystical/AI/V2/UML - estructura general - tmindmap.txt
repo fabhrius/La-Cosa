@@ -145,13 +145,13 @@
 
 ** Acto 3
 *** cap 8 - La vida
-*** cap 9 - Individuos
-*** cap 10 - Memoria
-*** cap 11 - Reproduccion
-*** cap 12 - Simulacion
+*** cap 9 - Memoria
+*** cap 10 - Reproduccion
+*** cap 11 - Individuo
+*** cap 12 - Ciclo de vida
+*** cap 13 - Simulacion
 
 ** Acto 4
-*** cap 13
 *** cap 14
 *** cap 15
 *** cap 16

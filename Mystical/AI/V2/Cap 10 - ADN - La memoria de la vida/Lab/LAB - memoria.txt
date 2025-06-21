@@ -12,7 +12,7 @@ ADN:
 
 - el ADN está presente en todas los seres vivientes 
 - gran cantidad de informacion
-- descripcion del individuo en todos sus detalles
+- contiene la descripcion del individuo en todos sus detalles
 
 INDIVIDUOS:
 
