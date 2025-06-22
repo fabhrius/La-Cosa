@@ -27,3 +27,13 @@ en mi opinion esto no tiene sentido.
 y creo que es posible que la maquina este trabajando en algun otro problema, algo realmente importante.
 
 el ADN tiene mucho espacio, digamos que ademas de la informacion del individuo, y los procesos que permiten la evolucion, ademas de eso, Tambien ponemos los datos de otro problema, el real, el que justifica la puesta en marcha de la maquina.
+
+asi el sistema estaria trabajando en al menos dos cosas, por un lado optimizar el sistema mismo, esto es lo que conocemos,  para conseguir que no se detenga antes de encontrar la solucion al problema real, y por otra parte estaria trabajando en resolver un problema real, llamemosle "problema objetivo", que justifica la construccion y mantenimiento del sistema.
+
+en conclusion,
+adaptar a los individuos continuamente a un entorno cambiante es una tarea que entra dentro del mantenimiento del sistema.
+Y en mi opinion la tarea principal del sistema debe ser otro que el mantenimiento del sistema mismo.
+Debe existir la necesidad de encontrar solucion a un problema real que justifique la creacion de individuos.
+
+
+
