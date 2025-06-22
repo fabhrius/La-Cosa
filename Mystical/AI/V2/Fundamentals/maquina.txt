@@ -1,0 +1,12 @@
+la vida es una maquina de calculo.
+un sistema inteligente.
+
+los elementos que componen el sistema son:
+- ADN, utilizado como memoria, continen los datos que seran procesados.
+- Reproduccion, utilizado como procesador, los datos contenidos en el ADN son modificados para crear una nueva cadena de ADN, similar a la original pero no igual.
+- Individuos, son el bloque de construccion del sistema, funcionan como componentes, contienen el ADN con los datos y se reproducen. Los individuos cumplen con un ciclo de vida
+- Ciclo de vida, rutina de funcionamiento de la maquina.
+
+
+funcionamiento:
+- los datos contenidos en el ADN se procesan generacion tras generacion, el proceso avanza un paso en el calculo con cada generacion.

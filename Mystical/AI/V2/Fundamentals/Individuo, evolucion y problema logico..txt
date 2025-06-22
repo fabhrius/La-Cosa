@@ -1,0 +1,29 @@
+bueno.
+tu punto de vista es el tradicional.
+no esta mal y sera util.
+sin embargo, hay algunas diferencias con la perspectiva que vamos a abordar aqui.
+
+tradicionalmente:
+1- el individuo es lo importante. la vida crea individuos de diferentes especies, y este parece ser el objetivo final.
+2- la inteligencia de la vida esta en function de la evolucion, adaptacion, mejora de los individuos.
+
+en el modelo que utilizaremos aqui:
+1- el individuo es necesario para alcanzar el objetivo. es el medio, no el fin.
+2- la optimizacion de la maquina no puede ser su objetivo final.
+
+justificacion de estos 2 puntos:
+1- la maquina que construiremos sera un sistema inteligente, un computador que utilizaremos para resolver problemas logicos, tales como ganar al ajedrez o encontrar la conbinacion numerica que habre una cerradura.
+utilizaremos una abstraccion logica que llamaremos "individuo" como componente del sistema.
+El unico motivo para crear individuos es resolver el problema, ganar al ajedrez. Crear individuos solo por crearlos no tiene sentido.
+
+2- el sistema que construiremos tiene un coste muy elevado.
+la maquina tiene una gran potencia y otras muchas cualidades (redundancia, eficiencia, fiabilidad, y muchas mas) lo que se traduce en una muy alta calidad.
+la evolucion de los individuos es deseable porque mejorando sus probabilidades de supervivencia aumentamos las probabilidades de que la maquina continue funcionando.
+Pero, teniendo en cuenta que poner en funcionamiento una maquina de estas caracteristicas tiene un coste extremadamente elevado (lo demostrare)
+quien utilizaria una maquina como esta solo para que resuelva el problema de como mantenerse funcionando? 
+construyes un supercomputador solo para que se haga mejoras a si mismo? esa es su finalidad?
+
+en mi opinion esto no tiene sentido.
+y creo que es posible que la maquina este trabajando en algun otro problema, algo realmente importante.
+
+el ADN tiene mucho espacio, digamos que ademas de la informacion del individuo, y los procesos que permiten la evolucion, ademas de eso, Tambien ponemos los datos de otro problema, el real, el que justifica la puesta en marcha de la maquina.
