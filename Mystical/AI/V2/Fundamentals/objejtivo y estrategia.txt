@@ -1,10 +1,17 @@
+objetivo:
+
 el objetivo general del libro es responder a preguntas acerca de la existencia.
 las personas nos preguntamos a lo largo de nuestras vidas cosas como:
 - porque vivimos? porque morimos? cual es el sentido de la vida? si tenemos una mission que cumplir? si existe un ser superior que ha creado a todos los seres vivientes? entre otras preguntas existenciales.
 
-la realidad es que resulta muy dificil para la mayoria de las personas responder a estas preguntas de forma realista. 
+resulta dificil para la mayoria de las personas responder a estas preguntas de forma realista. 
 
-en este libro nos proponemos dar respuestas realistas analizando el funcionamiento de una maquina de calculo.
+en este libro nos proponemos dar respuestas realistas a estas preguntas.
+
+
+como lo haremos?:
+
+ analizando el funcionamiento de una maquina de calculo.
 se trata de una maquina conceptualmente simple, que todos pueden entender, y que veremos funcionando, de forma teorica, a lo largo del libro.
 ver a esta maquina en funcionamiento nos ayudara a responder a todas las preguntas.
 
@@ -12,5 +19,7 @@ la maquina es una simulacion de la vida.
 utilizando algunos elementos que se encuentran en la vida construiremos una maquina que resuelve problemas logicos automaticamente.
 un sistema inteligente, conceptualmente simple, pero de gran potencia.
 
-Lo utilizaremos para jugar a un juego de mesa, y podremos ver como el sistema encuentra la solucion y consigue ganar la partida.
+experimentalmente utilizaremos este sistema inteligente para jugar a un juego de mesa, y podremos ver como encuentra la solucion y consigue ganar la partida.
 Esta vision nos mostrara a la vida desde una perspectiva diferente.
+Y le confiere 'proposito'.
+

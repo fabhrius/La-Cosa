@@ -1,12 +1,92 @@
+
+
+
+- idea central:
 la vida es una maquina de calculo.
 un sistema inteligente.
 
 los elementos que componen el sistema son:
 - ADN, utilizado como memoria, continen los datos que seran procesados.
-- Reproduccion, utilizado como procesador, los datos contenidos en el ADN son modificados para crear una nueva cadena de ADN, similar a la original pero no igual.
+- Reproduccion, utilizado como procesador, los datos contenidos en el ADN son modificados para crear una nueva cadena de ADN, similar a la original pero no igual. para modificar los datos se aplica un metodo (el metodo varia con el problema que se quiere resolver)
 - Individuos, son el bloque de construccion del sistema, funcionan como componentes, contienen el ADN con los datos y se reproducen. Los individuos cumplen con un ciclo de vida
 - Ciclo de vida, rutina de funcionamiento de la maquina.
 
 
-funcionamiento:
+resumen de funcionamiento:
 - los datos contenidos en el ADN se procesan generacion tras generacion, el proceso avanza un paso en el calculo con cada generacion.
+
+
+--------------------------------
+
+
+
+ejemplo:
+
+- problema a resolver:
+sobre un tablero de ajedrez, de 8 por 8 casillas, colocaremos un ficha.
+las casillas del tablero seran referenciadas con un nombre compuesto por una letra y un numero, tales como 'A1' o 'E5', en donde las letras referencian filas y los numeros columnas.
+La ficha podra moverse por el tablero, pero solo a una casilla contigua con cada movimiento.
+Un movimiento valido es entonces cuando la ficha se desplaza a una distancia de una casilla con cada movimiento.
+colocamos inicialmente la ficha en la casilla 'A1'.
+queremos que la maquina averigue
+cual es el camino que la ficha debe recorrer para llegar a la casilla 'H8'?
+
+
+
+-----------------------------------
+
+Individuo (abstraccion logica)
+{
+ADN - debe contener la siguiente informacion:
+- la posicion actual de la ficha sobre el tablero (ejemplo: 'A1'), llamaremos a este dato 'posicion'
+- un listado conteniendo las posiciones sobre el tablero de sus antepasados (ejemplo: 'A1-B2-C3-B2'), llamaremos a este dato 'lista de antepasados'
+
+Reproduccion:
+- objetivo= generar un hijo por cada movimiento valido desde la posicion actual
+- metodo= por cada movimiento valido crea un hijo grabando la siguiente informacion en el ADN: 
+1- posicion= la nueva posicion de la ficha sobre el tablero que resulta de un movimiento valido
+2- lista de antepasados= copia su lista de antepasados a la que concatena su propia posicion
+}
+
+-------------
+
+
+ejemplo de reproduccion: (solo se muestra uno de los hijos posibles)
+
+padre
+{
+posicion='C3'
+lista de antepasados='A1-B2'
+}
+
+hijo
+{
+posicion='D4'
+lista de antepasados='A1-B2-C3'
+}
+
+
+-----------------------------
+
+
+
+el individuo tiene un ciclo de vida que consiste en 'nacer-reproducirse-morir'.
+en la reproduccion generara todos los hijos posibles, de una vez, igual que una cucaracha pone cientos de huevos, todos ellos diferentes.
+el individuo no puede generar dos hijos iguales.
+despues de reproducirse muere, porque en la siguiente reproduccion generara individuos redundantes. su trabajo ya esta hecho.
+
+y el sistema funciona del siguiente modo:
+- creamos un individuo en la posicion inicial 'A1'
+- una vez creado cumplira con su ciclo de vida, se reproducira generando todos sus hijos posibles.
+- y sus hijos haran lo mismo
+- en algun momento nacera un individuo con posicion='H8', este individuo tiene la solucion al problema en su lista de antepasados.
+
+
+ 
+
+
+
+
+
+
+
