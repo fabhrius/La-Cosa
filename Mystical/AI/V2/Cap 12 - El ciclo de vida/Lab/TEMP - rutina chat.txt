@@ -1,0 +1,39 @@
+ahora que conoces la maquina que sera el centro de la teoria que vamos a describir en el libro 
+quiero que me ayudes a planificar los capitulos del tercer acto, 
+en donde describimos a la vida como una criatura pensante (cap 8), 
+y lo justificamos describiendo la maquina que hemos comentado, sus partes (caps 9 a 12), 
+y mostramos experimentalmente un ejemplo practico en donde resolvemos un problema (cap 13):
+
+
+- **Acto 3: La Vida como un Sistema Inteligente (Simulación y Componentes)**  
+  - Introduce el ADN, la reproducción, y el sistema en funcionamiento.  
+  - **Capítulos:**  
+    - Cap. 8: La vida.  
+    - Cap. 9: El ADN.  
+    - Cap. 10: Reproducción.  
+    - Cap. 11: Individuos como componentes.  
+    - Cap. 12: Ciclo de vida.  
+    - Cap. 13: El sistema en funcionamiento.  
+
+
+-----------------
+
+te muestro aqui el contenido de todo el acto 3 para que veas como se separan los conceptos por capitulos.
+asi evitaremos solapamientos y redundancias.
+en este chat solo hablaremos del capitulo 12, Ciclo de vida.
+y solo hablamos aqui del laboratorio. Dejaremos la aventura de Elara para otro chat.
+en el laboratorio desarrollamos una teoria cientifica con el objetivo de responder a las preguntas existenciales de forma realista, objetiva y comprobable.
+
+empecemos por hacer un listado con las preguntas mas comunes que las personas se hacen acerca de el ciclo de vida.
+recordemos que el objetivo del libro es responder a las preguntas existenciales.
+en tu opinion, a que preguntas acerca del ciclo de vida el lector desearia encontrar respuestas en el libro?
+
+
+----------------------------------------------------
+
+
+de acuerdo.
+continuemos.
+
+ahora, desde un punto de vista tecnico, cuales crees que son las caracteristicas que debemos explicar en el laboratorio, cuando describimos el ciclo de vida ?
+(function en el sistema, necesidad, caracteristicas, etc.)
