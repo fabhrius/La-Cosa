@@ -41,7 +41,8 @@ El libro consta de 6 actos, divididos en 25 capítulos:
     - Cap. 9: El ADN.  
     - Cap. 10: Reproducción.  
     - Cap. 11: Individuos como componentes.  
-    - Cap. 12: El sistema en funcionamiento.  
+    - Cap. 12: Ciclo de vida.  
+    - Cap. 13: El sistema en funcionamiento.  
 
 - **Acto 4: Análisis (Características del Sistema)**  
   - Analiza la eficiencia, fiabilidad, potencia, coste y otras características del sistema.  

@@ -1,6 +1,17 @@
 
 Procedimiento de desarrollo de un capitulo:
 
+1- listado de preguntas existenciales que encontraran respuesta
+2- establecer el mensaje objetivo (existencial)
+3- listado de caracteristicas tecnicas que seran explicadas en el laboratorio
+
+
+
+
+
+--------------------------
+
+
 1 - establecer el mensaje objetivo 
 2 - borrador del laboratorio 
 3- moralejas y enseñanzas 
