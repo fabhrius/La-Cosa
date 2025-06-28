@@ -1,0 +1,185 @@
+
+la informacion que has grabado parece estar funcionando bien.
+sin embargo, creo que es necesario agregar algunos detalles todavia  para terminar de alinear tu vision con la mia.
+
+vamos a discutir algunas ideas primero.
+por favor, no grabes nada en tu memoria hasta que estemos de acuerdo en una version final.
+
+hablemos de evolucion.
+la aplicacion mas evidente de la inteligencia de la vida esta en la forma en que las criaturas se adaptan a un entorno cambiante generacion tras generacion. Evolucionan.
+
+A dia de hoy, esta parece ser la unica aplicacion de la inteligencia de la vida.
+
+La evolucion es sin duda un aspecto fascinante de la vida.
+Sin embargo, no creo que la aplicacion de la inteligencia termine alli.
+Creo que hay algo mas.
+
+Lo explico.
+La vida, como sistema inteligente, tiene un coste muy elevado (lo probare en los siguientes capitulos).
+Construir un computador que puede mejorarse a si mismo, lo convierte en una maquina extraordinaria.
+Ciertamente es una caracteristica que le confiere una muy alta calidad.
+Y es una caracteristica deseable.
+
+Sin embargo, construir un supercomputador, asumiendo un coste elevado, solo para que piense en como mejorarse a si mismo eternamente, tiene poco sentido.
+
+En mi opinion, nada impide que,
+en el ADN, 
+ademas de la informacion necesaria para construir al individuo,
+se aloje otra informacion, la del problema real que se quiere resolver, el problema que justifica la construccion y puesta en marcha de la maquina.
+
+De este modo, la maquina estaria trabajando en dos cosas diferentes simultaneamente.
+por un lado estaria buscando la solucion a un problema real, el problema que justifica su puesta en marcha.
+y por otro lado, mientras hace el trabajo, busca la forma de mejorarse a si misma para aumentar las probabilidad de continuar trabajando hasta encontrar la solucion que busca.
+
+Soy de la opinion que, 
+la evolucion solo es solo una parte del calculo, la parte visible.
+tiene que haber algo mas, un calculo real.
+
+Y la maquina tiene suficiente potencia de calculo para eso.
+
+------------------------
+
+creo que debemos formularlo como un principio central, si.
+porque en la teoria que expondremos en este libro,  
+hablaremos de una inteligencia que despierta espontaneamente en el universo.
+y analizaremos que cosa es esa inteligencia, como funciona, que caracteristicas tiene, etc.
+
+describiremos un sistema inteligente.
+
+
+----------------------------------
+
+
+en el punto uno afirmas que no tiene conciencia ni diseno previo.
+lo cierto es que no lo sabemos.
+
+sea lo que sea, podria no parecerse a lo que conocemos, podria ser diferente de los cerebros de las criaturas, por el momento desconocemos la tecnologia en que se basa su funcionamiento.
+hablaremos mas de esto porque hay muchas preguntas que responder, pero no voy a extenderme mas ahora. lo veremos mas adelante.
+
+en el punto dos afirmas que el sistema esta orientado a un problema real, pero podria ser mas de uno, quizas muchos?
+
+los puntos 3 y 4 estan bien.
+
+hablemos ahora de otras ideas que nos ayudaran a hacernos una idea general del modelo. despues de eso quizas tengamos una vision diferente.
+
+
+
+
+desde un punto de vista mistico, hablamos de una entidad que podria ser vista como dios mismo.
+
+
+----------------------------------
+
+la evolucion es fascinante, sin embargo no es el objetivo final del sistema.
+es una de sus muchas sorprendentes caracteristicas.
+
+se trata de una maquina realmente notable.
+
+vamos a comentar ahora 4 de sus caracteristicas mas notables.
+la primera es 
+- la mejora continua, la 'evolucion' de la que hemos hablado.
+el sistema se optimiza mientras trabaja.
+
+la segunda que quisiera comentar es
+
+
+algunas de sus caracteristicas son las siguientes:
+
+
+- mejora continua (evolucion) el sistema se optimiza mientras trabaja. ya hemos hablado de esto.
+
+- redundancia incremental (individuos)
+lo explico: 
+los individuos son los componentes del sistema.
+el sistema esta compuesto por TODOS los individuos.
+el individuo es el UNICO componente del sistema.
+y el individuo ES el sistema mismo, porque un unico individuo se reproduce lanzando todo el proceso.
+cada individuo inicia el proceso nuevamente desde su posicion (cada individuo en la raiz de una nueva especie)
+esto confiere al sistema de una redundancia extraordinaria.
+la población crece exponencialmente. y con ella el sistema se redunda, podemos decir que la redundancia tiende a infinito.
+a medida que el calculo avanza, el proceso se vuelve cada vez mas robusto, y con el paso del tiempo se vuelve cada vez mas dificil de detener. las probabilidades de encontrar una respuesta aumentan.
+
+- precision (tamano de los datos)
+explicacion:
+caben muchos datos en el ADN.
+si utilizamos ADN para codificar un numero, podemos almacenar un numero muy grande. 
+inversamente, cuando la precision tiende a infinito, el error tiende a cero.
+el resultado del calculo que realiza la vida es de una gran precision. que roza la perfeccion.
+
+
+- control del espacio de memoria (ADN e individuos)
+explicacion:
+en los ordenadores que utlizamos la memoria tiene un limite.
+algunas veces no podemos predecir la cantidad de memoria que necesitaremos para realizar un calculo.
+y la memoria podria desbordarse.
+esta limitacion hace que ciertos problemas deban ser considerados inabordables.
+la vida utiliza ADN como memoria, al construir a un individuo ya sabe de antemano la cantidad de memoria que necesitara, y no se almacenara nueva informacion en la memoria despues de creada.
+esto elimina la posibilidad de desbordamiento.
+
+- potencia de calculo (paralelismo que tiende a infinito)
+explicacion:
+la complejidad de los problemas que un computador puede resolver Tambien puede ser un obstaculo.
+no vamos a analizar la complejidad en detalle, utilicemos una aproximacion solo para entender la idea.
+digamos que un problema se vuelve mas complejo a medida que aumenta el numero de decisiones que tenemos que tomar para resolverlo.
+cuanto mayor el numero de decisiones, mayor es el numero de caminos que debemos recorrer, lo que implica tiempo y memoria (o recursos).
+cuando el numero de decisiones tiende a infinito, la cantidad de recursos necesarios Tambien tiende a infinito.
+ahora volvamos al ejemplo del juego de la ficha en el tablero que hemos utilizado para presentar el funcionamiento de la maquina.
+veamos como lo ha hecho el sistema.
+digamos que la ficha esta en la casilla 'A1'.
+cuantas posibilidades hay desde este punto? cuantos movimientos validos?
+puede mover hacia 'A2', o hacia 'B1', o hacia 'B2'. Tres posibles movimientos. Tres caminos diferentes por explorar.
+por cual de ellos continuar?
+lo que el sistema ha hecho es crear 3 hijos y poner a uno en cada nuevo camino. cada uno de sus hijos explorara un camino.
+asi, todos los caminos se exploran a la vez. 
+esta estrategia no incrementa el tiempo de resolucion.
+un hijo en un camino, y no un individuo en tres caminos. asi tampoco se incrementa la cantidad de memoria que un individuo necesita.
+ademas, un individuo no recorrera el camino completo, sino solo un paso simple.
+ninguno de ellos tiene que tomar decisiones, ninguno de ellos tiene que realizar un trabajo complejo.
+todo se reduce a un paso simple.
+sin importar la complejidad.
+el sistema desmenuza la complejidad del problema en operaciones triviales. y se asigna una operacion trivial a cada individuo (o a cada computador)
+asi ningun problema es complejo.
+
+
+-------------------------------
+
+
+
+antes de cerrar la discussion acerca de las caracteristicas quisiera discutir una mas:
+- eficiencia, numero de operaciones necesarias para encontrar la solucion.
+veamos nuevamente el ejemplo del juego de mesa.
+la pregunta era, cual es el camino que va desde 'A1' hasta 'H8'?
+para responder a esta pregunta debemos mover la ficha por el tablero utilizando movimientos validos.
+un movimiento valido permite mover la ficha a una distancia de una casilla.
+la distancia entre 'A1' y 'H8' es de 7 casillas.
+existen muchos caminos posibles, sin embargo la ficha Debera hacer al menos 7 movimientos para llegar.
+no puede recorrer ese camino en menos movimientos.
+cuantas operaciones ha realizado el sistema para encontrar la respuesta?
+veamoslo.
+el sistema inicia el calculo con 'A1'.
+en la primera generacion 'A1' tendra todos los hijos posibles, entre ellos nace 'B2'.
+en la segunda generacion 'B2' tendra todos los hijos posibles, entre ellos nace 'C3'.
+en la tercera generacion 'C3' tendra todos los hijos posibles, entre ellos nace 'D4'
+en la cuarta generacion 'D4' tendra todos los hijos posibles, entre ellos nace 'E5'
+en la quinta generacion 'E5' tendra todos los hijos posibles, entre ellos nace 'F6'
+en la sexta generacion 'F6' tendra todos los hijos posibles, entre ellos nace 'G7'
+en la septima generacion 'G7' tendra todos los hijos posibles, entre ellos nace 'H8'
+
+
+es decir, 
+el sistema ha resuelto el problema en siete generaciones.
+el problema no puede resolverse en un numero menos de operaciones porque se necesitan al menos 7 movimientos para llegar a destino.
+el sistema ha resuelto el problema con el minimo numero de operaciones posibles.
+la eficiencia del sistema no puede ser superada porque el problema no puede resolverse con un numero menor de operaciones.
+
+
+
+ 
+
+
+inteligencia espontanea (inetabilidad de la evolucion del hidrogeno)
+inmortalidad (existe cuando las condiciones lo permiten)
+
+
+
+

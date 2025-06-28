@@ -1,0 +1,99 @@
+tu dices que un individuo puede tener hasta 3 hijos, lo que es incorrecto.
+el numero de hijos varia entre 3, 5 y 8 dependiendo de la posicion en el tablero.
+si utilizamos una media para simplificar el calculo, esta seria 6.5.
+
+razonamiento:
+el tablero tiene 64 casillas.
+una casilla en un Angulo del tablero tiene tres casillas contiguas, hay 4 angulos -> 4*3
+una casilla en el borde del tablero (no en un Angulo) tiene 5 casillas contiguas, hay 24 de este tipo de casillas -> 24*5
+una casilla central (no borde) tiene 8 casillas contiguas, hay 36 de este tipo de casillas -> 36*8
+
+el numero promedio de hijos que un individuo puede tener en este contexto es = ((4*3)+(24*5)+(36*8))/64 = (12+120+288)/64 = 420/64 = 6.5
+
+
+pero yo lo hare de otro modo.
+el calculo exacto es bastante complejo para mi, quizas tu, siendo un computador, puedes realizarlo con mayor facilidad.
+para simplificar, yo voy a utilizar otra aproximacion.
+veamos.
+
+
+------------------
+
+inicialmente solo tenemos un ficha en el tablero en la posicion 'A1', es un Angulo, solo puede tener 3 hijos.
+por lo tanto en la primera generacion nacen 3.
+en la segunda generacion 'A1' ya no tendra hijos (ha cumplido con su trabajo y es eliminado), solo tienen hijos 'los nuevos individuos'.
+3 individuos, 'A2'-'B1'-'B2'.
+'A2' y 'B1' estan en un borde, pueden tener 5 hijos cada uno, total 10.
+'B2' ocupa una casilla central y puede tener 8 hijos.
+En la segunda generacion nacen 10+8 = 18 individuos.
+en la tercera generacion solo se reproduciran los 18 individuos nuevos.
+aqui el calculo se complica para mi, asi que utilizare la media que hemos calculado, 6.5.
+18 * 6.5 = 117 nuevos individuos
+en la cuarta generacion naceran 117 * 6.5 = 760.5
+en la quinta generacion 760*6.5 = 4940
+en la sexta generacion 4940*6.5 = 32110
+en la septima generacion 32110*6.5 = 208715
+
+asi tenemos que,
+para recorrer 7 casillas han sido creados
+1 + 3 + 18 + 117 + 760 + 4940 + 32110 + 208715 = 246664
+
+si estas de acuerdo hasta ahora, continuo.
+
+ahora utilizando estos datos voy a hacer una nueva simplificacion, una extrapolacion, para averiguar el coste del sistema con problemas mas complejos.
+la idea es establecer una cota inferior del coste, no el coste exacto.
+veamos.
+
+
+-----------------------------
+
+observa como crece la poblacion con cada generacion.
+3, 18, 117, 760, 4940, 32110, 208715.
+
+el numero que utilzamos para representar a la poblacion crece en un orden de magnitud (aproximadamente) con cada generacion.
+un digito con cada generacion.
+asi para siete generaciones tenemos una cifra de 6 digitos.
+
+cuantos individuos serian necesarios para resolver el problema si en vez de 7 casillas el camino por recorrer tuviera 10 casillas?
+pues solo en la 10 generacion naceran mas de 100 000 000 de individuos.
+
+y que pasaria si el problema tuviera 20 casillas por recorrer?
+que en la generacion numero 20 nacerian un numero de individuos de aproximadamente 19 digitos.
+
+dime si voy bien hasta ahora.
+si lo ves bien continuo.
+
+--------------------------
+
+intentemos ahora establecer un coste en dinero.
+recordemos que estamos hablando de organismos vivientes.
+el coste de construir un mamifero solo es realmente elevado, entre otras cosas hacen falta unos 4000 millones de anos para crear uno de estos, un coste que nosotros no podemos asumir.
+podriamos resolver este problema de tablero con un organismo mas simple, digamos una bacteria.
+una bacteria tendra un coste inferior que el de un mamifero.
+y sin embargo todavia esta fuera de nuestro alcance.
+no somos capaces de crear una bacteria de cero para nuestro experimento.
+
+olvidemos entonces el organismo viviente.
+intentemoslo grabando simplemente la informacion de un individuo en un soporte de plastico, como un disco CD.
+grabaremos cada individuo en un disco CD.
+eso sera mucho mas barato que crear organismos vivientes.
+y nos proporcionara una cota muy inferior del coste real.
+cuantos CDs necesitamos?
+cuanto cuesta un CD?
+cuanto nos costaria recorrer 20 casillas?
+
+lo que quiero decir con esto es que,
+aun cuando el coste de construir un individuo tiende a cero, el coste del sistema tiende a infinito rapidamente.
+
+puedes ahora estimar cual seria el coste (utilizando CDs) de jugar una partida de ajedrez utilizando este sistema ?
+
+
+
+
+
+
+
+
+
+
+
