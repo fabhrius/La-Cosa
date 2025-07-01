@@ -13,7 +13,7 @@ los elementos que componen el sistema son:
 
 
 resumen de funcionamiento:
-- los datos contenidos en el ADN se procesan generacion tras generacion, el proceso avanza un paso en el calculo con cada generacion.
+- los datos contenidos en el ADN se procesan generacion tras generacion, el proceso avanza SOLO UN PASO en el calculo con cada generacion.
 
 
 --------------------------------
@@ -37,15 +37,19 @@ cual es el camino que la ficha debe recorrer para llegar a la casilla 'H8'?
 
 Individuo (abstraccion logica)
 {
-ADN - debe contener la siguiente informacion:
-- la posicion actual de la ficha sobre el tablero (ejemplo: 'A1'), llamaremos a este dato 'posicion'
-- un listado conteniendo las posiciones sobre el tablero de sus antepasados (ejemplo: 'A1-B2-C3-B2'), llamaremos a este dato 'lista de antepasados'
-
-Reproduccion:
-- objetivo= generar un hijo por cada movimiento valido desde la posicion actual
-- metodo= por cada movimiento valido crea un hijo grabando la siguiente informacion en el ADN: 
-1- posicion= la nueva posicion de la ficha sobre el tablero que resulta de un movimiento valido
-2- lista de antepasados= copia su lista de antepasados a la que concatena su propia posicion
+	ADN - debe contener la siguiente informacion:
+	{
+		- posicion= la posicion actual de la ficha sobre el tablero (ejemplo: 'A1'), llamaremos a este dato 'posicion'
+		- lista de antepasados= un listado conteniendo las posiciones sobre el tablero de sus antepasados (ejemplo: 'A1-B2-C3-B2'), llamaremos a este dato 'lista de antepasados'
+	}
+	Reproduccion:
+	{
+		- objetivo= generar un hijo por cada movimiento valido desde la posicion actual
+		- metodo= por cada movimiento valido crea un hijo grabando la siguiente informacion en el ADN: 
+			1- posicion= la nueva posicion de la ficha sobre el tablero que resulta de un movimiento valido
+			2- lista de antepasados= copia su lista de antepasados a la que concatena su propia posicion
+		- resultado= devuelve una lista con todos los hijos posibles
+	}
 }
 
 -------------
@@ -71,8 +75,7 @@ lista de antepasados='A1-B2-C3'
 
 
 el individuo tiene un ciclo de vida que consiste en 'nacer-reproducirse-morir'.
-en la reproduccion generara todos los hijos posibles, de una vez, igual que una cucaracha pone cientos de huevos, todos ellos diferentes.
-el individuo no puede generar dos hijos iguales.
+en la reproduccion generara todos los hijos posibles, de una vez, igual que una cucaracha genera mas de un hijo en cada ciclo (pone cientos de huevos), todos ellos diferentes. el individuo no puede generar dos hijos iguales.
 despues de reproducirse muere, porque en la siguiente reproduccion generara individuos redundantes. su trabajo ya esta hecho.
 
 y el sistema funciona del siguiente modo:
