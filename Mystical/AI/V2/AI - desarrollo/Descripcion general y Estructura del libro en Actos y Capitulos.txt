@@ -62,13 +62,7 @@ El libro consta de 6 actos, divididos en 25 capítulos:
     - Cap. 24: Lo trascendente.  (lo que hemos hecho)
     - Cap. 25: La paz interior.  
 
-#### **4. Historias de Usuario**  
-- *"Como lectora, quiero que cada capítulo me presente una parte emocionante de la historia de Elara y conceptos científicos que me permitan reflexionar sobre los temas principales."*  
 
-#### **5. Criterios de Aceptación**  
-- Cada capítulo debe contener una sección narrativa y una científica.  
-- Ambas partes deben estar relacionadas temáticamente.  
-- Los capítulos deben seguir un flujo lógico dentro de los actos y mantener la atención del lector.  
 
 
 
