@@ -1,6 +1,8 @@
 @startmindmap
 
-'Compatible with OrgMode 
+scale 3/4
+
+'Estructura de Actos y Capitulos 
 
 * Elara y el codice perdido
 ** Acto 1
