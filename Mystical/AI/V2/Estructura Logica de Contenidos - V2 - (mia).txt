@@ -57,16 +57,16 @@ El libro consta de 6 actos, divididos en 25 capítulos:
 - **Acto 5: Más Allá (Lo Trascendente)**  
   - Reflexiona sobre la inteligencia creadora, la vida eterna, y el origen de la vida.  
   - **Capítulos:**  
-    - Cap. 19: La inteligencia creadora.  
-    - Cap. 20: El Espíritu.  
-    - Cap. 21: La vida eterna.  
+    - Cap. 19: La inteligencia creadora.  (esta fuera de nosotros, esta dentro de nosotros, somos parte de ella, somo ella misma)
+    - Cap. 20: El Espíritu.  (el Espiritu de la vida, el mio propio, y la conciencia)
+    - Cap. 21: La vida eterna.  (el viaje de mi Espiritu hacia la eternidad, y el de Abraham)
     - Cap. 22: El origen de la vida.  
 
 - **Acto 6: Conclusiones**  
   - Cierra el viaje con reflexiones sobre la realidad, lo trascendente y la paz interior.  
   - **Capítulos:**  
-    - Cap. 23: Vuelta a la realidad.  
-    - Cap. 24: Lo trascendente.  
+    - Cap. 23: Vuelta a la realidad.  (mission)
+    - Cap. 24: Lo trascendente.  (lo que hemos hecho)
     - Cap. 25: La paz interior.  
 
 #### **4. Historias de Usuario**  

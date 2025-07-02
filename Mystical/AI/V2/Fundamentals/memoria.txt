@@ -1,0 +1,25 @@
+no. lo que dices no es correcto.
+no existe la posibilidad de desbordamiento de la memoria debido al diseno del sistema.
+
+- control del espacio de memoria (ADN e individuos)
+explicacion:
+en los ordenadores que utlizamos la memoria tiene un limite.
+algunas veces no podemos predecir la cantidad de memoria que necesitaremos para realizar un calculo.
+y la memoria podria desbordarse.
+esta limitacion hace que ciertos problemas deban ser considerados inabordables.
+la vida utiliza ADN como memoria, al construir a un individuo ya sabe de antemano la cantidad de memoria que necesitara, 
+y no se almacenara nueva informacion en la memoria despues de creada, por tratarse de una memoria de solo letura.
+esto elimina la posibilidad de desbordamiento.
+
+
+esta caracteristica ademas permite abordar problemas inabordables en otras arquitecturas, debido a que la memoria puede crecer dinamicamente con las necesidades del problema. ajustando el espacio de memoria fisica exactamente a la cantidad necesaria en cada momento. no sobra y no falta.
+
+------------------------------
+
+
+
+
+
+
+
+
