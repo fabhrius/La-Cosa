@@ -45,7 +45,7 @@ Estructura del capitulo (por secciones) :
 
 -------------------
 
-notas de la estructura:
+notas:
 
 - todos los capitulos terminan con un 'cliffhanger', Elara se enfrenta a un peligro mortal y el capitulo termina abruptamente dejando a Elara al borde de la muerte, y al lector en suspenso.
 la idea es crear espectacion para motivar al lector a continuar leyendo el proximo capitulo.
@@ -55,8 +55,27 @@ la idea es atrapar la atencion del lector para continuar leyendo.
 la seccion de laboratorio no forma parte de la aventura de Elara y es una seccion independiente.
 - todos los capitulos, ademas de describir una parte del viaje de Elara, contienen una historia unitaria con principio y final, lo que los convierte en libros que pueden ser leidos independientemente del resto del libro, como si fueran libros de una coleccion.
 Y al mismo tiempo todos ellos forman el viaje de Elara, manteniendo la continuidad y narrando una historia que empieza en el primer capitulo y termina en el ultimo.
-- en todos los capitulos Elara conoce a un personaje coprotagonista que desempena el rol de 'anfitrion', y que ayudara a Elara a encontrar algunas de las respuestas que busca.
+- en todos los capitulos Elara conoce a un personaje coprotagonista que desempena el rol de 'anfitrion', y que ayudara a Elara a encontrar algunas de las respuestas que busca. Las respuestas que Elara conseguira a traves de sus anfitriones estaran basadas normalmente en creencias populares, fe y misticismo, siendo por lo tanto subjetivas e imposibles de comprobar.
 - en todos los capitulos existe un 'enemigo' como parte de la lucha entre el bien y el mal que se desarrolla a lo largo de toda la historia.
+estos enemigos, normalmente magos, bujos o hechiceros, intentaran boicotear los planes de Elara, obtener informacion acerca de sus planes e impedir que Elara consiga armas o poder.
+
+-------------------------
+
+
+la lucha entre el bien y el mal:
+
+- a lo largo de toda la historia se desarrolla un lucha entre el bien y el mal de la que Elara no tendra conocimiento hasta los ultimos capitulos.
+esto convierte a Elara en una presa facil, ya que esta desprevenida.
+El objetivo de Elara es encontrar el codice perdido, el antiguo libro magico que contiene todo el conocimiento, pero Elara no sabe que el mal Tambien quiere apoderarse del libro para utilizar su enorme poder con fines malignos.
+En esta historia, el mal en su forma mas pura esta encarnado por el malvado mago Morgerathus, que intentara por todos los medio apoderarse del libro magico para utilizar su poder para conquistar el mundo.
+Morgerathus luchara desde las sombras, en la distancia, y seran sus secuaces quienes perseguiran, acecharan, conspiraran y se enfrentaran a Elara en cada capitulo.
+Morgerathus ha conseguido la inmortalidad a traves de la magia, y nunca ha existido ni existira un mago mas poderoso, ni tampoco mas malvado.
+Elara sabe adonde se encuentra el codice perdido, pero Morgerathus no.
+Por este motivo Morgerathus no puede deshacerse de Elara hasta que averigue adonde esta el codice.
+Intentara obtener la informacion mediante enganos y perseguira a Elara continuamente para saber adonde va, con el objetivo de apoderarse del libro.
+Al final de la historia se desarrollara la batalla final.
+
+
 
 
 
