@@ -1,31 +1,3 @@
-
-Procedimiento de desarrollo de un capitulo:
-
-1- listado de preguntas existenciales que encontraran respuesta
-2- establecer el mensaje objetivo (existencial)
-3- listado de caracteristicas tecnicas que seran explicadas en el laboratorio
-
-
-
-
-
---------------------------
-
-
-1 - establecer el mensaje objetivo 
-2 - borrador del laboratorio 
-3- moralejas y enseñanzas 
-4- primer borrador del guión.
-- cuento unitario 
-5- estructura del capítulo 
-6- borrador estructurado 
-7- desarrollo por partes 
-8- cliffhangers y resoluciones 
-- flashback 
-
-
----------------------------
-
 Estructura del capitulo (por secciones) :
 
 - Hook - (resolución del cliffhanger del capitulo anterior) 
@@ -45,7 +17,7 @@ Estructura del capitulo (por secciones) :
 
 -------------------
 
-notas de la estructura:
+notas:
 
 - todos los capitulos terminan con un 'cliffhanger', Elara se enfrenta a un peligro mortal y el capitulo termina abruptamente dejando a Elara al borde de la muerte, y al lector en suspenso.
 la idea es crear espectacion para motivar al lector a continuar leyendo el proximo capitulo.
@@ -55,39 +27,6 @@ la idea es atrapar la atencion del lector para continuar leyendo.
 la seccion de laboratorio no forma parte de la aventura de Elara y es una seccion independiente.
 - todos los capitulos, ademas de describir una parte del viaje de Elara, contienen una historia unitaria con principio y final, lo que los convierte en libros que pueden ser leidos independientemente del resto del libro, como si fueran libros de una coleccion.
 Y al mismo tiempo todos ellos forman el viaje de Elara, manteniendo la continuidad y narrando una historia que empieza en el primer capitulo y termina en el ultimo.
-- en todos los capitulos Elara conoce a un personaje coprotagonista que desempena el rol de 'anfitrion', y que ayudara a Elara a encontrar algunas de las respuestas que busca.
+- en todos los capitulos Elara conoce a un personaje coprotagonista que desempena el rol de 'anfitrion', y que ayudara a Elara a encontrar algunas de las respuestas que busca. Las respuestas que Elara conseguira a traves de sus anfitriones estaran basadas normalmente en creencias populares, fe y misticismo, siendo por lo tanto subjetivas e imposibles de comprobar.
 - en todos los capitulos existe un 'enemigo' como parte de la lucha entre el bien y el mal que se desarrolla a lo largo de toda la historia.
-
-
-
------
-
-Introduction:
-
-Tema:
-Reproduccion
-
-Escenario:
-
-
-Preguntas:
-
-porque los seres vivientes se reproducen?
-porque perpetuar las especies?
-
-
-
------
-
-Laboratorio:
-
-
-
-
-------------
-
-
-el bien contra el mal:
-
-
-
+estos enemigos, normalmente magos, bujos o hechiceros, intentaran boicotear los planes de Elara, obtener informacion acerca de sus planes e impedir que Elara consiga armas o poder.
