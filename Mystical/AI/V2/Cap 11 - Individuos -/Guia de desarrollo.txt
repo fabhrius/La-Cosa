@@ -1,4 +1,11 @@
 
+1- listado de preguntas existenciales
+2- mensaje objetivo
+
+
+
+
+
 Procedimiento de desarrollo de un capitulo:
 
 1 - establecer el mensaje objetivo 

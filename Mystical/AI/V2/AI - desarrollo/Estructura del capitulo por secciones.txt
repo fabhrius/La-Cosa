@@ -2,16 +2,13 @@ Estructura del capitulo (por secciones) :
 
 - Hook - (resolución del cliffhanger del capitulo anterior) 
 - introduccion - (tema - escenario - preguntas)
-- historia 1
 - background - flashback 
 - el anfitrión - (presentacion del coprotagonista) 
-- historia 2
-- misticismo y ciencia
+- misticismo y ciencia (desarrollo del tema)
 - cliffhanger (previo a la seccion de laboratorio)
-- Laboratorio
+- Laboratorio (seccion cientifica independiente)
 - resolución del cliffhanger previo al laboratorio
-- historia 3
-- climax
+- climax (el argumento sufre un giro inesperado)
 - cliffhanger (final del capitulo)
 
 

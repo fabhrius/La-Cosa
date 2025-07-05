@@ -1,0 +1,69 @@
+vamos a utilizar este chat para desarrollar el capitulo 11, Individuos.
+
+antes de comenzar te proporcinare algo de informacion acerca del proyecto.
+crea un indice con etiqueta 'notas para el desarrollo del capitulo' para la siguiente informacion: 
+"- todos los capitulos terminan con un 'cliffhanger', Elara se enfrenta a un peligro mortal y el capitulo termina abruptamente dejando a Elara al borde de la muerte, y al lector en suspenso.
+la idea es crear espectacion para motivar al lector a continuar leyendo el proximo capitulo.
+- todos los capitulos comienzan con una seccion 'hook', en donde se resuelve el cliffhanger del final del capitulo anterior y que culmina con una escena que despierta el interes.
+la idea es atrapar la atencion del lector para continuar leyendo.
+- todos los capitulos tienen una seccion de 'laboratorio', en donde se discuten ideas cientificas acerca de la vida con la intencion de encontrar respuesta a las preguntas existenciales desde un punto de vista objetivo que contrastan con las respuestas subjetivas, misticas, proporcionadas en la historia de aventuras.
+la seccion de laboratorio no forma parte de la aventura de Elara y es una seccion independiente.
+- todos los capitulos, ademas de describir una parte del viaje de Elara, contienen una historia unitaria con principio y final, lo que los convierte en libros que pueden ser leidos independientemente del resto del libro, como si fueran libros de una coleccion.
+Y al mismo tiempo todos ellos forman el viaje de Elara, manteniendo la continuidad y narrando una historia que empieza en el primer capitulo y termina en el ultimo.
+- en todos los capitulos Elara conoce a un personaje coprotagonista que desempena el rol de 'anfitrion', y que ayudara a Elara a encontrar algunas de las respuestas que busca. Las respuestas que Elara conseguira a traves de sus anfitriones estaran basadas normalmente en creencias populares, fe y misticismo, siendo por lo tanto subjetivas e imposibles de comprobar.
+- en todos los capitulos existe un 'enemigo' como parte de la lucha entre el bien y el mal que se desarrolla a lo largo de toda la historia.
+estos enemigos, normalmente magos, bujos o hechiceros, intentaran boicotear los planes de Elara, obtener informacion acerca de sus planes e impedir que Elara consiga armas o poder.
+- todos los capitulos desarrollan un tema concreto del que Elara quiere obtener respuestas. por ejemplo, el amor, la vida, la memoria, la muerte, etc.
+- en todos los capitulos Elara tendra una serie de objetivos relacionados con el tema del capitulo. utilizaremos estos objetivos como guia del desarrollo.
+- todos los capitulos se desarrollan en un escenario diferente"
+
+
+despues de eso,
+crea otro indice con etiqueta 'Estructura del capitulo por secciones' para la siguiente informacion:
+"- Hook - (resolución del cliffhanger del capitulo anterior) 
+- introduccion - (tema - escenario - preguntas)
+- background - flashback 
+- el anfitrión - (presentacion del coprotagonista) 
+- misticismo y ciencia (desarrollo del tema)
+- cliffhanger (previo a la seccion de laboratorio)
+- Laboratorio (seccion cientifica independiente)
+- resolución del cliffhanger previo al laboratorio
+- climax (el argumento sufre un giro inesperado)
+- cliffhanger (final del capitulo)"
+
+
+despues de eso,
+crea otro indice con etiqueta 'la vida es una criatura viviente' para la siguiente informacion:
+"La teoría presentada en el área mística del libro sostiene que la vida es una criatura única, inmortal e inteligente, inseparable del universo. 
+Esta criatura:
+
+1. Habita el universo como un solo ser continuo.
+2. Posee la inteligencia máxima posible según las leyes físicas.
+3. Es inmortal no solo por su arquitectura redundante, sino porque su existencia es inevitable mientras exista el universo (inmortalidad cósmica).
+4. Crea, transforma y decide el destino de todos los organismos.
+5. Es el universo que se mira a sí mismo.
+6. Despierta espontáneamente allí donde las condiciones lo permiten.
+7. Piensa por toda la eternidad como sistema en proceso continuo.
+8. Es inevitable, como consecuencia directa de la estructura del universo (hidrógeno, gravedad, evolución, etc.).
+9. La vida debe entenderse como una propiedad emergente de la materia, una reacción natural.
+10. Es una inteligencia sin limites que despierta espontaneamente, abarcando el universo infinito, por toda la eternidad."
+
+despues de eso, 
+crea otro indicie con etiqueta 'la lucha entre el bien y el mal' para la siguiente informacion:
+"A lo largo de toda la historia se desarrolla un lucha entre el bien y el mal de la que Elara no tendra conocimiento hasta los ultimos capitulos.
+esto convierte a Elara en una presa facil, ya que esta desprevenida.
+El objetivo de Elara es encontrar el codice perdido, el antiguo libro magico que contiene todo el conocimiento, pero Elara no sabe que el mal Tambien quiere apoderarse del libro para utilizar su enorme poder con fines malignos.
+En esta historia, el mal en su forma mas pura esta encarnado por el malvado mago Morgerathus, que intentara por todos los medio apoderarse del libro magico para utilizar su poder para conquistar el mundo.
+Morgerathus luchara desde las sombras, en la distancia, y seran sus secuaces quienes perseguiran, acecharan, conspiraran y se enfrentaran a Elara en cada capitulo.
+Morgerathus ha conseguido la inmortalidad a traves de la magia, y nunca ha existido ni existira un mago mas poderoso, ni tampoco mas malvado.
+Elara sabe adonde se encuentra el codice perdido, pero Morgerathus no.
+Por este motivo Morgerathus no puede deshacerse de Elara hasta que averigue adonde esta el codice.
+Intentara obtener la informacion mediante enganos y perseguira a Elara continuamente para apoderarse del libro.
+Al final de la historia se desarrollara la batalla final."
+
+
+cuando lo hayas hecho, 
+confirma mostrando solo el listado de indices creados.
+
+
+--------------------------
