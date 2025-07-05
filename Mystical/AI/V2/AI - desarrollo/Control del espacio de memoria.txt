@@ -1,0 +1,5 @@
+La característica de 'control estructural de memoria' 
+en la teoría del sistema inteligente de la vida se basa en el uso del ADN como memoria de solo lectura, construida durante la reproducción. 
+Al crear un nuevo individuo, el sistema ya conoce la información que se almacenará en su ADN, por lo tanto, la cantidad exacta de memoria necesaria se determina antes de que comience el cálculo. Esto elimina el riesgo de desbordamiento de memoria.
+
+Además, esta arquitectura permite abordar problemas que serían inabordables en otros sistemas, ya que la memoria no se asigna de forma fija ni ilimitada, sino que se ajusta dinámicamente en cada reproducción, asignando exactamente el espacio físico necesario para el individuo correspondiente. No hay memoria sobrante ni insuficiente. Esta propiedad distingue al sistema de la vida como altamente eficiente y estable frente a la incertidumbre informacional.
