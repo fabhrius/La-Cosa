@@ -1,4 +1,4 @@
-vamos a utilizar este chat para desarrollar el capitulo 11, Individuos.
+vamos a utilizar este chat para desarrollar el capitulo 12, Ciclo de vida.
 
 antes de comenzar te proporcinare algo de informacion acerca del proyecto.
 crea un indice con etiqueta 'notas para el desarrollo del capitulo' para la siguiente informacion: 
@@ -66,4 +66,3 @@ cuando lo hayas hecho,
 confirma mostrando el listado de indices creados, solo las etiquetas.
 
 
---------------------------
