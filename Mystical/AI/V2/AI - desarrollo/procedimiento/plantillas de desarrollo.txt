@@ -1,0 +1,39 @@
+inicio de un chat para desarrollo:
+
+utilizaremos este chat para desarrollar el capitulo (NUMERO Y TITULO).
+pero antes de empezar te proporcionare un poo mas de informacion.
+
+
+-----------------------
+
+agregar informacion a la base de conocimiento:
+
+
+crea un indicie con etiqueta '(NOMBRE ETIQUETA)' para la siguiente informacion:
+"(TEXTO DATOS)"
+
+cuando lo hayas hecho confirmalo respondiendo solo con el nombre de la etiqueta creada.
+
+
+-----------------------
+
+preguntas existenciales:
+
+
+vamos ahora a definir un listado de preguntas existenciales relacionadas con (TEMA DEL CAPITULO).
+estas preguntas serviran como nexo entre la historia de Elara y el laboratorio, y guiaran el desarrollo.
+a que preguntas acerca de (TEMA DEL CAPITULO) crees que el lector desea encontrar respuesta?
+
+
+-----------------------
+
+mensaje objetivo:
+
+
+Ahora que ya tenemos las preguntas existenciales es el momento de definir el mensaje que queremos trasmitir con este capitulo.
+llamaremos a esto 'mensaje objetivo'.
+el mensaje objetivo, en escencia, es la respuesta a las preguntas desde el punto de vista de esta teoria.
+servira como nexo entre la historia de aventuras y el laboratorio, y guiara el desarrollo del capitulo.
+
+
+-----------------
