@@ -1,0 +1,9 @@
+
+el proceso de resolucion de un problema cambiara de estado cada vez que se realice una operacion sobre los datos.
+asi podemos ver al proceso de resolucion de un problema como una secuencia de estados en donde podemos distinguir tres tipos de estado caracteristicos.
+1- el estado inicial: es el punto de partida del proceso
+2- un estado final: es el estado al que se quiere llegar, contiene la solucion al problema
+3- los estados intermedios: son todos los estados que no son inicial ni final, o todos los estados por los que pasara el proceso para llegar desde el estado incial hasta el estado final.
+
+
+- el ADN contenido en un individuo representa uno de los posibles estados en que se encuentra el proceso en un instante del tiempo.

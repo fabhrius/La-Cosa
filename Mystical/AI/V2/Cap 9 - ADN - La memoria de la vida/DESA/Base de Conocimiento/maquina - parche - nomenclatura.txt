@@ -1,0 +1,3 @@
+al sistema inteligente basado en individuos que utilizamos como centro de la teoria, lo llamaremos "maquina logica".
+a la abstraccion logica que utilizamos para simular a un individuo en esta maquina logica lo llamaremos "individuo logico", esto nos ayudara a distinguirlo de los individuos "biologicos", que son aquellos reales creados por la naturaleza.
+a la estructura logica que utilizamos para simular al ADN en nuestra maquina logica la llamaremos "ADN logico", para diferenciarla del ADN "biologico", que es el real.
