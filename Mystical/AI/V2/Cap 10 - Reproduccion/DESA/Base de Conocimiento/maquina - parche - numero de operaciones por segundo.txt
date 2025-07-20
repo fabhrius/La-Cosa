@@ -1,0 +1,12 @@
+el hecho de que con cada generacion se avance solo en una operacion simple en el proceso de calculo puede parecer lento.
+en especial si pensamos que una generacion humana se produce cada 20 anos.
+
+sin embargo, debemos tener en cuenta lo siguiente:
+las diferentes especies representan diferentes procesos ejecutandose concurrentemente, en paralelo.
+si pensamos en cuantas bacterias viven en el interior de un ser humano en un instante del tiempo, tenemos un numero muy elevado de individuos.
+si despues miramos alrededor intentado calcular cuantos individuos hay con vida en el mundo en este instante, teniendo cuenta a todos ellos, plantas, insectos, peces, bacterias, todo.
+la cifra es astronomica.
+en una estimacion la cifra podria estar en torno a los 10 elevado a 32 individuos.
+asi las cosas, cuantos individuos crees que podrian estar naciendo por segundo?
+podemos estimar que aproximadamente 3 por 10 elevado a 24.
+ese es el numero de operaciones que esta maquina realiza por segundo.
