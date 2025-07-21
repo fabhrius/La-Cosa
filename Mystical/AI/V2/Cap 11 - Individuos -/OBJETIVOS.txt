@@ -9,8 +9,11 @@ que son los individuos?
 
 lab objetivos:
 
-- el individuo como bloque de construccion
+- que son los individuos? (biologicos)
+- porque la vida crea individuos?
+- porque los individuos son diferentes entre si?
 - el individuo como contenedor de un bloque de memoria
+- el individuo como bloque de construccion del sistema
 - ciclo de vida: un conjunto reducido de instrucciones
 
 
