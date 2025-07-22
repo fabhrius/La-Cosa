@@ -1,0 +1,11 @@
+las ideas que propones estan bastante bien.
+antes de lanzarnos con el desarrollo comenzaremos por definir una lista de objetivos.
+
+creo que la siguiente lista incluye los puntos importantes:
+
+- que es el ciclo de vida? (definicion accesible)
+- describir el ciclo de vida en la naturaleza (biologico)
+- function del ciclo de vida en la arquitectura del sistema (tecnico) (bucle de ejecucion en un sistema distribuido)
+- el ciclo de vida y el individuo (mistico, reflexion existencial)
+
+dime si estas de acuerdo y si crees que deberiamos incluir algo mas.

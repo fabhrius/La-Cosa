@@ -1,0 +1,179 @@
+ok.
+lo que propones esta bien, utilizaremos algunas de estas ideas dentro del contexto de la siguiente estructura de temas:
+
+'
+- que son los individuos? (biologicos)
+- porque la vida crea individuos?
+- porque los individuos son diferentes entre si?
+- el individuo como contenedor de un bloque de memoria
+- el individuo como disparador del proceso de reproduccion
+- el individuo como bloque de construccion del sistema
+- ciclo de vida: un conjunto reducido de instrucciones
+'
+
+
+desarrollaremos estos temas uno a uno, incrementalmente.
+empezaremos por definir una estructura para el primero de ellos:
+'1- que son los individuos?'
+
+hablaremos aqui de los individuos biologicos como la unidad caracteristica de la vida. las especies se componen de individuos y todo en la vida son individuos.
+
+
+como estructurarias esta primera seccion?
+
+
+-----------------------
+
+
+continuemos con la siguiente seccion: '2- porque la vida crea individuos?'
+
+seguimos hablando de individuos biologicos, todavia no hablamos del sistema inteligente ni la maquina logica, esos temas se abordaran en las siguientes secciones.
+por ahora nos limitamos a hablar de la vida real, individuos reales.
+la idean es intentar razonar acerca de su necesidad.
+para las personas entender la realidad es dificil, la vida es extrana.
+porque no existo yo, mi pensamiento, libre, no es necesario mas.
+sin embargo, me encuentro con un mundo de individuos, que limitan mi libertad y complican las cosas. compiten por los recursos y tengo que adaptarme para convivir con ellos, un mundo de individuos que vienen y van, animales salvajes que me amenazan, etc.
+porque las cosas tienen que ser asi? porque no es solo mi Espiritu y el universo.?
+
+
+como estructurarias esta seccion para que sea interesante y cargada de contenido que incite a la reflexion?
+
+
+------------------------
+
+
+continuemos con la siguiente seccion: '3- porque los individuos son diferentes entre si?'
+
+
+seguimos reflexionando acerca de individuos biologicos.
+hablamos de la diferencia y de como no pueden existir dos iguales, no importa cuantos se generen, siempre seran diferentes.
+y esto implica que asi como no pueden existir dos individuos iguales tampoco pueden existir dos especies iguales. ya que cada individuo es el origen de una nueva especie.
+esto elimina la idea de que la vida en otros planetas podria parecerse a la nuestra o tener un desarrollo evolutivo semejante.
+
+comentamos los posibles motivos que hacen necesaria esta diferencia.
+y puedes aportar cualquier idea, ejemplo, referencias a otras teorias o cualquier otro contenido que creas que puede enriquecer la discussion.
+recuerda que el alma del libro es una reflexion acerca de la existencia, y por lo tanto, cualquier aportacion que puedas hacer de cualquier corriente de pensamiento relacionada puede ayudarnos a enriquecer el contenido de esta seccion.
+
+que estructura propones para esta seccion?
+
+-----------------------
+
+yo agregaria algo mas.
+como tu dices: la diferencia es buena porque permite explorar diferentes caminos, sin embargo, la existencia de un individuo igual de vez en cuando no impide la exploracion.
+pero, teniendo en cuenta el elevado coste del sistema, si se impide la exististencia de dos individuos iguales, se asegura que no haya dos realizando el mismo trabajo.
+
+
+---------------------
+
+
+dejaremos el desarrollo para mas adelante. primero quiero tener una vision de la estructura de todo el capitulo para asegurar la consistencia, evitar solapamientos y redundancias, y que se explicaran los temas necesarios.
+
+continuemos ahora con la estructura de la siguiente seccion: '4- el individuo como contenedor de un bloque de memoria'
+
+seguimos hablando de individuos biologicos, dejamos la maquina logica para los siguientes capitulos.
+el individuo no solo contiene el bloque de memoria (ADN), sino que Tambien contiene las herramientas necesarias para manipularlo.
+y es el individuo el unico que puede utilizar la informacion de algun modo.
+este diseno recuerda un poco a los objetos de la programacion orientada a objetos.
+
+y continuamos buscando formas de incitar a la reflexion del lector.
+puedes aportar referencias a otras corrientes de pensamiento relacionadas y abordar las preguntas existenciales que las personas podrian hacerse con este sujeto.
+
+que estructura propones para esta seccion?
+
+
+-----------------------------
+
+
+creo que nos estamos desviando.
+vamos a retomar el rumbo.
+en este capitulo, cuando hablamos de individuos, lo importante es, 
+la idea de que el individuo en un 'componente'.
+no un componente mas del sistema, sino el unico componente del sistema.
+los individuos son los bloques de contruccion del sistema.
+un componente que contiene la memoria, con la informacion del estado del sistema en un instante del tiempo,
+y el mecanismo que genera uno o mas estados siguientes posibles desde este punto del proceso, el mecanismo reproductor, que funciona como el procesador del sistema.
+
+y esto es lo que debemos describir en este laboratorio.
+he agrupado los puntos clave en la siguiente lista:
+- el individuo como contenedor de un bloque de memoria (el estado del proceso)
+- el individuo como disparador del proceso de reproduccion (procesador de la informacion)
+- el individuo como (unico) bloque de construccion del sistema (componente)
+
+esto es lo que nos interesa.
+sin embargo, ademas del puramente tecnico, es importante el enfoque biologico y personal.
+y las ideas misticas y el valor e importancia que las personas desean encontrar en su rol.
+debemos abordar el tema con realismo y rigor, pero a la vez alentar el optimismo y trasmitir un mensaje positivo, energizante y gratificante.
+
+como podemos ver en proceso que lleva a cabo la maquina logica, lo importante es avanzar en el proceso.
+y aunque el individuo no es importante en si mismo, solo el individuo puede conseguir aquello que tiene valor real, aquello que es importante, lo unico importante, y eso es, hacer que el proceso avance.
+
+que otras ideas puedes proponer y como crees que deberiamos estructurar todo esto?
+abordemoslo de un punto de vista mistico existencial, teniendo en cuenta la relacion con el sistema que estamos describiendo y el modelo de vida en que basamos nuestro analisis.
+debe abordarse en un tono existencial por ahora porque el lector no conoce todavia la maquina logica que describiremos mas adelante.
+
+
+-----------------------------------
+
+
+eso esta mejor.
+continuemos por este camino.
+vamos ahora a estructurar una seccion anterior con este mismo tono reflexivo, realista y positivo, la seccion, '4- individuo como contenedor de un bloque de memoria'
+
+esta vez la abordaremos centrandonos en el estado del sistema, el individuo representa el punto maximo alcanzado por el sistema, y en su memoria almacena toda la trayectoria pasada y es el unico que puede crear el futuro.
+aunque concientemente no lo sabe, no puede recordarlo, ni puede tener conciencia del proceso de la vida, el es la vida misma y conoce cada secreto.
+es por lo tanto, el testigo del pasado, el portador de todo lo conseguido, y el artifice del futuro.
+es parte de la vida y es la vida misma, y de una forma mistica, es parte de dios y es dios mismo.
+aunque no pueda saberlo concientemente.
+
+que mas puedes aportar para hacer esta seccion interesante y gratificante?
+y que estructura propones ?
+
+---------------------------------
+
+
+eso esta bien.
+el laboratorio describe un sistema logico, sin embargo para que resulte atractivo al lector debe estar envuelto es este mensaje existencial, trascendente, mistico.
+porque es eso lo que el lector busca en este libro.
+respuestas sobre su propia existencia.
+y en ellas quiere descubrir que su existencia tiene valor, que es importante, y que ha hecho bien su trabajo.
+debemos continuar con este tono.
+
+vamos ahora a estructurar la siguiente seccion, '5- el individuo como disparador del proceso de reproduccion'
+
+debemos destacar aqui que el individuo es el unico que puede hacer que el sistema avance hacia su objetivo.
+se le ha confiado una tarea sagrada, que el llevara a cabo sin saberlo.
+todo lo que es importante lo hara el, el individuo, sin saberlo, solo viviendo su vida.
+es un trabajado incansable que solo es feliz cuando hace lo que debe hacer.
+
+si el maximo logro que ha alcanzado la vida puede ser superado, solo el puede hacerlo, el individuo.
+
+puedes aportar mas ideas en este sentido?
+que estructura propones para esta seccion?
+
+
+---------------------------------
+
+
+ok.
+este tono es inspirador. vamos a continuar en esta linea.
+volvamos a pensar la primera seccion, '1- que son los individuos?'
+con esta vision mistica y trascendental en donde los individuos son los portadores de todo lo importante, la experiencia, el conocimiento, y tienen en sus manos la responsabilidad de la tarea mas trascendental, la de mantener viva la inteligencia por toda la eternidad.
+adquiriendo el conocimiento, manteniendolo, y trasmitiendolo.
+
+podemos describirlo con una imagen mistica del tipo:
+una inteligencia ocupa el universo, pensando en soledad por toda la eternidad.
+nada puede igualar la potencia y claridad de su pensamiento.
+una inteligencia que se alimenta de almas.
+pero es el trabajo de los individuos lo que hace posible que su pensamiento brille con intensidad cegadora, iluminando el espacio infinito del universo, hasta los rincones mas remotos, por toda la eternidad.
+
+destacamos aqui el rol fundamental, imprescindible, de los individuos en la tarea mas importante. 
+que es Tambien la unica tarea dirigida que existe. la unica tarea.
+
+que otras ideas puedes aportar para hacer esta seccion mas interesante?
+que estructura propones para esto?
+
+
+
+
+
+
