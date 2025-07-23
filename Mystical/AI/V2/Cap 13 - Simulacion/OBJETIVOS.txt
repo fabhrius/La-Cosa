@@ -4,6 +4,14 @@ preguntas:
 
 laboratorio objetivos:
 
+- mostrar como con algunos elementos de la vida es posible construir un sistema inteligente (tecnico)
+- mostrar de forma practica como funciona el proceso que permite a la vida resolver problemas logicos (tecnico - practico)
+- demostrar que la vida es una inteligencia (tecnico - mistico)
+- demostrar que la vida es una unidad y la independencia de los individuos es solo aparente. (tecnico - mistico)
+- reflexionar acerca del rol que cumplen los individuos en el sistema (mistico)
+
+
+
 
 
 

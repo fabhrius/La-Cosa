@@ -1,5 +1,5 @@
 
-explicamos paso a paso como 
+en este libro explicamos paso a paso como 
 utilizando algunas caracteristicas de la vida
 podemos crear con ellas un sistema inteligente que resuelve problemas logicos automaticamente.
 y como 
