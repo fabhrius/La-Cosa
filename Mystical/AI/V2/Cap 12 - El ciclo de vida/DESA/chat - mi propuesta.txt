@@ -91,5 +91,22 @@ como lo abordarias tu?
 y que estructura crees que deberia tener esta seccion?
 
 
+-----------------------------------------
+
+
+ok.
+continuemos con la siguiente seccion, '3- function del ciclo de vida en la arquitectura del sistema (tecnico) (bucle de ejecucion en un sistema distribuido)'
+
+
+es el momento de abordar el ciclo de vida desde un punto de vista tecnico.
+debemos explicar porque forma parte del sistema que vamos a construir.
+existe alguna necesidad de incluirlo? podemos construir el sistema sin el?
+cual es su function?
+
+puedes incluir las ideas y referencias que creas necesarias para explicar este tema con claridad.
+cual es tu propuesta para esto?
+empecemos por definir la estructura de la seccion.
+
+
 
 
