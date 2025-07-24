@@ -1,0 +1,45 @@
+
+
+1- mostrar como con algunos elementos de la vida es posible construir un sistema inteligente (tecnico)
+
+con los elementos que hemos comentado en los capitulos anteriores vamos a construir una maquina que resuelva problemas logicos automaticamente.
+un computador.
+
+
+recordemos lo visto en los capitulos anteriores:
+- la memoria, necesaria como soporte del sistema de calculo, mantiene la informacion y los cambios realizados en el proceso, el ADN funciona como una memoria de solo lectura, y puede ser utilizada para almacenar el estado del proceso.
+- la reproduccion, necesaria para modificar la informacion y crear una nueva memoria con el nuevo estado del proceso, es el procesador del sistema.
+
+- el ciclo de vida, un conjunto minimo de instrucciones utilizado como bucle general de ejecucion en un sistema distribuido en donde el proceso es ejecutado por un numero indeterminado de unidades de proceso. mantiene el proceso en ejecucion y convierte al conjunto de procesos independientes en una unidad.
+
+
+- el individuo, como componente del sistema. contiene un fragmento de memoria con uno de los posibles estados del proceso. contiene Tambien el mecanismo reproductor. Y ejecuta un ciclo de vida.
+todos los elementos funcionales de la maquina estan contenidos en el individuo. convirtiendolo en una maquina totalmente independiente que solo puede trabajar en equipo.
+
+
+en la practica,
+vamos a construir un sistema inteligente utilizando los elementos que hemos comentado y lo pondremos en marcha.
+veremos asi como funciona una maquina de este tipo.
+
+No sera dificil.
+El individuo contiene todos los elementos necesarios, y no son muchos, memoria, reproduccion y ciclo de vida.
+
+de modo que construir un sistema inteligente de este tipo se reduce a construir un individuo, el individuo apropiado.
+veamos como.
+
+
+-------------------------
+
+
+2- mostrar de forma practica como funciona el proceso que permite a la vida resolver problemas logicos (tecnico - practico)
+
+
+
+
+-------------------------
+
+
+
+- demostrar que la vida es una inteligencia (tecnico - mistico)
+- demostrar que la vida es una unidad y la independencia de los individuos es solo aparente. (tecnico - mistico)
+- reflexionar acerca del rol que cumplen los individuos en el sistema (mistico)
