@@ -49,12 +49,13 @@ veamos como.
 
 3- demostrar que la vida es una inteligencia (tecnico - mistico)
 
-- que ha pasado?
+3.1- que ha pasado?
 los individuos cumplen con su ciclo de vida.
 la respuesta emerge de la estructura del sistema
 
-- que hace el sistema?
+3.2- que hace el sistema?
 el diseno, su estructura, parece tener un unico objetivo
+solo es una function logica. es pensamiento. inteligencia
 
 
 ------------------------
