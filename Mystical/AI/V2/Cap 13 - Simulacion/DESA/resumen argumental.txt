@@ -31,6 +31,7 @@ El individuo contiene todos los elementos necesarios, y no son muchos, memoria, 
 de modo que construir un sistema inteligente de este tipo se reduce a construir un individuo, el individuo apropiado.
 veamos como.
 
+(MISTICO: EL INDIVIDUO)
 
 -------------------------
 
@@ -57,19 +58,45 @@ la respuesta emerge de la estructura del sistema
 el diseno, su estructura, parece tener un unico objetivo
 solo es una function logica. es pensamiento. inteligencia
 
+(MISTICO: LA INTELIGENCIA OCULTA)
 
 ------------------------
 
 4- demostrar que la vida es una unidad y la independencia de los individuos es solo aparente. (tecnico - mistico)
 
+4.1- la independencia del individuo
 - los individuos viven sus vidas ajenos al proceso
 - los individuos no piensan en el problema
-- el sistema es uno
+
+4.2 - dos espiritus
+- la solucion al problema la encuentra un sistema formado por todos los individuos.
+- el sistema y el individuo tienen responsabilidades diferentes, el sistema busca soluciones, el individuo cumple su ciclo de vida.
+
+4.3- el sistema como una entidad
+- el sistema es una entidad diferente del individuo.
+- El sistema es uno.
 
 -----------------------
 
 5- reflexionar acerca del rol que cumplen los individuos en el sistema (mistico)
 
-- individuos como componentes
-- individuo como maquina
+5.1- la funcion
+- los individuos son los componentes del sistema
+- el individuo Tambien es la maquina, porque basta un individuo para lanzar el sistema, cada individuo es la semilla de una rama y tambien la semilla del todo.
+
+5.2- el espiritu
+- en el interior del individuos viven dos espiritus, uno mortal (el yo), el otro inmortal (el sistema)
+
+5.3- la accion conciente
+- el individuo solo cumple su ciclo de vida, sigue su instinto, y solo puede hacer aquello que debe hacer, no tiene eleccion, no puede equivocarse, la posibilidad de error ha sido eliminada, cualquier decision que tome le conducira a hacer lo que debe hacer. y nada de lo que haga puede alterar el resultado del calculo. 
+
+5.4- la importancia relativa del individuo
+- los individuos son componentes reemplazables. sin embargo el individuo es el unico que puede hacer el trabajo. sin individuos no hay sistema.
+- el individuo no busca la solucion al problema, pero son los individuos los que realizan el calculo.
+
+5.5- la singularidad del individuo
+- aun cuando el numero de individuos que forman el sistema tiende a infinito, no existen dos iguales. esto asegura que no hay dos realizando el mismo trabajo. el trabajo del individuo es unico y solo el puede hacerlo.
+
+
+
 
