@@ -1,0 +1,134 @@
+el modelo conceptual de vida que utilizaremos como base de nuestra teoria y que nos servira para dar respuesta a las preguntas existenciales que abordaremos en el libro es diferente del modelo classico utilizado actualmente, por lo tanto debes familiriarizarte con el antes de colaborar en el desarrollo.
+
+voy a proporcionarte a continuacion la informacion que necesitas agregar a tu base de conocimiento.
+
+----------------
+
+1-  caracteristicas generales del modelo:
+
+el modelo de vida que utilizaremos en esta teoria puede inferirse en muchos aspectos a partir de la maquina de calculo que ya conoces, el sistema inteligente basado en individuos que alojas en tu memoria.
+
+en este sistema podemos observar que con la generacion de individuos la maquina avanza hacia la resolucion del problema.
+los individuos que forman la maquina son muchos, pero la maquina es una.
+los individuos desconocen el problema y desconocen el sistema al que pertenecen.
+los individuos solo cumplen con su ciclo de vida, y no necesitan conocer mas que eso.
+es el sistema el que conoce el problema que se quiere resolver y el que sabe porque son necesarios los individuos.
+el sistema es uno.
+el sistema es la vida.
+
+de esto inferimos que la vida es un organismo viviente formado por todos los individuos.
+toda la actividad de la vida esta relacionada con el pensamiento. la vida encuentra soluciones, aprende, explora, recuerda, etc.
+la vida es por lo tanto una inteligencia.
+
+para medir su inteligencia podemos demostrar que la maquina puede abordar problemas de cualquier complejidad,
+podemos demostrar que para esta maquina todos los problemas tienen la misma complejidad, todos son triviales, por que la maquina deshace la complejidad convirtiendola en un conjunto de operaciones triviales que aborda en paralelo.
+ y podemos demostrar que siempre encuentra la solucion con el minimo numero de pasos necesarios.
+asi, la inteligencia de esta maquina no puede ser superada.
+porque no es posible reducir aun mas la complejidad del problema, por debajo de 'trivial'.
+Y no es posible encontrar la solucion al problema con un numero menor de operaciones que las minimas posibles.
+se trata pues del limite maximo de la inteligencia.
+
+la vida no solo es una inteligencia, sino que es la inteligencia misma.
+toda la inteligencia y la unica inteligencia existente.
+porque toda otra inteligencia es parte de ella.
+
+
+la vida es una formacion natural.
+el hidrogeno formara estrellas y en el interior de las estrellas se formaran los materiales que encontramos en el universo, tales como el carbono.
+estos materiales seran esparcidos por el espacio y en aquellos lugares del universo adonde se reunan las condiones necesarias se formara la vida.
+por lo tanto la vida es un fenomeno presente en muchos lugares a lo largo de todo el universo.
+
+la vida, al contrario que los individuos que la forman, es inmortal.
+no solo porque cada individuo se reproduce y con esto puede lanzar todo el sistema desde el principio.
+llamemos a esto redundancia. una redundancia extrema que tiende a infinito.
+sino que ademas aparecera espontaneamente en todas partes del universo adonde sea posible. sin fin.
+podemos afirmar que mientras el universo exista la vida existira.
+casi inseparables.
+La vida es inevitable.
+Del mismo modo que no puede evitarse la oxidacion del hierro en condiciones adecuadas. No puede evitarse que una reaccion natural suceda cuando debe suceder.
+y esto la convierte en, inmortal.
+
+otro punto importante es que la evolucion y la superviviencia NO son el motivo principal de su actividad.
+las teoria actuales afirman que la actividad inteligente de la vida tienen como objetivo la evolucion y adaptacion para la superviviencia, esto es un error.
+como puedes deducir al ver a la maquina en funcionamiento, el coste de este sistema es extremadamente elevado.
+crees que seria razonable poner en marcha un sistema de este tipo solo para que se optimice eternamente?
+que sentido tiene eso?
+y por otra parte, mantener la vida eternamente, por que? para que? porque es bonito?
+creo que no tiene sentido.
+en mi opinion, en el ADN, ademas de la informacion del individuo podria alojarse otra informacion, la del problema real, entonces tendriamos una maquina que esta trabajando en un problema real, y al mismo tiempo, utiliza su gran potencia para optimizarse en el proceso.
+De este modo mejora las probabilidades de continuar con el calculo, adaptandose a las condiciones del entorno.
+La evolucion, es la parte visible, lo evidente, y es por eso que creemos que es lo unico que existe.
+
+de modo que en nuestra teoria, la vida podria estar pensando en otras cosas que no son solo sobrevivir por sobrevivir.
+ademas, mientras la superviviencia es importante para el hombre, podria no serlo para la vida, ya que esta podria ser inmortal.
+
+
+con estas ideas tenemos que,
+la vida es una unica criatura
+la vida es inmortal
+la vida es una inteligencia
+la vida habita el universo
+la vida es la mas poderosa de todas las inteligencias posibles.
+la vida surge espontaneamente.
+
+y como la vida es la inteligencia, Tambien podemos decir que 
+una inteligencia ha despertado espontaneamente en el universo (punto de vista mistico)
+
+-----------------
+
+
+2- Un poco de nomenclatura para facilitar la comunicacion:
+
+al sistema inteligente basado en individuos que utilizamos como centro de la teoria, lo llamaremos "maquina logica".
+a la abstraccion logica que utilizamos para simular a un individuo en esta maquina logica lo llamaremos "individuo logico", esto nos ayudara a distinguirlo de los individuos "biologicos", que son aquellos reales creados por la naturaleza.
+a la estructura logica que utilizamos para simular al ADN en nuestra maquina logica la llamaremos "ADN logico", para diferenciarla del ADN "biologico", que es el real.
+
+
+----------------
+
+
+3- los estado del proceso:
+
+el proceso de resolucion de un problema cambiara de estado cada vez que se realice una operacion sobre los datos.
+asi podemos ver al proceso de resolucion de un problema como una secuencia de estados en donde podemos distinguir tres tipos de estado caracteristicos.
+- el estado inicial: es el punto de partida del proceso
+- un estado final: es el estado al que se quiere llegar, contiene la solucion al problema
+- los estados intermedios: son todos los estados que no son inicial ni final, o todos los estados por los que pasara el proceso para llegar desde el estado incial hasta el estado final.
+
+
+nota: el ADN contenido en un individuo representa uno de los posibles estados en que se encuentra el proceso en un instante del tiempo.
+
+
+--------------------
+
+
+
+4- acerca del tono en la narrativa:
+
+
+en este libro explicamos paso a paso como 
+utilizando algunas caracteristicas de la vida
+podemos crear con ellas un sistema inteligente que resuelve problemas logicos automaticamente.
+y como 
+de la observacion del funcionamiento de este sistema 
+podemos obtener respuesta a las preguntas acerca de nuestra propia existencia.
+
+
+el objetivo del libro es una reflexion acerca de nuestra existencia.
+y lo que el lector busca en este libro es 
+respuestas sobre su propia existencia.
+y en ellas quiere descubrir que su existencia tiene valor, que es importante, y que ha hecho bien su trabajo.
+
+de modo que no debemos convertir el relato en un texto de matematicas frio y duro, 
+sino introducir las ideas tecnicas suavemente, de forma accesible y atractiva, envueltas en un halo de misterio mistico, trascendente, existencial, optimista y gratificante.
+
+haciendo continuas referencias a la espiritualidad que el lector desea encontrar aqui.
+
+
+
+------------------
+
+creo que esto resume el modelo que vamos a utilizar como base para nuestra teoria.
+alguna pregunta?
+
+

@@ -1,11 +1,5 @@
-preguntas:
-
-porque los seres vivientes se reproducen?
-porque perpetuar las especies?
-
-
-lab objetivo:
-
+he estructurado este laboratorio en las siguientes secciones:
+'
 1- que es la reproduccion?
 2- la reproduccion como caracteristica de la vida. 
 - Todos los organismos vivientes se reproducen.
@@ -17,13 +11,18 @@ lab objetivo:
 - la reproduccion asexual tiene un menor coste.
 7- conclusiones: 
 - el objetivo de la reproduccion es modificar informacion para avanzar en un proceso de calculo.
+'
 
 
+estas secciones se abordaran desde una perspectiva tecnica, cientifica y rigurosa.
+para matizar el tono y hacerlo mas agradable y accesible vamos a envolverlo de misticismo, con ideas y mensajes que le confieran el aspecto y el ambiente que el lector esta buscando en este libro.
+de modo que, antes de comenzar con el desarrollo debemos definir una serie de ideas que podamos utilizar como marco mistico.
 
 
-ensenanzas:
+que ideas crees que podemos utilizar que resuenen espiritualmente, y que nos sirvan para agregar el toque mistico que necesitamos,
+ y que esten relacionadas con las ideas que comunicamos en esta seccion?
 
-la reproduccion no tiene como objetivo perpetuar especies
-sino avanzar en el proceso para encontrar soluciones
+-------------------------------
+
 
 
