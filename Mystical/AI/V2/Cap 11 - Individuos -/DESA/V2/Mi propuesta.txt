@@ -1,0 +1,27 @@
+he estructurado este laboratorio en las siguientes secciones:
+'
+1- que son los individuos? (biologicos)
+- definicion: unidades vivientes individuales que forman las especies.
+2- porque la vida crea individuos?
+3- el individuo como bloque de construccion de un sistema inteligente
+- el individuo como contenedor de un bloque de memoria con el estado del proceso
+- el individuo como generador del siguiente estado
+
+4- porque los individuos son diferentes entre si? 
+- cada individuo explora un camino diferente.
+5- ciclo de vida: un conjunto reducido de instrucciones (avance del proximo capitulo)
+'
+
+
+estas secciones se abordaran desde una perspectiva tecnica, cientifica y rigurosa.
+para matizar el tono y hacerlo mas agradable y accesible vamos a envolverlo de misticismo, con ideas y mensajes que le confieran el aspecto y el ambiente que el lector esta buscando en este libro.
+de modo que, antes de comenzar con el desarrollo debemos definir una serie de ideas que podamos utilizar como marco mistico.
+
+
+que ideas crees que podemos utilizar que resuenen espiritualmente, y que nos sirvan para agregar el toque mistico que necesitamos,
+ y que esten relacionadas con las ideas que comunicamos en esta seccion?
+
+-------------------------------
+
+
+

@@ -1,0 +1,13 @@
+
+
+1- que es la reproduccion?
+2- la reproduccion como caracteristica de la vida. 
+- Todos los organismos vivientes se reproducen.
+3- reflexion inicial, porque los seres vivientes se reproducen? perpetuar las especies? perpetuar la vida? porque?
+4- limitacion del ADN como memoria de solo lectura en el proceso de calculo
+5- la reproduccion como procesador (devuelve un bloque de memoria con el resultado de la operacion)
+6- porque existen distintos tipos de reproduccion?
+- la reproduccion sexual permite abordar problemas de mayor complejidad.
+- la reproduccion asexual tiene un menor coste.
+7- conclusiones: 
+- el objetivo de la reproduccion es modificar informacion para avanzar en un proceso de calculo.

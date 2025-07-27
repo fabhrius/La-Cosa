@@ -1,0 +1,14 @@
+
+
+
+
+1- que son los individuos? (biologicos)
+- definicion: unidades vivientes individuales que forman las especies.
+2- porque la vida crea individuos?
+3- el individuo como bloque de construccion de un sistema inteligente
+- el individuo como contenedor de un bloque de memoria con el estado del proceso
+- el individuo como generador del siguiente estado
+
+4- porque los individuos son diferentes entre si? 
+- cada individuo explora un camino diferente.
+5- ciclo de vida: un conjunto reducido de instrucciones (avance del proximo capitulo)
