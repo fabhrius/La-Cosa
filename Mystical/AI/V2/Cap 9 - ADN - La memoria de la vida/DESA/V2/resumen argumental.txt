@@ -17,12 +17,32 @@
 3- explicar la funcion de la memoria en un proceso de calculo generico.
 
 3.1- el proceso de calculo
-3.1.1- la infomacion del contexto del problema
-3.1.2- transformar la informacion 
-3.1.3- el proceso de calculo como una secuencia de estados
-3.1.4- la function de la memoria en el proceso
+ Elementos clave de un proceso
+- Inicio: Punto de partida o condición inicial.
+- Secuencia: Pasos o etapas ordenadas.
+- Transformación: Cambios que ocurren en cada etapa.
+- Finalidad: Resultado o estado al que se quiere llegar.
 
-3.1.5- ejemplo: suma de un listado de numeros
+
+3.2- el proceso de calculo como una secuencia de estados
+si pensamos en el proceso de calculo como en una secuencia de estados podemos distinguir tres estados caracterirsticos:
+- el estado inicial: punto de partida
+- el estado final : resultado
+- y los estados intermedios : todos los estados (que no son inicial o final) por los que atravesara el proceso.
+
+3.3- la infomacion del contexto del problema
+existe un conjunto de datos que describen los detalles del problema, y es sobre estos datos que aplicaremos transformaciones.
+los datos se iran modificando, transformando paso a paso hasta alcanzar el resultado final.
+
+3.4- transformar la informacion 
+la informacion del problema se transformara utilizando reglas conocidas que son exclusivas de cada problema concreto.
+en el caso de problemas matematicos las transformaciones podrian tener la forma de operaciones, funciones, o algoritmos, entre otras.
+
+3.5- la function de la memoria en el proceso
+los datos deben mantenerse en algun soporte para recuperarlos.
+en cualquiera de los posibles estados en que se encuentre el proceso.
+
+3.6- ejemplo: suma de un listado de numeros
 
 
 4- memorias modificables y no modificables (lectura y escritura o solo lectura)
