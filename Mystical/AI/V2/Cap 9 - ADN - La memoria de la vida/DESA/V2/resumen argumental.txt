@@ -47,8 +47,8 @@ en cualquiera de los posibles estados en que se encuentre el proceso.
 
 4- memorias modificables y no modificables
 
-- memorias de lectura y escritura: definicion y ejemplos
-- memorias de solo lectura: definicion y ejemplos
+- memorias de lectura y escritura: definicion y ejemplos (laptop)
+- memorias de solo lectura: definicion y ejemplos (disco de vinilo)
 
 
 5- ADN como memoria
@@ -58,10 +58,12 @@ en cualquiera de los posibles estados en que se encuentre el proceso.
 5.3- la necesidad de una memoria inmutable 
 - el individuo debe mantenerse sin cambios durante toda su vida, siempre es el mismo manteniendo las caracteristicas que lo definen.
 
-5.4- ADN como memoria de un sistema inteligente: la vida es un sistema inteligente, y el ADN es su memoria
+5.4- ADN como memoria de un sistema inteligente: 
+- la vida es un sistema inteligente, y el ADN es su memoria
 
 5.5- el problema de una memoria que no cambia de estado
-- planteamos el problema de utilizar una memoria de solo lectura en un sistema de calculo (no puede cambiar de estado junto con el proceso) y lo dejamos en suspenso para mostrar la solucion en el siguiente capitulo.
+- planteamos el problema de utilizar una memoria de solo lectura en un sistema de calculo (no puede cambiar de estado junto con el proceso). dejamos este problema sin solucion, mantenemos el suspenso para mostrar la solucion en el siguiente capitulo. el objetivo es forzar al lector a buscar una solucion.
+
 
 
 
