@@ -1,4 +1,6 @@
-en el laboratorio abordamos los siguientes temas:
+
+
+en el laboratorio hemos discutido los siguientes temas:
 - que es una memoria
 - que es un proceso de calculo
 - el proceso de calculo como una secuencia de estados.
@@ -8,5 +10,79 @@ en el laboratorio abordamos los siguientes temas:
 - el ADN como memoria
 - el ADN como memoria inmutable
 
-estos temas han sido tratados de forma cientifica, tecnica, rigurosa.
-pero han sido complementados con parrafos poeticos de tono mistico en donde se muestran ideas con resonancia espiritual que forman un marco conceptual mistico, orientado a dar respuesta a las preguntas existenciales, de forma que puedan ser comprobadas cientificamente utilizando el modelo de vida que propone el laboratorio.
+estos temas se explican en function de la maquina logica que construiremos en los siguientes capitulos.
+la idea es que el lector conozca los diferentes elementos que forman el sistema.
+
+estos temas han sido tratados de forma cientifica, tecnica y rigurosa.
+pero han sido complementados intercalando parrafos poeticos de tono mistico en donde se muestran ideas con resonancia espiritual que forman un marco conceptual mistico orientado a dar respuesta a las preguntas existenciales, de forma que estas respuestas puedan ser comprobadas cientificamente utilizando el modelo de vida que propone el laboratorio.
+
+ utilizaremos ideas misticas relacionadas con el tema del laboratorio para el desarrollo de la aventura de Elara.
+es por eso que primero debemos definir las ideas misticas en torno a las cuales girara la trama, asi como las ensenanzas y el mensaje que queremos comunicar.
+
+
+recordemos que Elara vive en la edad media y por lo tanto no debe hacerse referencia a nombres cientificos ni elementos tecnicos, tales como ADN.
+en la historia de Elara en lugar de ADN podemos hablar de el Espiritu, la voz del creador, los escritos sagrados u otros elementos de caracter mistico.
+
+vamos a comentar ahora algunas de estas ideas con resonancia espiritual que podamos asociar con los contenidos tecnicos del laboratorio.
+
+por ejemplo,
+El ADN es:
+la Palabra Sagrada, el libro que relata la historia entera del ser, la memoria de la vida, el Espiritu.
+la escritura con la que la vida ha trazado su firma en el polvo del universo.
+el arquetipo de una arquitectura sagrada.
+el libro sagrado de la vida. la semilla del destino.
+
+aqui propongo una idea que asocia el ADN con la memoria:
+en el mismo instante en que la materia inerte consiguio recordar, en ese mismo instante, desperto el ser.
+
+en la seccion del laboratorio he utilizado los siguientes parrafos misticos:
+(introduccion)
+"En los cimientos más profundos de toda criatura reposa un libro antiguo.
+
+Un código sellado en silencio. 
+Símbolos mudos que dan forma a la materia, para crear el ser.
+
+Como si una inteligencia invisible hubiese depositado allí el recuerdo de lo que cada ser debía ser.
+Cada individuo se edifica sobre este texto oculto, 
+cumpliendo una voluntad que no conoce, y que lo guía desde dentro.
+
+Es la palabra del creador. 
+Son las escrituras sagradas.
+Un conjuro que despierta un espiritu, eterno."
+
+(intermedio)
+"El plano maestro de una arquitectura sagrada, 
+un arquetipo sublime
+ construido por el tiempo y el silencio.
+
+Es la memoria de la vida.
+El lugar adonde la vida recuerda aquello que nosotros hemos olvidado.
+Adonde se encuentran las respuestas
+ a todas las preguntas que aún no sabemos formular.
+El sentido, el propósito.
+
+Y en donde ha sido registrado, en detalle, el misterio de la creacion."
+
+(cierre)
+"Y fue asi como 
+con simbolos indescifrables, 
+con palabras impronunciables, 
+con la magia de un conocimiento imposible, 
+la inteligencia creadora arranco de la materia inerte al ser.
+
+Creando algo que ya no es materia, ni es energia.
+Algo que no pertenece al dominio de lo fisico.
+Inteligencia.
+
+Un espiritu 
+destinado a explorar el universo infinito, por toda la eternidad."
+
+-------------------
+
+estas son las ideas que tengo hasta ahora.
+podrias proponer otras?
+
+
+
+
+
