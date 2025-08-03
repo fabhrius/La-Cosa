@@ -1,0 +1,12 @@
+en el laboratorio abordamos los siguientes temas:
+- que es una memoria
+- que es un proceso de calculo
+- el proceso de calculo como una secuencia de estados.
+- la function de la memoria en el proceso de calculo
+- memorias modificables y memorias no modificables
+- breve definicion del ADN
+- el ADN como memoria
+- el ADN como memoria inmutable
+
+estos temas han sido tratados de forma cientifica, tecnica, rigurosa.
+pero han sido complementados con parrafos poeticos de tono mistico en donde se muestran ideas con resonancia espiritual que forman un marco conceptual mistico, orientado a dar respuesta a las preguntas existenciales, de forma que puedan ser comprobadas cientificamente utilizando el modelo de vida que propone el laboratorio.

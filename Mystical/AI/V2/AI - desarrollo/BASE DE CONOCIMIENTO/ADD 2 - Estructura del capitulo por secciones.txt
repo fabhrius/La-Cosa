@@ -26,7 +26,7 @@ la seccion de laboratorio no forma parte de la aventura de Elara y es una seccio
 Y al mismo tiempo todos ellos forman el viaje de Elara, manteniendo la continuidad y narrando una historia que empieza en el primer capitulo y termina en el ultimo.
 - en todos los capitulos Elara conoce a un personaje coprotagonista que desempena el rol de 'anfitrion', y que ayudara a Elara a encontrar algunas de las respuestas que busca. Las respuestas que Elara conseguira a traves de sus anfitriones estaran basadas normalmente en creencias populares, fe y misticismo, siendo por lo tanto subjetivas e imposibles de comprobar.
 - en todos los capitulos existe un 'enemigo' como parte de la lucha entre el bien y el mal que se desarrolla a lo largo de toda la historia.
-estos enemigos, normalmente magos, bujos o hechiceros, intentaran boicotear los planes de Elara, obtener informacion acerca de sus planes e impedir que Elara consiga armas o poder.
+estos enemigos, normalmente magos, bujos o hechiceros, trabajan o estan asociados con el malvado mago Morgerathus,  y su objetivo es boicotear los planes de Elara, obtener informacion acerca de sus planes e impedir que Elara consiga armas o poder.
 - todos los capitulos desarrollan un tema concreto del que Elara quiere obtener respuestas. por ejemplo, el amor, la vida, la memoria, la muerte, etc.
 - en todos los capitulos Elara tendra una serie de objetivos relacionados con el tema del capitulo. utilizaremos estos objetivos como guia del desarrollo.
 - todos los capitulos se desarrollan en un escenario diferente

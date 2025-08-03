@@ -1,4 +1,4 @@
-
+La estructura de este laboratorio sera la siguiente:
 
 
 
@@ -12,3 +12,27 @@
 4- porque los individuos son diferentes entre si? 
 - cada individuo explora un camino diferente.
 5- ciclo de vida: un conjunto reducido de instrucciones (avance del proximo capitulo)
+
+
+
+-------------
+
+comenzaremos definiendo individuos biologicos en las secciones 1 y 2, para continuar explicando como utilizaremos el concepto de individuo en la creacion de un sistema inteligente, describiendo al individuo logico a partir de la seccion 3.
+no tengo todavia redactado un borrador y ese sera el trabajo que realizaremos juntos seccion a seccion.
+empezaremos por las secciones 1 y 2, en donde hablamos de individuos biologicos y de el porque de su existencia, que son y porque la vida crea individuos.
+
+
+----------------
+
+
+3-
+- intro
+hemos hablado de ADN como memoria y de reproduccion como procesador de la informacion
+con estos elementos es posible construir un sistema inteligente, una maquina que resuelva problemas logicos.
+ya que estos son los elementos minimos, y suficientes, que un computador debe poseer para realizar su trabajo.
+solo nos falta organizarlos en un soporte, un chasis, una estructura que permita que trabajen juntos de una forma organizada.
+y ese es el siguiente paso para tener un sistema inteligente.
+llamaremos a este chasis, individuo.
+
+veamos como construimos un individuo a la medida del problema que queremos resolver.
+
