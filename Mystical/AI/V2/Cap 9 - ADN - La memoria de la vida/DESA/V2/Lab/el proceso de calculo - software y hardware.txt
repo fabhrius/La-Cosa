@@ -1,0 +1,34 @@
+es a partir de la informacion que podemos analizar, sacar conclusiones, establecer hipotesis, aprender, progresar, mejorar, evolucionar, planificar, disenar.
+todas estas actividades requieren algun proceso sobre la informacion, los datos son modificados aplicando transformaciones sobre ellos.
+el proceso es en ultima instancia clave.
+sin embargo, lo que es procesado son datos.
+de una informacion que solo puede existir en la memoria.
+no hay proceso sin datos, y no hay datos sin memoria.
+
+el proceso de calculo aplica transformaciones sobre la informacion.
+procesa los datos de algun modo.
+a la forma en que procesamos la informacion la llamaremos "metodo".
+el metodo sera diferente segun el problema que queremos resolver.
+no es igual sumar un listado de numeros, que resolver una ecuacion diferencial, o averiguar cuanto debo pagar de impuestos este ano.
+son problemas diferentes y para resolverlos utilizaremos metodos diferentes.
+podemos expresar un metodo como una secuencia de operaciones, una serie de pasos que debemos seguir para obtener el resultado deseado.
+
+el proceso de calculo, a efectos practicos, implica,
+un conjunto de datos que describen el problema,
+y un metodo, que describe como los datos deben ser procesados para obtener el resultado deseado.
+
+para utilizar los datos debemos recordarlos.
+para utilizar un metodo, Tambien debemos recordarlo.
+datos y  metodo necesitan una memoria adonde mantenerlos almacenados.
+en un computador para aplicar el metodo sobre los datos utilizamos un mecanismo procesador.
+
+de todo esto podemos deducir que para construir un sistema que resuelva problemas logicos necesitamos cuatro elementos.
+datos, metodo, memoria y mecanismo procesador.
+
+los datos y el metodo, estan formados por ideas, a esta parte del sistema le llamamos "software".
+el soporte de memoria y el mecanismo procesador son "maquina", en un computador estan construidos con circuitos electronicos, a esto le llamamos "hardware"
+
+
+
+
+
