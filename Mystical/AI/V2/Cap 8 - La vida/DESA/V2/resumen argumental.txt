@@ -1,14 +1,62 @@
+Cap 8 - la vida
 
 
-- mostrar a la vida como un unico individuo
-- describir a la vida como un sistema de calculo
-- describir los elementos que forman el sistema de calculo (ADN, reproduccion, individuos y ciclo de vida)
-- explicar el experimento que realizaremos en los proximos capitulos
+
+
+1- mostrar a la vida como un unico individuo
+2- describir a la vida como un sistema de calculo
+3- explicar el experimento que realizaremos en los proximos capitulos
+4- describir los elementos que forman el sistema de calculo (ADN, reproduccion, individuos y ciclo de vida)
 
 
 
 --------------------------------
 
+1-
+- introduccion y objetivo
+( el objetivo es describir el modelo de vida que utilizaremos en el libro)
+
+- caracteristicas del modelo
+(la caracteristica principal es que es un unico individuo)
+- la inteligencia de la vida
+(reflexion acerca de la inteligencia que rodea el diseno y los procesos)
+
+- como se produce la inteligencia
+
+----------------------------------
+
+2-
+
+- introduccion 
+(revelacion - es un sistema inteligente)
+
+- veamos como se resuelve un problema logico
+- veamos como es el proceso de calculo
+- veamos cuales son los elementos que forman el sistema
+
+
+------------------------
+
+3-
+- introduccion
+(revelacion - la vida dispone de los elementos necesarios para construir un sistema inteligente)
+
+- para ver como funciona realizaremos una simulacion
+
+
+-------------------------
+
+4-
+-introduccion
+(revelacion - los elementos que forman el sistema son los individuos)
+
+- elementos necesarios para construir un sistema inteligente
+
+
+
+
+
+-------------------------------
 
 la vida ante nuestros ojos es 
 un sinfin de individuos, que nacen y mueren.
