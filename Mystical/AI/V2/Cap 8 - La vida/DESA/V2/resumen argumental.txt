@@ -3,10 +3,10 @@ Cap 8 - la vida
 
 
 
-1- mostrar a la vida como un unico individuo
-2- describir a la vida como un sistema de calculo
-3- explicar el experimento que realizaremos en los proximos capitulos
-4- describir los elementos que forman el sistema de calculo (ADN, reproduccion, individuos y ciclo de vida)
+Seccion 1- primer acercamiento - resumen de las caracteristicas que este modelo atribuye a la vida.
+Seccion 2- describir a la vida como un sistema de calculo. es la vida un computador natural?
+Seccion 3- explicar el experimento que realizaremos en los proximos capitulos. es posible utilizando elementos presentes en la vida construir un computador que resuelva problemas logicos?
+Seccion 4- describir los elementos que forman el sistema de calculo (ADN, reproduccion, individuos y ciclo de vida)
 
 
 
@@ -18,6 +18,13 @@ Cap 8 - la vida
 
 - caracteristicas del modelo
 (la caracteristica principal es que es un unico individuo)
+
+- justificar las siguientes caracteristicas:
+unicidad (entidad unica)
+universalidad
+inmortalidad
+inteligencia
+
 - la inteligencia de la vida
 (reflexion acerca de la inteligencia que rodea el diseno y los procesos)
 
@@ -57,6 +64,20 @@ Cap 8 - la vida
 
 
 -------------------------------
+
+la vida no es solo individuos.
+hay algo mas.
+algo oculto, invisible, detras.
+algo que lo atraviesa todo, que emerge del conjunto, que lo une todo como a una unica cosa, y lo convierte en una unica entidad.
+y eso es lo que veremos en este tercer acto.
+
+lo invisible.
+la inteligencia.
+algo que no pertenece a ninguno de los individuos.
+y que da sentido al todo.
+
+-----------------------------
+
 
 la vida ante nuestros ojos es 
 un sinfin de individuos, que nacen y mueren.

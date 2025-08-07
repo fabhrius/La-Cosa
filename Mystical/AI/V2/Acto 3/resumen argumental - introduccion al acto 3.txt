@@ -1,0 +1,36 @@
+
+
+1- Un modelo diferente
+
+el objetivo de este libro es encontrar respuestas a las preguntas acerca de nuestra propia existencia que todos nos hacemos.
+que es la vida? porque estoy aqui? o muchas otras.
+
+en mi opinion estas preguntas no encuentran respuestas debido al modelo que utilizamos tradicionalmente.
+en el modelo que solemos utilizar, el hombre es el protagonista, el centro de todo.
+en donde una inteligencia superior, que es como un hombre, ha creado al hombre por algun motivo.
+todo lo demas, animales, arboles, planetas, estrellas, ha sido creado para crear al hombre.
+
+a partir de este modelo surgen preguntas que no tienen respuesta.
+existe esa inteligencia superior? adonde esta?
+y porque ha creado al hombre? Posiblemente para hacer algo?
+tal vez algo con sus manos? tal vez algo con su intelecto?
+la lista de preguntas crece y crece sin encontrar respuestas.
+
+es por eso que,
+vamos a cambiar el modelo.
+intentemos crear un modelo basandonos en lo que vemos, en vez de basarnos en lo que queremos.
+reemplacemos nuestros deseos por la realidad.
+y desplacemos al hombre del centro.
+vamos a colocarlo junto al resto de criaturas vivientes.
+y veamos lo que nos queda.
+es posible que con un nuevo modelo consigamos por fin encontrar las respuestas que buscamos.
+
+Y ese es el objetivo de este tercer acto.
+Describir un modelo de vida diferente.
+Basado en la observacion.
+
+Revisaremos en lineas generales, lo que es la vida, el fenomeno biologico, para extraer algunos elementos caracteristicos y con ellos crear una simulacion funcional de la vida.
+la veremos en accion, y observando lo que sucede cuando ponemos en marcha la simulacion sacaremos conclusiones.
+lo analizaremos, y con la informacion que podamos extraer, volveremos a formular las preguntas existenciales.
+Es posible que esta vez encontremos las respuestas que buscamos.
+
