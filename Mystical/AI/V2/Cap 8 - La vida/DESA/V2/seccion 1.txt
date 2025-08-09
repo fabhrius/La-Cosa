@@ -1,5 +1,5 @@
 
-seccion 1- escripcion  justificacion del modelo (mostrar a la vida como una entidad con un conjunto de caracteristicas).
+seccion 1- descripcion y justificacion del modelo (mostrar a la vida como una entidad con un conjunto de caracteristicas).
 
 a- introduccion (breve resumen del modelo)
 hemos dicho que presentariamos un nuevo modelo de vida.
@@ -31,9 +31,9 @@ y que se mantiene milagrosamente gracias un delicado equilibrio,
 
 
 
-inmortalidad
-unicidad (entidad unica)
-inteligencia
+- inmortalidad
+- unicidad (entidad unica)
+- inteligencia
 
 
 c- cierre
@@ -45,6 +45,8 @@ como de inteligente podria ser?
 y la inteligencia de donde sale?
 podemos ver como funciona? como piensa como aprende como realiza sus disenos y resuelve los problemas?
 
+
+--------------------------------------------------
 
 
 
