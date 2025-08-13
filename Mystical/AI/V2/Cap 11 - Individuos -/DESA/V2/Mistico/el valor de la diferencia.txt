@@ -1,0 +1,9 @@
+en el experimento hemos visto como cada individuo explora un camino diferente.
+No deben existir dos individuos iguales.
+De este modo no existen dos individuos realizando el mismo trabajo.
+Esta diferencia es lo que hace que cada individuo sea valioso.
+Solo el puede hacer ese trabajo.
+
+que sucede si dos individuos exploran el mismo camino?
+en ese caso uno de los dos es inutil.
+cual de ellos?
