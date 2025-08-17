@@ -1,0 +1,5 @@
+- explicar brevemente que es el ADN.
+- explicar a que llamamos memoria
+- explicar la funcion de la memoria en un proceso de calculo generico.
+- explicar los distintos tipos de memoria (lectura y escritura o solo lectura)
+- explicar como utilizaremos al ADN como memoria del sistema inteligente

@@ -1,0 +1,163 @@
+1- explicar brevemente que es el ADN.
+2- explicar a que llamamos memoria
+3- explicar la funcion de la memoria en un proceso de calculo generico.
+4- explicar los distintos tipos de memoria (lectura y escritura o solo lectura)
+5- explicar como utilizaremos al ADN como memoria del sistema inteligente
+
+
+--------------------------------
+
+
+1- explicar brevemente que es el ADN.
+
+- que es?
+una molecula presente en todos los seres vivientes.
+
+- cual es su function?
+define a los individuos, podemos decir que son los planos de construccion.
+determina sus caracteristicas y describe como se realizan los procesos vitales
+
+- el origen de todo
+
+la vida empieza con el ADN, y es el ADN el origen de los individuos, las especies, la evolucion, y de todos los procesos relacionados con la vida.
+es el ADN el que despliega todos los sistemas y estructuras de la vida.
+
+- la escencia de todo
+
+el ADN describe como se construye y como funcionara todo lo relacionado con la vida.
+proporciona la base sobre la cual se construyen todas sus estructuras, individuos y sistemas.
+dejando sin embargo un cierto grado de libertad.
+es su escencia, los fundamentos basicos, pero no todo.
+un individuo sera en lineas generales lo que el ADN dice que debe ser, sin embargo, su desarrollo dependera Tambien de las condiciones del ambiente, permitiendole adaptarse en cierta medida.
+
+
+- el limite de la materia inerte
+
+desde el punto de vista tradicional, la vida es solo una reaccion natural.
+y existe cierta analogia con el fuego, que Tambien es una reaccion natural.
+tal vez por la forma en que ambos se propagan cuando encuentran las condiciones apropiadas.
+
+sin embargo, la forma en que se propaga la vida no es igual que la forma en que se propaga el fuego.
+la vida se propaga de forma robusta, metodica, consistente, organizada.
+una diferencia clave es que la vida en su propagacion utiliza inteligencia.
+
+
+suele decirse que no es inteligencia real, es simplemente seleccion.
+nosotros Tambien cometemos errores, necesitamos entrenamiento, intentos fallidos, hasta aprender.
+eso no descarta la inteligencia.
+
+es verdad que comienza siendo una simple reaccion natural, la forma en que los primeros componentes se combinan.
+pero existe un punto a partir del cual la estructura del sistema comienza a producir inteligencia, y los resultados de la inteligencia aplicada realimentan el sistema.
+y es a partir de ese punto que ya no puede llamarse a eso materia inerte.
+
+la vida no es como el fuego.
+es inteligente.
+la inteligencia surge de su estructura y la estructura la crea el ADN.
+
+es verdad que la materia se combina naturalmente, eso no es mas que una reaccion natural, pero a un cierto punto la materia se transforma en ADN, y entonces, comienza a recordar, a aprender, aparece la inteligencia, el Espiritu.
+entonces ya no es materia inerte, es otra cosa.
+
+el ADN construye inteligencia, es Espiritu.
+
+
+- el ADN no muere
+
+en el ADN de las criaturas vivientes de hoy, esta almacenado todo el conocimiento adquirido desde el primer organismo que cobro vida.
+el Espiritu que me da la vida ha vivido durante 4 mil millones de anos ininterrumpidamente.
+
+
+
+
+---------------------------------
+
+ 
+
+2- explicar a que llamamos memoria
+
+
+a veces cuando llego a casa por la noche me encuentro conque se me ha olvidado comprar algo que necesitaba.
+podemos llamar a esto tener "mala memoria".
+
+porque la function de la memoria es la de almacenar informacion para ser recuperada mas tarde.
+
+y la informacion puede ser almacenada en soportes fisicos, tales como una escritura en papel, mis neuronas, grabarlo en piedra, un dispositivo electronico, un disco magnetico, o cualquier otra cosa.
+
+un libro puede almacenar informacion y ser utilizado por distintas generaciones durante decadas.
+
+
+---------------------------------
+
+
+3- explicar la funcion de la memoria en un proceso de calculo generico.
+
+para resolver un problema logico necesitamos los datos que describen el problema, y el metodo, que nos dice cuales son los pasos que debemos seguir para encontrar la solucion.
+ambos, datos y metodo, son ideas, y es necesario recordarlos.
+
+Tambien debemos almacenar en la memoria otra informacion necesaria para el proceso, como por ejemplo, el estado actual del proceso, incluyendo resultados parciales o cual es el siguiente paso para continuar el proceso.
+
+
+---------------------------------
+
+
+4- explicar los distintos tipos de memoria (lectura y escritura o solo lectura)
+
+
+- la memoria de lectura y escritura
+permite recuperar la informacion y modificarla, como la que utilizamos en un laptop cuando manipulamos archivos de texto.
+estas memorias son utiles cuando, como en este caso, necesitamos almacenar informacion y modificarla, tal vez para desarrollar un trabajo que debe crecer o evolucionar con el tiempo.
+
+- la memoria de solo lectura
+la informacion solo puede leerse, como cando compramos un disco de musica, podemos escuchar las canciones pero no podemos modificarlas.
+estas memorias son utiles cuando, la informacion que almacenamos es importante y no debe ser alterada.
+
+
+--------------------------------- 
+
+
+5- explicar como utilizaremos al ADN como memoria del sistema inteligente
+
+- el ADN almacena la informacion necesaria para construir a un individuo.
+si decimos que almacena informacion es, por definicion, una memoria.
+
+- cuando hablamos de la memmoria en el proceso de calculo, hemos dicho que es necesaria para almacenar 
+los datos del problema
+el metodo
+el estado actual del proceso
+
+
+y esto es lo que se almacena en el ADN
+datos, la informacion para construir al individuo, informacion acerca de sus antepasados, el conocimiento adquirido, etc
+metodos, la forma en que deben ejecutarse todos los procesos
+estado, el estado actual del proceso de la vida
+
+
+la vida es un sistema inteligente, y el ADN es la memoria del sistema.
+
+
+
+
+
+
+---------------------------------
+
+6- el ADN es una memoria de solo lectura
+
+la informacion que contiene el ADN no puede ser modificada.
+no es posible agregar nueva informacion o cambiar en algo la existente
+
+esto se debe a que la informacion que contiene debe permanecer inalterada.
+entre otras cosas, alli se encuentra las instrucciones para realizar todos los procesos vitales, y corromper o perder esa informacion impediria que se lleven a cabo.
+Es necesario que esta memoria sea de solo lectura, inmutable.
+asi el individuo sera siempre el mismo, manteniendo las caracteristicas que lo diferencian de los demas durante toda su vida.
+
+
+-------------------------------------
+
+
+7- el problema de utilizar una memoria de solo lectura como memoria del sistema
+
+el proceso no puede cambiar de estado.
+
+
+
+
