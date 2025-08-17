@@ -3,6 +3,8 @@
 3- explicar la funcion de la memoria en un proceso de calculo generico.
 4- explicar los distintos tipos de memoria (lectura y escritura o solo lectura)
 5- explicar como utilizaremos al ADN como memoria del sistema inteligente
+6- el ADN es una memoria de solo lectura
+7- el problema de utilizar una memoria de solo lectura como memoria del sistema
 
 
 --------------------------------
@@ -10,7 +12,7 @@
 
 1- explicar brevemente que es el ADN.
 
-- que es?
+1.1 - que es?
 una molecula presente en todos los seres vivientes.
 
 - cual es su function?
@@ -158,6 +160,19 @@ asi el individuo sera siempre el mismo, manteniendo las caracteristicas que lo d
 
 el proceso no puede cambiar de estado.
 
+el proceso de resolucion de un problema se movera desde el estado incial hasta el estado final, atravesando una serie de estados intermedios.
+siguiendo las instrucciones del metodo.
+al aplicar el metodo sobre los datos el conjunto de datos cambia.
+con cada paso que avanzamos en el proceso de resolucion de un problema el estado del proceso cambia.
+obtenemos nueva informacion que debe ser agregada al conjunto de datos y estamos un paso mas cerca de obtener la solucion.
+
+Pero si utilizamos el ADN como memoria del sistema los datos no pueden ser modificados por tratarse de una memoria de solo lectura.
+podemos grabar en el ADN la informacion actual y el estado actual del proceso, pero una vez grabado ya no podra modificarse.
+como consigue el sistema avanzar en el proceso de calculo si no puede agregar nueva informacion a la memoria?
+
+una cadena de ADN solo puede almacenar uno de los estados del proceso.
+
+(dejamos la pregunta sin respuesta para crear espectacion)
 
 
 
