@@ -124,7 +124,14 @@ el Espiritu que nos da la vida ha vivido durante 4 mil millones de anos ininterr
 a veces cuando llego a casa por la noche me encuentro conque se me ha olvidado comprar algo que necesitaba.
 podemos llamar a esto tener "mala memoria".
 
-porque la function de la memoria es la de almacenar informacion para ser recuperada mas tarde.
+todos sabemos, de algun modo, lo que la memoria es.
+Resulta un termino familiar porque todos tenemos una.
+
+Es quizas cuando hablamos de las memorias utilizadas en los sistemas de calculo cuando puede surgir alguna duda.
+Vamos a definirlo claramente.
+Una memoria es un soporte en donde puede almacenarse informacion para ser recuperada en otro momento.
+
+Y exsiten muchos tipos de soportes fisicos que pueden utilizarse como memoria.
 
 y la informacion puede ser almacenada en soportes fisicos, tales como una escritura en papel, mis neuronas, grabarlo en piedra, un dispositivo electronico, un disco magnetico, o cualquier otra cosa.
 
@@ -136,10 +143,21 @@ un libro puede almacenar informacion y ser utilizado por distintas generaciones 
 
 3- explicar la funcion de la memoria en un proceso de calculo generico.
 
+la memoria es la base sobre la que se desarrollan todos los procesos relacionados con el pensamiento.
+sin memoria no es posible, 
+reflexionar, inferir, explorar, conocer, aprender, deducir, seleccionar, evaluar, analizar
+
 para resolver un problema logico necesitamos los datos que describen el problema, y el metodo, que nos dice cuales son los pasos que debemos seguir para encontrar la solucion.
 ambos, datos y metodo, son ideas, y es necesario recordarlos.
 
 Tambien debemos almacenar en la memoria otra informacion necesaria para el proceso, como por ejemplo, el estado actual del proceso, incluyendo resultados parciales o cual es el siguiente paso para continuar el proceso.
+
+sin memoria no es posible realizar ningun proceso de calculo.
+
+Es posible sumar una lista de numeros, si no recordamos los numeros que debemos sumar? (los datos que describen el problema)
+Es posible desplazarse por la ciudad para ir del punto A al punto B, si no recordamos como llegar alli? (el metodo que describe los pasos que deben realizarse para resolver el problema)
+Es posible completar un trabajo que ha quedado a medias, si no recordamos lo que ya se ha hecho y lo que queda por hacer? (el estado del problema)
+
 
 
 ---------------------------------
