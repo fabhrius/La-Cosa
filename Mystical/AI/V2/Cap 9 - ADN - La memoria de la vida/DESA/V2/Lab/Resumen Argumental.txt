@@ -192,13 +192,10 @@ el estado actual del proceso
 y esto es lo que se almacena en el ADN
 datos, la informacion para construir al individuo, informacion acerca de sus antepasados, el conocimiento adquirido, etc
 metodos, la forma en que deben ejecutarse todos los procesos
-estado, el estado actual del proceso de la vida
+estado, el individuo que nace es la ultima version de su especie, el ultimo paso en el proceso de calculo, el estado actual del proceso de la vida
 
 
 la vida es un sistema inteligente, y el ADN es la memoria del sistema.
-
-
-
 
 
 
