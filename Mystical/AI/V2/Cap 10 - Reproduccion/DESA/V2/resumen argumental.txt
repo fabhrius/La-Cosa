@@ -4,11 +4,121 @@
 2- la reproduccion como caracteristica de la vida. 
 - Todos los organismos vivientes se reproducen.
 3- reflexion inicial, porque los seres vivientes se reproducen? perpetuar las especies? perpetuar la vida? porque?
-- la reproduccion es lo unico que los organismos hacen en realidad.
-4- limitacion del ADN como memoria de solo lectura en el proceso de calculo
 5- la reproduccion como procesador (devuelve un bloque de memoria con el resultado de la operacion)
+4- limitacion del ADN como memoria de solo lectura en el proceso de calculo
+
 6- porque existen distintos tipos de reproduccion?
 - la reproduccion sexual permite abordar problemas de mayor complejidad.
 - la reproduccion asexual tiene un menor coste.
 7- conclusiones: 
+- la reproduccion es lo unico que los organismos hacen en realidad.
 - el objetivo de la reproduccion es modificar informacion para avanzar en un proceso de calculo.
+
+
+--------------------------------------
+
+0- Introduccion:
+
+
+continuamos analizando a la vida como un sistema inteligente con el fin de localizar los elementos principales del sistema.
+en el capitulo anterior hemos visto cual es la memoria del sistema.
+en este capitulo descubriremos como se procesa la informacion.
+los computadores electronicos procesan la informacion utilizando un dispositivo que llamamos procesador.
+como realiza esta function la vida?
+existe algo parecido al procesador de un computador?
+
+Hablemos de reproduccion.
+
+
+-------------------------------------
+
+1- la reproduccion como caracteristica de la vida. 
+
+todos los seres vivientes se reproducen.
+
+-----------------------------------
+
+
+2- que es la reproduccion?
+
+La reproducción, en su sentido más amplio, es el proceso mediante el cual un sistema genera una copia o una versión derivada de sí mismo. 
+En biología, es el mecanismo por el cual los seres vivos perpetúan su especie, transmitiendo información genética a nuevas generaciones. 
+Pero si lo miramos desde una perspectiva más abstracta la reproducción puede entenderse como una estrategia de continuidad dentro sistemas dinámicos.
+
+
+### 🔁 Desde una lógica sistémica
+- Es una **función de replicación** que permite que un sistema sobreviva más allá de sus componentes individuales.
+
+### 🧠 En términos filosóficos
+- La reproducción no es solo continuidad, sino también **variación**: cada acto reproductivo es una oportunidad para el cambio, la mutación, la innovación.
+
+
+--------------------------
+
+3- reflexion inicial, porque los seres vivientes se reproducen? perpetuar las especies? perpetuar la vida? porque?
+
+si preguntamos porque lo seres vivos se reproducen, la respuesta mas aceptada es 
+los seres vivos se reproducen para perpetuar las especies.
+
+tenemos aqui, una vez mas, el tipo de respuesta circular que solemos utilizar cuando no tenemos una respuesta.
+la afirmacion parece zanjar la cuestion pero no responde a la pregunta.
+
+porue despues de esta respuesta tenemos otra pregunta.
+porque perpetuar las especies?
+
+
+--------------------------------------------
+
+4- hay algo mas que la perpetuacion?
+
+quizas el buscar un motivo para todo es algo que surge de nuestra forma de pensar, pero que podria ser una illusion.
+tal vez no todas las cosas tengan un motivo.
+la vida podria existir sin mas, sin motivo, solo porque es posible.
+como no hay un motivo para la existencia de las estrellas.
+solo estan ahi porque asi ha sucedido.
+
+sin embargo, no solo es perpetuacion lo que sucede con la reproduccion.
+no solo se crean mas individuos y se perpetua la especie.
+sucede algo mas.
+
+y para los que aun desean encontrar un motivo, ese "algo mas" podria ser incluso mas importante que perpetuar la especie.
+y podria dar sentido a todo.
+
+lo que sucede con la reproduccion es un pequeno cambio, casi imperceptible, que al sumarse a otros cambios a lo largo del tiempo produce resultados asombrosos.
+
+
+-------------------------------------
+
+5- la reproduccion como procesador (devuelve un bloque de memoria con el resultado de la operacion)
+
+un cambio. hablemos de eso.
+el hijo no es igual que el padre. no es una copia identica.
+es diferente.
+en realidad, no existen dos individuos iguales.
+no importa cuantos individuos sean creados, todos seran diferentes.
+esto asegura que no existan dos haciendo el mismo trabajo.
+cada individuo explora un nuevo camino. cada uno de ellos es un punto de vista diferente.
+el nuevo individuo no es igual al padre, algo ha cambiado.
+la reproduccion no copia la informacion, la modifica.
+
+
+Y esto es lo que hace la reproduccion.
+modificar la informacion contenida en el ADN.
+
+no se trata de una modificacion aleatoria, sino metodica.
+la informacion del ADN se modifica siguiendo reglas precisas.
+es procesada.
+
+la reproduccion es el procesador del sistema.
+hace posible el cambio. crea un nuevo estado y el proceso avanza.
+
+--------------------------------------
+
+4- limitacion del ADN como memoria de solo lectura en el proceso de calculo
+
+hemos comentado en el capitulo anterior como el ADN, en su function de memoria del sistema, tiene la limitacion de ser una memoria de solo lectura.
+puede mantener la informacion y el estado del sistema, pero una vez creada no puede ser modificada
+
+
+
+---------------------------------------

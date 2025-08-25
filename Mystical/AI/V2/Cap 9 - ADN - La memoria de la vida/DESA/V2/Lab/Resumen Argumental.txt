@@ -9,6 +9,28 @@
 
 --------------------------------
 
+1.0 - Introduccion:
+
+
+hemos comentado en el capitulo anterior que analizariamos a la vida, no por su composicion quimica, no por los tejidos que forman a los organismos, sino por su function.
+Revisaremos el fenomeno de la vida desde un punto de vista logico.
+hemos comentado ya que la vida es un sistema inteligente, algo asi como una maquina de calculo, y lo hemos caracterizado como un computador natural.
+Hemos comentado Tambien que ese es el objetivo de este tercer acto, intentar reproducir el sistema. 
+Crear una simulacion logica de la vida.
+Con ese objetivo identificaremos primero las partes que lo componen.
+
+En el laboratorio de este capitulo hablaremos de memoria y de ADN.
+
+Porque Si la vida es un sistema inteligente, una maquina que resuelve problemas logicos, debe tener una memoria.
+Y ese sera el objetivo de este capitulo, Hablar de la memoria de la vida.
+
+Con este fin, hablaremos de memorias, de cual es la function de la memoria en un sistema de calculo, y de como se implementa esta function en el sistema de la vida.
+
+
+
+
+---------------------------------
+
 
 1- explicar brevemente que es el ADN.
 
