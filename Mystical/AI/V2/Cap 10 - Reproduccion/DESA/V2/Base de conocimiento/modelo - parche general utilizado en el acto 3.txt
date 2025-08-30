@@ -1,4 +1,7 @@
-el modelo conceptual de vida que utilizaremos como base de nuestra teoria y que nos servira para dar respuesta a las preguntas existenciales que abordaremos en el libro es diferente del modelo classico utilizado actualmente, por lo tanto debes familiriarizarte con el antes de colaborar en el desarrollo.
+en este chat desarrollaremos el laboratorio para el capitulo 10, en donde hablaremos de "la reproduccion".
+
+
+el modelo conceptual de vida que utilizaremos como base de nuestra teoria y que nos servira para dar respuesta a las preguntas existenciales que abordaremos en el libro es diferente del modelo utilizado actualmente en biologia, es un modelo logico-matematico, por lo tanto debes familiriarizarte con el antes de colaborar en el desarrollo.
 
 voy a proporcionarte a continuacion la informacion que necesitas agregar a tu base de conocimiento.
 

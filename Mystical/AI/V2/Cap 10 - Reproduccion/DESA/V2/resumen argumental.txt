@@ -21,11 +21,29 @@
 
 
 continuamos analizando a la vida como un sistema inteligente con el fin de localizar los elementos principales del sistema.
-en el capitulo anterior hemos visto cual es la memoria del sistema.
+en el capitulo anterior hemos visto adonde esta localizada la memoria del sistema.
 en este capitulo descubriremos como se procesa la informacion.
-los computadores electronicos procesan la informacion utilizando un dispositivo que llamamos procesador.
-como realiza esta function la vida?
-existe algo parecido al procesador de un computador?
+
+Afirmamos que la vida es inteligencia.
+pero no solo eso, es toda la inteligencia.
+no existe inteligencia fuera de la vida.
+incluso los sistemas artitificiales estan simulando proceso que tienen su origen en la vida.
+y esos sistemas artificiales son creados por el hombre, que es parte de la vida.
+inteligencia es vida, y vida es inteligencia.
+
+y cuando hablamos de inteligencia, hablamos de un proceso.
+la inteligencia no es estatica.
+la inteligencia es un proceso que transforma informacion a lo largo del tiempo.
+el cambio es la clave, y el cambio implica tiempo.
+antes era una cosa, despues es otra, tiempo.
+la inteligencia no  es algo estatico, sino cambiante.
+no existe en un unico instante, sino a lo largo del tiempo.
+
+la informacion se transforma, una y otra vez. sin esto no es posible la inteligencia.
+
+los computadores electronicos procesan la informacion utilizando dispositivos que llamamos "procesadores".
+si la vida es un sistema inteligente que podemos comparar con un sistema computacional, como realiza la function de procesar la informacion?
+existe en la vida algo parecido al procesador de un computador?
 
 Hablemos de reproduccion.
 
@@ -41,6 +59,13 @@ la vida empieza cuando la materia se reproduce por primera vez.
 y podemos afirmar que, 
 si esta vivo, entonces se reproduce.
 
+pero la reproduccion representa algo mas, un fenomeno extraordinario.
+sin duda, lo mas asombroso que pueda existir.
+la reproduccion crea un nuevo universo paralelo, diferente del universo material.
+Un universo de ideas, pensamiento, imposible en el universo fisico de la materia inerte.
+Espiritu.
+
+
 
 
 -----------------------------------
@@ -48,16 +73,32 @@ si esta vivo, entonces se reproduce.
 
 2- que es la reproduccion?
 
-La reproducción, en su sentido más amplio, es el proceso mediante el cual un sistema genera una copia o una versión derivada de sí mismo. 
+Veamos primero las definiciones mas comunes hoy en dia.
+
 En biología, es el mecanismo por el cual los seres vivos perpetúan su especie, transmitiendo información genética a nuevas generaciones. 
-Pero si lo miramos desde una perspectiva más abstracta la reproducción puede entenderse como una estrategia de continuidad dentro sistemas dinámicos.
+En un sentido más amplio, es el proceso mediante el cual un sistema genera una copia o una versión derivada de sí mismo. 
+Y si lo miramos desde una perspectiva más abstracta la reproducción puede entenderse como una estrategia de continuidad dentro sistemas dinámicos.
+Desde una lógica sistémica, Es una **función de replicación** que permite que un sistema sobreviva más allá de sus componentes individuales.
+ Y En términos filosóficos, La reproducción no es solo continuidad, sino también **variación**, en donde cada acto reproductivo es una oportunidad para el cambio, la mutación, la innovación.
+
+todas estas definiciones estan impulsadas por la biologia en donde la clave esta en
+
+La Transmisión de información genética, El ADN, que contiene las instrucciones para el desarrollo y funcionamiento de los organismos, que se copia y se transfiere a los descendientes.
+con la finalidad de 
+Garantizar la supervivencia de la especie.
+Introducir variaciones genéticas que permiten la adaptación a cambios ambientales.
+Y Servir como base de los procesos evolutivos a largo plazo.
+
+Esto creo que resume el punto de vista actual.
+sin embargo, lo que discutiremos aqui es una perspectiva diferente.
+Veremos un aspecto que, al parecer, la biologia no ha considerado todavia.
+
+en las definiciones anteriores todo gira en torno a la superviviencia.
+algo que para nosotros resulta natural, porque el instinto nos dice que debemos continuar con vida, y por ese motivo entendemos como natural la lucha por la superviviencia.
+asi la evolucion tiene para nosotros ese objetivo, y pensamos que la vida lo que quiere es seguir viviendo.
+es tan natural que no nos detenemos a pensarlo mas.
 
 
-### 🔁 Desde una lógica sistémica
-- Es una **función de replicación** que permite que un sistema sobreviva más allá de sus componentes individuales.
-
-### 🧠 En términos filosóficos
-- La reproducción no es solo continuidad, sino también **variación**: cada acto reproductivo es una oportunidad para el cambio, la mutación, la innovación.
 
 
 --------------------------
@@ -71,7 +112,7 @@ tenemos aqui, una vez mas, el tipo de respuesta circular que solemos utilizar cu
 la afirmacion parece zanjar la cuestion pero no responde a la pregunta.
 
 porue despues de esta respuesta tenemos otra pregunta.
-si los seres vivientes se reproducen para propagar las especies, entonces, porque perpetuar las especies?
+si los seres vivientes se reproducen para perpetuar las especies, entonces, porque perpetuar las especies?
 
 
 --------------------------------------------
@@ -94,6 +135,8 @@ y podria dar sentido a todo.
 lo que sucede con la reproduccion es un pequeno cambio, casi imperceptible, que al sumarse a otros cambios a lo largo del tiempo produce resultados asombrosos.
 
 cambio.
+cambio y acumulacion.
+proceso y memoria.
 
 -------------------------------------
 
@@ -122,7 +165,7 @@ hace posible el cambio. crea un nuevo estado y asi el proceso avanza.
 
 --------------------------------------
 
-4- limitacion del ADN como memoria de solo lectura en el proceso de calculo
+6- limitacion del ADN como memoria de solo lectura en el proceso de calculo
 
 hemos comentado en el capitulo anterior como el ADN, en su function de memoria del sistema, tiene la limitacion de ser una memoria de solo lectura.
 puede mantener la informacion y el estado del sistema, pero una vez creada no puede ser modificada.
@@ -139,3 +182,34 @@ Veremos como sucede esto en una simulacion en los proximos capitulos.
 
 
 ---------------------------------------
+
+
+7- porque existen distintos tipos de reproduccion?
+
+la reproduccion procesa informacion para obtener un resultado.
+es un proceso de calculo.
+la reproduccion es un proceso inteligente.
+
+en los siguiente capitulos mediremos como puede ser de inteligente este proceso.
+existen dos tipos de reproduccion, sexual y asexual.
+el motivo para esto es que 
+
+
+
+- la reproduccion sexual permite abordar problemas de mayor complejidad.
+- la reproduccion asexual tiene un menor coste.
+8- conclusiones: 
+- la reproduccion es lo unico que los organismos hacen en realidad.
+- el objetivo de la reproduccion es modificar informacion para avanzar en un proceso de calculo.
+
+
+
+-------------------------------
+
+8- reflexion 
+
+
+La reproducción es la actividad central de la vida, quizás su única función esencial. Todo lo demás —alimentarse, protegerse, adaptarse, incluso morir— se organiza en torno a este acto fundamental. No es un medio para perpetuar individuos, sino el mecanismo por el cual el sistema vivo ejecuta su proceso de cálculo: transforma información, genera variación, y avanza en su inteligencia. Cada reproducción no es una copia, sino una operación; no una repetición, sino una transformación significativa. La vida no piensa con neuronas, piensa reproduciéndose. Es en ese movimiento —en esa secuencia de mutaciones encarnadas— donde la inteligencia se manifiesta, se despliega y se reinventa. La reproducción no garantiza la supervivencia: la usa como condición para continuar el pensamiento.
+
+
+
