@@ -121,26 +121,33 @@ si los seres vivientes se reproducen para perpetuar las especies, entonces, porq
 
 quizas el buscar un motivo para todo es algo que surge de nuestra forma de pensar, pero que podria ser una illusion.
 tal vez no todas las cosas tengan un motivo.
+Y todo parece indicar que podria no haber ningun "porque".
+Sucede simplemente porque sucede.
 la vida podria existir sin mas, sin motivo, solo porque es posible.
 del mismo modo que no hay un motivo para la existencia de las estrellas.
 solo estan ahi porque asi ha sucedido.
+
+y en cuanto a perpetuar las especies, que cosa podria justificarlo?
+tal vez que a nosotros nos parece bonito? es ese un porque aceptable?
 
 sin embargo, no solo es perpetuacion lo que sucede con la reproduccion.
 no solo se crean mas individuos y se perpetua la especie.
 sucede algo mas.
 
-y para los que aun desean encontrar un motivo, ese "algo mas" podria ser incluso mas importante que perpetuar la especie.
-y podria dar sentido a todo.
+y para los que aun desean encontrar un motivo, ese "algo mas" podria ser mas importante que perpetuar la especie, y podria dar sentido a todo.
 
 lo que sucede con la reproduccion es un pequeno cambio, casi imperceptible, que al sumarse a otros cambios a lo largo del tiempo produce resultados asombrosos.
 
 cambio.
 cambio y acumulacion.
-proceso y memoria.
+
+O dicho de otra forma, proceso y memoria.
+
+
 
 -------------------------------------
 
-5- la reproduccion como procesador (devuelve un bloque de memoria con el resultado de la operacion)
+5- la reproduccion como procesador
 
 un cambio. hablemos de eso.
 el hijo no es igual que el padre. no es una copia identica.
@@ -153,15 +160,18 @@ el nuevo individuo no es igual al padre, algo ha cambiado.
 la reproduccion no copia la informacion, la modifica.
 
 
-Y esto es lo que hace la reproduccion.
-modificar la informacion contenida en el ADN.
+Y esto es, basicamente, lo que hace la reproduccion.
+modificar la informacion contenida en el ADN de un individuo para crear un individuo completamente nuevo.
+padre e hijo son diferentes, pero la diferencia entre ellos es la menor de todas las posibles.
+un caballo no puede generar gallinas o arboles.
+padre e hijo son "casi" identicos, pero diferentes.
 
 no se trata de una modificacion aleatoria, sino metodica.
 la informacion del ADN se modifica siguiendo reglas precisas.
 es procesada.
 
 la reproduccion es el procesador del sistema.
-hace posible el cambio. crea un nuevo estado y asi el proceso avanza.
+hace posible el cambio. y asi el proceso avanza hacia un nuevo estado.
 
 --------------------------------------
 
@@ -176,6 +186,19 @@ y entonces, si leemos la informacion y la procesamos, adonde guardamos los resul
 
 el sistema que realiza la reproduccion sabe como leer la informacion contenida en el ADN del padre, y sabe como procesarla.
 Despues de eso, creara una nueva cadena de ADN para almacenar la nueva informacion, el ADN del hijo.
+
+Y al crear al hijo tenemos una nueva cadena de ADN con el nuevo estado del proceso.
+La nueva informacion no se ha grabado en la memoria anterior, sino que se ha creado un nuevo espacio de memoria, ajustado a la infomacion que se quiere almacenar.
+
+como hemos comentado anteriormente,
+la reproduccion es 
+cambio y acumulacion, es decir, proceso y memoria, y estos dos elementos hacen posible 
+la exploracion, el analisis y el aprendizaje.
+despues de esto,
+el conocimiento adquirido es utilizado para iniciar un nuevo ciclo de 
+exploracion, analisis y aprendizaje.
+en un proceso que nunca termina.
+Podemos llamar a esto "pensamiento"?
 
 Veremos como sucede esto en una simulacion en los proximos capitulos.
 
