@@ -189,6 +189,8 @@ Despues de eso, creara una nueva cadena de ADN para almacenar la nueva informaci
 
 Y al crear al hijo tenemos una nueva cadena de ADN con el nuevo estado del proceso.
 La nueva informacion no se ha grabado en la memoria anterior, sino que se ha creado un nuevo espacio de memoria, ajustado a la infomacion que se quiere almacenar.
+de esta forma se mantiene sin cambios la informacion ya almacenada, y se incrementa el espacio de memoria para alojar la nueva informacion cuando es necesario.
+asi el sistema nunca colapsa por falta de memoria, a la vez que mantiene la inmutabilidad de la memoria existente.
 
 como hemos comentado anteriormente,
 la reproduccion es 
@@ -197,7 +199,7 @@ la exploracion, el analisis y el aprendizaje.
 despues de esto,
 el conocimiento adquirido es utilizado para iniciar un nuevo ciclo de 
 exploracion, analisis y aprendizaje.
-en un proceso que nunca termina.
+en un proceso iterativo que nunca termina.
 Podemos llamar a esto "pensamiento"?
 
 Veremos como sucede esto en una simulacion en los proximos capitulos.
