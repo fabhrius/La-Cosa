@@ -215,26 +215,63 @@ la reproduccion procesa informacion para obtener un resultado.
 es un proceso de calculo.
 la reproduccion es un proceso inteligente.
 
-en los siguiente capitulos mediremos como puede ser de inteligente este proceso.
+la reproduccion produce inteligencia.
+como hemos comentado anteriormente podemos sintetizar el proceso como
+exploracion, analisis, aprendizaje,
+para despues repetir el ciclo utilizando el conocimiento adquirido, una y otra vez.
+el conocimiento realimenta el sistema.
+el sistema acumula conocimiento y lo utiliza, volviendose mas inteligente con el paso del tiempo.
+
+en los siguiente capitulos, en el acto 4, mediremos como puede ser de inteligente este proceso.
+
+la clave entonces, no es la superviviencia en si misma, sino un proceso inteligente de exploracion y aprendizaje, en donde la perpetuacion de las especies es un efecto secundario inevitable, pero no el objetivo en si mismo.
+el sistema necesita nuevos individuos para avanzar en el calculo, en su exploracion, para aprender, para conocer, para saber. los individuos son necesarios. Es creando nuevos individuos como el sistema piensa.
+
 existen dos tipos de reproduccion, sexual y asexual.
-el motivo para esto es que 
-
-
-
-- la reproduccion sexual permite abordar problemas de mayor complejidad.
 - la reproduccion asexual tiene un menor coste.
-8- conclusiones: 
-- la reproduccion es lo unico que los organismos hacen en realidad.
-- el objetivo de la reproduccion es modificar informacion para avanzar en un proceso de calculo.
+y por esto es utilizada siempre que sea posible.
+sin embargo, para abordar cierta clase de problemas con exito se necesita un conocimiento elevado. un tipo de conocimiento que no puede adquirirse con la reproduccion asexual.
+
+- la reproduccion sexual tiene un coste mucho mas elevado, pero permite explorar el problema con una profundidad imposible para la reproduccion asexual.
+y proporciona al sistema una gran cantidad de conocimiento en tiempo reducido. no solo el sistema aprende mas rapido sino que consigue un conocimiento que no es alcanzable con la reproduccion asexual.
+
+volveremos a hablar de reproduccion sexual y asexual mas adelante con ejemplos que nos mostraran claramente la diferencia, sera despues de haber visto en funcionamiento la simulacion.
+
+
+la aparicion de la reproduccion sexual plantea un misterio.
+las teorias actuales afirman que la vida, a pesar de su extraordinaria inteligencia, carece de voluntad.
+es un proceso ciego que produce resultados por simple variacion.
+y eso parece explicarlo todo, o casi todo.
+sin embargo, no puede explicar la aparicion de la reproduccion sexual.
+porque no puede aparecer por simple variacion de organismos con reproduccion asexual.
+el salto es notable, aparecen elementos que no existian.
+resulta evidente que se trata de un cambio estrategico.
+y es dificil entenderlo sin la existencia de intencion, proposito, plan.
+
+
+
+
 
 
 
 -------------------------------
 
-8- reflexion 
+8- reflexion final
 
 
 La reproducción es la actividad central de la vida, quizás su única función esencial. Todo lo demás —alimentarse, protegerse, adaptarse, incluso morir— se organiza en torno a este acto fundamental. No es un medio para perpetuar individuos, sino el mecanismo por el cual el sistema vivo ejecuta su proceso de cálculo: transforma información, genera variación, y avanza en su inteligencia. Cada reproducción no es una copia, sino una operación; no una repetición, sino una transformación significativa. La vida no piensa con neuronas, piensa reproduciéndose. Es en ese movimiento —en esa secuencia de mutaciones encarnadas— donde la inteligencia se manifiesta, se despliega y se reinventa. La reproducción no garantiza la supervivencia: la usa como condición para continuar el pensamiento.
 
+
+la reproduccion es un suceso extraordinario, unico en la naturaleza.
+y aunque estaba destinado a suceder, por estar implicito en la materia,
+es la frontera entre la materia inerte y el Ser.
+
+la reproduccion procesa informacion y acumula conocimiento.
+es un paso en un calculo infinito.
+en el momento en que la materia comenzo a reproducirse comenzo a recordar, a aprender, a explorar, desperto la inteligencia.
+el proceso de calculo es un evento inexistente en el universo fisico de la materia. carece de masa o energia.
+la aparicion de la reproduccion creo un universo diferente, etereo, intangible, que no pertenece al universo material.
+desperto el universo abstracto, logico, de ideas, pensamiento, inteligencia.
+Espiritu.
 
 
