@@ -1,3 +1,12 @@
+puntos clave:
+- componentes
+- diferencia
+- redundancia estructural
+- componente y sistema
+- prescindible e imprescindible
+
+
+
 La estructura de este laboratorio sera la siguiente:
 
 
@@ -23,6 +32,47 @@ empezaremos por las secciones 1 y 2, en donde hablamos de individuos biologicos 
 
 
 ----------------
+
+0- introduccion:
+
+en los capitulos anteriores hemos hablado de el ADN y la reproduccion.
+Dos elementos fundamentales en la vida. Y tan caracteristicos son que casi podriamos decir que la vida es eso, ADN que se reproduce.
+
+Sin embargo, cuando observamos a la vida no es eso lo que vemos.
+Y aunque el planeta esta cubierto de materia organica, tampoco es eso lo que vemos.
+Lo que vemos son "individuos".
+
+Y este es otro de los elementos que utilizaremos para construir un sistema inteligente que simule a la vida.
+Individuos.
+Porque eso es lo que la vida hace, crear individuos.
+Veamos entonces que son los individuos, y cual es la function que cumplen dentro del sistema.
+
+----------------
+
+
+1- que son?
+
+descripcion desde un punto de vista biologico.
+
+Un individuo es un organismo vivo, unicelular o pluricelular, que posee una estructura orgánica completa y autónoma, capaz de realizar todas las funciones vitales necesarias para su supervivencia y reproducción. Es la unidad mínima funcional dentro de una especie, y su existencia concreta permite la expresión, variación y perpetuación de dicha especie.
+
+posee Identidad genética:  un genoma único. cada individuo es una realización única del potencial genético de su especie
+
+
+
+
+descripcion desde un punto de vista logico.
+
+
+-----------------
+
+2- porque la vida crea individuos?
+
+solo puede avanzar en el proceso creando nuevas cadenas de ADN.
+las que se materializan como individuos.
+
+y el individuo hara que el proceso continue.
+
 
 
 3-
