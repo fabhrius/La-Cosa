@@ -1,11 +1,95 @@
-
-- que es el ciclo de vida? (definicion accesible)
-- describir el ciclo de vida en la naturaleza (biologico)
-- function del ciclo de vida en la arquitectura del sistema (tecnico) (bucle de ejecucion en un sistema distribuido)
-- el ciclo de vida y el individuo (mistico, reflexion existencial)
+0- Introduccion
+1- que es el ciclo de vida? (definicion accesible)
+2- describir el ciclo de vida en la naturaleza (biologico)
+3- function del ciclo de vida en la arquitectura del sistema (tecnico) (bucle de ejecucion en un sistema distribuido)
+4- el ciclo de vida y el individuo (mistico, reflexion existencial)
 
 
 -------------------------
 
+0- Introduccion
 
 
+observar a la naturaleza es
+algo que hacemos continuamente y que, sin embargo, aporta mas preguntas que respuestas.
+
+que todo tiene un final, es una leccion dura que debemos aprender temprano.
+es una de las pocas certezas que tenemos.
+lo aprendemos cuando nuestro perro, al que queremos con todo nuestro corazon, envejece y muere.
+
+mas alla de esto, es dificil entender lo que sucede.
+una marmota que habita en mi Jardin destruye mi huerto.
+y los pajaros carpinteros anidan debajo de mi techo, causando danos en la casa.
+las hormigas invaden la cocina.
+y un ciervo ha atravesado la autopista delante de mi coche.
+
+suceden muchas cosas, y esto crea ruido. Asi es dificil ver lo que es realmente importante.
+ayer plante un arbol, hoy escribo un libro, manana dedicare tiempo a la reparar unas tuberias de mi casa.
+el dia a dia, la actividad diaria, parece ser lo importante.
+
+para ver lo que sucede en realidad debemos tomar cierta distancia y observar otras cosas, el ciclo.
+es facil verlo en los pajaros.
+en primavera los Jovenes se emparejan. lo veo por mi ventana.
+y en unos dias comenzaran a construir un nido, debajo de mi techo.
+y Habra mucha actividad, volaran con energia, trabajaran sin descanso, y en medio de toda esa alegria, naceran polluelos.
+y los polluelos creceran, y aprenderan a volar.
+y un dia, pronto, abandonaran el nido de sus padres.
+El proximo ano, en primavera, vere a esos mismos polluelos convertidos en Jovenes.
+emparejandose en el Jardin, y cantando su felicidad a viva voz, desde las ramas de los arboles.
+y todo volvera a comenzar desde el principio.
+ano tras ano. una y otra vez.
+
+Ese, es el ciclo de la vida.
+Y lo que vemos en los pajaros es una muestra clara de lo que sucede con todos los seres vivientes.
+nosotros Tambien.
+
+-----------------------
+
+1- que es?:
+
+todos los individuos de todas las especies cumplen un ciclo de vida.
+este ciclo consiste basicamente en nacer, reproducirse y morir.
+en biologia suelen incluir mas etapas en el ciclo de vida, tales como crecer o desarrollarse.
+pero el ciclo de vida puede resumirse como nacer, morir y todo lo que esta en medio.
+podemos agregar tantas etapas como creamos conveniente en medio, segun lo que queramos destacar, sin embargo, a efectos practicos, todas las actividades que los individuos realizan entre el nacimiento y la muerte tienen como objetivo la reproduccion.
+incluso en ciertas especies adonde existen individuos que no se reproducen, como por ejemplo en hormigas o abejas obreras, en donde su function es mantener con vida a la reina, el individuo reproductor, su actividad es necesaria como parte del proceso reproductivo.
+ 
+
+lo vemos en todas las criaturas vivientes, en nosotros mismos, y por eso resulta natural y lo aceptamos sin mas.
+sin embargo, cuando pensamos en ello no conseguimos entender el porque.
+esto se debe a que vemos a los individuos como elementos aislados, independientes.
+
+para entender el porque del ciclo de vida debemos primero ser capaces de ver mas alla del individuo, porque es al nivel del sistema del que el individuo forma parte en donde el ciclo de vida tiene sentido.
+porque aunque los individuos parecen independientes a simple vista, no son elementos aislados.
+todos ellos forman parte de algo mayor.
+un sistema.
+
+y es dentro del sistema en donde los ciclos de vida de los individos que lo forman son
+el tic del reloj,
+el latido vital que empuja el flujo continuo de la vida.
+
+a simple vista podria parecer que no es realmente importante para los individuos, lo aceptamos porque parece irremediable, pero a nivel del individuo, no parece muy importante reproducirse o morir, el individuo podria vivir sin estas etapas.
+
+pero es vital para el sistema, porque
+sin el ciclo de vida de los individuos el sistema dejaria de funcionar.
+o dicho de otra forma, sin el ciclo de vida de los individuos, la vida simplemente no podria existir.
+
+podremos comprobar esta afirmacion en la practica, en los siguientes capitulos.
+
+hemos dicho en capitulos anteriores que los individuos son los componentes de un sistema inteligente.
+y como parte del sistema los individuos tienen una function, deben realizar una tarea.
+las instrucciones de esa tarea son el ciclo de vida que deben cumplir.
+
+conseguiran los individuos llevar a cabo su mission?
+sin duda.
+la vida posee una inteligencia extraordinaria, y las criaturas que crea son perfectas.
+los individuos son creados para realizar una tarea y lo haran.
+todo lo que deben hacer es nacer, reproducirse y morir.
+los individuos no pueden decidir si nacer o no, eso queda fuera de su alcance.
+los individuos no pueden decidir si morir o no, esta fuera de su alcance.
+y en cuanto a la reproduccion, se reproduciran si es posible y no lo haran si no lo es, haran lo correcto, y se esforzaran por realizar su trabajo a la perfeccion.
+son trabajadores que desean vacaciones, no esperan el retiro, quieren continuar trabajando para siempre.
+incluso cuando el tiempo se haya cumplido, querran continuar intentandolo, siempre una vez mas, esforzandose por hacerlo mejor la proxima vez.
+
+
+-----------------
