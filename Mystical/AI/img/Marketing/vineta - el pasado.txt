@@ -1,0 +1,77 @@
+ok.
+eso esta bien.
+
+probemos ahora con una historia corta.
+se trata de una historia de tono dramatico y reflexivo.
+vamos a representarla con otra vineta con el mismo estilo de las anteriores y Elara como protagonista.
+el guion es el siguiente:
+'
+el hoy parecia eterno
+las caras conocidas, los objetos cotidianos, los lugares habituales, 
+parecian estar alli desde siempre, para siempre, 
+imperturbables, indestructibles, inevitables.
+
+Y quiso conocer otras cosas, el mundo entero. 
+Todo aquello que no tenia estaba esperandole, en algun lugar.
+
+Y fue asi que salio en busca de su destino, 
+y sin notarlo, todo lo que dejo atras desaparecio, 
+poco a poco, de forma imperceptible, 
+sepultado, destruido, consumido por la accion del tiempo.
+
+Y el tiempo paso, rapidamente.
+Y fue entonces cuando recordo los dias felices, y quiso volver alli.
+Solo al volver lo comprendio.
+No habia nada alli.
+El pasado ya no existe, sino en la memoria.
+Y con cada paso que avanzaba hacia el futuro, algo del pasado desaparecia detras.
+'
+
+
+-----------------------------
+
+
+no.
+me parece que es demasiado contenido para una sola pagina.
+sera mejor dividirlo en tres paginas con tres vinetas cada una.
+
+Pagina 1: Elara adolescente en su casa natal
+1. Vineta 1
+texto:"El hoy parecia eterno.
+Las caras conocidas, los objetos cotidianos, los lugares habituales, ..."
+
+2. Vineta 2
+texto:"... parecian estar alli desde siempre, para siempre, 
+imperturbables, indestructibles, inevitables."
+
+3. Vineta 3
+texto:"Y quiso conocer otras cosas, el mundo entero. 
+Todo aquello que no tenia estaba esperandole, en algun lugar."
+
+Pagina 2: Elara adolescente emprende un viaje hacia lo desconocido
+4. Vineta 4
+texto:"Y fue asi que salio en busca de su destino."
+
+5. Vineta 5
+texto:"Y sin notarlo, todo lo que dejo atras desaparecio, 
+poco a poco, de forma imperceptible."
+
+6. Vineta 6
+texto:"... sepultado, destruido, consumido por la accion del tiempo."
+
+Pagina 3: Elara ya mujer se mantiene siempre activa, ocupada trabajando y explorando.
+7. Vineta 7
+texto:"Y el tiempo paso, rapidamente."
+
+8. Vineta 8
+texto:"Y fue entonces cuando recordo los dias felices, y quiso volver alli."
+
+9. Vineta 9
+texto:"Solo al volver lo comprendio.
+No habia nada alli.
+El pasado ya no existe, sino en la memoria."
+
+10. Vineta 10
+texto:"Pero el tiempo no se detuvo. Y ella tampoco.
+Y con cada paso que avanzaba hacia el futuro, algo del pasado desaparecia detras."
+
