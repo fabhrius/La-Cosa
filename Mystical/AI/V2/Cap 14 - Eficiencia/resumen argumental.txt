@@ -1,0 +1,49 @@
+
+1- a que llamamos eficiencia?
+
+existen diferentes formas de resolver un mismo problema.
+
+y algunas formas requieren menos pasos que otras.
+y menos recursos.
+
+y llamaremos eficiencia a eso.
+diremos que el metodo que resuelva el problema con menos recursos sera el mas eficiente.
+
+----------------------
+
+2- dos ejemplos, diferentes formas de resolver un problema.
+
+
+---------------
+
+3- analisis de la eficiencia
+
+
+-------------------
+
+
+
+4- el sistema viviente
+
+
+-------------------
+
+
+5- el problema del laberinto
+
+---------------
+
+
+6- formas de encontrar la solucion
+
+
+--------------
+
+7- recordemos como lo ha hecho
+
+
+-------------
+
+
+8- Conclusion. Como es de eficiente?
+
