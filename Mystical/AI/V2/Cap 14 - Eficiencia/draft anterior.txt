@@ -1,0 +1,230 @@
+En este capitulo hablaremos de eficiencia.
+
+
+No todos los computadores son iguales.
+Ciertos detalles los hacen diferentes unos de otros, como por ejemplo, la capacidad para abordar problemas de mayor complejidad, o de realizar un mayor numero de operaciones por unidad de tiempo, o quizás la habilidad de consumir menos recursos para realizar el mismo trabajo.
+Estas son solo algunas de las posibles diferencias.
+
+También encontraremos diferencias entre los métodos que un computador podría utilizar para resolver un mismo problema.
+Un mismo problema puede ser abordado de diferentes formas, utilizando distintos procedimientos.
+
+De modo que, tanto entre los computadores, asi como entre los procedimientos que estos utilizan para resolver problemas, existe una gran variedad, y pueden ser medidos y comparados.
+
+
+En este capitulo, nos proponemos obtener una medida de  
+la "Eficiencia algorítmica"
+del sistema computacional basado en criaturas vivientes que hemos utilizado en el experimento del capitulo anterior.
+Podremos establecer una medida aproximada de la eficiencia del sistema razonando sobre los hechos que hemos podido observar.
+
+Utilizando 2 algoritmos diferentes para resolver un mismo problema, diremos que un algoritmo es mas eficiente que otro cuando encuentra la solución al problema con un menor numero de operaciones.
+
+------------------------------------
+
+Algoritmos diferentes:
+
+Un algoritmo es la descripción de el procedimiento utilizado para resolver un problema.
+O dicho de otra forma, es la secuencia de operaciones que deben realizarse para alcanzar el resultado deseado.
+
+Por ejemplo, si quisiéramos ordenar una baraja de naipes, como podríamos hacerlo ?
+Es posible que diferentes personas propongan diferentes formas de conseguir el mismo resultado.
+
+Y siendo los métodos diferentes, es posible también que, algunos métodos consigan el resultado con un esfuerzo menor que otros.
+Ante la posibilidad de hacer el trabajo de formas diferentes, preferiremos el algoritmo que consiga el objetivo de la forma mas eficiente.
+Realizar el trabajo con un menor numero de operaciones se traduce en un menor consumo de recursos, y en especial, tiempo y energía.
+
+Para ver de forma practica como podemos medir y comparar la eficiencia de algoritmos diferentes, veamos como ejemplo 2 formas de ordenar una baraja.
+
+-------------------------------
+
+
+Como ordenar una baraja:
+
+Método 1:
+
+reviso toda la baraja comparando naipe a naipe con el objetivo de encontrar el de menor valor.
+después de haber revisado toda la baraja habré localizado el de menor valor y lo separo de la baraja colocandolo en una pila que llamare "pila ordenada".
+Al resto de la baraja le llamare "pila desordenada".
+Ahora tengo la baraja separada en dos pilas.
+La pila ordenada que contiene un naipe.
+Y la pila desordenada que contiene toda la baraja menos un naipe.
+
+Ahora, reviso la pila desordenada otra vez, de principio a fin, comparando naipe a naipe, buscando nuevamente el de menor valor.
+después de haber revisado toda la pila separo el naipe de menor valor y lo coloco en la pila ordenada.
+
+Ahora la pila ordenada contiene dos naipes, y la pila desordenadas contiene toda la baraja menos dos naipes.
+
+Vuelvo a revisar la pila desordenada, de principio a fin, para extraer el tercer naipe de menor valor.
+Y repetiré el mismo procedimiento una y otra vez hasta que ya no queden naipes en la pila desordenada.
+
+Entonces, toda la baraja estará en la pila ordenada, y los naipes estarán ordenados de menor a mayor.
+
+
+
+Método 2:
+
+antes de empezar, preparo espacio sobre la mesa para cada naipe en una cuadricula.
+Así, cada naipe de la baraja tiene un lugar reservado sobre la mesa, que ahora esta vacío.
+Una vez hecho esto, 
+levanto el primer naipe de la baraja, digamos que es el cinco de diamantes, y lo coloco sobre la mesa, en la cuadricula, en el espacio reservado para el cinco de diamantes.
+Y repito el procedimiento.
+Levanto el primer naipe de la baraja, digamos que es el tres de tréboles, y lo coloco sobre la mesa, en la cuadricula, en el espacio reservado para el tres de tréboles.
+Y repetiré el mismo procedimiento con todos los naipes hasta que no quede ninguno en la baraja.
+
+Entonces toda la baraja estará sobre la mesa, en la cuadricula, ordenada.
+
+
+
+-------------------------
+
+Numero de operaciones:
+
+
+Veamos ahora cuantas operaciones han tenido que realizar estos dos métodos, aproximadamente, para ordenar la baraja.
+
+Método 1:
+
+el primer algoritmo, revisa cuidadosamente la baraja comparando uno a uno todas los naipes para extraer el de menor valor.
+si la baraja tiene 50 naipes, se habrán realizado 50 comparaciones.
+después de realizar 50 comparaciones tenemos 1 naipe ordenado, y 49 sin ordenar.
+Para extraer el segundo naipe de menor valor repetiremos el procedimiento anterior con los 49 naipes que todavía están sin ordenar, y eso requerirá otras 49 comparaciones.
+repetiremos el procedimiento para extraer el tercer naipe con los 48 todavía sin ordenar, y esto requerirá otras 48 comparaciones,
+repetiremos el mismo procedimiento una y otra vez hasta que no queden naipes sin ordenar.
+cuantas comparaciones habrán sido necesarias ?
+50 + (50 - 1) + (50 - 2) + (50 - 3) + (50 - 4) + ... + (50 - 49)
+
+si al numero de elementos que queremos ordenar le llamamos 'N', en este caso N=50, el numero de operaciones necesarias serán
+aproximadamente N * (N-1)
+Podemos decir, por lo tanto, que el coste de ejecutar este algoritmo es de "el orden de" N cuadrado.
+
+
+Método 2:
+
+Empezamos reservando espacio para cada naipe en una cuadricula.
+Extraemos un naipe de la baraja y lo colocamos en el lugar que tiene reservado en la cuadricula.
+Lo mismo hacemos con el segundo y con todos los demás.
+
+cuantas operaciones son necesarias para ordenar la baraja ?
+una operación por naipe.
+si el numero de naipes es N, entonces el numero de operaciones sera del orden de N.
+
+
+--------------------------
+
+
+Cual es el mejor ?
+
+
+Ahora que tenemos una medida del numero de operaciones que ambos algoritmos necesitan para conseguir el objetivo podemos compararlos.
+
+el primero es del orden de N cuadrado, o N por N.
+el segundo es del orden de N.
+
+el segundo algoritmo hace el trabajo con menos operaciones, y por lo tanto es mas eficiente.
+
+
+--------------------
+
+
+
+Volvamos ahora al sistema que estamos analizando, la maquina viviente:
+
+
+Ahora que hemos visto como pueden compararse 2 métodos, 
+volvamos al sistema inteligente formado por seres vivientes
+y veamos el Método que ha utilizado en términos de eficiencia algorítmica.
+
+Como es de eficiente ?
+Cuantas operaciones necesita para alcanzar el objetivo ?
+Existen algoritmos que encuentren la solución con menos operaciones ?
+Podríamos sugerir cambios en el procedimiento para mejorar su eficiencia ?
+
+Para responder a estas preguntas revisemos el experimento del capitulo anterior.
+
+---------------------
+
+Resumo las características del problema del ejemplo:
+
+El tablero representa un laberinto, con una entrada y una salida.
+Sobre el tablero tenemos una única ficha.
+El objetivo del juego es llevar la ficha desde la entrada hasta la salida.
+La ficha puede desplazarse a una distancia de una única casilla con cada jugada, y este es el único movimiento valido.
+Y lo que queremos saber es, 
+cual es el camino que la ficha debe recorrer para ir desde la entrada hasta la salida ?
+
+La entrada la hemos situado en la casilla 'A1', y la salida en la casilla 'H8'
+
+La distancia que separa la entrada de la salida es de 7 casillas.
+
+(dibujo)
+
+
+La ficha solo puede moverse una casilla cada vez, por lo tanto, no sera posible alcanzar la salida con menos de 7 movimientos.
+7 movimientos como mínimo, en el caso de que encuentre el camino mas corto, 
+pero pueden ser mas, dependiendo del Método que utilice para explorar el tablero.
+
+(dibujo)
+
+
+No pueden ser menos porque una jugada valida desplaza la ficha a una distancia de 1 casilla, de modo que, desplazarse 7 casillas requerirá 7 movimientos o mas.
+
+----------------------
+
+Recordemos ahora como ha sido resuelto el problema:
+
+
+Hemos creado un individuo, el primero de su especie, representando el estado inicial del problema.
+Un tablero con una ficha colocada en la entrada del laberinto, 'A1'.
+Todos los individuos de esta especie, cumplirán con un ciclo de vida que consiste en, 
+nacer, reproducirse y morir.
+
+Cuando hemos dotado de vida a este primer individuo, el ha llevado a cabo las etapas de su ciclo de vida.
+Se ha reproducido, generando todos los hijos posibles, e inmediatamente después ha muerto, eliminándose del sistema.
+Al cumplir con su ciclo de vida, ha iniciado un proceso mas complejo, que va mas allá de su propia existencia, y que continuara aun cuando el ya no forma parte del sistema.
+El proceso que ha desencadenado con su existencia le sobrevivirá.
+
+
+Y ha sucedido lo siguiente,
+
+
+
+
+
+
+
+
+
+----------------
+
+
+
+(dibujos)
+
+
+
+------------------------------------------------
+
+El sistema ha encontrado la respuesta después de 7 generaciones.
+El sistema avanza un paso en el proceso en cada generación.
+
+Y con cada generación, 
+avanza un paso en la dirección correcta.
+No se pierde, no duda, no se equivoca.
+Se mueve hacia el objetivo como si supiera adonde se encuentra desde el principio.
+
+Con cada paso, avanza hacia el objetivo,
+por el camino mas corto.
+
+
+Hemos establecido que son necesarios al menos 7 pasos para alcanzar la salida,
+ya que se encuentra a una distancia de 7 casillas y la ficha no puede moverse mas de 1 casilla en cada jugada.
+
+De modo que,
+el sistema ha encontrado la respuesta con el  mínimo numero de pasos necesarios.
+
+Nos preguntábamos como podemos mejorar el procedimiento que utiliza el sistema para hacerlo mas eficiente.
+Y eso, simplemente no es posible.
+
+No sera posible mejorarlo.
+Jamas existirá un sistema mas eficiente que este, 
+porque el problema no puede resolverse con un menor numero de operaciones.
+

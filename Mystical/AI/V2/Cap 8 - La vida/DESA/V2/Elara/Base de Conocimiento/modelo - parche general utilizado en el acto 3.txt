@@ -1,3 +1,9 @@
+creo que antes de abordar los diferentes aspectos de la aventura de Elara debemos definir los objetivos principales y el mensaje que queremos comunicar.
+recordemos que todo gira alrededor de una teoria mistica que parte del funcionamiento de una maquina.
+
+veamos algunos detalles antes de continuar.
+
+
 el modelo conceptual de vida que utilizaremos como base de nuestra teoria y que nos servira para dar respuesta a las preguntas existenciales que abordaremos en el libro es diferente del modelo de vida classico utilizado actualmente en biolgia. El nuestro es un modelo logico matematico, por lo tanto debes familiriarizarte con el antes de colaborar en el desarrollo.
 
 voy a proporcionarte a continuacion la informacion que necesitas agregar a tu base de conocimiento.

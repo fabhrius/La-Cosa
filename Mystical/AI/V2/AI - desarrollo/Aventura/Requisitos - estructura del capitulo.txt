@@ -1,0 +1,38 @@
+cada capitulo es una historia aislada que puede leerse independientemente del libro, llamaremos a esto "historia unitaria".
+y es a la vez una parte del viaje de Elara que se integra en la aventura general.
+para conseguir redactar cada capitulo por separado, sin necesidad de tener terminados capitulos anteriores, utilizaremos una interfaz que describa las condiciones de entrada y de salida del capitulo. 
+asi podremos insertarlo en su lugar aunque todavia no esten redactados otros capitulos. y al mismo tiempo podra desarrollarse de diferentes formas y aun asi encajara en la historia general siempre que se respete la interfaz.
+
+
+Ademas, en cada capitulo la historia abarcara tres areas:
+-mistica, se aborda el tema del capitulo desde un punto de vista mistico, se muestra el punto de vista popular basado en mitos y leyendas culturales, y en contraste, Elara obtiene un conocimiento en sintonia con nuestra teoria. Asi este area mistica esta conectada con lo que se ha comentado en el laboratorio de este capitulo.
+-lucha, evoluciona la historia de la lucha entre el bien y el mal. tipicamente, los enviados de Morgerathus intentaran impedir que Elara consiga sus objetivos.
+-viaje, se relata aqui la forma en que Elara progresa en su viaje por Lluviara.
+
+------
+
+con estas ideas, los elementos necesarios para el desarrollo de cada capitulo son los siguientes:
+
+-condiciones de entrada: objetivos que Elara debe conseguir en este capitulo. de este modo el lector puede seguir el progreso, y al mismo tiempo proporciona material para que actuen los enemigos.
+-condiciones de salida: se plantean los objetivos de entrada del siguiente capitulo.
+
+-historia unitaria: un relato con principio y final que se desarrolla integramente dentro del capitulo. historias inteligentes e intensas, con final sorprendente, revelador o inspirador, queremos dejar al lector pensando.
+
+-mistico: el objetivo del viaje de Elara es encontrar respuestas a las preguntas existenciales, y en esta seccion seran abordadas.
+incluye{
+	-el tema del capitulo
+	-el trasfondo mistico que el tema sugiere
+	-el punto de vista popular
+	-ensenanzas, tipicamente Elara encontrara estas ensenanzas en antiguos grabados, ruinas, antiguos escritos, en conversaciones con sabios, u otras formas de obtener conocimiento antiguo.
+}
+
+-lucha: relata una parte de la lucha entre el bien y el mal. aparece un nuevo enemigo en cada capitulo para complicar el viaje de Elara. la confundira, saboteara sus planes, robara informacion, intentara que Elara no consiga sus objetivos, y asegurara que Morgerathus esta siempre un paso por delante.
+
+-viaje: Elara atraviesa Lluviara para volver a la gran montana adonde se encuentra el codex. el viaje sera largo y dificil. cada capitulo se desarrolla en un lugar diferente.
+
+
+-------
+nota:
+cada una de las areas, al igual que la historia unitaria, deben tener cierta independencia, y al mismo tiempo, integrarse en la aventura general.
+es decir, debemos reducir el acoplamiento, para obtener capitulos intercambiables, que puedan variar de posicion sin afectar a la historia general.
+

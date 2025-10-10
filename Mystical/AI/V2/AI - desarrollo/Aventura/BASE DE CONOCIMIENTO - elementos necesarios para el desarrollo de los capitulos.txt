@@ -1,0 +1,180 @@
+REQUISITO - Estructura general del capitulo:
+
+
+
+cada capitulo es una historia aislada que puede leerse independientemente del libro, llamaremos a esto "historia unitaria".
+y es a la vez una parte del viaje de Elara que se integra en la aventura general.
+para conseguir redactar cada capitulo por separado, sin necesidad de tener terminados capitulos anteriores, utilizaremos una interfaz que describa las condiciones de entrada y de salida del capitulo. 
+asi podremos insertarlo en su lugar aunque todavia no esten redactados otros capitulos. y al mismo tiempo podra desarrollarse de diferentes formas y aun asi encajara en la historia general siempre que se respete la interfaz.
+
+
+Ademas, en cada capitulo la historia abarcara tres areas:
+-mistica, se aborda el tema del capitulo desde un punto de vista mistico, se muestra el punto de vista popular basado en mitos y leyendas culturales, y en contraste, Elara obtiene un conocimiento en sintonia con nuestra teoria. Asi este area mistica esta conectada con lo que se ha comentado en el laboratorio de este capitulo.
+-lucha, evoluciona la historia de la lucha entre el bien y el mal. tipicamente, los enviados de Morgerathus intentaran impedir que Elara consiga sus objetivos.
+-viaje, se relata aqui la forma en que Elara progresa en su viaje por Lluviara.
+
+------
+
+con estas ideas, los elementos necesarios para el desarrollo de cada capitulo son los siguientes:
+
+-condiciones de entrada: objetivos que Elara debe conseguir en este capitulo. de este modo el lector puede seguir el progreso, y al mismo tiempo proporciona material para que actuen los enemigos.
+-condiciones de salida: se plantean los objetivos de entrada del siguiente capitulo.
+
+-historia unitaria: un relato con principio y final que se desarrolla integramente dentro del capitulo. historias inteligentes e intensas, con final sorprendente, revelador o inspirador, queremos dejar al lector pensando.
+
+-mistico: el objetivo del viaje de Elara es encontrar respuestas a las preguntas existenciales, y en esta seccion seran abordadas.
+incluye{
+	-el tema del capitulo
+	-el trasfondo mistico que el tema sugiere
+	-el punto de vista popular
+	-ensenanzas, tipicamente Elara encontrara estas ensenanzas en antiguos grabados, ruinas, antiguos escritos, en conversaciones con sabios, u otras formas de obtener conocimiento antiguo.
+}
+
+-lucha: relata una parte de la lucha entre el bien y el mal. aparece un nuevo enemigo en cada capitulo para complicar el viaje de Elara. la confundira, saboteara sus planes, robara informacion, intentara que Elara no consiga sus objetivos, y asegurara que Morgerathus esta siempre un paso por delante.
+
+-viaje: Elara atraviesa Lluviara para volver a la gran montana adonde se encuentra el codex. el viaje sera largo y dificil. cada capitulo se desarrolla en un lugar diferente.
+
+
+-------
+nota:
+cada una de las areas, al igual que la historia unitaria, deben tener cierta independencia, y al mismo tiempo, integrarse en la aventura general.
+es decir, debemos reducir el acoplamiento, para obtener capitulos intercambiables, que puedan variar de posicion sin afectar a la historia general.
+
+
+-------------
+
+REQUISITO - tono narrativo:
+
+
+✦ Tono Narrativo de la Historia
+La historia de Elara se relata en un tono épico, místico y realista a la vez.
+Es épico, porque el relato transmite la sensación de un gran viaje a través de un mundo antiguo y vasto, lleno de desafíos, símbolos y pruebas. Todo parece tener una importancia trascendental, como si cada paso de Elara formara parte de un destino mayor.
+Es místico, porque el mundo que atraviesa Elara está impregnado de una sabiduría invisible. Los paisajes, las criaturas, los templos y las voces que encuentra parecen contener mensajes ocultos. La historia no explica directamente lo sobrenatural, sino que lo sugiere. Hay un aura de misterio constante, una sensación de que la realidad es más profunda de lo que perciben los sentidos.
+Y es realista, porque el relato mantiene los pies en la tierra. Elara no es una heroína invencible: siente miedo, duda, se equivoca, se conmueve. Los lugares, aunque mágicos, se describen con detalle sensorial y naturalista. El lector puede creer en ellos.
+El tono evita los excesos de la fantasía tradicional: no hay milagros gratuitos, ni intervenciones divinas explícitas, ni soluciones fáciles. Todo tiene un costo. Todo se comprende a través de la experiencia.
+El estilo combina la poesía con la lucidez.
+A veces es contemplativo y filosófico, como si el narrador observara el mundo a través de la mirada interior de Elara.
+Otras veces es intenso y emocional, casi profético, cuando los acontecimientos alcanzan su punto álgido.
+El relato fluye entre lo visible y lo invisible, entre lo humano y lo eterno.
+
+✦ En una frase
+“Una aventura mística narrada con tono épico y alma realista: un viaje hacia la verdad, contado como si lo imposible fuera parte natural del mundo.”
+
+
+-----------------------
+
+
+REQUISITO - linea argumental del area - La lucha entre el bien y el mal:
+
+
+aqui va una idea general con los elementos principales.
+
+Nueve Siglos antes del tiempo de Elara existio una ciudad llamada Aquanthis.
+en ella vivio un pueblo que adoraba el conocimiento, los Acquahrkai.
+bajo el reinado de Nytharion, el mas sabio de todos los reyes, crearon un libro magico que contenia todo el conocimiento.
+tanto conocimiento se acumulo en el libro que cobro conciencia y voluntad.
+la leyenda cuenta que el poder magico del libro era insuperable.
+
+al principio el poder del libro fue utilizado para el bien.
+hasta que un dia un mago malvado llamado Morgerathus se apodero del libro con el fin de utilizar su poder para conquistar el mundo.
+hubo guerra y el ejercito del mal ocupo la ciudad.
+fue entonces cuando el codex trasporto magicamente al rey y a todas las personas buenas del reino a un lugar seguro en las montanas,
+y en un instante destruyo la ciudad derrotando asi al mal.
+
+el rey Nytharion decidio que el libro debia ser ocultado en un lugar seguro para siempre, para evitar que el mal pudiera volver a utilizarlo.
+un batallon del ejercito llevo al libro al lugar  mas inaccesible de Lluviara, pero antes el rey ordeno a los magos crear un sello magico, para cerrar el libro, para que nadie pudiera acceder al contenido de sus paginas.
+fue asi que crearon una llave magica que entregaron al rey. solo aquel que posea la llave podria consultar el libro.
+El rey, antes de morir, oculto la llave y creo un mapa con su ubicacion.
+un mapa realizado en cristal de roca, que posteriormente corto en 9 partes iguales, con las que creo 9 talismanes magicos, que entrego a nueve familias, con una orden precisa, cuidar del talisman por los siglos que vendrian.
+el talisman les protegeria, les haria prosperar, pero ellos a cambio Debian protegerlo, evitando que los talismanes cayeran en las manos del mal, generacion tras generacion.
+
+con el paso de los siglos los amuletos se han dispersado por Lluviara, y quienes los tienen en su poder ya no saben muy bien lo que significan.
+
+
+desde que el libro ha sido ocultado y sellado magicamente, Morgerathus ha estado buscandolo sin exito.
+La magia de Morgerathus no puede encontrar el libro porque ha sido protegido con un encantamiento.
+sin embargo, despues de nueve siglos de busqueda finalmente ha detectado la actividad magica del libro.
+el rastro magico lo ha llevado hasta Elara perdida en el lugar adonde el codex la ha enviado.
+el libro no esta alli, pero ahora sabe que Elara sabe adonde esta.
+desde ese momento, la seguira desde las sombras.
+
+
+en cada capitulo Morgerathus y sus secuaces, intentaran sabotear los planes de Elara, conseguir informacion y evitar que Elara consiga los amuletos.
+Elara no sabra de la existencia de los amuletos ni de su poder hasta los ultimos capitulos, por este motivo sera facil despojarla de ellos.
+
+hacia los ultimos capitulos Morgerathus comprendera que proporcionandole la llave Elara les llevara hasta el codex, entonces dejara que consiga todos los amuletos y que consiga la llave.
+sin embargo la llave es falsa.
+Elara les llevara hasta el codex y su llave no funcionara.
+entonces se desarrollara la batalla final.
+
+--------------------------------------
+
+Morgerathus no puede encontrar el codex ni los amuletos porque estan protegidos magicamente.
+sin embargo puede percibirlos si activan su magia.
+cuando el libro lucha contra Elara Morgerathus percibe la accion del codex, pero el rastro de la magia lo conduce hasta Elara, al otro lado de Lluviara, lejos del codex.
+del mismo modo, solo vera los amuletos cuando Elara active su magia.
+Elara sin saberlo le conducira a todos los amuletos, y los secuaces de Morgerathus, haciendose pasar por amigos de Elara la enganaran para arrebatarle los amuletos.
+finalmente Morgerathus conseguira la llave, pero no sabra adonde se encuentra el codex.
+por este motivo hace creer a Elara que ella encuentra la llave, pero es falsa.
+asi Elara le conducira sin saberlo al codex.
+y alli se desarrollara la batalla final.
+Morgerathus es el mas poderoso mago que existe. su magia no tiene rival.
+de modo que solo el codex puede derrotarlo, solo la magia del codex es mas poderosa.
+Elara debe utilizar la magia del codex para derrotar a Morgerathus, pero es Morgerathus quien tiene la llave, y por lo tanto el unico que puede utilizar el codex.
+de modo que Elara tendra que enganar a Morgerathus para lanzar la magia del codex con el.
+El engano es el arma de Morgerathus, Elara ha aprendido la leccion y utiliza el engano contra el.
+Morgerathus intenta utilizar la magia del codex para conseguir la victoria definitiva y ese hechizo cae sobre el y significa su derrota definitiva.
+
+
+----------------------------------
+
+
+Evolucion de la lucha por actos:
+
+ahora vamos a organizar la lucha entre el bien y el mal por actos, haciendo que avance gradualmente, desde el desconocimiento y la inocencia, hasta el control de la situacion.
+podria ser a grandes rasgos como sigue:
+
+acto 1, la lucha no ha comenzado, presentacion de lugares, personajes e inicio del viaje
+acto 2, primeros indicios de lucha desde las sombras, Elara no lo percibe, el lector lo percibe pero solo se insinua. Elara se enfrenta a Morgerathus por primera vez y logra escapar, pero no sabe que es su enemigo, solo un personaje peligroso que ha encontrado casualmente.
+acto 3, Elara obtiene informacion acerca de Morgerathus y de su implicacion en la desaparicion del codex, todavia no comprende que esta siendo acechada por el mal, los ataques que recibe los percibe como de personas individuales no relacionadas entre si.
+acto 4, Elara empieza a comprender que esta siendo observada y atacada de forma organizada. es mas precavida pero todavia actua de forma inocente.
+acto 5, es la guerra abierta, Elara siendo conciente del peligro se vuelve fuerte, casi invencible. el mal, que ha ganado cada batalla en los actos anteriores empieza a sufrir derrotas.
+acto 6, la batalla final, y la derrota de Morgerathus.
+
+
+
+----------------------
+
+REQUISITO - linea argumental del area - El viaje:
+
+
+
+- el viaje:
+empieza cuando Elara desea obtener respuestas acerca de su propia existencia.
+en su pueblo natal.
+junto al anciano sacerdote del templo de la lluvia investiga en antiguos manuscritos almacenados en el templo de la lluvia, cual podria ser la ubicacion del antiguo codice perdido.
+finalmente descubren que ese encuentra en la gran montana y Elara decide aventurarse en solitario en una expedicion que la llevara a encontrarlo.
+pero el libro no permitira que nadie consulte sus paginas y luchara contra Elara.
+con una potente descarga de energia magica la envia al otro lado de Lluviara.
+Elara perdida en un lugar desconocido iniciara el largo viaje de regreso.
+Sin mapas y sin conocimiento del lugar recorrera todo Lluviara, conociendo personajes, viviendo aventuras y aprendiendo.
+capitulo a capitulo avanzara por la geografia de Lluviara encontrando poco a poco las respuestas que buscaba.
+Finalmente conseguira volver a la gran montana adonde se encuentra el codex, pero entonces ya tendra las respuestas que buscaba y no necesitara el libro.
+La percepcion que Elara obtiene al final de su aventura es que el codex, conociendo sus deseos, organizo todo el viaje para que Elara encuentre las respuestas que buscaba con su propia experiencia.
+El primer encuentro con el Codex termina con Elara que yace inconsciente en el suelo de la cueva junto al codex, posiblemente muerta por el ataque del libro.
+en el siguiente capitulo despierta en un lugar desconocido al otro lado de Lluviara, esto hace que no quede claro si el viaje sucedio realmente o si se trata de un sueno, porque en el ultimo capitulo, Elara despierta en la cueva de la gran montana junto al codex.
+esto hace que todo el viaje haya podido ser un sueno inducido por el codex, o tal vez haya sido real.
+
+
+----------------------
+
+
+REQUISITO - linea argumental del area - Mistico:
+
+
+Elara inicia el viaje con el objetivo de encontrar respuestas a todas las preguntas existenciales.
+El conocimiento que posee sobre la existencia y el destino esta basado en los mitos y creencias populares.
+en cada capitulo mostraremos las creencias populares acerca de cada uno de los temas, que seran parecidas a las utilizadas por las religiones actuales pero sin llegar a ser exactamente esas, mantendremos una distancia respetuosa, y debemos agregar un cierto grado de fantasia para mostrar como nuestra imaginacion puede a traves de la cultura crear historias que creemos reales, aun cuando puedan ser simplemente absurdas.
+Elara en cada capitulo encontrara evidencia de un conocimiento antiguo que revelara respuestas realistas y contrastables, en linea con nuestra teoria, para cada uno de los enigmas.
+Al final de su viaje, Elara tendra todas las respuestas que buscaba y Habra reemplazado el universo de mitos y leyendas por una teoria solida y coherente.
+

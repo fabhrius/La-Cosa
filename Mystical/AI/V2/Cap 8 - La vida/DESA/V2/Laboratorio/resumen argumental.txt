@@ -34,7 +34,7 @@ inteligencia
 
 2-
 
-- introduccion 
+- introduccion - un proceso de calculo generico
 (revelacion - es un sistema inteligente)
 
 - veamos como se resuelve un problema logico
