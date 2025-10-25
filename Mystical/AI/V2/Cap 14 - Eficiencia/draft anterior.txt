@@ -163,7 +163,7 @@ La ficha solo puede moverse una casilla cada vez, por lo tanto, no sera posible 
 pero pueden ser mas, dependiendo del Método que utilice para explorar el tablero.
 
 (dibujo)
-
+(se muestran graficamente distintas formas de explorar el tablero, todas ellas encuentran la solucion con un numero diferente de movimientos)
 
 No pueden ser menos porque una jugada valida desplaza la ficha a una distancia de 1 casilla, de modo que, desplazarse 7 casillas requerirá 7 movimientos o mas.
 
@@ -182,23 +182,13 @@ Se ha reproducido, generando todos los hijos posibles, e inmediatamente después
 Al cumplir con su ciclo de vida, ha iniciado un proceso mas complejo, que va mas allá de su propia existencia, y que continuara aun cuando el ya no forma parte del sistema.
 El proceso que ha desencadenado con su existencia le sobrevivirá.
 
+Y su informacion, asi como sus acciones, en escencia su Espiritu, formaran parte del sistema para siempre, hasta el final.
 
 Y ha sucedido lo siguiente,
 
 
-
-
-
-
-
-
-
-----------------
-
-
-
 (dibujos)
-
+(recordamos gragicamente como el problema ha sido resuelto)
 
 
 ------------------------------------------------
@@ -213,6 +203,8 @@ Se mueve hacia el objetivo como si supiera adonde se encuentra desde el principi
 
 Con cada paso, avanza hacia el objetivo,
 por el camino mas corto.
+
+Como si hubiera conocido la respuesta desde siempre, aun antes de comenzar el proceso.
 
 
 Hemos establecido que son necesarios al menos 7 pasos para alcanzar la salida,
