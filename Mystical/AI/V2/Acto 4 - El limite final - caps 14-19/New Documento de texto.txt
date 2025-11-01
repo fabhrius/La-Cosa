@@ -1,0 +1,50 @@
+
+En el capitulo anterior hemos visto como funciona el sistema, y el mecanismo que ha utilizado para encontrar la solucion al problema.
+Lo hemos visto en accion y ya tenemos una primera impresion.
+
+Pero, 
+que es exactamente esta cosa.
+que tipo de problemas puede resolver.
+que podemos esperar de un sistema como este
+
+-----------------
+
+para responder a estas preguntas podriamos compararlo con otros sistemas y establecer que lugar podria ocupar dentro de la jerarquia de los sistemas de calculo.
+
+
+------------------
+
+En los siguientes capitulos, analizaremos algunas de sus caracteristicas.
+En particular,
+
+- su eficiencia, 
+en terminos de, cuantos calculos necesita para encontrar la solucion ?
+es mas eficiente que otros sistemas, o menos ?
+
+- su potencia, 
+en terminos de, cual es la dificultad de los problemas que puede abordar ?
+puede resolver problemas mas complejos que otros sistemas, o menos ?
+
+- su coste, 
+en terminos de, cual es el coste de resolver un problema utilizando un sistema de este tipo ?
+
+- su precision,
+intentaremos tambien establecer cual podria ser el grado de error que podemos esperar de un sistema como este.
+
+
+Con esta informacion podremos entender mejor lo que esta maquina es.
+Podremos encontrar su lugar dentro del universo de los sistemas inteligentes.
+Y podremos entender la necesidad de algunos detalles que ahora podrian pasan desapercibidos.
+
+
+
+Empecemos hablando de eficiencia.
+
+-----------------------------------
+
+Como hemos visto en el experimento anterior, la vida es una inteligencia.
+Pero que clase de inteligencia es ?
+Podemos medirla ?
+
+Prestad atencion al analisis de caracteristicas que llevaremos a cabo a continuacion.
+

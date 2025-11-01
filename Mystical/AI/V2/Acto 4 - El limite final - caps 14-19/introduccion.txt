@@ -1,0 +1,39 @@
+introduccion:
+
+
+Creo que ha quedado demostrado que la vida es una inteligencia.
+Utilizando algunos elementos encontrados en la arquitectura de la vida, Ha resultado facil construir un sistema computacional.
+Un sistema de una simplicidad y potencia notables.
+
+en este acto nos proponemos analizar mas en detalle este sistema para compararlo con otros sistemas computacionales.
+la vida como sistema inteligente 
+que clase de sistema es?
+es mas potente que otros, o menos?
+es mas eficiente que otros, o menos?
+cual es su coste?
+Analizaremos estas entre otras caracteristicas para tener una idea mas clara de lo que es.
+
+ 
+- 
+
+
+----------------------------
+
+- lo que hemos visto:
+como con algunos elementos encontrados en la vida hemos construido un computador, un sistema de una simplicidad y potencia notables.
+ha sido facil.
+el diseno es extremadamente simple, con pocos elementos y una forma de funcionamiento a prueba de fallos.
+igualmente, la forma en que ha resuelto el problema es sorprendente. no hay apenas calculos y estos son siempre de gran simplicidad, triviales.
+este sistema puede ser adaptado a cualquier problema, y cualquier problema se resolvera del mismo modo, sin esfuerzo.
+da la impression de que los problemas se resuelven por si solos.
+casi como si el problema y la solucion fueran la misma cosa.
+solo se despliega. y cuando esta extendido se ve su solucion.
+
+- lo que esto implica:
+que hemos hecho?
+hemos construido un sistema computacional o una simulacion de la vida?
+es esto lo que la vida es?
+es esto lo que son las poblaciones formadas por los individuos de las diferentes especies?
+
+- lo que nos proponemos en este acto:
+
