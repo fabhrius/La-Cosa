@@ -2,6 +2,29 @@
 
 2- cual es la complejidad de los problemas que este sistema puede abordar?
 
+3- tipos de problemas y problemas de decision
+
+4- ejemplo ajedrez ?
+
+5- el problema del laberinto
+
+6- como el sistema ha gestionado la complejidad
+
+7- primeras conclusiones
+
+8- una vision mas formal
+
+9- clasificacion de los problemas
+
+10- distintos tipos de sistemas de computo y su alcance
+
+11- la complejidad de los problemas y la maquina viviente
+
+12- el volumen de trabajo
+
+13- conclusiones
+
+
 
 -----------------------------------
 
@@ -15,6 +38,7 @@ continuamos hablando de potencia.
 Y el objetivo de este capitulo sera establecer de forma aproximada cual podria ser la potencia de este sistema en terminos de :
 - cual es la complejidad de los problemas que podria abordar y
 - a que velocidad podria entregar resultados
+- o que volumen de trabajo podria gestionar
 
 Y con esta informacion realizar una comparacion con los computadores electronicos actuales con el fin de encontrar el lugar que este sistema ocupa dentro de la jerarquia de sistemas inteligentes.
 
@@ -22,6 +46,8 @@ Es decir,
 Es comparable en potencia a los mas potentes computadores actuales ?
 Podrá entregar resultados a mayor o menor velocidad ?
 Podrá abordar problemas de mayor o menor complejidad ?
+Y cual es la carga de trabajo que puede gestionar? mayor o menor?
+
 
 --------------
 
@@ -70,13 +96,15 @@ A1-A2-A3-B3-C3-C2-C1-B1
 
 
 y en cualquiera de estas 18 posibilidades, se encontrara con la necesidad de decidir nuevamente entre varias opciones posibles para seguir adelante.
-Y lo mismo sucederá con cada paso que avance en cualquier dirección.
+Y lo mismo sucederá con cada paso que avance en cualquier dirección. el camino se divira.
 
 Cuantas decisiones deberán tomarse entonces hasta encontrar la salida ?
 
 El numero de decisiones que deberán tomarse para encontrar la solución crece exponencialmente, es decir que tendera a infinito rápidamente.
 Como crece de rápido ?
 Aproximadamente en un digito cada vez que la ficha avanza una casilla.
+Algo asi como: para avanzar una casilla deberan tomarse 3 decisiones, para avanzar dos casillas 15 decisiones, para avanzar 3 casillas 120 decisiones. 
+las decisiones crecen en un orden de magnitud con cada casilla que avanza.
 Lo veremos con mas detalle mas adelante cuando hablemos de costes.
 
 
@@ -85,7 +113,7 @@ Existen distintas soluciones al problema, así como existen distintos caminos qu
 El camino mas corto tiene una longitud de 7 casillas.
 Observad que para avanzar una casilla desde la entrada (el estado inicial), existen 3 posibles caminos, 3 decisiones (un digito)
 Para avanzar una segunda casilla, deberán tomarse, 3 + 5 + 5 + 8 decisiones, esto es 21 (2 dígitos)
-El calculo se complica a partir de aquí, pero adelantare que para recorrer 7 casillas deberán tomarse mas de 2 millones de decisiones (7 digitos).
+El calculo se complica a partir de aquí, pero adelantare que para recorrer 7 casillas deberán tomarse millones de decisiones (7 digitos).
 Para recorrer una casilla mas, el numero de decisiones se habrá incrementado superando los 16 millones aproximadamente.
 Y si quisiéramos recorrer 100 casillas, el numero de decisiones que habría que tomar seria aproximadamente un digito seguido por 100 ceros, para entender la magnitud de esta cifra, intentad expresar este numero con palabras.
 
@@ -140,7 +168,7 @@ la memoria necesaria para recordarlos todos, también
 tiende a infinito.
 
 Para que los computadores electrónicos puedan abordar problemas de este tipo,
-se necesita una estrategia que evite la necesidad recorrer todos los caminos de principio a fin.
+se necesita una estrategia que evite la necesidad de recorrer todos los caminos de principio a fin.
 
 Porque no sera posible dotar a una maquina de una cantidad de memoria infinita.
 
@@ -151,7 +179,7 @@ He comentado que ciertos sistemas trabajan en clusters, repartiendo el trabajo e
 Sin embargo, incluso si incluimos a un nuevo computador en el cluster por cada nuevo camino que se presente,
 el numero de computadores que hay en el mundo es limitado, finito.
 
-Y cuando el numero de caminos que deben recorrer tiende a infinito, aun repartiendo el trabajo, el numero de caminos que cada computador del cluster debera recorrer tambien tiende a infinito.
+Y cuando el numero de caminos que deben recorrer tiende a infinito, aun repartiendo el trabajo, el numero de caminos que cada computador del cluster debera recorrer tambien tiende a infinito. sin importar cuantos computadores formen el cluster.
 
 En resumen, 
 las limitaciones que tienen los computadores actuales, y que les impiden abordar cierto tipo de problemas, y en particular problemas del universo real, son 2:
@@ -164,6 +192,8 @@ Porque si el proceso genera una gran cantidad de informacion que debe ser proces
 
 Porque un limite en el tiempo es un problema ?
 Porque si el proceso no termina en muchos millones de anyos, es posible que no haya nadie para recoger los resultados, y por lo tanto el trabajo es inutil.
+
+
 
 En resumen, los computadores electronicos actuales no podran resolver problemas de cualquier complejidad.
 La complejidad de los problemas limita el conjunto de problemas abordables por un computador.
@@ -256,7 +286,7 @@ sino solo su camino, entonces, la memoria tampoco sera una limitación.
 
 
 
-Veamo ahora que pasa con
+Veamos ahora que pasa con
 
 -#-Velocidad de calculo
 
@@ -343,6 +373,7 @@ Tantas como nuevos individuos nacerán en 1 segundo.
 
 Como referencia, dire que,
 dentro del organismo de un único ser humano, viven varias decenas de billones de bacterias.
+
 
 Mirando alrededor, e intentando adivinar cuantos individuos nacerán en un segundo en la tierra,
 es evidente que ningún computador electrónico conseguirá nunca competir
