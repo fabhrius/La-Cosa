@@ -1,14 +1,32 @@
+
+introduccion:
+- objetivo: averiguar cual es la potencia del sistema
+- motivacion: hemos construido una maquina de gran simplicidad, pero como es de potente?
+- como lo haremos: como se calcula la potencia de un sistema computacional?
+
+
+
+
+
+
+
+--------------------
+
 1- complejidad de un problema
+como medir la complejidad de un problema?
 
 2- cual es la complejidad de los problemas que este sistema puede abordar?
 
 3- tipos de problemas y problemas de decision
 
 4- ejemplo ajedrez ?
+(explicar como se incrementa el numero de caminos con cada movimiento)
 
 5- el problema del laberinto
+(recordar el problema y hacer un recuento de decisiones para entender la complejidad)
 
 6- como el sistema ha gestionado la complejidad
+(explicar como disuelve la complejidad, no toma decisiones, sino que crea individuos que exploran en paralelo)
 
 7- primeras conclusiones
 

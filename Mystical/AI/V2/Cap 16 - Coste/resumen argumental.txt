@@ -1,18 +1,42 @@
-1- Introduccion:
+1- introduccion:
+lo que nos proponemos.
+porque.
+como lo haremos.
+
+2- recordatorio del problema
+
+3- recordatorio de la resolucion
+
+4- coste de la maquina y coste de resolver un problema
+
+5- ideas de implementacion fisica, bacterias y plastico
+
+6- revision de la resolucion del problema y recuento de individuos
+
+7- y si el problema fuera mas complejo? camino mas largo y ajedrez
+
+8- cuantificacion del coste en dinero
+
+9- conclusion
+
+10- una vision mas formal - coste imposible
+
+11- y sin embargo - el coste de la vida es cero
+
+12- aproximacion filosofica
+la paradoja: el coste del sistema es imposible - la vida lo implementa con coste cero
+mensaje: otra prueba de que estamos ante la presencia de la divinidad
 
 
+-------------------------------
 
-----------------------------------------------
-
-
-
-1- Introduccion:
 
 En este capitulo discutiremos el coste que un sistema de este tipo podria tener.
 En ingenieria los costes son un area en la que debemos prestar especial atencion.
 Todo tiene un coste, y el presupuesto siempre es limitado.
 
 Intentaremos establecer el coste del sistema de forma aproximada.
+y hablaremos de dinero.
 
 Por una parte, nos gustaría saber cual podría ser el coste de la maquina.
 Y por otra parte, quisiéramos saber cual podría ser el coste de resolver un problema utilizando esta tecnología.
@@ -25,6 +49,7 @@ En algunas arquitecturas, el coste de la maquina es, hasta cierto punto, indepen
 En esta arquitectura particular, cuando hablamos de un sistema viviente, el coste de la maquina y el coste de resolver un problema estarán estrechamente relacionados.
 
 Si pensamos que, por cada paso elemental  en el calculo crearemos un nuevo individuo, entonces esta claro que cuantos mas cálculos requiera la resolución del problema, mayor sera la colonia de individuos necesaria para encontrar la solución.
+y como la maquina esta formada por individuos, entonces el tamano de la maquina aumenta con la complejidad del problema.
 
 Pero veamoslo con mas detalle.
 Veamos como el sistema a encontrado la solución al problema del laberinto, y cual podría ser el coste de resolver ese problema en particular.
