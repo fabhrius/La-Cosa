@@ -1,0 +1,20 @@
+Acto 4: El limite final (aproximacion mistica)
+
+
+    - Cap. 14: Eficiencia.  
+conclusion: no es posible resolver un problema a mayor velocidad y con un menor consumo de recursos
+
+    - Cap. 15: Potencia.  
+conclusion: puede abordar todos los problemas sin limites de complejidad
+ 
+    - Cap. 16: Coste
+conclusion: un sistema de coste infinito construido con un coste cero
+
+    - Cap. 17: Redundancia
+conclusion:
+
+    - Cap. 18: Fiabilidad (gestion de memoria - colapso del sistema)
+
+
+    - Cap. 19: Poda.  (porque morimos)
+conclusion: 
