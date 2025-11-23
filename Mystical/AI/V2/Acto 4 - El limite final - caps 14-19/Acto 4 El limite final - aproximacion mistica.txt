@@ -1,4 +1,6 @@
 Acto 4: El limite final (aproximacion mistica)
+objetivo general: demostrar que no puede existir una inteligencia superior a la de la vida.
+
 
 
     - Cap. 14: Eficiencia.  
@@ -9,21 +11,29 @@ conclusion:
 - casi como si pudiera adivinar, avanzara por el camino correcto
 
 
-idea clave:
+idea clave: 
+- piensa tan rapido que casi parece adivinar lo desconocido. no duda, no se equivoca.
+- avanzara en la direccion correcta con cada paso, como si conociera el camino aun antes de haberlo recorrido.
+como si conociera la respuesta aun antes de pensar en ello.
+- ninguna otra inteligencia podra nunca resolver un problema con un esfuerzo menor.
+- la inteligencia perfecta
+
+
 
     - Cap. 15: Potencia.  
 conclusion: 
 - puede abordar todos los problemas sin limites de complejidad
-- todo es trivial
-- claridad de vision
-
+- la complejidad no exite para ella, desde su punto de vista todos los problemas tienen la misma complejidad, trivial.
+- claridad de vision. el universo es comprensible a simple vista.
 
 idea clave:
- 
+- la inteligencia superior, la inteligencia de un dios.
+
+
     - Cap. 16: Coste
 conclusion: 
 - un sistema de coste infinito construido con un coste cero
-- el poder de los dioses
+- la perfeccion del diseno se refleja Tambien en el coste.
 
 
 idea clave:
@@ -49,5 +59,20 @@ idea clave:
 
     - Cap. 19: Poda.  (porque morimos)
 conclusion: 
+- los individuos mueren para que la vida sea inmortal. pero si los individuos no murieran, la vida misma moriría.
+- el individuo muere para que el pensamiento continúe, muere para que la verdad sea alcanzada.
+- cada muerte individual es una ofrenda que mantiene viva a la totalidad
+
+- la muerte mantiene el equilibrio del sistema como un mecanismo de gestión
+- es el principio que impulsa el cálculo hacia la solución
+- es la fuerza que garantiza el sentido del proceso.
+
+- ahorra recursos, acelera la convergencia hacia la solución, y mantiene la estabilidad de la estructura global.
+- la vida, entendida como sistema de cálculo, depende de la muerte de sus componentes para conservar su continuidad eterna.
+
+- el sistema mantiene el mínimo coste posible.
 
 idea clave:
+- evita la muerte de la vida
+- reduce el coste a cero
+- empuja el calculo hacia la solucion
