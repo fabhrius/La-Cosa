@@ -8,7 +8,7 @@ conclusion:
 - no es posible resolver un problema a mayor velocidad y con un menor consumo de recursos
 - encuentra la solucion por el camino mas corto
 - como si supiera la respuesta desde el principio
-- casi como si pudiera adivinar, avanzara por el camino correcto
+- casi como si pudiera adivinar, avanzara por el camino correcto aun antes de haberlo explorado
 
 
 idea clave: 
@@ -37,15 +37,24 @@ conclusion:
 
 
 idea clave:
+- “El sistema más caro concebible solo pudo levantarse sin coste por la única inteligencia capaz de hacerlo: la vida misma.”
+
+- “Un sistema que ningún ser podría construir por su coste infinito, la vida lo levanta espontáneamente con un coste cero: el sello inconfundible de lo divino.”
+
 
     - Cap. 17: Redundancia
 conclusion:
-- una nueva maquina a cada paso
-- disenado para no detenerse jamas
+
+- disenado para trabajar en un entorno desconocido y hostil, explorando el espacio infinito por toda la eternidad.
+- agregara nuevas maquinas a cada paso del calculo. modificara lo que sea necesario, se adaptara para superar cualquier obstaculo.
+- un sistema disenado para no detenerse jamas
 
 
 
 idea clave:
+
+- la redundancia del sistema tiende a infinito.
+- un sistema a toda prueba disenado para no detenerse jamas
 
 
 

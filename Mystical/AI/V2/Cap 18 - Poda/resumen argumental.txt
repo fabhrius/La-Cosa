@@ -22,7 +22,8 @@
 - el tiempo de vida
 
 
-- aprovechamiento de recursos, asfixia
+- gestion de recursos, no sabemos cuanta materia existe, reciclando la existente conseguimos continuar creando nuevos individuos eternamente para que el calculo no se detenga, asfixia
+
 - alcanzar el coste cero
 
 - estancamiento del calculo
@@ -360,6 +361,22 @@ El proceso de eliminar las ramas que ya no son productivas se llama "poda".
 
 La poda, evitara el estancamiento asegurando que el proceso avance, reducirá los costes, reducirá el consumo de recursos, y lo que es mas importante, 
 reducirá el tiempo necesario para encontrar la solución.
+
+
+-----------------------
+
+
+Conclusion:
+
+la muerte no es un erro ni un defecto.
+no se trata de un problema insuperable, tal como la degradacion de los tejidos organicos.
+sino que es un mecanismo programado.
+una function importante del sistema.
+con ella se consiguen tres objetivos importantes:
+1- gestion de los recursos
+2- reduccion del coste
+3- orientar el sentido del calculo hacia su resolucion
+
 
 
 
