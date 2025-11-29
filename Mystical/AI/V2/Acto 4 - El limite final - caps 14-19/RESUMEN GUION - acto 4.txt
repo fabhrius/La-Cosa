@@ -1,0 +1,10 @@
+
+- Acto 4: El limite final
+ Analiza las características del sistema.   
+    - Cap. 14: Eficiencia.  
+    - Cap. 15: Potencia.   
+    - Cap. 16: Coste
+    - Cap. 17: Redundancia
+    - Cap. 18: Fiabilidad (gestion de memoria - colapso del sistema)
+    - Cap. 19: Poda.  (porque morimos)
+

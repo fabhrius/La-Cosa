@@ -1,0 +1,17 @@
+presentacion del codex.
+
+describe 
+1-Lluviara
+la civilizacion
+el rey
+la creacion del codex
+3-el surgimiento de la conciencia
+la guerra
+4-la destruccion de la ciudad
+5-la desaparicion del codex
+
+
+------------------------
+
+los borradores estan en carpetas numeradas
+la compilacion se encuentra en el archivo: Cap 1 - El Libro.odt

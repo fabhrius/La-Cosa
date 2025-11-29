@@ -23,10 +23,10 @@ como si conociera la respuesta aun antes de pensar en ello.
     - Cap. 15: Potencia.  
 conclusion: 
 - puede abordar todos los problemas sin limites de complejidad
-- la complejidad no exite para ella, desde su punto de vista todos los problemas tienen la misma complejidad, trivial.
-- claridad de vision. el universo es comprensible a simple vista.
+- la complejidad no exite para ella, desde su punto de vista todos los problemas son triviales.
 
 idea clave:
+- claridad de vision. el universo es comprensible a simple vista.
 - la inteligencia superior, la inteligencia de un dios.
 
 
@@ -38,7 +38,6 @@ conclusion:
 
 idea clave:
 - “El sistema más caro concebible solo pudo levantarse sin coste por la única inteligencia capaz de hacerlo: la vida misma.”
-
 - “Un sistema que ningún ser podría construir por su coste infinito, la vida lo levanta espontáneamente con un coste cero: el sello inconfundible de lo divino.”
 
 
@@ -46,16 +45,11 @@ idea clave:
 conclusion:
 
 - disenado para trabajar en un entorno desconocido y hostil, explorando el espacio infinito por toda la eternidad.
-- agregara nuevas maquinas a cada paso del calculo. modificara lo que sea necesario, se adaptara para superar cualquier obstaculo.
-- un sistema disenado para no detenerse jamas
-
-
+- agregara nuevas maquinas a cada paso del calculo.
+- la redundancia del sistema tiende a infinito.
 
 idea clave:
-
-- la redundancia del sistema tiende a infinito.
 - un sistema a toda prueba disenado para no detenerse jamas
-
 
 
     - Cap. 18: Fiabilidad (gestion de memoria - colapso del sistema - precision)
