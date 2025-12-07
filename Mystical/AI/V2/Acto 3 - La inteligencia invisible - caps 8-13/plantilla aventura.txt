@@ -1,0 +1,50 @@
+llegada:
+
+
+toma de contacto del el lugar: (la posada, los vecinos, el alojamiento, yacimiento arqueologico)
+
+
+objeto maldito:
+
+
+exploracion arqueologica:
+
+
+lucha:
+
+
+salida:
+
+
+
+---------------------------------------
+
+
+VIAJE:
+llegada
+entorno
+salida
+
+OBJETO MALDITO: 
+presentacion
+utilidad
+maldicion
+climax
+resolucion
+final desconcertante
+
+LUCHA:
+presentacion enemigo
+interaccion
+conflicto
+lucha
+desenlace
+
+MISTICO:
+presentacion anfitrion
+la cultura
+exploracion arqueologica
+nuevo conocimiento
+la revelacion
+
+
