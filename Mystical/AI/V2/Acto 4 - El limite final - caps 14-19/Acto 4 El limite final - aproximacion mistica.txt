@@ -24,9 +24,11 @@ como si conociera la respuesta aun antes de pensar en ello.
 conclusion: 
 - puede abordar todos los problemas sin limites de complejidad
 - la complejidad no exite para ella, desde su punto de vista todos los problemas son triviales.
+- puede explorar infinitos caminos a la vez, su concurrencia no tiene limites.
 
 idea clave:
 - claridad de vision. el universo es comprensible a simple vista.
+- cuando tenga que decidir acertara siempre, aunque las opciones sean infinitas, nunca se equivoca.
 - la inteligencia superior, la inteligencia de un dios.
 
 

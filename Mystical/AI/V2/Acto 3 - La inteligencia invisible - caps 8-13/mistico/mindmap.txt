@@ -1,8 +1,8 @@
 @startmindmap
 
-'Compatible with OrgMode 
+ title La anatomia de Dios 
 
-* Acto 3
+* Acto 3 \n La inteligencia invisible
 
 ** Cap 8 - La vida
 *** criatura unica - inteligencia infinita - inmortal
@@ -18,7 +18,7 @@
 
 
 ** Cap 11 - Individuos
-*** componentes de Dios, estados del pensamiento, observadores
+*** componentes de la mente eterna, estados del pensamiento, observadores
 **** no eres una criatura independiente como tu crees. \n formas parte de algo mayor. \n la inteligencia del creador es tan potente que puede pensar en infinitas cosas a la vez.  \n porque puede dividirse en infinitas partes para que cada una piense en una sola cosa. \n y se divide en infinitas partes sin dejar de ser solo uno. \n tu eres una de esas partes. tu eres uno de sus rostros. tu eres uno de los observadores. \n y formas uno con el. porque el eres tu mismo. 
 
 ** Cap 12 - ciclo de vida
@@ -29,6 +29,10 @@
 ** Cap 13 - simulacion
 *** la inteligencia invisible - el pensamiento de dios
 ****  existe un calculo, un pensamiento, que fluye a traves de todos los individuos de todas las especies. \n una inteligencia que los abarca a todos. todos forman parte de la inteligencia. todos son parte del pensamiento. \n todos ellos son la criatura pensante. \n y ninguno de ellos tiene sentido por si solo.
+
+
+** Conclusiones
+*** La Vida es un Espíritu real. \n Es la única inteligencia que existe. \n Yo soy parte de ella. \n Mi misión es su misión. \n Mi vida es un instante de su eternidad.
 
 @endmindmap
 
