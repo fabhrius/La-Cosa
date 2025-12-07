@@ -58,6 +58,9 @@ debo aclarar que el modelo que vamos a construir se aparte un poco de los modelo
 Solemos observar la vida a traves de la biologia.
 Esta vez el enfoque sera diferente.
 El modelo que utilizaremos es logico, matematico.
+Analizaremos a la vida no por la composicion de sus tejidos organicos o sus estructuras fisicas, sino desde la logica de su comportamiento basico. 
+que hace?
+
 
 
 Empecemos hablando de la vida.
@@ -93,14 +96,14 @@ y es mas que algunos objetos que tienen ciertas caracteristicas.
 decimos que el arbol se reproduce y muere. una vez mas, el arbol esta vivo, pero no es la vida.
 
 
-en la antiguedad se ha la descrito como una fuerza que anima a los seres vivientes diferenciandolos de lo inerte.
+en la antiguedad se  la ha descrito como una fuerza que anima a los seres vivientes diferenciandolos de lo inerte.
 esta definicion aun siendo la mas antigua es la que mas se acerca a la realidad, porque intenta, sin saberlo, trasmitir la idea de comportamiento.
 esto es un poco lo que todos percibimos de forma intuitiva.
 si respondemos sin pensar, diriamos que aquello que esta vivo se mueve, y aunque falla cuando hablamos del arbol, o del fuego, la idea subjacente es correcta.
 lo percibimos como algo relacionado con la accion.
-cuando la idea correcta es "voluntad".
+cuando lo que queremos decir en realida es "voluntad".
 
-en cualquier caso todas estas definiciones, o descripciones, comparten el mismo fallo, el punto de vista.
+en cualquier caso todas estas definiciones, o descripciones, comparten un mismo fallo, el punto de vista.
 
 todas ellas intentan definir a la vida por sus caracteristicas.
 lo que tiene, sin poder explicar, lo que es.
