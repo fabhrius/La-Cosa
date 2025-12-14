@@ -8,6 +8,10 @@ objeto maldito:
 
 
 exploracion arqueologica:
+fase 1 - primer contacto - Elara encuentra informacion que no comprende.
+en esta fase Tambien se revisan las creencias populares para marcar el contraste.
+fase 2 - Laboratorio - se muestra una explicacion cientifica
+fase 3 - La revelacion - con la ayuda de un sabio Elara comprende la informacion como una revelacion. El lector experimenta la revelacion al evaluar el mensaje mistico del sabio a traves de lo visto en el laboratorio.
 
 
 lucha:
@@ -46,5 +50,19 @@ la cultura
 exploracion arqueologica
 nuevo conocimiento
 la revelacion
+
+
+EXPERIENCIA del lector:
+
+acciones malvadas
+derrota Elara 
+triunfo Elara
+
+
+
+
+
+
+
 
 
