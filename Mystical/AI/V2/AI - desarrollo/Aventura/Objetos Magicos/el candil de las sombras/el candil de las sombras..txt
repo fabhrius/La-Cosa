@@ -3,6 +3,13 @@ el candil de las sombras.
 poder: la sombra realiza una accion para ti.
 maldicion: la sombra realiza una accion para ella misma antes de volver al candil.
 
+accion: 
+1- la sombra del usuario se separa del cuerpo para moverse libremente
+2- la sombra se instala en el lugar de la sombra de otra persona y hace que esta persona realice las tareas sin saberlo, el demonio de la sombra domina al poseido
+3- el poseido realiza las tareas que usuario desea
+4- el demonio hace que el poseido haga el mal, incendios destruccion y muertes.
+5- el encantamiento termina cuando la lampara se apaga
+
 
 
 ----------------------------

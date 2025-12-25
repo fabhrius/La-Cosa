@@ -3,7 +3,12 @@ el ojo del lobo.
 poder: permite ver lo oculto, lo inaccesible.
 maldicion: libera al Espiritu del lobo, un demonio que utilizara la occasion para atacar y cobrar su precio con sangre.
 
-accion: el que lo utiliza cae en un sueno profundo y en suenos ve a traves de los ojos del lobo. un Espiritu maligno capaz de introducirse en los lugares mas inaccesibles.
+accion: 
+1- el que lo utiliza cae en un sueno profundo y en suenos ve a traves de los ojos del lobo. un Espiritu maligno capaz de introducirse en los lugares mas inaccesibles
+2- el lobo consigue infiltrarse sin ser detectado. observa y obtiene informacion.
+3- finalmente ataca
+4- el hechizo termina cuando el usuario despierta.
+
 
 
 --------------------------
@@ -14,7 +19,7 @@ accion: el que lo utiliza cae en un sueno profundo y en suenos ve a traves de lo
 
 
 Eran las primeras horas de la tarde cuando Elara llego a Muddytown.
-El calor era abrazador y las rachas de viento intermitentes que soplaban desde el oeste convertian el aire en una nube de polvo.
+El calor era abrazador y las rachas de viento intermitentes que soplaban desde el oeste convertian el aire en una nube de polvo. 
 
 
 2- la tienda

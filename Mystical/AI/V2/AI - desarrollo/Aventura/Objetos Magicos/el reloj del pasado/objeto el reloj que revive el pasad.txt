@@ -3,6 +3,12 @@ objeto: el reloj que revive el pasado.
 poder: al girar las agujas hacia atras el tiempo retrocede y permite revivir al pasado y cambiarlo.
 maldicion: no solo cambia lo que queremos sino Tambien otras cosas de forma negativa y nos obliga a volver al pasado a corregirlo una y otra vez, porque siempre se trastoca algo importante.
 
+solo es posible retroceder hasta 12 horas en el pasado.
+crea una nueva linea temporal que reemplaza a la existente.
+en donde el unico evento coincidente es el que queremos cambiar, a partir de ese punto el futuro vuelve a ser impredecible.
+
+
+
 
 
 resumen:
