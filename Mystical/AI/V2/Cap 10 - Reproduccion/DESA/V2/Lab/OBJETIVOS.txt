@@ -1,0 +1,23 @@
+- una definicion de reproduccion.
+copia con variacion en donde la copia mantiene las propiedades del original
+
+- una forma segura de realizar cambios.
+evitar hacer pruebas sobre el original. las variaciones se producen sobre un nuevo soporte. esto permite que el original continue existiendo y realizando nuevas variaciones.
+
+- la base del calculo.
+la variacion modifica la informacion original. generacion tras generacion la cadena de variaciones aplica variaciones sistematicas sobre los datos alcanzando nuevas soluciones.
+
+- perpetuar especies o calculo?
+
+- el valor de la redundancia.
+
+- tipos de reproduccion.
+
+- el inicio de la vida.
+
+- reproduccion e inteligencia. 
+
+(no solo copia - solo la vida)
+
+
+
