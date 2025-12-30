@@ -1,0 +1,89 @@
+
+1- Explicar que el punto de partida en la busqueda de respuestas hacerca de nuestra existencia es 
+entender lo que es la vida, para entender lo que nosotros somos.
+
+2- Explicar la necesidad de un nuevo modelo.
+- Breve descripcion del modelo biologico actual.
+lo que nos proporciona y lo que no. (ADN y estructura,  pero no objetivo)
+
+3- introduccion al nuevo modelo. un modelo logico.
+
+4- caracteristicas principales: inteligencia, inmortalidad, unidad
+
+5- vida e inteligencia
+
+6- breve descripcion del sistema inteligente.
+sus componentes principales.
+
+
+- lo que vendra.
+
+
+-------------------------------------
+
+
+1- 
+el objetivo que nos hemos propuesto en este relato es encontrar respuestas para las preguntas acerca de nuestra propia existencia.
+
+El punto de partida necesariamente sera entender lo que somos.
+Para entender la escencia de algo, no basta con ponerle un nombre y clasificarlo.
+decir que somos humanos no responde a la pregunta.
+clasificarnos como mamiferos tampoco.
+
+Para entender lo que somos debemos primero entender lo que es la vida.
+
+2-
+-lo que sabemos
+el aporte de la biologia (diseccion-clasificacion-evolucion-etc)
+el aporte de la quimica (composicion molecular)
+afirmacion de que el conocimiento arroja luz y proporciona una vision util.
+sin embargo, no responde a las preguntas que nos planteamos aqui.
+
+- necesidad de un nuevo modelo
+incluye a la biologia y a la quimica.
+aporta un punto de vista diferente.
+la vision logica.
+
+3-
+una vision basada en funcionalidad.
+que hace la vida?
+como lo hace?
+cuales son las funciones que realiza
+
+4- 
+resumire aqui las caracteristicas principales del modelo.
+esta vision parecera fantastica.
+es un poco diferente de la vision que presenta la biologia.
+sin embargo, la analizaremos en detalle en los proximos capitulos.
+y veremos que no contradice lo que dicen la biologia y la quimica, al contrario, aporta una nueva perspectiva que mejora y amplia la vision.
+todo lo que se afirma aqui es cientificamente demostrable.
+y eso es lo que haremos en los proximos capitulos.
+
+
+ 
+5-
+la vida derrocha inteligencia. podemos ver ejemplos en todas partes.
+sin embargo, hay un error en nuestra vision.
+no utiliza la inteligencia para crear y mejorar a las criaturas.
+inteligencia es todo lo que es.
+
+
+6-
+desde el punto de vista de la biologia la vida esta compuesta por ...
+desde el punto de vista del modelo logico la vida esta compuesta por
+
+ADN-reproduccion-ciclo de vida-individuos
+
+7-
+en los siguientes capitulos 
+analizaremos en detalle las partes del modelo
+crearemos una simulacion funcional que nos permitira ver a la vida en accion y entender
+que y como
+y veremos como este modelo
+nos permitira responder a las preguntas
+que somos
+porque estamos aqui
+cual es mi mission
+porque debo morir
+existe una inteligencia superior que crea a los seres vivientes
+
