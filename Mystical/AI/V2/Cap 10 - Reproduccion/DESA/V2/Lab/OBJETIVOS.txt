@@ -20,4 +20,14 @@ la variacion modifica la informacion original. generacion tras generacion la cad
 (no solo copia - solo la vida)
 
 
+---------------------
+
+el inicio de la reproduccion
+reproduccion como operador logico
+procesamiento con objetos inmutables
+sobreproduccion como estrategia de exploracion
+
+
+
+
 

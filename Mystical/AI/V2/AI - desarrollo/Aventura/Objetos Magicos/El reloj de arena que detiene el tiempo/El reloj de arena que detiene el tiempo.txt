@@ -1,0 +1,166 @@
+tomemos ahora el reloj de arena que detiene el tiempo y describamos una historia con el. solo en lineas generales, su estructura, un boceto.
+con las siguientes ideas:
+
+Elara llega a un pueblo en la montana con la intencion de revisar algo con conocimiento antiguo, como antiguos escritos, una tumba, una cueva, un templo, etc.
+
+
+
+caracteristicas del objeto:
+
+- accion: 
+al girarlo la arena empieza a caer y todo se detiene, excepto el usuario que puede moverse libremente en un mundo paralizado en el tiempo.
+
+el reloj tiene dos bases, una base blanca y una base negra, el tiempo fluye naturalmente cuando la arena cae hacia la base blanca, y se detiene cuando la arena cae hacia la base negra.
+al girarlo poniendo la base negra hacia abajo se activa, y al girarlo poniendo la base blanca hacia abajo se desactiva.
+
+- maldicion:
+un demonio vive dentro del reloj y queda libre para actuar en el mundo mientras un usuario esta utilizando el objeto.
+
+cuanto mas tiempo permanezca el usuario en un mundo detenido en el tiempo, mas tiempo tendra el demonio para actuar.
+pero si el usuario no desactiva el reloj antes de que caiga el ultimo grano de arena, quedara atrapado en el instante para siempre.
+despues de haber caido el ultimo grano de arena, el artefacto queda desactivado.
+
+
+
+----------------------
+
+Relacion de Elara con el objeto: 
+
+
+ vamos a trazar la lineas principales de la historia.
+
+- como Elara consigue el objeto?:
+
+
+Elara busca a una mujer llamada Luhala para que le ayude en la exploracion de ruinas arqueologicas o el ananlisis de escritos antiguos.
+En el lugar adonde se alojaba le dicen que ha desaparecido hace algunas semanas. Elara revisa sus pertenencias intentando averiguar lo que le ha pasado y se topa con el reloj de arena.
+
+digamos que el reloj se activa solo cuando se gira en condiciones especiales (hora, orientacion, etc)
+
+
+
+- primer uso:
+
+Elara activa el objeto accidentalmente cuando lo observa durante la noche en su dormitorio.
+al girarlo ve a una figura oscura, fantasmal, un hombre cubierto con una capa negra, que despues de aparecer en su dormitorio magicamente se aleja, sale de la casa.
+Elara lo sigue y comprende que todo en la calle esta detenido, la gente, los caballos, los pajaros, el fuego de la lampara.
+Entra en el restaurante, coge una pata de pavo de la cocina, la come.
+Entonces comprende.
+Instintivamente vuelve rapidamente a su dormitorio y gira el reloj.
+se asoma por la ventana para comprobar que todo ha vuelto a la normalidad.
+
+- segundo uso:
+
+Elara se encuentra en una situacion dificil.
+El objeto magico puede ayudarle a conseguir cierta informacion que necesita.
+utiliza el objeto y consigue lo que necesita.
+
+mientras esta volviendo, algo se mueve en un mundo paralizado.
+fuego en el restaurante, y junto al fuego la figura fantasmal del hombre con la capa negra, que la ve y huye.
+Elara intenta apagar el fuego que se extiende por la cocina.
+El el salon hay familias comiendo.
+Elara pide ayuda, pero nadie se mueve, todo esta paralizado.
+Corre hacia su dormitorio y gira nuevamente el reloj.
+vuelve al restaurante para ayudar a los vecinos a apagar el fuego.
+comprende que ha sido causado por el demonio del reloj de arena.
+
+- aparece nueva informacion:
+
+Elara comprende que el artefacto puede ser peligroso.
+intenta conseguir mas informacion entre las pertenencias de Luhala.
+el diario de Luhala describe al reloj de arena, al demonio que contiene y un detalle inquietante, el usuario puede quedar atrapado en el instante temporal creado si no lo desactiva antes que el ultimo grano de arena caiga.
+
+- tercer uso:
+
+se produce una situacion de vida o muerte para una tercera persona.
+La unica posibilidad de salvar la vida de un inocente es utilizar el reloj de arena para detener el tiempo.
+Elara piensa que si consigue el objetivo rapidamente y consigue controlar al demonio durante ese tiempo podria conseguir el objetivo sin crear otros problemas.
+
+consigue salvar al inocente.
+pero antes de volver, ve al demonio cortando las sogas de un puente colgante sobre el que esta cruzando una familia.
+Elara lucha para evitarlo. El demonio huye.
+Un momento despues ve al demonio manipulando una carreta que esta desplazandose por la calle principal.
+provocara un accidente.
+Elara espanta al demonio y consigue evitarlo.
+pero el tiempo esta pasando y Elara lo siente.
+cada vez se siente mas pesada, mas lenta.
+Se esfuerza por volver al reloj, pero cada vez cuesta mas, no consigue avanzar, el tiempo se esta acabando.
+con el final de sus fuerzas consigue entrar en su dormitorio, pero no consigue avanzar.
+el reloj esta a escasos metros, los granos de arena caen muy lentamente, ya queda poco.
+el tiempo se acaba.
+pero ya no puede avanzar mas, los pies estan pegados al suelo, se arrastra pesadamente.
+entonces la ve.
+la imagen de una mujer se acerca.
+la coge por las manos, la arrastra, la acerca al reloj.
+Elara llega justo en el ultimo instante, gracias a la ayuda de la mujer, y gira el reloj.
+entonces todo vuelve a la normalidad.
+
+ha evitado la  muerte de un inocente, y aunque se ha producido otros danos materiales no ha habido muertes.
+el balance es positivo, ha valido la pena.
+y al volver Tambien ha rescatado a Luhala que habia quedado atrapada en el tiempo y ha escapado por tener cogida a Elara de la mano cuando el hechizo ha terminado.
+
+
+- la historia se acerca al final:
+
+Elara destruye el reloj.
+asegurandose que el demonio nunca vuelva a actuar.
+
+
+Elara abandona el pueblo para continuar con su viaje.
+
+
+- final inquietante:
+
+puedes proponer un final inquietante para esta historia?
+
+
+= final 2:
+
+Elara no se encuentra con Luhala ni la rescata.
+Luhala nunca aparece.
+
+Elara destruye el reloj y al romperlo, una fuerte descarga de energia magica produce una explosion de color y sonido que deforma por un momento la realidad fundiendo el tiempo y el espacio.
+Elara pierde el conocimiento por un instante.
+y al volver se encuentra en otro lado, en otro tiempo.
+
+abandona el pueblo para continuar con su viaje.
+tal vez Luhana este atrapada en el instante. o tal vez esta en algun lugar del futuro.
+
+
+
+- final 3:
+
+
+Luhala nunca aparece.
+Elara destruye el reloj de arena.
+la magia del reloj, al romperse, envia a Elara hacia el pasado, dos semanas antes de llegar al pueblo.
+va a casa de Luhala, que todavia no ha utilizado el reloj.
+le advierte, le dice que no lo haga o desaparecera.
+Luhala no utiliza el reloj.
+Elara la ha salvado con su aviso.
+
+entonces Luhala no desaparece.
+si Luhala no desaparece, Elara no consigue el reloj.
+sin el reloj Elara no viaja al pasado.
+entonces no puede avisar a Luhala.
+sin el aviso de Elara Luhala utiliza el reloj y desaparece.
+
+y todo vuelve a suceder.
+Elara vuelve a la casa de Luhala para avisarle.
+
+Entonces, antes de golpear la puerta,lo comprende.
+Si Luhala no desaparece, entonces ella no puede avisarle.
+y si no le avisa, desaparece.
+
+Elara no llama, se da la vuelta y abandona el pueblo para continuar su viaje, ya ha hecho todo lo que debia hacer aqui.
+
+
+
+
+
+----------------------------------------
+
+
+ 
+
+

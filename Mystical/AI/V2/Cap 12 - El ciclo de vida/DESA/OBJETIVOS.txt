@@ -1,5 +1,5 @@
 
 - que es el ciclo de vida? (definicion accesible)
 - describir el ciclo de vida en la naturaleza (biologico)
-- function del ciclo de vida en la arquitectura del sistema (tecnico) (bucle de ejecucion en un sistema distribuido) (se crea una instancia-realiza su tarea-se destruye la instancia)- 
+- function del ciclo de vida en la arquitectura del sistema (tecnico) (bucle de ejecucion en un sistema distribuido -> se crea una instancia-realiza su tarea-se destruye la instancia)- 
 - el ciclo de vida y el individuo (mistico, reflexion existencial)
