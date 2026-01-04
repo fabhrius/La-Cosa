@@ -24,6 +24,15 @@ el individuo como vida
 
 ---------------------
 
+el individuos como parte del calculo.
+el individuo como un estado del proceso en un instante del tiempo
+el individuo como generador de los estados alcanzables a partir de su posicion.
+el individuo como generador de nuevos sistemas.
+
+el individuo o bien es un componente de la red o el inicio, nunca es el fin.
+
+---------------------
+
 explora
 siente
 actua con intencion
@@ -41,3 +50,41 @@ pero puede desplegarse en infinitos individuos para que cada uno explore una pos
 en donde cada individuo es una instancia de la vida misma.
 
 
+------------
+
+el individuo como unidad de calculo vs computador
+
+memoria exacta (desbordamiento)
+un unico paso simple del calculo.(complejidad)
+
+
+---------------
+
+5- El individuo como punto de vista
+6- El individuo como portador de memoria
+8- El individuo como sistema cognitive
+14- El individuo no existe como entidad separada
+
+
+
+-------------
+
+
+algunas ideas adicionales que tal vez no son evidentes:
+- lo que el individuo puede hacer concientemente es intrascendente.
+- no hay nada que el individuo pueda hacer que afecte el resultado del calculo.
+- la inteligencia del sistema es independiente de la inteligencia del individuo
+
+- el individuo como un nodo, explorando una nueva rama. es como agregar un nuevo computador al sistema en cada bifurcacion. sin embargo, el individuo se diferencia de un computador en que
+su memoria no se desborda, antes de crear al individuo ya se sabe cuanta memoria necesitara, y esta es inmutable.
+el individuo realiza un unico paso elemental del calculo, la complejidad del problema es siempre trivial, la complejidad no existe. la estructura del sistema separa la complejidad en operaciones triviales, asi ningun problema es mas complejo de trivial.
+
+- todos los individuos son diferentes, asi no hay dos individuos realizando el mismo trabajo.
+- el individuo es el unico que puede realizar el trabajo.
+- el individuo es el unico componente del sistema.
+y un individuo concreto es el unico que puede realizar su tarea.
+
+- los individuos parecen reemplazables, sin embargo su criticidad aumenta cuando se reduce la población. eliminando a A1 cuando es el unico individuo de la población destruye el sistema completo.
+- los individuos son componentes y al mismo tiempo son el sistema mismo.
+
+- los individuos parecen separados e independientes, la separacion e independencia son solo aparentes, un estado solo es alcanzable desde el anterior. y el individuo no tiene sentido fuera del sistema.
