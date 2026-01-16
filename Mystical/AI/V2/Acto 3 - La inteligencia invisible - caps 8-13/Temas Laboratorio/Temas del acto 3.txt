@@ -1,5 +1,5 @@
 
-
+1-
 La necesidad de un nuevo modelo
 
 el modelo biologico y bioquimico. lo que aporta. lo que no ve.
@@ -10,18 +10,20 @@ porques. paraques.
 
 --------------
 
+2-
 El modelo Logico Matematico.
 
 los elementos principales de la vida en este modelo.
 
 lo que podemos hacer con estos elementos.
 
-inteligencia.
+la inteligencia.
 
 el proceso de calculo.
 
 ---------------
 
+3-
 descripcion del sistema inteligente.
 
 Experimento. la maquina logica en accion.
@@ -30,6 +32,7 @@ primeras conclusiones
 
 --------------------
 
+4-
 las partes con mas detalle.
 
 La vida.
@@ -44,5 +47,6 @@ el ciclo de vida.
 
 --------------------
 
+5-
 Conclusion. una unica entidad. 
 
