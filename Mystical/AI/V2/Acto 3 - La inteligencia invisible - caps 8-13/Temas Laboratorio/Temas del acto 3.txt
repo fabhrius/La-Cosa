@@ -13,13 +13,15 @@ porques. paraques.
 2-
 El modelo Logico Matematico.
 
-los elementos principales de la vida en este modelo.
+los elementos principales de la vida en este modelo. (perspectiva biologica y function logica)
 
 lo que podemos hacer con estos elementos.
 
 la inteligencia.
 
 el proceso de calculo.
+
+Revelacion: el ADN como computador.
 
 ---------------
 
@@ -33,7 +35,7 @@ primeras conclusiones
 --------------------
 
 4-
-las partes con mas detalle.
+las partes con mas detalle. (perspectiva logica)
 
 La vida.
 

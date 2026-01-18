@@ -9,6 +9,9 @@ d- la inteligencia.
 
 e- el proceso de calculo.
 
+f- Revelacion: el ADN como computador.
+
+
 ---------------------------------
 
 a- descripcion
@@ -16,19 +19,38 @@ a- descripcion
 el modelo que utilizaremos aqui no contradice los anteriores.
 sino que, de alguna forma, los complementa.
 es un cambio en el punto de vista.
-
 y muestra un aspecto no contemplado en los modelos anteriores.
+
 
 
 la biologia estudia a la vida analizando su composicion, y sus elementos visibles.
 la materia organica y los organismos.
 
 el modelo logico se enfoca en su function logica, sin importar como estas funciones se implementan.
+da igual si lo que lo hace posible es  materia organica o circuitos electronicos.
+
+la materia organica es el soporte, lo que lo hace posible, el hardware.
+
+en este sentido lo que la biologia estudia es la tecnologia con se construye el hardware de la maquina, sin prestar atencion a la function logica que soporta.
+
+lo que analizaremos aqui es el proceso logico que la materia organica genera.
+el proceso logico es abstracto, intangible.
+esta formado por informacion en proceso, es decir, ideas, pensamiento, Espiritu.
+el ser.
+
+intuitivamente pensamos que el Espiritu esta encerrado dentro del cuerpo.
+el cuerpo lo contiene pero son cosas separadas.
+esta vision no esta equivocada.
+el cuerpo es materia, el pensamiento es inmaterial, abstracto, logico.
+la materia organica genera y es soporte de la inteligencia.
+
 
 --------------
 
-b- los elementos principales de la vida en este modelo.
+b- los elementos principales de la vida en este modelo. 
 son:
+
+(breve descripcion biologica y function logica como introduccion al modelo)
 
 
 - el ADN, que sera para nosotros una memoria.
@@ -56,13 +78,36 @@ d- la inteligencia.
 
 he dicho sistema inteligente.
 pero que es la inteligencia?
+(una definicion de inteligencia)
 
 -----------------------
 
 
 e- el proceso de calculo.
 
+descripcion del proceso de calculo, sus elementos caracteristicos y como se lleva a cabo el proceso.
+
 veamos como se realiza un proceso de calculo
+y cuales son los elementos necesarios para construir una maquina que realice esta tarea automaticamente.
+
+datos, metodo, memoria y procesador.
+
+
+--------------------
+
+
+f- Revelacion: el ADN como computador.
+
+
+el ADN contiene todos los elementos necesarios para realizar el proceso de calculo.
+esta molecula es, en si misma, el computador mas pequeno y potente de todos los posibles.
+
+un computador que funciona por expansion.
+
+
+
+
+
 
 
 
