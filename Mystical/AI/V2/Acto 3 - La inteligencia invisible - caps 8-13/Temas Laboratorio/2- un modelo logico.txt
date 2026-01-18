@@ -1,0 +1,68 @@
+2-
+a- El modelo Logico Matematico.
+
+b- los elementos principales de la vida en este modelo.
+
+c- lo que podemos hacer con estos elementos.
+
+d- la inteligencia.
+
+e- el proceso de calculo.
+
+---------------------------------
+
+a- descripcion
+
+el modelo que utilizaremos aqui no contradice los anteriores.
+sino que, de alguna forma, los complementa.
+es un cambio en el punto de vista.
+
+y muestra un aspecto no contemplado en los modelos anteriores.
+
+
+la biologia estudia a la vida analizando su composicion, y sus elementos visibles.
+la materia organica y los organismos.
+
+el modelo logico se enfoca en su function logica, sin importar como estas funciones se implementan.
+
+--------------
+
+b- los elementos principales de la vida en este modelo.
+son:
+
+
+- el ADN, que sera para nosotros una memoria.
+
+- la reproduccion, que modifica, procesa, la informacion contenida en la memoria
+
+- el individuo, que funciona como un chasis que contiene los elementos anteriores
+
+- el ciclo de vida, como un conjunto de instrucciones que el individuo debe seguir
+
+
+
+-----------------
+
+
+c- lo que podemos hacer con estos elementos.
+
+estos elementos que reconocemos como parte de la vida, su nucleo conceptual, son los pilares de un sistema inteligente de gran potencia.
+
+
+---------------------
+
+
+d- la inteligencia.
+
+he dicho sistema inteligente.
+pero que es la inteligencia?
+
+-----------------------
+
+
+e- el proceso de calculo.
+
+veamos como se realiza un proceso de calculo
+
+
+
