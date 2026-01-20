@@ -1,0 +1,108 @@
+3-
+descripcion del sistema inteligente.
+
+Experimento. la maquina logica en accion.
+
+primeras conclusiones
+
+-----------------------
+
+
+en el modelo logico
+
+analizaremos a la vida por su function logica
+
+empezare por describir algunas caracteristicas propias de la vida que utilizaremos conceptualmente.
+solo nos interesa la idea subyacente, no la forma en que esta implementada.
+
+estas caracteristicas son:
+- ADN
+- reproduccion
+- ciclo de vida
+- individuo
+
+
+-----------------------------
+
+
+desde un punto de vista funcional podemos atribuirles los siguientes roles:
+
+
+
+ADN 
+(antes de la simulacion: - descripcion general biologica - utilidad logica)
+
+- primera descripcion:
+esta presente en todos los organismos vivientes.
+
+podemos decir que contiene los planos de construccion de un individuo.
+no solo contiene la informacion que describe al individuo sino Tambien el software necesario para que realice todas las funciones necesarias para vivir.
+
+es en escencia una memoria que almacena una gran cantidad de informacion.
+
+
+- utilidad en este marco logico:
+memoria del sistema
+
+-----------------------
+
+Reproduccion:
+
+- descripcion:
+caracteristica presente en todos los organismos vivientes
+solo la vida se reproduce.
+reproduccion no es copia sino  variacion de la misma estructura.
+es decir que la estructura basica se mantiene agregando cambios.
+
+- utilidad:
+
+procesador del sistema.
+es durante el proceso de reproduccion adonde la informacion contenida en el ADN se modifica.
+la reproduccion procesa la informacion siguiendo un metodo.
+
+-----------------------
+
+- ciclo de vida
+
+- descripcion:
+todos los seres vivientes cumplen con un ciclo de vida.
+nacer-reproducirse-morir
+
+- utilidad:
+funciona como un bucle de ejecucion.
+
+
+
+------------------------
+
+individuo:
+
+- descripcion:
+la vida esta compuesta por individuos.
+el individuo es una unidad funcional.
+podemos ver al individuo como un chasis que contiene los elementos anteriores, ADN, reproduccion y ciclo de vida.
+
+la biologia estudiara a los individuos por su diversidad, y la forma del individuo es el resultado de su evolucion adaptativa.
+en nuestro estudio, todos los individuos son identicos, independientemente de la especie, todos cumplen con la misma function logica. desde un punto de vista funcional no hay diferencia entre una hormiga, un elefante, un arbol o una bacteria.
+y la forma del individuo esta adaptada al problema que se quiere resolver.
+
+
+- utilidad:
+unico componente del sistema.
+
+
+-----------------------
+
+
+podemos decir que esta es la escencia de la vida.
+estos elementos son suficientes para describir el nucleo logico de la vida.
+juntos forman un sistema inteligente de extraordinaria potencia.
+
+un motor que produce inteligencia.
+veamos como funciona.
+
+
+
+
+
+
