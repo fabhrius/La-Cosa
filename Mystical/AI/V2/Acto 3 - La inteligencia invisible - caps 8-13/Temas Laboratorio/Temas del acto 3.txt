@@ -1,6 +1,7 @@
 
 1-
 
+
 El misterio.
 
 La necesidad de un nuevo modelo
@@ -42,7 +43,8 @@ primeras conclusiones
 4-
 las partes con mas detalle. (perspectiva logica)
 
-La vida.
+despues de haber visto el sistema en funcionamiento veamos las ideas que podemos desprender de este experimento.
+volvamos a observar los elementos principales del sistema desde esta nueva perspectiva.
 
 el ADN.
 
@@ -55,5 +57,6 @@ el ciclo de vida.
 --------------------
 
 5-
+La vida.
 Conclusion. una unica entidad. 
 

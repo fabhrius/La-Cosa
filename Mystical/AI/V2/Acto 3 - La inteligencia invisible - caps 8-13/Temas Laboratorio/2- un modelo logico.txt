@@ -16,6 +16,64 @@ borradores en:
 C:\Repo\vida\development\Mystical\AI\V2\Cap 9 - ADN - La memoria de la vida\DESA\V2\Lab\test 1
 ---------------------------------
 
+a- 
+el modelo logico matematico:
+
+vamos a crear un nuevo modelo de la vida.
+pero esta vez enfocado en su function.
+
+es la vida algo estatico, o dinamico? 
+que es lo que la vida hace?
+
+
+b- 
+sus elementos principales
+lo que la biologia ha observado hasta ahora es que,
+
+individuos - la vida esta formada por individuos.
+el individuo es la unidad vital. todo son individuos.
+
+reproduccion - los individuos se reproducen. toda la vida se reproduce. si esta vivo, entonces se reproduce. la reproduccion es una caracteristica fundamental en la vida. y no existe nada que no este vivo que se reproduzca. la reproduccion define aquello que esta vivo. reproduccion no es copia. es rehacerlo en una nueva version, pero manteniendo la estructura basica. existen cristales que se copian, pero no es reproduccion sino copia. solo la vida se reproduce.
+
+ciclo de vida - todos los organismos vivientes cumplen con un ciclo de vida, que consiste en nacer, reproducirse y morir.
+o al menos, todos los organismos que hemos podido observar hasta ahora cumplen con un ciclo de vida.
+es la rutina de la vida. veremos como esta rutina, es de una utilidad vital.
+
+ADN - todos los organismos vivientes tienen ADN. el ADN es una molecula con propiedades especiales. ...
+
+c-
+y estos seran todos los elementos que describiran conceptualmente este nuevo modelo logico.
+nos olvidaremos de tejidos, organos, materia organica y la complejidad de la tecnologia utilizada para implementar esto.
+porque como he dicho antes, lo que nos interesa es su function.
+
+porque estos elementos presentes en toda la vida. inseparables de la vida. caracteristicos de la vida.
+son la base de un sistema inteligente de gran potencia.
+algo asi como una maquina de calculo.
+en realidad, decir que es una maquina de calculo es simplificarlo mucho, porque lo que realmente forman estos elementos, al trabajar juntos, es una inteligencia.
+
+d-
+pero inteligencia que es?
+
+
+e- 
+pero como se realiza el proceso de calculo?
+
+
+
+f-
+en el modelo logico que voy a describir en los siguientes capitulos, caracterizare a la vida como un sistema inteligente.
+porque eso es lo que la vida es en realidad.
+para la biologia es una coleccion de individuos independientes.
+para nosotros sera una unidad, un sistema, una inteligencia.
+
+si es inteligente, entonces resolvera problemas.
+para resolver problemas logicos necesitara realizar algun tipo de calculo.
+veamos como sucede esto.
+
+
+
+
+----------------------
 a- descripcion
 
 el modelo que utilizaremos aqui no contradice los anteriores.
