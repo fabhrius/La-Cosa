@@ -1,0 +1,31 @@
+Descripcion biologica:
+
+unidad biologica individual.
+la vida esta compuesta por individuos
+
+
+
+Descripcion funcional:
+
+contiene ADN, se reproduce, cumple un ciclo de vida.
+
+
+
+Descripcion de su utilidad en el experimento:
+
+componente del sistema.
+el unico componente.
+
+
+Descripcion logica despues de ver el experimento:
+
+nodos.
+
+
+
+Descripcion mistica:
+
+
+los que hacen el trabajo.
+experimentan, observan y proporcionan informacion.
+los ojos y las manos del ser.

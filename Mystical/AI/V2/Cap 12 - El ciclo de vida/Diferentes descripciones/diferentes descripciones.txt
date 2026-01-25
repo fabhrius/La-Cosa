@@ -1,0 +1,27 @@
+Descripcion biologica:
+
+todos los seres vivientes cumplen con un ciclo de vida
+que consiste en nacer, reproducirse y morir.
+
+
+
+Descripcion funcional:
+
+rutina de ejecucion
+
+
+Descripcion de su utilidad en el experimento:
+
+bucle de ejecucion de un sistema distribuido
+
+
+Descripcion logica despues de ver el experimento:
+
+
+crea la estructura, gestiona los recursos, impide el retorceso del proceso.
+
+
+Descripcion mistica:
+
+la mission del individuo.
+

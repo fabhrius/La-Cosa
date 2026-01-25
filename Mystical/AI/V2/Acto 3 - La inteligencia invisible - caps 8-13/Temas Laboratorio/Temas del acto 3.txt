@@ -27,14 +27,21 @@ la inteligencia.
 
 el proceso de calculo.
 
-Revelacion: el ADN como computador. la vida como sistema inteligente.
+Revelacion: la vida como sistema inteligente.
 
 ---------------
 
 3-
 descripcion del sistema inteligente.
 
+
 Experimento. la maquina logica en accion.
+
+un problema de ejemplo.
+
+los elementos funcionales adaptados al problema.
+
+resolviendo el problema.
 
 primeras conclusiones
 
@@ -46,17 +53,20 @@ las partes con mas detalle. (perspectiva logica)
 despues de haber visto el sistema en funcionamiento veamos las ideas que podemos desprender de este experimento.
 volvamos a observar los elementos principales del sistema desde esta nueva perspectiva.
 
-el ADN.
+el ADN. (cap 9)
 
-la reproduccion
+la reproduccion (cap 10)
 
-individuos.
+individuos. (cap 11)
 
-el ciclo de vida.
+el ciclo de vida. (cap 12)
 
 --------------------
 
 5-
 La vida.
 Conclusion. una unica entidad. 
+
+borrador en cap 8
+
 
