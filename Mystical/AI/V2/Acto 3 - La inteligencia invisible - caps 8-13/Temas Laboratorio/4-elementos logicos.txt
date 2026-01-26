@@ -1,18 +1,14 @@
+
 4-
 las partes con mas detalle. (perspectiva logica)
-(despues de ver el funcionamiento de la maquina volvemos a analizar sus elementos fundamentales desde un punto de vista logico)
 
+despues de haber visto el sistema en funcionamiento veamos las ideas que podemos desprender de este experimento.
+volvamos a observar los elementos principales del sistema desde esta nueva perspectiva.
 
-el ADN.
+el ADN. (cap 9)
 
+la reproduccion (cap 10)
 
+individuos. (cap 11)
 
-la reproduccion
-
-individuos.
-
-el ciclo de vida.
-
---------------------
-
-La vida.
+el ciclo de vida. (cap 12)
