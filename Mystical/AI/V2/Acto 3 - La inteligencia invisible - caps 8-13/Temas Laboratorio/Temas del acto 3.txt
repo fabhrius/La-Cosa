@@ -20,8 +20,8 @@ el modelo logico
 
 elementos conceptuales que lo componen
 
-la vida
-el ADN
+la vida  (C:\Repo\vida\development\Mystical\AI\V2\Cap 8 - La vida\DESA\V2\Laboratorio\Test 1\La vida - introduccion - vision general.odt)
+el ADN  (C:\Repo\vida\development\Mystical\AI\V2\Cap 9 - ADN - La memoria de la vida\DESA\V2\Lab\test 1\ADN - introduccion - vision general.odt)
 la reproduccion
 el ciclo de vida
 el individuo
@@ -138,8 +138,11 @@ el ciclo de vida. (cap 12)
 --------------------
 
 5-
+
+Inteligencia, aprendizaje y complejidad.
+
 La vida.
-Conclusion. una unica entidad. 
+Conclusion: una unica entidad. 
 
 borrador en cap 8
 
