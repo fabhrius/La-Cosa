@@ -93,6 +93,8 @@ Una nueva descripcion de la vida. (el ADN como nucleo logico. unicidad, inmortal
 2-
 El modelo Logico Matematico.
 
+descripcion del modelo
+
 los elementos principales de la vida en este modelo. (perspectiva biologica y function logica. utilidad practica)
 
 lo que podemos hacer con estos elementos.
