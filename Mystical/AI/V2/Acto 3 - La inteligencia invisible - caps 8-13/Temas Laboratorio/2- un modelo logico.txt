@@ -1,5 +1,5 @@
 2-
-a- El modelo Logico Matematico.
+a- El modelo Logico Matematico. Introduccion
 
 b- los elementos principales de la vida en este modelo.
 
