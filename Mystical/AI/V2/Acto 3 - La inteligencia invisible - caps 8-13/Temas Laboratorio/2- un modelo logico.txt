@@ -30,17 +30,21 @@ b-
 sus elementos principales
 lo que la biologia ha observado hasta ahora es que,
 
-- individuos - la vida esta formada por individuos.
-el individuo es la unidad vital. todo son individuos.
-(el individuo - la vision biologica)
+
+- ADN - todos los organismos vivientes tienen ADN. el ADN es una molecula con propiedades especiales. ...
+(C:\Repo\vida\development\Mystical\AI\V2\Cap 9 - ADN - La memoria de la vida\DESA\V2\Lab\test 1\ADN - introduccion - vision general.odt)
 
 - reproduccion - los individuos se reproducen. toda la vida se reproduce. si esta vivo, entonces se reproduce. la reproduccion es una caracteristica fundamental en la vida. y no existe nada que no este vivo que se reproduzca. la reproduccion define aquello que esta vivo. reproduccion no es copia. es rehacerlo en una nueva version, pero manteniendo la estructura basica. existen cristales que se copian, pero no es reproduccion sino copia. solo la vida se reproduce.
+(C:\Repo\vida\development\Mystical\AI\V2\Cap 10 - Reproduccion\DESA\V2\Lab\Test 1\Reproduccion - introduccion - vision general - 2.odt)
 
 - ciclo de vida - todos los organismos vivientes cumplen con un ciclo de vida, que consiste en nacer, reproducirse y morir.
 o al menos, todos los organismos que hemos podido observar hasta ahora cumplen con un ciclo de vida.
 es la rutina de la vida. veremos como esta rutina, es de una utilidad vital.
 
-- ADN - todos los organismos vivientes tienen ADN. el ADN es una molecula con propiedades especiales. ...
+- individuos - la vida esta formada por individuos.
+el individuo es la unidad vital. todo son individuos.
+(el individuo - la vision biologica)
+(C:\Repo\vida\development\Mystical\AI\V2\Cap 11 - Individuos -\DESA\V2\Lab\T1\Individuo - introduccion - vision general - 3.odt)
 
 c-
 y estos seran todos los elementos que describiran conceptualmente este nuevo modelo logico.
