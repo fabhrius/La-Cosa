@@ -1,0 +1,69 @@
+Introduccion al Ciclo de Vida.
+
+
+- que es?
+- todos los seres vivientes cumplen con un ciclo de vida.
+- ciclo de vida como funcion
+- esta implicito en la naturaleza del ADN.
+- impacto del ciclo de vida en el resultado del sistema
+
+
+
+------------------------------
+
+
+
+- que es?
+
+el ciclo de vida es un patron de actividad que podemos observar en la naturaleza.
+que consiste en nacer, reproducirse y morir.
+al igual que los elementos que he comentado anteriormente, el ADN y la reproduccion, el ciclo de vida es un elemento caracteristico de la vida, y exclusivo.
+solo en los seres vivientes es observable este patron.
+
+- todos los seres vivientes cumplen con un ciclo de vida.
+
+Y al mismo tiempo,
+todos los seres vivientes, sin excepcion, cumplen con un ciclo de vida.
+
+- ciclo de vida como function
+
+Anteriormente he hablado de ADN y de reproduccion, como dos elementos de un modelo logico de la vida.
+El ADN es una molecula, es materia, es un objeto.
+Pero la reproduccion no es un objeto, no es material.
+La reproduccion es una function que realiza el ADN.
+Es por lo tanto, una caracteristica del ADN. Algo que hace. Una function.
+Que tiene resultados observables en el universo fisico, pero que en si mismo es una idea, un concepto, una function, y por lo tanto, un elemento logico.
+
+Y lo mismo sucede con el ciclo de vida.
+No es un objeto que podamos aislar y meter un frasco de cristal. 
+Es una idea, un concepto, una function. Es un elemento logico.
+El ciclo de vida es una function que realiza el ADN.
+El ADN nace, se reproduce y muere.
+Y esto se refleja en todos los seres vivientes.
+
+
+- esta implicito en la naturaleza del ADN.
+
+Y aunque tiene un gran impacto en el resultado final, como veremos mas adelante, debo decir , una vez mas, que no es algo que haya sido creado intencionadamente, sino algo que simplemente sucede de forma natural.
+
+El ADN se reproduce, como he comentado antes, y tambien se degrada con el tiempo, porque solo son atomos unidos momentaneamente por enlaces que pueden ser separados.
+Asi las cosas, la estructura no puede mantenerse indefinidamente, es solo cuestion de tiempo. 
+Estas caracteristicas de la materia hacen que el ADN tenga un momento de creacion, un momento de reproduccion y un momento de destruccion.
+Esta implicito en la naturaleza del ADN.
+Y sin embargo, tiene una serie de efectos sobre el sistema que son determinantes.
+
+- impacto del ciclo de vida en el resultado del sistema
+
+He comentado como la reproduccion modifica la informacion contenida en el ADN.
+Y de como este mecanismo es el responsable del aprendizaje y la evolucion.
+
+Sin embargo, la reproduccion por si sola no basta para producir los resultados que observamos.
+La reproduccion por si sola no puede conseguir que el proceso avance. Y por lo tanto no podria conseguir aprendizaje ni evolucion.
+Es el ciclo de vida el elemento que hace finalmente que la maquina funcione.
+Su efecto sobre el sistema es basicamente, el de imponer los limites necesarios para crear un bucle de ejecucion de un unico sentido, hacia adelante.
+
+
+
+
+
+
