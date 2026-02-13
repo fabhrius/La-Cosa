@@ -1,5 +1,29 @@
 la inteligencia puede medirse.
 
+
+
+Tradicionalmente hemos asociado la inteligencia con el ser humano.
+Y hemos establecido formas de medir diferencias en inteligencia entre las personas.
+Ahora vamos a extender la idea de inteligencia fuera de la humanidad para abarcar a todos los procesos biologicos, a todas las formas de vida, a la vida misma.
+Incluyendo a todos los procesos inteligentes, desde los mas simples hasta los mas complejos, encontraremos que la inteligencia puede medirse y clasificarse dentro de un amplio rango.
+
+Encontraremos Tambien que existe un limite minimo, la expression mas simple de la inteligencia, y un limite maximo, una frontera que no puede ser superada.
+
+Como ejemplo de diferentes procesos inteligentes, podria sugerir:
+- un comparador electronico, que determina el menor de dos valores, A y B.
+- y el lenguaje natural que utilizamos para comunicarnos.
+
+El comparador es una muestra simple de inteligencia aplicada, mientras que el lenguaje natural es un proceso de gran complejidad.
+
+
+Veamos mas en detalle el proceso que realiza un comparador.
+Para realizar este proceso son necesarios los datos que seran comparados.
+Podemos llamar a esto, "datos" de entrada. es informacion.
+El proceso debe comparar los datos, es decir, con los datos de entrada realiza algun "proceso", los evalua, compara, decide, algo hace con ellos.
+Para producir un "resultado", indicar en la salida si A es menor que B.
+Datos, proceso, resultado. Tres etapas.
+
+
 un circuito electronico que compara dos valores para decidir si A es menor que B, no tiene conciencia.
 un pez no aprendera algebra.
 el hombre puede reconocerse en un espejo.

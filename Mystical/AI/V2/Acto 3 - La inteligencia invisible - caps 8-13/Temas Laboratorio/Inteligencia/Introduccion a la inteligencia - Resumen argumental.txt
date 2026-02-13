@@ -5,6 +5,42 @@ C:\Repo\vida\development\Mystical\AI\V2\Acto 3 - La inteligencia invisible - cap
 --------------------
 
 
+1- Introrduccion:
+
+(Introduccion a la inteligencia 1.odt)
+
+
+2- identificamos un resultado inteligente como algo antinatural.
+
+	La inteligencia es detectable porque observamos un resultado que no se produciría por sí solo.
+
+3- Inteligencia, razonamiento y conciencia.
+
+
+4- la inteligencia puede medirse
+
+	lenguaje natural como ejemplo complejo
+
+	Comparador como ejemplo simple
+
+5- la intencion del proceso inteligente.
+
+6- definiciones.
+(Definicion de Inteligencia 2.odt)
+
+7- tres partes de un proceso inteligente
+
+8- conclusion
+
+9- Como se produce?
+
+
+----------------------------------------------
+
+
+
+
+
 Inteligencia:
 
 
@@ -20,7 +56,7 @@ Inteligencia:
 
 
 - Introduccion
-(breve discussion acerca del problema y la necesidad de definirlo)
+(breve discussion acerca del problema de encontrar una definicion y la necesidad de definirlo)
 - definicion
 (una definicion minima)
 - como se produce?
@@ -45,6 +81,8 @@ la inteligencia puede resultar un concepto intuitivo, porque nosotros somos inte
 Y no digo que "somos inteligentes" sino que "somos inteligencia".
 
 Y somos inteligencia porque estamos vivos.
+Analizaremos esta estrecha relacion en detalle mas adelante.
+
 Es asi como reconocemos a la vida.
 Los seres vivientes tienen dos caracteristicas que los hace facilmente reconocibles.
 El material conque estan hechos, la materia organica.
@@ -89,33 +127,7 @@ Entonces, que es exactamente la inteligencia?
 
 ------------------------------------------------
 
-- Definicion:
 
-Inteligencia, razonamiento y conciencia.
-
-
-identificamos un resultado inteligente como algo antinatural.
-
-	La inteligencia es detectable porque observamos un resultado que no se produciría por sí solo.
-
-la inteligencia puede medirse
-
-	lenguaje natural como ejemplo complejo
-
-	Comparador como ejemplo simple
-
-la intencion del proceso inteligente.
-
-definiciones.
-
-tres partes de un proceso inteligente
-
-conclusion
-
-
-
-
-----------------------------------------------
 - como se produce la inteligencia?
 
 
@@ -138,7 +150,7 @@ Una posible definicion minima de inteligencia es,
 Inteligencia es la capacidad de resolver un problema.
 
 Entonces, empecemos por analizar como resolvemos un problema.
-Esto nos permitira identificar los elementos necesarios para llevar a cabo un proceso inteligente.
+Esto nos permitira identificar los elementos minimos necesarios para llevar a cabo un proceso inteligente.
 
 
 
