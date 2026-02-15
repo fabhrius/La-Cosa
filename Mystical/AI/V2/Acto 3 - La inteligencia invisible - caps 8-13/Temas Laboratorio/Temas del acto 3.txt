@@ -82,8 +82,8 @@ adaptando el sistema al problema
 
 el individuo apropiado
 el ADN (como memoria)
-la reproduccion
-el ciclo de vida
+la reproduccion (como procesador)
+el ciclo de vida (como motor del proceso)
 
 lanzando el proceso
 conclusion

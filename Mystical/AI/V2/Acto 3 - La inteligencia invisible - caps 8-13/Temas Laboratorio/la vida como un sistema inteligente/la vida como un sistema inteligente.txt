@@ -1,0 +1,58 @@
+
+inteligencia es la capacidad de resolver un problema.
+
+para que un sistema puede resolver un problema debe disponer de cuatro elementos minimos, datos, metodo, memoria, procesador.
+
+y estos cuatro elementos son los que forman a la vida, sus pilares.
+Es por eso que podemos afirmar que la vida es un sistema inteligente.
+
+Pero vamos por partes, mas despacio.
+Veamoslo poco a poco.
+
+He dicho que vamos a construir un nuevo modelo de la vida, un modelo logico.
+
+Nos olvidaremos aqui de la compleja composicion quimica de la materia organica, de los tejidos que forman a los organismos, de la extraordinaria variedad de sus especies. 
+
+Dejaremos el estudio de toda esta complejidad a la biologia.
+Porque es esa complejidad lo que nos confunde, lo que nos impide ver lo esencial.
+
+- function e implementacion
+debemos distinguir entre function e implementacion.
+la function en lo que se espera que un sistema haga.
+la implementacion es el mecanismo que realiza la function.
+
+por ejemplo comunicar un mensaje.
+podemos enviar el mensaje con un mensajero a caballo
+podemos escribir una carta y enviarla por correo postal.
+podemos utilizar el correo electronico.
+podemos hacer una llamada telefonica.
+
+todos estos sistemas comunican el mensaje, aunque son diferentes formas de implementar la misma function.
+
+
+
+
+
+la materia organica  es una forma de implementar el sistema, es el hardware, la maquina fisica.
+Nosotros para implementar sistemas inteligentes utilizamos actualmente la electronica.
+Pero esta no es la unica forma posible de implementar estos sistemas.
+Su function puede ser realizada por diferentes tecnologias.
+
+Si observamos a la vida como a un sistema inteligente nos encontraremos conque la tecnologia utilizada para implementar el sistema supera nuestra capacidad de comprension.
+Es demasiado compleja para que podamos entenderla a simple vista.
+La tecnologia utilizada nos supera. Pero todavia podemos entender lo que hace. Su function logica.
+Y eso es lo que exploraremos aqui.
+
+
+Cuando digo que los elementos que componen a la vida son los cuatro elementos necesarios para crear un sistema inteligente, y que por lo tanto la vida es exactamente eso, un sistema inteligente, puede que no se entienda.
+Y para entender, creo que mejor que explicarlo teoricamente sera verlo de forma practica.
+
+Con este objetivo, construiremos nosotros mismos un sistema de estas caracteristicas, lo pondremos en marcha, y veremos como trabaja, como resuelve problemas.
+Esta vision mostrara un aspecto de la vida que podria pasar inadvertido, invisible a nuestros ojos.
+Y que creo que cambiara nuestro punto de vista, acerca de la vida, y acerca de nosotros mismos.
+
+
+
+
+
+
