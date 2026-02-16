@@ -1,0 +1,54 @@
+3-3- Adaptando el sistema al problema
+
+Ahora que tenemos un problema que resolver veamos como podemos resolverlo utilizando el modelo logico de vida que estamos desarrollando.
+
+
+El modelo de forma generica:
+
+Este modelo logico esta compuesto basicamente por:
+ADN, reproduccion, ciclo de vida, e individuos.
+
+Estos son los elementos que hemos analizado en las secciones anteriores y Son suficientes para describir el comportamiento de la vida desde un punto de vista conceptual y funcional.
+Y aunque dos de ellos, el ADN y el individuo, pueden materializarse fisicamente, en este modelo logico solo seran ideas abstractas, conceptos, elementos logicos.
+
+Los cuatro son elementos funcionales, que por lo tanto, pueden ser implementados de diferentes formas y utilizando diferentes tecnologias.
+
+Lo que utilizaremos aqui son simplificaciones matematicas.
+Cuando hablo de ADN, utilizaremos una version conceptual extremadamente simplificada. Nos quedaremos solo con su function mas elemental, y solo aquello que necesitamos para el experimento. No necesitamos aqui la gran complejidad de la molecula real.
+Solo una estructura matematica, tan simple como sea posible, que cumpla la function necesaria para la resolucion del problema.
+
+Del mismo modo, cuando hablamos de individuos, utilizaremos una estructura matematica para representar las caracteristicas y funciones que nos interesa analizar, una vez mas, no necesitamos la extrema complejidad de la implementacion organica de un invidviduo. Algo que queda fuera del alcance de nuestras posibilidades practicas.
+No nos es posible disenar y construir desde cero, en un laboratorio, un organismo viviente adaptado al problema que queremos resolver ahora.
+Sin embargo, podremos crear una simplificacion logica que nos muestre su actividad funcional.
+Y eso es lo que haremos.
+
+Cuando hablamos de reproduccion, no hablamos de copia, sino de una nueva version de un individuo.
+La reproduccion crea un nuevo individuo, diferente del anterior.
+Se trata pues de una copia con variacion. Es una re-creacion del individuo original.
+En donde la diferencia entre un individuo y el anterior (padre) es la menor de todas las posibles.
+
+El resultado es que todos los individuos son practica y funcionalemente identicos, mientras que no existen dos individuos iguales.
+
+Cuando hablamos de ciclo de vida, utilizaremos una version minima con tres etapas, nacer-reproducirse-morir.
+Durante la etapa de nacimiento, una nueva instancia de un individuo es creada y puesta en marcha.
+Durante la vida util del individuo este se reproduce. Durante la reproduccion crea todos los hijos posibles.
+Despues de esto el individuo es eliminado del sistema, durante la etapa de muerte.
+
+
+
+Los elementos necesarios para resolver un problema:
+
+
+datos:
+
+
+metodo:
+
+(((letra - 1) o (letra + 1)) y ((numero - 1) o (numero + 1)))
+
+
+memoria:
+
+
+procesador:
+

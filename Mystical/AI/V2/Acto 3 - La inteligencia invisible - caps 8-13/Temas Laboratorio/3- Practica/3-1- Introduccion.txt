@@ -1,0 +1,40 @@
+3-1- Introduccion
+
+
+
+cuando digo que la vida es un sistema inteligente porque puede resolver problemas logicos, creo que todos podemos entenderlo sin mas.
+las pruebas estan a la vista.
+la forma en que las criaturas vivientes se adaptan al entorno.
+la forma en que gestionan los recursos de forma optima.
+el equilibrio preciso, las soluciones.
+
+Todos lo sabemos intuitivamente, aun sin saber como lo hace, sabemos que lo hace.
+
+El objetivo que nos proponemos ahora va un paso mas alla.
+queremos saber como lo hace.
+Como la vida consigue disenar criaturas tan complejas?
+La palabra "perfeccion" no es exagerada para calificar su obra. Es exacta.
+
+Como lo hace?
+Como pueden las bacterias hacerse resistentes a los antibioticos?
+Como aprende la vida? 
+Y como utiliza el conocimiento?
+Como supera obstaculos, resuelve problemas, se adapta?
+
+Durante mucho tiempo hemos pensado que la inteligencia era un atributo exclusivo del ser humano.
+Hoy la biologia ha extendido el alcance de la inteligencia a todos los cerebros.
+
+Pero eso no es todo, este es solo un tipo de inteligencia.
+Hay mas, aquella que crea los cerebros, la que crea a las criaturas.
+Esta es la inteligencia real, porque es de ella que derivan todas las demas.
+Y esa inteligencia esta en la materia organica, y surge como una expression de su composicion molecular.
+
+
+No nos vamos a conformar ahora con creerlo, simplemente como un dogma.
+Vamos a entenderlo en detalle.
+Crearemos una simulacion que nos muestre como funciona.
+Para ver como la vida puede resolver problemas logicos empecemos por definir un problema simple.
+
+
+
+
