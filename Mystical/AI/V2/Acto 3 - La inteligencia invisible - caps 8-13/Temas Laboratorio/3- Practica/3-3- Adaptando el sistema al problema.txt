@@ -35,16 +35,23 @@ Durante la vida util del individuo este se reproduce. Durante la reproduccion cr
 Despues de esto el individuo es eliminado del sistema, durante la etapa de muerte.
 
 
+Ademas de esto, hemos comentado que, los cuatro elementos que forman la base de todo sistema de calculo son: datos-metodo-memoria-procesador
+
+Veamos como podemos implementar estos elementos dentro del modelo logico, y como podemos adaptar el sistema al problema que queremos resolver.
 
 Los elementos necesarios para resolver un problema:
 
 
 datos:
 
+un estado del proceso
 
 metodo:
 
-(((letra - 1) o (letra + 1)) y ((numero - 1) o (numero + 1)))
+obtener una lista con todos los siguientes estados posibles
+jugadas validas
+
+(((letra - 1) o (letra + 1)) y ((numero - 1) o (numero + 1))) - (posicion_actual) - (posiciones_fuera_del_tablero)
 
 
 memoria:
