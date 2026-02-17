@@ -1,3 +1,18 @@
+
+3-3- Adaptando el sistema al problema
+
+
+- El modelo de forma generica:
+(implementacion y alcance de ADN, reproduccion, ciclo de vida, e individuos)
+
+- Los elementos necesarios para resolver un problema:
+(conjunto de datos, metodos, memoria, y procesador)
+
+
+
+----------------------------------------
+
+
 3-3- Adaptando el sistema al problema
 
 Ahora que tenemos un problema que resolver veamos como podemos resolverlo utilizando el modelo logico de vida que estamos desarrollando.
@@ -44,9 +59,28 @@ Los elementos necesarios para resolver un problema:
 
 datos:
 
+los datos necesarios para abordar un problema son aquellos que describen el contexto del problema, es decir, el universo en que el problema existe.
+en este caso se trata de un juego de mesa, una ficha que se mueve en un tablero cuadriculado de ocho por ocho casillas.
+este es todo el universo para este juego, no existe nada mas alla del tablero, y como informacion importante no hay mas que 
+la posicion de la unica ficha sobre el tablero, y el camino que ha recorrido.
+
 un estado del proceso
 
+los datos que necesitaremos en este caso son los necesarios para describir un estado cualquiera del juego.
+una partida atravesara por diferentes estados desde su inicio hasta su fin.
+para representar con precision uno de estos estados necesitamos conocer la posicion actual de la unica ficha sobre el tablero, asi como la lista de movimientos que han sido realizados hasta el momento.
+con esta informacion podriamos suspender la partida y retomarla en otro momento, exactamente desde el mismo punto, sin que se haya perdido informacion.
+
+por lo tanto, los datos que debemos mantener para el desarrollo de este juego son:
+la posicion actual, por ejemplo, 'C2'.
+y el camino recorrido hasta ahora, por ejemplo, 'A1-A2-B2'
+
+
 metodo:
+
+el unico metodo que necesitaremos para este problema es aquel que nos de una lista de todas las jugadas validas desde la posicion actual.
+
+
 
 obtener una lista con todos los siguientes estados posibles
 jugadas validas
@@ -56,6 +90,44 @@ jugadas validas
 
 memoria:
 
+la memoria del sistema contiene datos y metodos.
+
+Conviene en este punto detenernos un momento para hablar de las memorias.
+Las memoria pueden clasificarse dentro de dos tipos: las memorias de lectura y escritura, y las memorias de solo lectura.
+Un ejemplo de memoria de lectura y escritura es la utilizada por los computadores que utilizamos a diario, en donde podemos crear archivos, modificarlos, borrarlos y volver a utilizar el espacio de memoria una y otra vez.
+
+Un ejemplo de memoria de solo lectura es un disco de musica, en donde podemos escuchar las canciones pero no podemos modificar su contenido. estas memorias se graban una sola vez, despues de esto no son editables. de esta forma conservamos la informacion inalterada. 
+
+En el modelo logico que estamos desarrollando la vida es un sistema inteligente, una maquina de calculo.
+Y en este sistema la memoria se encuentra en el ADN.
+He comentado que todos los seres vivientes tienen ADN.
+Y que en el ADN se encuentra la informacion necesaria para construir a un individuo. Es decir que el ADN contiene datos.
+Y ademas de los datos, contiene todas las funciones necesarias que el individuo necesita para realizar todos sus procesos vitales.
+El ADN contiene datos y metodos. Es por lo tanto la memoria del sistema.
+
+Sin embargo, a diferencia de nuestros computadores, que utilizan  memorias de lectura y escritura, la vida, como sistema inteligente, utiliza memorias de solo lectura.
+El ADN es una memoria de solo lectura.
+Es decir que la informacion que contiene no puede ser modificada.
+Se trata de una memoria "inmutable".
+Uno de los efectos mas evidentes de su inmutabilidad es que el individuo no cambiara a lo largo de su vida, manteniendo las caracteristicas que lo definen.
+
+Veremos mas adelante como la inmutabilidad del ADN Tambien tiene otros efectos importantes mas alla del individuo.
+
+he comentado que el proceso de resolucion de un problema parte de un conjunto de datos sobre el cual se aplican las transformaciones que indica el metodo, y que con cada operacion que se ejecuta sobre los datos el conjunto de datos cambia de estado, incluyendo nueva informacion.
+Es facil imaginar como sucede esto en un computador ya que su memoria puede modificarse.
+
+Pero si vamos a utilizar ADN como memoria del sistema, y esta memoria es inmutable, como podremos modificar el conjunto de datos, a medida que realizamos operaciones?
+Es posible utilizar una memoria de solo lectura en un proceso de resolucion de problemas?
+
+
+
+
+
+
+
+
+
+ 
 
 procesador:
 
