@@ -1,13 +1,16 @@
 
 3-3- Adaptando el sistema al problema
 
+3-3-1- introduccion
 
-- El modelo de forma generica:
-(implementacion y alcance de ADN, reproduccion, ciclo de vida, e individuos)
+3-3-2- El modelo de forma generica:
+(implementacion y alcance de: ADN, reproduccion, ciclo de vida, e individuos)
 
-- Los elementos necesarios para resolver un problema:
+3-3-3- Los elementos necesarios para resolver un problema:
 (conjunto de datos, metodos, memoria, y procesador)
 
+
+3-3-4- entonces, como lo hacemos? manos a la obra.
 
 
 ----------------------------------------
@@ -15,10 +18,17 @@
 
 3-3- Adaptando el sistema al problema
 
+3-3-1- introduccion
+
 Ahora que tenemos un problema que resolver veamos como podemos resolverlo utilizando el modelo logico de vida que estamos desarrollando.
 
+he comentado que la vida es un sistema inteligente.
+Y un sistema inteligente resuelve problemas logicos.
+podra la vida resolver el problema que hemos planteado?
+Veamoslo.
 
-El modelo de forma generica:
+3-3-2- El modelo de forma generica:
+
 
 Este modelo logico esta compuesto basicamente por:
 ADN, reproduccion, ciclo de vida, e individuos.
@@ -27,34 +37,31 @@ Estos son los elementos que hemos analizado en las secciones anteriores y Son su
 Y aunque dos de ellos, el ADN y el individuo, pueden materializarse fisicamente, en este modelo logico solo seran ideas abstractas, conceptos, elementos logicos.
 
 Los cuatro son elementos funcionales, que por lo tanto, pueden ser implementados de diferentes formas y utilizando diferentes tecnologias.
-
 Lo que utilizaremos aqui son simplificaciones matematicas.
-Cuando hablo de ADN, utilizaremos una version conceptual extremadamente simplificada. Nos quedaremos solo con su function mas elemental, y solo aquello que necesitamos para el experimento. No necesitamos aqui la gran complejidad de la molecula real.
-Solo una estructura matematica, tan simple como sea posible, que cumpla la function necesaria para la resolucion del problema.
 
-Del mismo modo, cuando hablamos de individuos, utilizaremos una estructura matematica para representar las caracteristicas y funciones que nos interesa analizar, una vez mas, no necesitamos la extrema complejidad de la implementacion organica de un invidviduo. Algo que queda fuera del alcance de nuestras posibilidades practicas.
+Cuando hablo de "ADN", utilizaremos una version conceptual extremadamente simplificada. Nos quedaremos solo con su function mas elemental, y solo aquello que necesitamos para el experimento. No necesitamos aqui la gran complejidad de la molecula real del ADN. Solo una estructura matematica, tan simple como sea posible, que cumpla la function necesaria para la resolucion del problema.
+
+Del mismo modo, cuando hablamos de "individuos", utilizaremos una estructura matematica para representar las caracteristicas y funciones que nos interesa analizar, una vez mas, no necesitamos la extrema complejidad de la implementacion organica de un invidviduo. Algo que queda fuera del alcance de nuestras posibilidades practicas.
 No nos es posible disenar y construir desde cero, en un laboratorio, un organismo viviente adaptado al problema que queremos resolver ahora.
 Sin embargo, podremos crear una simplificacion logica que nos muestre su actividad funcional.
 Y eso es lo que haremos.
 
-Cuando hablamos de reproduccion, no hablamos de copia, sino de una nueva version de un individuo.
+Cuando hablamos de "reproduccion", no hablamos de copia, sino de una nueva version de un individuo.
 La reproduccion crea un nuevo individuo, diferente del anterior.
 Se trata pues de una copia con variacion. Es una re-creacion del individuo original.
 En donde la diferencia entre un individuo y el anterior (padre) es la menor de todas las posibles.
-
 El resultado es que todos los individuos son practica y funcionalemente identicos, mientras que no existen dos individuos iguales.
 
-Cuando hablamos de ciclo de vida, utilizaremos una version minima con tres etapas, nacer-reproducirse-morir.
+Cuando hablamos de "ciclo de vida", utilizaremos una version minima con tres etapas, nacer-reproducirse-morir.
 Durante la etapa de nacimiento, una nueva instancia de un individuo es creada y puesta en marcha.
 Durante la vida util del individuo este se reproduce. Durante la reproduccion crea todos los hijos posibles.
 Despues de esto el individuo es eliminado del sistema, durante la etapa de muerte.
 
 
 Ademas de esto, hemos comentado que, los cuatro elementos que forman la base de todo sistema de calculo son: datos-metodo-memoria-procesador
-
 Veamos como podemos implementar estos elementos dentro del modelo logico, y como podemos adaptar el sistema al problema que queremos resolver.
 
-Los elementos necesarios para resolver un problema:
+3-3-3- Los elementos necesarios para resolver un problema:
 
 
 datos:
@@ -74,6 +81,12 @@ con esta informacion podriamos suspender la partida y retomarla en otro momento,
 por lo tanto, los datos que debemos mantener para el desarrollo de este juego son:
 la posicion actual, por ejemplo, 'C2'.
 y el camino recorrido hasta ahora, por ejemplo, 'A1-A2-B2'
+
+podemos utilizar una estructura como:
+DATOS{
+posicion = 'C2';
+camino_recorrido = 'A1-A2-B2'
+}
 
 
 metodo:
@@ -110,24 +123,28 @@ El ADN es una memoria de solo lectura.
 Es decir que la informacion que contiene no puede ser modificada.
 Se trata de una memoria "inmutable".
 Uno de los efectos mas evidentes de su inmutabilidad es que el individuo no cambiara a lo largo de su vida, manteniendo las caracteristicas que lo definen.
-
 Veremos mas adelante como la inmutabilidad del ADN Tambien tiene otros efectos importantes mas alla del individuo.
 
 he comentado que el proceso de resolucion de un problema parte de un conjunto de datos sobre el cual se aplican las transformaciones que indica el metodo, y que con cada operacion que se ejecuta sobre los datos el conjunto de datos cambia de estado, incluyendo nueva informacion.
 Es facil imaginar como sucede esto en un computador ya que su memoria puede modificarse.
 
-Pero si vamos a utilizar ADN como memoria del sistema, y esta memoria es inmutable, como podremos modificar el conjunto de datos, a medida que realizamos operaciones?
+Pero si vamos a utilizar ADN como memoria del sistema, y esta memoria es inmutable, como podremos modificar el conjunto de datos a medida que realizamos operaciones?
 Es posible utilizar una memoria de solo lectura en un proceso de resolucion de problemas?
-
-
-
-
-
-
-
-
-
  
 
 procesador:
+
+durante la reproduccion el conjunto de datos es modificado.
+el hijo no es igual que el padre, es diferente. El conjunto de datos ha cambiado para dar lugar a una nueva version.
+De modo que durante la reproduccion se realizan transformaciones sobre los datos que definen al padre.
+la informacion es procesada, de algun modo.
+
+la reproduccion es el procesador del sistema.
+durante la reproduccion la informacion de define al padre es leida, modificada, y con el resultado de estas modificaciones se crea una nueva cadena de ADN. La que define al hijo.
+de este modo la inmutabilidad del ADN no es un obstaculo, ya que la informacion no es modificada en el mismo soporte de memoria, sino que se crea una nueva instancia, una nueva cadena de ADN para almacenar el nuevo conjunto de datos.
+
+durante la reproduccion el proceso de calculo avanza en un unico paso simple.
+he comentado que normalmente un proceso de calculo requerira aplicar mas de una operacion sobre los datos para encontrar la solucion al problema.
+en este caso, durante la reproduccion el calculo avanzara un unico paso.
+no se resolvera el problema en una generacion, sino que avanzara lentamente, generacion tras generacion.
 
