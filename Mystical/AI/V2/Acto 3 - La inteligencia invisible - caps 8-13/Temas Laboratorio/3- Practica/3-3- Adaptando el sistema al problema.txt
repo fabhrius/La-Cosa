@@ -64,7 +64,7 @@ Veamos como podemos implementar estos elementos dentro del modelo logico, y como
 3-3-3- Los elementos necesarios para resolver un problema:
 
 
-datos:
+3-3-3-1- Los datos:
 
 los datos necesarios para abordar un problema son aquellos que describen el contexto del problema, es decir, el universo en que el problema existe.
 en este caso se trata de un juego de mesa, una ficha que se mueve en un tablero cuadriculado de ocho por ocho casillas.
@@ -75,6 +75,8 @@ un estado del proceso
 
 los datos que necesitaremos en este caso son los necesarios para describir un estado cualquiera del juego.
 una partida atravesara por diferentes estados desde su inicio hasta su fin.
+Cada vez que se realice un movimiento el juego cambiara de estado.
+
 para representar con precision uno de estos estados necesitamos conocer la posicion actual de la unica ficha sobre el tablero, asi como la lista de movimientos que han sido realizados hasta el momento.
 con esta informacion podriamos suspender la partida y retomarla en otro momento, exactamente desde el mismo punto, sin que se haya perdido informacion.
 
@@ -82,26 +84,25 @@ por lo tanto, los datos que debemos mantener para el desarrollo de este juego so
 la posicion actual, por ejemplo, 'C2'.
 y el camino recorrido hasta ahora, por ejemplo, 'A1-A2-B2'
 
-podemos utilizar una estructura como:
+podemos utilizar una estructura como la siguiente:
 DATOS{
 posicion = 'C2';
 camino_recorrido = 'A1-A2-B2'
 }
 
 
-metodo:
+3-3-3-2- metodo:
 
 el unico metodo que necesitaremos para este problema es aquel que nos de una lista de todas las jugadas validas desde la posicion actual.
 
 
 
-obtener una lista con todos los siguientes estados posibles
-jugadas validas
+obtener una lista con todos los siguientes estados posibles (jugadas validas)
 
 (((letra - 1) o (letra + 1)) y ((numero - 1) o (numero + 1))) - (posicion_actual) - (posiciones_fuera_del_tablero)
 
 
-memoria:
+3-3-3-3- La memoria:
 
 la memoria del sistema contiene datos y metodos.
 
@@ -130,21 +131,27 @@ Es facil imaginar como sucede esto en un computador ya que su memoria puede modi
 
 Pero si vamos a utilizar ADN como memoria del sistema, y esta memoria es inmutable, como podremos modificar el conjunto de datos a medida que realizamos operaciones?
 Es posible utilizar una memoria de solo lectura en un proceso de resolucion de problemas?
+Lo veremos a continuacion.
  
 
-procesador:
+3-3-3-4- procesador:
 
 durante la reproduccion el conjunto de datos es modificado.
-el hijo no es igual que el padre, es diferente. El conjunto de datos ha cambiado para dar lugar a una nueva version.
+el hijo no es igual que el padre, es diferente, es decir que, El conjunto de datos ha cambiado para dar lugar a una nueva version.
 De modo que durante la reproduccion se realizan transformaciones sobre los datos que definen al padre.
 la informacion es procesada, de algun modo.
+es por eso que decimos que la reproduccion es el procesador del sistema.
 
-la reproduccion es el procesador del sistema.
-durante la reproduccion la informacion de define al padre es leida, modificada, y con el resultado de estas modificaciones se crea una nueva cadena de ADN. La que define al hijo.
+durante la reproduccion la informacion que define al padre es leida, modificada, y con el resultado de estas modificaciones se crea una nueva cadena de ADN. La que define al hijo.
 de este modo la inmutabilidad del ADN no es un obstaculo, ya que la informacion no es modificada en el mismo soporte de memoria, sino que se crea una nueva instancia, una nueva cadena de ADN para almacenar el nuevo conjunto de datos.
 
 durante la reproduccion el proceso de calculo avanza en un unico paso simple.
 he comentado que normalmente un proceso de calculo requerira aplicar mas de una operacion sobre los datos para encontrar la solucion al problema.
 en este caso, durante la reproduccion el calculo avanzara un unico paso.
-no se resolvera el problema en una generacion, sino que avanzara lentamente, generacion tras generacion.
+no se resolvera el problema en una generacion, sino que el proceso de calculo avanzara lentamente, generacion tras generacion.
+
+no se espera que un unico individuo encuentre la solucion al problema.
+un individuo avanzara un unico paso simple en el proceso de calculo, sin dificultad, sin necesidad de enfrentarse a decisiones o complejidad. un paso elemental.
+y dejara a su descendencia la tarea de continuar con el proceso.
+
 
