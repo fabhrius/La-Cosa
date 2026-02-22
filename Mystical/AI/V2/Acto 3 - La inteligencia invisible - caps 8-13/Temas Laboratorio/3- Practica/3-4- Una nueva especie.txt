@@ -1,0 +1,77 @@
+3-4- Una nueva especie
+
+
+
+3-4-1- introduccion
+
+3-4-2- componente
+
+3-4-3- aspecto
+
+3-4-4- puesta en marcha
+
+--------------------------------------------
+
+3-4-1- introduccion
+
+Veamos ahora como adaptamos el sistema al problema que queremos resolver.
+
+En un sistema de este tipo, la maquina debe estar hecha a la medida del problema.
+Con los datos que tenenos del problema,  adaptaremos una rama de la vida a este problema concreto..
+Lo conseguiremos creando una nueva especie de seres vivientes especifica para el problema del laberinto.
+
+
+
+Una especie es una familia de individuos semejantes.
+Todos los individuos de una especie son muy parecidos, no iguales, pero casi.
+Así, es el individuo quien define a la especie.
+
+
+Crearemos una nueva especie simplemente creando un individuo con las características que nos interesan.
+Todas las criaturas vivientes cumplen con un ciclo de vida que consiste en nacer, reproducirse y morir.
+
+Y por lo tanto, una vez creado el nuevo individuo que necesitamos, este se reproducirá, y creara la nueva especie.
+Se trata pues, unicamente de crear el individuo adecuado.
+Veamos como.
+
+-------------------------------
+
+3-4-2- componente
+
+el individuo cumple la function de un chasis que contiene a todos los elementos funcionales que hemos comentado anteriormente.
+Un individuo tiene su propio ADN.
+El individuo se reproduce.
+Y cada individuo cumple con su propio ciclo de vida.
+
+veamos en detalle como podria ser su implementacion.
+ADN: todos los individuos tienen su propio ADN. el ADN cumple la function de memoria del sistema, funcionando como soporte para la informacion, en forma de datos y metodos.
+como he dicho, el sistema debe estar adaptado a la medida del problema, en este caso el problema es el juego del laberinto.
+el individuo por lo tanto debe representar un estado del juego.
+la informacion necesaria para esto sera la posicion de la ficha sobre el tablero, y el camino que ha recorrido desde el inicio de la partida.
+Utilizaremos una estructura de este tipo:
+DATOS={
+posicion = 'C3';
+camino_recorrido = 'A1-A2-B2-B3';
+}
+
+
+
+
+
+-----------------------------
+
+3-4-3- aspecto
+
+
+-----------------------------
+
+3-4-4- puesta en marcha
+
+
+Para poner en marcha a esta maquina, iniciando el proceso de calculo, comenzaremos por crear un individuo que represente el estado inicial del problema.
+Es decir, un tablero con la ficha en la entrada del laberinto, posición = 'A1', y con una trayectoria vacia, ya que todavia no se ha realizado ningun  movimiento, camino_recorrido = ''.
+
+El siguiente paso sera dotar a este individuo de vida.
+Y eso es todo.
+Porque cuando este individuo despierta a la vida, 
+sucede lo siguiente.
