@@ -1,22 +1,22 @@
 3- comprobacion practica
 
 
-- Introduccion
+3-1- Introduccion
 
 
-- Un problema simple
+3-2- Un problema simple
 
 
-- Adaptando el sistema al problema
+3-3- Adaptando el sistema al problema
 
 
-- Una nueva especie
+3-4- Una nueva especie
 
 
-- el proceso en ejecucion
+3-5- el proceso en ejecucion
 
 
-- conclusion
+3-6- conclusion
 
 
 

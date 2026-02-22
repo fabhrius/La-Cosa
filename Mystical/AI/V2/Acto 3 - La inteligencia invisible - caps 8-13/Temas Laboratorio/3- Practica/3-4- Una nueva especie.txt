@@ -44,7 +44,8 @@ El individuo se reproduce.
 Y cada individuo cumple con su propio ciclo de vida.
 
 veamos en detalle como podria ser su implementacion.
-ADN: todos los individuos tienen su propio ADN. el ADN cumple la function de memoria del sistema, funcionando como soporte para la informacion, en forma de datos y metodos.
+ADN: 
+todos los individuos tienen su propio ADN. el ADN cumple la function de memoria del sistema, funcionando como soporte para la informacion, en forma de datos y metodos.
 como he dicho, el sistema debe estar adaptado a la medida del problema, en este caso el problema es el juego del laberinto.
 el individuo por lo tanto debe representar un estado del juego.
 la informacion necesaria para esto sera la posicion de la ficha sobre el tablero, y el camino que ha recorrido desde el inicio de la partida.
@@ -53,6 +54,32 @@ DATOS={
 posicion = 'C3';
 camino_recorrido = 'A1-A2-B2-B3';
 }
+
+Ademas de los datos almacenaremos en el ADN los metodos. En este caso un metodo que devuelve todas los movimientos validos desde la posicion actual.
+y un segundo metodo que devuelve el camino recorrido que heredaran sus descencientes, algo como 
+camino_heredable(camino_recorrido, posicion)
+{
+return camino_recorrido + posicion;
+}
+
+con estos metodos en su memoria el individuo sabra como transformar sus datos para crear a sus descendientes
+
+
+Reproduccion:
+
+durante la reproduccion el individuo creara tantos hijos como movimientos validos sean posible desde su posicion.
+y en el ADN de cada hijo escribira 
+posicion = movimiento valido;
+camino_recorrido = camino_heredable();
+y grabara Tambien una copia de cada metodo.
+los metodos que necesita para obtener la informacion necesaria se encuentran en su ADN.
+
+
+ciclo de vida:
+el individuo cumplira con un ciclo de vida. este es su programa principal. el conjunto de instruccion que debe ejecutar.
+Y eso es lo que el individuo hara, y ninguna otra cosa.
+
+
 
 
 
