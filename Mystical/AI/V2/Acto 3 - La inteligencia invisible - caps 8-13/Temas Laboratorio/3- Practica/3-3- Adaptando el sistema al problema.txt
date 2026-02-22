@@ -155,3 +155,22 @@ un individuo avanzara un unico paso simple en el proceso de calculo, sin dificul
 y dejara a su descendencia la tarea de continuar con el proceso.
 
 
+3-3-4- Conclusion y proximos pasos.
+
+hasta ahora hemos comentado 
+los elementos que componen el modelo logico de la vida, 
+ADN, reproduccion, ciclo de vida, e individuos
+y hemos sugerido ideas de implementacion y alcance, con el objetivo de adaptarlo al problema que queremos resolver.
+
+hemos hablado Tambien de 
+los elementos que componen un sistema de calculo generico, 
+datos, metodos, memoria, y procesador
+y hemos comentado como es posible implementarlos con este modelo.
+
+pero solo son ideas.
+veamos ahora como materializar estas ideas en una implementacion concreta.
+en las siguientes secciones utilizaremos estas ideas para construir el sistema.
+lo pondremos en marcha y veremos como funciona de forma practica.
+
+
+
