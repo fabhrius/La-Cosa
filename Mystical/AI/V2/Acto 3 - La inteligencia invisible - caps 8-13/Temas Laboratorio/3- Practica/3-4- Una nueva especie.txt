@@ -1,10 +1,10 @@
-3-4- Una nueva especie
+3-4- Creando Una nueva especie
 
 
 
 3-4-1- introduccion
 
-3-4-2- componente
+3-4-2- El individuo como unico componente del sistema
 
 3-4-3- aspecto
 
@@ -16,9 +16,21 @@
 
 Veamos ahora como adaptamos el sistema al problema que queremos resolver.
 
-En un sistema de este tipo, la maquina debe estar hecha a la medida del problema.
-Con los datos que tenenos del problema,  adaptaremos una rama de la vida a este problema concreto..
-Lo conseguiremos creando una nueva especie de seres vivientes especifica para el problema del laberinto.
+y digo adaptar porque a diferencia de los computadores electronicos que utilizamos a diario, en donde el hardware, la maquina fisica, es normalmente generica, en el sentido que una misma arquitectura de maquina puede ejecutar distintos tipos de software.
+en la vida, la diferencia entre software y hardware no esta tan clara.
+
+en los sistemas de computadores, datos y metodos, lo que llamamos la logica del negocio, es claramente software, ideas, inteligencia, logica.
+y este software puede ser ejecutado en una gran variedad de maquinas fisicas que tienden a ser genericas, de proposito general.
+con pocas excepciones, normalmente debido a la potencia necesaria para ejecutar el proceso en terminus de recursos.
+
+por otra parte, 
+en la vida, inteligencia y materia son inseparables.
+la inteligencia crea la estructura, y la estructura crea inteligencia, ambas, inteligencia y materia forman una unidad y evolucionan juntas.
+la diferencia entre una y otra podria ser solo conceptual.
+
+En un sistema de este tipo, viviente, la maquina debe estar hecha a la medida del problema.
+De modo que, Con los datos que tenenos del problema,  adaptaremos una rama de la vida a este problema concreto..
+Y Lo conseguiremos creando una nueva especie de seres vivientes especifica para el problema del laberinto.
 
 
 
