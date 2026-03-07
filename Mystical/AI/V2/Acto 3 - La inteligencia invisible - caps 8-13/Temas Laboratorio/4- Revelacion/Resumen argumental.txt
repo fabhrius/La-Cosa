@@ -10,7 +10,61 @@ f- la vida
 
 ------------------
 
-ADN
+a- introduccion
+
+1- implicaciones
+
+reflexion general - lo que ha pasado
+el sistema ha encontrado la solucion
+
+pero la inteligencia adonde esta?
+
+existe intencion, proposito, que atraviesa a todos los individuos y no pertenece a ninguno de ellos.
+la inteligencia surge de la estructura del sistema.
+los individuos participan en un proceso que desconocen.
+
+este ejemplo nos muestra que hay algo mas que los individuos.
+algo que los une a todos.
+y que realiza un proceso que ellos desconocen, aunque forman parte de el.
+
+asi los individuos son muchos, pero el sistema es uno.
+una entidad formada por todos ellos.
+
+esta entidad, asi como el proceso, y la inteligencia, son invisibles a los individuos.
+los individuos, desde su perspectiva, solo pueden ver individuos.
+
+2- fractalidad
+
+la vida es un sistema fractal, es decir, que utiliza un mismo patron que se repite a distintos niveles.
+los organismos vivientes estan formados por celulas, y esta arquitectura celular se repite a distintos niveles.
+los individuos son celulas de otros tejidos mayores.
+asi toda la materia organica que cubre la tierra es una unica cosa, porque todos los seres vivientes, los individuos que vemos, estan unidos.
+
+
+3- todo el conjunto se comporta como un organismo
+
+una teoria muy extendida es que la vida produce variaciones exhaustivamente y que simplemente sobrevive lo que sobrevive.
+con este enfoque todo es aleatorio, casual, un fenomeno que avanza sin control.
+en un escenario como este, la aparicion de un organismo que ataque a todos los demas y termine por matarlo todo es perfectamente posible.
+
+sin embargo esto no sucede.
+la biomasa se autorregula, y la inteligencia de la vida implementara los mecanismos necesarios, adaptara comportamientos, hara cambios, para que el proceso continue.
+inteligencia aplicada a la continuidad del proceso, autorregulacion similar a la que podemos observar en una celula.
+
+los individuos no tienen control sobre el entorno.
+pero la inteligencia que los contiene controla y equilibra las poblaciones.
+la vida, en si misma, es un organismo viviente.
+
+
+
+
+
+
+
+
+----------------
+
+b- ADN
 
 los planos de la inteligencia.
 
@@ -21,7 +75,7 @@ y del universo logico
 
 ---------------
 
-Reproduccion
+c- Reproduccion
 
 Mas alla de la perpetuacion.
 
@@ -32,7 +86,8 @@ inmortalidad logica
 ---------------
 
 
-ciclo de vida
+d- ciclo de vida
+
 motor del proceso
 bucle de ejecucion distribuido
 
@@ -46,12 +101,32 @@ evitar la muerte, o reproduccion por clonacion con especimenes perfectos (un mun
 ----------
 
 
-el individuo
+e- el individuo
+
+los individuos no tenian cerebro
+desconocen el problema
+el individuo hace el trabajo sin saberlo.
+
+
+
 
 
 ---------------
 
-la vida
+f- la vida
+
+algo mas que una caracteristica
+algo mas que un conjunto de individuos
+
+es una entidad
+
+arquitectura fractal.
+
+es inteligencia
+
+es inmortal
+
+
 
 
 
