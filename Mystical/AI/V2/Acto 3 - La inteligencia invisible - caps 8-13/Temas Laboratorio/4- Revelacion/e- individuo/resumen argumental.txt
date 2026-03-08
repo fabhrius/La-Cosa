@@ -1,4 +1,21 @@
 
+e- individuos
+
+
+- introduccion
+lo que hemos visto
+
+- los individuos no son independientes
+- componentes
+- diferentes
+- instancias del sistema
+
+
+--------------------------------------
+
+
+
+
 
 C:\Repo\vida\development\Mystical\AI\V2\Cap 11 - Individuos -\Lab\
 caracterisitcas tecnicas de los individuos como parte del sistema.odt

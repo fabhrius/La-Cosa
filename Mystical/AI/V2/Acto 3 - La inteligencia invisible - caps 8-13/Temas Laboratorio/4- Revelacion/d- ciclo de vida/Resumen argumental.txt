@@ -1,0 +1,58 @@
+
+d- ciclo de vida
+
+- introduccion
+- motor del proceso
+- bucle de ejecucion distribuido
+- la mission del individuo, una tarea que el individuo hace por el sistema
+- la necesidad de cumplir el ciclo de vida
+
+
+--------------------------------------------
+
+
+
+- introduccion
+lo que hemos visto
+
+cual es la function del ciclo de vida en el experimento que hemos visto?
+hemos visto la creacion de una nueva especie, y la evolucion de la colonia.
+para crear una especie ha bastado con crear a un unico individuo.
+una vez que el individuo esta vivo ejecutara su ciclo de vida.
+y con ello, desencadenara un proceso que le sobrevivira.
+
+porque todos los individuos haran lo mismo.
+y al hacerlo el proceso explorara el espacio de soluciones avanzando hacia la solucion.
+los individuos no buscan la solucion, solo cumplen con su ciclo de vida.
+
+y eso es todo lo que el sistema espera que los individuos hagan.
+cumplir con su ciclo de vida.
+
+el ciclo de vida es la tarea que el individuo debe cumplir, su mission.
+su deber sagrado.
+
+
+-------------------------------
+
+- motor del proceso
+bucle de ejecucion distribuido
+
+
+---------------------
+
+- la mission del individuo, una tarea que el individuo hace por el sistema
+
+
+
+-----------------
+
+- la necesidad de cumplir el ciclo de vida
+
+
+evitar la muerte, o reproduccion por clonacion con especimenes perfectos (un mundo de einsteins), rompen el sistema
+
+
+
+-------------------------
+
+
