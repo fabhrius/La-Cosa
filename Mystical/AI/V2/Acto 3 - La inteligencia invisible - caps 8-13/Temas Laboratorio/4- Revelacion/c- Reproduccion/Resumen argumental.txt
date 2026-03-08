@@ -1,0 +1,79 @@
+
+
+c- Reproduccion
+
+Mas alla de la perpetuacion.
+
+dinamismo.
+procesammiento, calculo y pensamiento.
+inmortalidad logica
+
+
+-----------------------------
+
+
+
+- introduccion
+
+lo que hemos visto
+
+el calculo, el procesamiento de la informacion, se ha realizado durante la reproduccion.
+este ha sido el procesador, el elemento que ha aplicado el metodo sobre los datos produciendo variacion.
+
+vemos como la reproduccion modifica datos, pero no la estructura basica del ADN.
+la estructura del ADN que hemos simulado contenia un estructura de datos con la forma:
+{
+POSICION='':
+CAMINO_RECORRIDO-''
+}
+esta estructura no cambia, solo cambian los datos que contiene.
+ademas de esta estructura de datos el ADN que hemos utilizado contenia metodos, que han sido heredados por los descencientes sin modificaciones.
+
+es decir que, 
+la reproduccion ha modificado cierta informacion, pero no la estructura del ADN.
+
+
+- ADN y reproduccion - la solucion al primero de los problemas
+
+antes de la vida, aparece en el universo una primera forma de inteligencia.
+materializada en redes autocataliticas.
+un conjunto de compuestos quimicos que buscan restablecer su forma para continuar existiendo, oponiendose a los cambios del entorno.
+es esta la primera forma de inteligencia, una inteligencia primitiva, inestable.
+hemos comentado anteriormente que inteligencia es la capacidad o intencion de resolver un problema.
+el problema original, el primero, es este.
+algo que llamamos el principio universal de conservacion de la forma.
+un proceso que actua para continuar existiendo.
+
+la inteligencia primitiva encontro la solucion al problema de la continuacion almacenando la informacion del proceso, codificandolo en una base molecular, el ADN.
+el proceso asi codificado se convirtio en repetible.
+el ADN ademas de almacenar la informacion necesaria para crear las estructuras que dan soporte al proceso, Tambien se reproduce.
+la reproduccion copia la informacion incrementando la disponibilidad.
+esta solucion de codificacion y reproduccion no solo mantienen funcionando a la inteligencia original, sino que ademas la dotan de ciertas caracteristicas extraordinarias.
+
+- el dinamismo
+
+he comentado anteriormente que el ADN puede se visto como una especie de memoria de solo lectura.
+es una estructura que una vez creada no puede ser modificada.
+y por lo tanto una estructura que podemos clasificar como estatica.
+la inteligencia es un proceso, igual que la vida.
+un proceso es un fenomento dinamico, algo que no puede existir sin el cambio.
+como puede el ADN, una estructura estatica, ser el soporte de un proceso?
+la respuesta esta en la reproduccion.
+la reproduccion proporciona el dinamismo necesario.
+la reproduccion puede alterar cierta parte de la informacion sin modificar la estructura, proporcionando asi el dinamismo necesario para el proceso.
+
+esta modificaciones, variaciones, que produce la reproduccion, es lo que permite el calculo, la logica, el aprendizaje.
+con la reproduccion del ADN, aparece el universo logico, las ideas, el pensamiento.
+con la reproduccion del ADN, la materia empieza a pensar, de forma estable, estructurada, consistente, continua, incremental. 
+
+- la inmortalidad
+
+con la reproduccion del ADN, 
+la inteligencia primitiva consigue resolver el problema original.
+la continuidad.
+la reproduccion del ADN confieren a la inteligencia original una continuidad potencialmente eterna.
+la inmortalidad.
+
+
+
+
