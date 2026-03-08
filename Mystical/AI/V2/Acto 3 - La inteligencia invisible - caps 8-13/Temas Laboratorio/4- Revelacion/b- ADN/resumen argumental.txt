@@ -1,14 +1,45 @@
-
-
 b- ADN
+
+- introduccion
+
+- los planos de la inteligencia.
+- como computador
+- la red
+
+
+
+inicio de la vida
+calculo
+universo logico
+inmortalidad
+
+
+-------------------------------------
+
+
 
 
 - introduccion
 
 hemos visto en este experimento el papel que juegan la memoria, los datos, y los proceso que modifican esos datos
 en este sistema es el ADN el que realiza estas funciones.
-
 el ADN esta en el nucleo funcional de la vida. 
+
+Y en el experimento, los individuos que hemos utilizado se han reducido a lo minimo indispensable.
+no hemos visto los mecanismos necesarios para obtener la energia necesaria para mantenerse con vida, tales como digestion o fotosintesis. no hemos visto la complejidad de sistemas nerviosos. hemos dejado fuera la complejidad biologica para enfocarnos solo en su function logica.
+la function logica basica.
+lo que hemos visto es una aproximacion logica de ADN reproduciendose.
+
+Y esto nos ha mostrado, inteligencia en accion.
+el ADN es inteligencia.
+
+hemos visto como de forma natural ha encontrado la solucion al problema, y hemos visto Tambien un ejemplo de aprendizaje.
+el primer individuo de la simulacion no sabia cual era el camino que va desde la entrada hasta la salida del laberinto.
+el ultimo individuo conocia el camino.
+este conocimiento habia quedado escrito en su ADN.
+
+
+
 
 
 - los planos de la inteligencia.
@@ -36,3 +67,9 @@ ADN como arquitectura.odt
 inicio de la vida
 calculo
 universo logico
+inmortalidad
+
+
+C:\Repo\vida\development\Mystical\AI\V2\Acto 3 - La inteligencia invisible - caps 8-13\Temas Laboratorio\2- Un modelo logico\b-1- Introduccion al ADN\
+Introduccion al ADN 1.odt
+
