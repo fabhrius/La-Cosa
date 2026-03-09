@@ -1,6 +1,25 @@
 ADN
 
 
+antes - biologico:
+que es?
+composicion fisica
+caracteristicas
+function
+
+
+despues - logico:
+implicaciones logicas
+datos y procesamiento de la informacion
+computador
+generador de estructura
+plano de la inteligencia
+
+
+
+
+
+
 antes:
 que es el ADN?
 descripcion fisica
