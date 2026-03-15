@@ -1,17 +1,20 @@
 b- ADN
 
-- introduccion
+1- introduccion
 
-- los planos de la inteligencia.
-- como computador
-- la red
+2- generador de la red
+3- ADN como computador
+4- mas alla de la definicion del individuo
+
+5- los planos de la inteligencia. (dejamos esto para el acto 5)
+
 
 
 
 inicio de la vida
 calculo
 universo logico
-inmortalidad
+inmortalidad 
 
 
 -------------------------------------

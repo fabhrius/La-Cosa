@@ -1,14 +1,14 @@
 ADN
 
 
-antes - biologico:
+antes - biologico: (lo que sabemos)
 que es?
 composicion fisica
 caracteristicas
 function
 
 
-despues - logico:
+despues - logico: (revelacion)
 implicaciones logicas
 datos y procesamiento de la informacion
 computador
@@ -20,31 +20,17 @@ plano de la inteligencia
 
 
 
-antes:
-que es el ADN?
-descripcion fisica
-presente en todos los organismos vivientes
-function y contenido
-
-
-despues:
-
-function logica
-planos de la inteligencia
-generador de la estructura
-
-
 mistico:
 
 --------------------
 
 reproduccion
 
-antes:
+antes - biologico: (lo que sabemos)
 
 
 
-despues:
+despues - logico: (revelacion)
 
 
 
@@ -52,11 +38,12 @@ despues:
 
 ciclo de vida
 
-antes:
+antes - biologico: (lo que sabemos)
+
+la población se incrementa y se renueva
 
 
-
-despues:
+despues - logico: (revelacion)
 
 
 
@@ -66,11 +53,11 @@ despues:
 
 individuos
 
-antes:
+antes - biologico: (lo que sabemos)
 
+toda la vida son individuos, no existe ninguna otra cosa, y todos los individuos son diferentes
 
-
-despues:
+despues - logico: (revelacion)
 
 
 
@@ -82,11 +69,11 @@ despues:
 vida
 
 
-antes:
+antes - biologico: (lo que sabemos)
 
 
 
-despues:
+despues - logico: (revelacion)
 
 
 
