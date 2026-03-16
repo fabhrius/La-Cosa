@@ -28,8 +28,7 @@ los individuos no buscan la solucion, solo cumplen con su ciclo de vida.
 y eso es todo lo que el sistema espera que los individuos hagan.
 cumplir con su ciclo de vida.
 
-el ciclo de vida es la tarea que el individuo debe cumplir, su mission.
-su deber sagrado.
+el ciclo de vida es la tarea que el individuo debe cumplir, el unico trabajo del individuo en el sistema.
 
 
 -------------------------------
@@ -37,10 +36,17 @@ su deber sagrado.
 - motor del proceso
 bucle de ejecucion distribuido
 
+crear instancia- ejecutar tarea- eliminar instancia
+
 
 ---------------------
 
 - la mission del individuo, una tarea que el individuo hace por el sistema
+
+no es necesario que los individuos sepan lo que deben hacer.
+todos ellos cumpliran con su ciclo de vida.
+el roble, el trigo, el pez, el ave, la bacteria.
+
 
 
 
@@ -51,6 +57,8 @@ bucle de ejecucion distribuido
 
 evitar la muerte, o reproduccion por clonacion con especimenes perfectos (un mundo de einsteins), rompen el sistema
 
+el individuo es el componente activo del sistema.
+las acciones que el individuo ejecuta son las de su ciclo de vida.
 
 
 -------------------------

@@ -2,13 +2,69 @@
 e- individuos
 
 
-- introduccion
+1- introduccion
 lo que hemos visto
 
-- los individuos no son independientes
-- componentes
-- diferentes
-- instancias del sistema
+2- los individuos no son independientes
+3- componentes
+4- diferentes
+5- instancias del sistema
+
+
+--------------------------------------
+
+1- introduccion
+
+el sistema que hemos visto esta formado por individuos.
+no existe ningun otro componente.
+
+el sistema avanza en el calculo generacion tras generacion
+para que el proceso avance es necesario generar nuevos individuos.
+y todos los individuos son diferentes, de este modo no existen dos individuos realizando el mismo trabajo.
+
+en el experimento los individuos han sido reducidos a su forma mas elemental.
+el calculo que hemos realizdo no necesita la gran complejidad de los sistemas que realizan las funciones vitales tales como la obtencion de la energia.
+solo necesita la informacion relacionada con el problema, el metodo de transformacion y el mecanismo de reproduccion.
+todo esto lo aporta el ADN, y por lo tanto los individuos en nuestro experimento podrian ser reducidos solo a eso, ADN reproduciendose.
+esto nos proporciona una vision del individuo minimo necesario.
+y al mismo tiempo nos permite ver como, desde el punto de vista del sistema, no existe diferencia entre individuos de distintas especies.
+
+el experimento nos muestra Tambien como lo realmente importante no es el individuo, sino el sistema.
+vemos Tambien como el sistema puede estar formado por un numero elevado de individuos, y sin embargo, el sistema es uno.
+
+los individuos son agentes locales, nodos de la red, y cada uno de ellos inicia la exploracion de una nueva rama del espacio de posibilidades.
+asi cuantos mas individuos forman el sistema mas posibilidades son exploradas en paralelo.
+es decir que, la potencia del sistema aumenta proporcionalmente con el numero de individuos.
+
+esto nos muestra que la independencia de los individuos es solo aparente porque todos los individuos son elementos activos del sistema.
+
+por otra parte, el individuo no solo es un componente del sistema, sino que es Tambien el sistema mismo.
+porque basta una sola instancia que se reproduzca para crear el sistema completo, un unico individuo tiene la capacidad de iniciar el proceso.
+como hemos visto, la especie que hemos creado se inicia con un unico individuo, y a partir de este se crea toda la población.
+del mismo modo, cada nuevo individuo es el primero de una nueva especie, de modo que esta población inicial se diversificara formando una biomasa con gran variedad genetica con el tiempo.
+un unico individuo, independientemente de la especie a la que pertenezca, puede crear un mundo, un nuevo universo viviente.
+porque todo el sistema esta codificado en una cadena de ADN.
+Y una cadena de ADN que se reproduce pone en marcha el proceso de la vida.
+
+hemos visto Tambien un ejemplo de aprendizaje y evolucion.
+el ultimo individuo conocia la solucion al problema, el ultimo individuo conocia el camino que va desde la entrada hasta la salida del laberinto.
+esto significa que el ultimo individuo sabe algo que el primero no sabia.
+y esa informacion ha quedado grabada en su ADN.
+el sistema ha aprendido, y Tambien la especie ha evolucionado.
+el ultimo individuo no es igual que el primero.
+y no solo es diferente porque todos lo son.
+sino que tiene un conocimiento nuevo, tal como el que hace que una bacteria sobreviva a un antibiotico.
+
+y este nuevo conocimiento ha sido obtenido por acumulacion de las experiencias de sus antepasados.
+generacion tras generacion los individuos han ido almacenando su vivencia en la cadena de ADN.
+la informacion que tiene el ultimo es el legado de aquellos que lo han precedido.
+
+sus antepasados ya no estan, han sido eliminados del sistema, pero algo de ellos permanece en los individuos que continuan activos.
+su experiencia sobrevive.
+
+
+
+
 
 
 --------------------------------------
