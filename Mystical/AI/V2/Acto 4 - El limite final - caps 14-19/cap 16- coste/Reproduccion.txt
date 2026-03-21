@@ -1,0 +1,4 @@
+en condiciones favorables
+crea mas instancias de las que se destruyen
+el crecimiento de la población tiende a ser exponencial
+

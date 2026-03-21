@@ -1,4 +1,6 @@
 
+0- Objetivos e introduccion al acto 3
+
 1- la necesidad de un nuevo modelo
 
 2- el modelo logico

@@ -9,6 +9,9 @@ lo que hemos visto
 3- componentes
 4- diferentes
 5- instancias del sistema
+6- generadores de estructura
+7- sensores, informacion del entorno y aprendizaje
+
 
 
 --------------------------------------

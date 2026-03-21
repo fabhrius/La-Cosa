@@ -4,7 +4,7 @@ a- El modelo Logico Matematico. Introduccion
 b- los elementos principales de la vida en este modelo. ADN, reproduccion, ciclo de vida, individuos.
 
 
-c- lo que podemos hacer con estos elementos.
+c- lo que podemos hacer con estos elementos. ( o de como estos elementos componen un sistema inteligente )
 
 d- la inteligencia.
 
