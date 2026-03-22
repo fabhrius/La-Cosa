@@ -1,0 +1,20 @@
+
+- objetivos (en este capitulo analizaremos la eficiencia)
+- introduccion (no todos los sistemas son iguales - diferencias)
+
+- detalles destacables del sistema
+
+- analisis de algoritmos diferentes (ejemplo ordenacion de una baraja)
+
+- paralelismo
+
+- explorando el espacio
+
+- seleccion natural (los descendientes de H8 y el resto de la poblacion)
+
+- el problema del laberinto
+
+- conclusion
+
+
+
