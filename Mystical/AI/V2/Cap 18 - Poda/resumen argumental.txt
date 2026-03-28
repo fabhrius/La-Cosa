@@ -7,9 +7,9 @@
 
 4- tejido organico y funcion
 
-5- media aritmetica
+5- media aritmetica (de un conjunto infinito)
 
-6- Socrates
+6- Socrates : un ejemplo de retroceso
 
 ----------------
 
@@ -17,7 +17,7 @@
 -porque?
 
 
-- la degradacion de los tejidos, 
+- la degradacion de los tejidos,  
 - mecanismo programado
 - el tiempo de vida
 

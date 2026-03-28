@@ -1,0 +1,49 @@
+
+- objetivos : establecer la complejidad de los problemas que el sistema puede abordar y compararlo con otros sistemas
+
+- introduccion
+
+- la complejidad de los problemas : los problemas pueden clasificarse de acuerdo con su complejidad - problemas irresolubles y problemas inabordables - el consumo de recursos
+
+- la potencia de calculo de los computadores : problemas computables - jerarquia de sistemas actuales 
+
+- potencia del sistema : que tipo de problemas puede abordar un sistema viviente
+
+- reduccion de la complejidad : disolver la complejidad en operaciones simples
+
+- gestion de la memoria : a prueba de desbordamiento
+
+- conclusion
+
+
+-----------------------------------
+
+
+C:\Repo\vida\development\Mystical\AI\V2\Cap 15 - Potencia\
+
+complejidad de un problema - DRAFT.odt
+
+AI- 4 - tipos de problemas.odt
+
+
+------------------------------
+
+C:\Repo\vida\development\capitulos\7 - Potencia del sistema\
+
+Potencia del sistema.odp
+
+
+C:\Repo\vida\development\capitulos\7 - Potencia del sistema\wordpress version\
+
+Potencia.odt
+
+
+---------------------------------
+
+
+C:\Repo\vida\development\Mystical\AI\V2\Acto 4 - El limite final - caps 14-19\
+
+COPILOT - Potencia 1.odt
+
+
+

@@ -1,20 +1,40 @@
 
-- objetivos (en este capitulo analizaremos la eficiencia)
-- introduccion (no todos los sistemas son iguales - diferencias)
+1- objetivos (en este capitulo analizaremos la eficiencia - que es la eficiencia?)
+2- introduccion (no todos los sistemas son iguales - diferencias)
 
-- detalles destacables del sistema
+3- detalles destacables del sistema en terminus de eficiencia (comentarios de AI, hardware y algoritmo)
 
-- analisis de algoritmos diferentes (ejemplo ordenacion de una baraja)
 
-- paralelismo
 
-- explorando el espacio
+- como medir la eficiencia ? - analisis de algoritmos diferentes (ejemplo ordenacion de una baraja)
 
-- seleccion natural (los descendientes de H8 y el resto de la poblacion)
+
 
 - el problema del laberinto
 
+cuantas operaciones han sido necesarias para encontrar la respuesta?
+es posible mejorarlo?
+
 - conclusion
+
+
+------------------------
+
+- explorando el espacio
+
+el primer individuo A1, puede avanzar en tres direcciones diferentes (grafico)
+tres caminos. por cual decidirse? cual es el que lleva a la salida?
+solo recorriendolos todos podra saberlo.
+
+
+- paralelismo
+
+para explorar los diferentes caminos posibles, crea un hijo por cada camino, y delega en estas nuevas familias la tarea de exploracion, agregando asi mas maquinas a la misma tarea.
+
+
+
+- seleccion natural (los descendientes de H8 y el resto de la poblacion)
+
 
 
 
