@@ -1,4 +1,32 @@
 
+- introduccion
+la potencia como el tipo de problemas que el sistema puede abordar
+
+- la complejidad
+no todos los problemas son iguales
+
+- tipos de problemas
+
+- problemas inabordables, problemas irresolubles
+
+- jerarquia de sistemas de calculo, lo que las maquinas pueden hacer y lo que no
+
+- que tipo de problemas pueden abordar los computadores?
+
+- que tipo de problemas puede abordar un sistema viviente?
+
+- problemas de decision
+
+- el ejemplo del laberinto
+
+- reducir la complejidad a operaciones simples
+
+- conclusion
+
+
+
+--------------------------------------
+
 - objetivos : establecer la complejidad de los problemas que el sistema puede abordar y compararlo con otros sistemas
 
 - introduccion

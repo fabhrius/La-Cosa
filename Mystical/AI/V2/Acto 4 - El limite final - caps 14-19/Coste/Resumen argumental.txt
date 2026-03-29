@@ -1,10 +1,26 @@
 
-- objetivos
 - introduccion
+nos proponemos establecer el coste del sistema
+cuanto costaria construir una maquina de estas caracteristicas
+y cuanto costaria resolver un problema
 
+- recordemos el problema del laberinto
 
+-  recordemos su resolucion
 
-- conclusion
+- ideas de implementacion: bacterias o CDs
+
+- recuento de individuos
+
+- un problema mas complejo: el ajedrez
+
+- cuantificacion del coste
+
+- conclusion: el coste astronomico
+
+- reflexion: y sin embargo la vida existe
+
+- revelacion: la paradoja del coste cero
 
 
 
