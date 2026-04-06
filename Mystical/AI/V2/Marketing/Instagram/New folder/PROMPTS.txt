@@ -1,0 +1,40 @@
+PROMPTS:
+
+A lone young medieval adventurer woman standing before
+
+
+cinematic fantasy realism, ancient ruins, mysterious atmosphere, soft volumetric lighting, dark tones with subtle golden glow, highly detailed, epic composition, 4k
+
+
+img 1:
+
+A lone young medieval adventurer woman standing before
+vast ancient ruins covered in moss and time, sense of discovery and awe, wide cinematic shot, the character small compared to the environment, mysterious and ancient atmosphere.
+fantasy realism, soft volumetric lighting, dark tones with subtle golden glow, highly detailed, epic composition, 4k. 
+comic book style
+
+
+img 2:
+
+Ancient stone structures with glowing engravings and symbols carved into the walls, faint golden light emanating from the inscriptions, suggesting hidden knowledge, mystical and symbolic, focus on the carvings as if they hold meaning beyond ruins
+cinematic fantasy realism, ancient ruins, mysterious atmosphere, soft volumetric lighting, dark tones with subtle golden glow, highly detailed, epic composition, 4k.
+comic book style
+
+img 3:
+
+Close-up of an ancient stone wall with a single word engraved: "Fabhrius", glowing softly with golden light, weathered texture, deep shadows, mystical and sacred feeling, cinematic focus, dramatic lighting
+cinematic fantasy realism, ancient ruins, mysterious atmosphere, soft volumetric lighting, dark tones with subtle golden glow, highly detailed, epic composition, 4k.
+comic book style
+
+img 4:
+
+A surreal ancient chamber with symbols carved into the walls, resembling patterns of life or intelligence, philosophical and mysterious tone.
+cinematic fantasy realism, ancient ruins, mysterious atmosphere, soft volumetric lighting, dark tones with subtle golden glow, highly detailed, epic composition, 4k.
+comic book style
+
+img 5:
+
+A lone young medieval woman
+ studying ancient symbols carved into the walls, soft golden light illuminating her, sense of purpose and reconstruction, cinematic and introspective atmosphere
+cinematic fantasy realism, ancient ruins, mysterious atmosphere, soft volumetric lighting, dark tones with subtle golden glow, highly detailed, epic composition, 4k.
+comic book style
