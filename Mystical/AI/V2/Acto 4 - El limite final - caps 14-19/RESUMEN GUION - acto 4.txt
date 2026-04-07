@@ -13,6 +13,17 @@
 ------------------------------
 
 
+- potencia de un sistema inteligente
+- como medirlo
+- cual es el limite
+- que arquitectura minimiza las limitaciones
+- lugar ocupa la vida en la jerarquia
+
+
+
+
+
+-------------------------------
 
 - la potencia de un sistema inteligente
 la inteligencia no es unica, existen diferentes grados de inteligencia.

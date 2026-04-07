@@ -1,0 +1,31 @@
+PROMPTS:
+
+A lone young medieval woman
+
+
+cinematic fantasy realism, forest clearing, campfire scene, dawn transition, soft volumetric lighting, dark tones shifting into warm golden light, highly detailed, epic cinematic composition, 16:9 aspect ratio
+
+
+post 1:
+
+A lone young medieval woman
+ sitting by a small campfire in a forest clearing at the end of the night, seen from behind, looking into the darkness of the forest, faint predawn light on the horizon, deep shadows, quiet and contemplative atmosphere, the world still mostly in darkness.
+cinematic fantasy realism, dawn transition, soft volumetric lighting, dark tones shifting into warm golden light, highly detailed, epic composition.
+comic book style
+
+
+post 2:
+
+A lone young medieval woman
+ sitting by a small campfire in a forest clearing, seen from behind, soft early dawn light beginning to illuminate the trees, mist in the air, long path barely visible ahead disappearing into fog, atmosphere of hesitation and uncertainty, transition between night and day.
+cinematic fantasy realism, soft volumetric lighting, dark tones shifting into warm golden light, highly detailed, epic composition.
+comic book style
+
+
+
+post 3:
+
+A lone young medieval woman
+ standing up from a campfire in a forest clearing at sunrise, seen from behind, warm golden light breaking through the trees, faint smoke rising from extinguished embers, a path leading forward into the forest, sense of determination and beginning of a journey, cinematic and hopeful tone
+cinematic fantasy realism, dawn transition, soft volumetric lighting, dark tones shifting into warm golden light, highly detailed, epic composition.
+comic book style.
