@@ -1,3 +1,42 @@
+Acto 4:
+
+objetivos:
+
+- el objetivo final es demostrar que la vida es la inteligencia mas potente de todas las posibles.
+el analisis debe basarse en el modelo logico.
+
+
+cap 1 - "No todas las inteligencias son iguales".
+Introducir la idea de que “inteligencia” no es una sola cosa, sino un conjunto de capacidades que pueden variar enormemente entre sistemas.
+
+cap 2 - "Límites fisicos de la inteligencia".
+
+cap 3 - "Posibles arquitecturas y arquitectura optima"
+Muestra algunas arquitecturas tipicas en uso. Y analisis de la arquitectura optima.
+
+cap 4 - "Cómo medir una inteligencia".
+introducimos un análisis de características
+
+Cap 5 — Eficiencia
+
+Cap 6 — Coste
+
+Cap 7 — Potencia
+
+Cap 8 — Robustez
+
+Cap 9 — Escalabilidad
+
+Cap 10 — Autonomía
+
+Cap 11 — Síntesis: El límite final
+Demostrar que ningún sistema puede superar a la vida.
+
+
+--------------------------------------------------------------
+
+
+
 
 - Acto 4: El limite final
  Analiza las características del sistema.   
