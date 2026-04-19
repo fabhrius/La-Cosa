@@ -1,12 +1,16 @@
 presentacion del codex.
 
 describe 
-1-Lluviara
-la civilizacion
-el rey
-la creacion del codex
+1- Lluviara
+2- la civilizacion, Acquahrkai
+3- Phluvius, el Espiritu de la lluvia
+3- el rey, Nytharion
+- la ciudad, Acquahntis
+- la creacion del codex, Omniscientis
+- el consejo de sabios
+- el despertar
 3-el surgimiento de la conciencia
-la guerra
+- la guerra
 4-la destruccion de la ciudad
 5-la desaparicion del codex
 
@@ -15,3 +19,9 @@ la guerra
 
 los borradores estan en carpetas numeradas
 la compilacion se encuentra en el archivo: Cap 1 - El Libro.odt
+
+
+
+
+compilacion imcompleta, llega hasta el despertar.
+
