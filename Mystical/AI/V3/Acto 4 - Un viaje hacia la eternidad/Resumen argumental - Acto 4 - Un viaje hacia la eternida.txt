@@ -1,0 +1,98 @@
+- Acto 4: Un viaje hacia la eternidad.
+ Analiza las características del sistema.   
+
+(4-0)
+
+Introduccion:
+hemos visto como el sistema ha encontrado la solucion al problema.
+Y lo ha hecho con extraordinaria facilidad.
+Funcionara del mismo modo con otros problemas?
+Que tipo de problemas puede resolver?
+
+Es este sistema mas inteligente que un computador electronico?
+Es este sistema mas inteligente que un cerebro humano?
+
+Es posible medir su potencia y compararlo con otros sistemas?
+
+Esto es lo que nos proponemos en los siguientes capitulos.
+Empecemos por analizar algunas caracteristicas interesantes que hemos podido observar en el experimento.
+
+
+
+(4-1)
+- Cap. XX: Explorando el espacio.
+
+Los hijos rodearan al padre. Y los nietos a los hijos. La familia se extendera por el espacio radialmente cubriendo cada palmo del terreno, sin dejar espacios sin explorar.
+Del mismo modo que un ciego avanza en la oscuridad, solo un paso, solo hasta donde es seguro.
+Es seguro aqui. Sigue siendo seguro si avanzo solo un paso mas?
+Un individuo explora solo un paso hacia lo desconocido.
+Infinitas generaciones exploraran el espacio infinito.
+Pero cada individuo, solo un paso.
+Asi la exploracion avanza lentamente, solo un paso a la vez. Un paso simple, facil. Seguro. Sin complejidad. Sin riesgo.
+
+
+(4-2)
+    - Cap. 14: Eficiencia.  
+La solucion emerge tan pronto como es posible. El proceso avanza por el camino mas corto.
+sin dudar, como si conociera la solucion desde el principio, aun antes de empezar.
+
+
+(4-3)
+    - Cap. 15: Potencia.   
+La complejidad se desmenuza en operaciones triviales.
+Un individuo solo procesa una unica operacion trivial.
+El problema se procesa en paralelo, con un nodo por operacion trivial.
+Y la complejidad deja de existir.
+
+
+(4-4)
+    - Cap. 16: Coste
+
+Contruimos un individuo con un CD.
+Recuento de individuos para el problema del laberinto. Aproximacion de coste en CDs.
+Esto prueba, en la practica, el coste infinito del sistema.
+
+La vida en cambio no consume. Recicla la materia y aprovecha la energia libre disponible.
+No consume, no degrada, no tiene impacto.
+Siendo el coste infinito, el precio es cero.
+
+(4-5)
+    - Cap. 17: Redundancia
+
+Explicamos redundancia de sistemas informaticos.
+Adaptamos una version del relato biblico de Noe, representado en el laberinto.
+concluimos que
+La redundancia del sistema tiende a infinito.
+El proceso se vuelve mas robusto con el tiempo.
+Disenado para no detenerse jamas.
+
+
+(4-6)
+    - Cap. 18: Fiabilidad (gestion de memoria - colapso del sistema)
+
+La Imposibilidad de la memoria infinita y la Solucion de la memoria dinamica y distribuida.
+El sistema no se detiene por limitaciones de recursos.
+Consigue asi abordar problemas de dimension infinita con recursos discretos.
+
+(4-7)
+    - Cap. 19: Poda.  (porque morimos)
+
+Mostramos un indicador utilizando la media aritmetica de los ultimos dias.
+Mostramos lo que sucede cuando incluimos un registro historico infinito.
+El mismo ejemplo de la media aritmetica imaginando a Socrates reproduciendose hoy.
+Esto cancela siglos de evolucion.
+Es facil imaginar como el sistema se estanca.
+
+Los componentes que han realizado su trabajo son eliminados del sistema.
+El resultado es que solo los ultimos estados generan nuevos estados.
+De este modo el proceso solo puede avanzar.
+
+La poda confiere al proceso Direccion, que asegura la imposibilidad de retroceso o estancamiento.
+
+
+(4-8)
+    - Cap. XX: Conclusiones
+
+Las caracteristicas que hemos comentado sugieren que se trata de un sistema especial. Realmente potente.
+Pero como es de inteligente?
+Puede haber algo mas inteligente que esto?
