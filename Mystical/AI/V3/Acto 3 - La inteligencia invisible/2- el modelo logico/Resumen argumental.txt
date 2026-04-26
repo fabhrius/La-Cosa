@@ -38,11 +38,13 @@ El misterio 1.odt
 2-
 a- El modelo Logico Matematico. Introduccion
 
+d- la inteligencia.
+
+
 b- los elementos principales de la vida en este modelo.
 
 c- lo que podemos hacer con estos elementos.
 
-d- la inteligencia.
 
 e- el proceso de calculo.
 
