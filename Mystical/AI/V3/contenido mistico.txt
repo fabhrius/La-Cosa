@@ -26,4 +26,6 @@ memoria:
 Espiritu:
 
 
-
+inteligencia:
+para sobrevivir a si mismo crea la inmortalidad.
+pero para crear la inmortalidad debe necesariamente crear primero la vida.
