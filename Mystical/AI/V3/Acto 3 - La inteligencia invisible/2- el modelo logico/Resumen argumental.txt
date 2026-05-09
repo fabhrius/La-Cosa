@@ -8,12 +8,10 @@ d- la inteligencia.
 
 b- los elementos principales de la vida en este modelo.
 
-c- lo que podemos hacer con estos elementos.
-
-
-e- el proceso de calculo.
-
 f- un sistema inteligente
+e- el proceso de calculo.
+- elementos de un sistema de calculo
+- el modelo logico como sistema de calculo
 
 g- Revelacion: la vida como un sistema inteligente. 
 

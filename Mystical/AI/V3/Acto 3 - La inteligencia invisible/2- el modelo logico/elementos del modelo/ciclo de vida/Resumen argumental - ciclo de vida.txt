@@ -1,0 +1,11 @@
+Resumen argumental - ciclo de vida
+
+
+- todos los seres vivientes cumplen con un ciclo de vida
+- descripcion general
+- ciclo de vida como function
+- implicito en el ADN
+- impacto en el sistema
+- una estructura universal
+- ciclo de vida como puente entre individuos
+- function logica
