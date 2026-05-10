@@ -1,4 +1,45 @@
 
+Resumen de contenidos:
+
+2-1- Introduccion.
+
+describiremos un modelo de vida enfocado en su function logica.
+dejaremos de lado la composicion quimica de los organismos vivientes para enfocarnos en la logica subyacente.
+porque la vida es un proceso.
+veamos entonces como funciona el proceso, independientemente de su implementacion fisica.
+en este capitulo mostraremos un modelo matematico, logico, de la vida.
+
+2-2- Inteligencia.
+
+la inteligencia parece emerger de la vida.
+el diseno de los organismos vivientes, su composicion, su organizacion, todo lo relacionado con la vida es un derroche de inteligencia aplicada.
+Puede existir la inteligencia fuera de la vida?
+
+Empecemos por intentar definir lo que es la inteligencia.
+
+2-3- Elementos que componen el modelo logico
+
+ADN, reproduccion, ciclo de vida, e individuos.
+que son y cual es su function en el modelo?
+
+2-4- un sistema inteligente.
+
+hablaremos de cuales son las caracteristicas basicas de un sistema inteligente.
+como se realiza un proceso de calculo.
+cuales son los elementos basicos que un sistema de calculo debe tener.
+y finalmente veremos como el modelo logico es en escencia un sistema de calculo.
+
+
+2-5- Revelacion: la vida es un sistema inteligente.
+
+
+
+-------------------------------
+
+
+
+
+
 
 2-
 a- El modelo Logico Matematico. Introduccion
@@ -9,7 +50,7 @@ d- la inteligencia.
 b- los elementos principales de la vida en este modelo.
 
 f- un sistema inteligente
-e- el proceso de calculo.
+- el proceso de calculo.
 - elementos de un sistema de calculo
 - el modelo logico como sistema de calculo
 

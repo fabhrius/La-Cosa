@@ -1,0 +1,46 @@
+Resumen argumental - sistema de calculo
+
+
+
+- el proceso de calculo
+- elementos de un sistema de calculo
+- el modelo logico como sistema de calculo
+- conclusion
+
+
+--------------------------------
+
+a- el proceso de calculo:
+
+- introduccion (dos trenes - lanzar una flecha - sumar un listado)
+
+- elementos del proceso (datos - metodo - estados)
+
+- transformacion de la informacion (estado inicial - estados intermedios - estado final)
+
+- ejemplo (sumar un listado)
+
+
+---------------------
+
+b- elementos de un sistema de calculo
+
+datos - metodo - memoria - procesador
+
+--------------------------
+
+c- el modelo logico como sistema de calculo
+
+ADN como memoria
+Reproduccion como procesador
+
+-----------------
+
+
+
+
+
+
+
+
+

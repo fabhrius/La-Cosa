@@ -1,7 +1,18 @@
 
-0- Objetivos e introduccion al acto 3
+Resume de contenidos:
 
-1- la necesidad de un nuevo modelo
+en este acto se muestra en detalle el modelo logico.
+se realiza una simulacion practica.
+y se extraen las primeras conclusiones.
+
+
+-------------------------------------------
+
+
+
+
+
+1- Objetivos e introduccion al acto 3
 
 2- el modelo logico
 
@@ -9,7 +20,6 @@
 
 4- revelacion
 
-5- conclusion
 
 
 

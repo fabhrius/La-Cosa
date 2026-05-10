@@ -1,8 +1,0 @@
-Resumen argumental - sistema de calculo
-
-
-
-- el proceso de calculo
-- elementos de un sistema de calculo
-- el modelo logico como sistema de calculo
-- conclusion

@@ -1,0 +1,79 @@
+
+Resumen de contenidos:
+
+
+3-1- Introduccion.
+
+En este capitulo pondremos a prueba el modelo logico realizando un experimento.
+Veremos como puede utilizarse para resolver problemas logicos.
+Empezaremos definiendo un problema.
+Adaptaremos el modelo al problema planteado
+y veremos paso a paso como encuentra la solucion.
+
+
+3-2- el problema.
+
+definimos aqui el problema que queremos resolver.
+un juego de mesa.
+
+
+3-3- el sistema.
+
+veremos de forma practica como podemos adaptar lo elementos del modelo logico al problema para construir un sistema de calculo que encuentre la solucion.
+
+3-3-1- ADN.
+
+explicaremos la function del ADN en este sistema y crearemos una version util para este problema.
+
+3-3-2- Reproduccion.
+
+explicaremos la function de la reproduccion en el sistema y veremos como adaptar su function para este problema.
+
+3-3-3- Ciclo de vida.
+
+veremos cual es su function en el sistema.
+
+3-3-4- Individuo.
+
+hablaremos de la function del individuo en el sistema y veremos como adaptarlo para este problema.
+
+
+3-4- Puesta en marcha.
+
+descubriremos como lanzar el proceso de calculo.
+
+3-5- Resolucion.
+
+Mostramos paso a paso como el sistema encuentra la solucion.
+
+3-6- Conclusion.
+
+
+
+
+
+
+
+
+--------------------------------------------
+
+- introduccion, contenido y objetivos
+
+- el problema (se describe un problema simple, el laberinto)
+
+- el sistema (recordamos los elementos de un sistema de calculo)
+
+- ADN (como memoria de solo lectura)
+
+- reproduccion (como procesador)
+
+- ciclo de vida (como programa principal y bucle del proceso)
+
+- individuo (como unico componente del sistema)
+
+- puesta en marcha (creamos una nueva especie. definida por el individuo)
+
+- resolucion (la busqueda de la solucion paso a paso)
+
+- conclusion
+

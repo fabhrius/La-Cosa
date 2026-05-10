@@ -1,3 +1,45 @@
+
+Resumen de contenidos:
+
+
+
+0-1- que somos?
+quizas el problema real, aquello que no llegamos a comprender, es la inteligencia.
+porque estoy despierto?
+continuare  pensando, siendo yo, despues de la muerte?
+puede separarse mi pensamiento del cuerpo?
+que es la conciencia?
+
+0-2- que es la vida?
+los animales Tambien parecen estar concientes.
+mi perro puede verme.
+intuyo que todos los animales con cerebro son concientes.
+la vida parece crear inteligencia.
+pero mas alla de los cerebros, los disenos ajustados, precisos de los organismos vivientes Tambien parece mostrar algun tipo de inteligencia subjacente.
+como es posible que se formen estructuras tan complejas y exactas.
+la inteligencia es necesaria.
+asi, la inteligencia existe mas alla de los cerebros.
+que es la vida?
+
+0-3- inteligencia.
+una definicion de inteligencia.
+como se realiza un proceso de calculo.
+
+0-4- un modelo logico.
+describiremos aqui un modelo conceptual de la vida basado en su function logica.
+hablaremos de ADN, reproduccion, ciclo de vida, e individuos.
+
+0-5- un ejemplo practico.
+utilizaremos el modelo logico de la vida en un experimento.
+y veremos como puede utilizarse para resolver un problema logico.
+
+
+
+--------------------------------------------------
+
+
+
+
 0- introduccion:
 
 explicar que 
@@ -14,8 +56,6 @@ explicar que
 
 
 -------------------------------
-
-
 
 
 
