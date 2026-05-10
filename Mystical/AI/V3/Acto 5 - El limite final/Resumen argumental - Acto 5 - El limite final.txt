@@ -1,4 +1,23 @@
+Resumen de contenidos:
 
+
+- Introduccion y objetivos del acto 5
+
+es la vida el sistema mas inteligente de todos los posibles?
+puede la inteligencia de la vida ser superada?
+
+analizaremos algunas diferencias entre sistemas inteligentes.
+discutiremos algunos de los limites que la fisica impone a la inteligencia.
+revisaremos distintas arquitecturas posibles para los sistemas inteligentes.
+veremos como medir la capacidad de un sistema inteligente.
+hablaremos de algunas de las caracteristicas que determinan la potencia de un sistema inteligente.
+y descubriremos las caracteristicas que debe tener un sistema para acercarse al limite maximo de la inteligencia posible.
+
+para responder a la pregunta, 
+cual es el sistema mas inteligente de todos los posibles?
+
+
+---------------------------------------
 
 Capítulo 1 — No todas las inteligencias son iguales
 

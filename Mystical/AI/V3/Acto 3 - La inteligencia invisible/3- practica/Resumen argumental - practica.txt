@@ -19,7 +19,7 @@ un juego de mesa.
 
 3-3- el sistema.
 
-veremos de forma practica como podemos adaptar lo elementos del modelo logico al problema para construir un sistema de calculo que encuentre la solucion.
+veremos de forma practica como podemos adaptar los elementos del modelo logico al problema para construir un sistema de calculo que encuentre la solucion.
 
 3-3-1- ADN.
 
