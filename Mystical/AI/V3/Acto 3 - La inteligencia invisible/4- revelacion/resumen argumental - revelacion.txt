@@ -2,7 +2,20 @@
 Resumen de contenidos:
 
 
+- intro
 
+la vida desde nuestro punto de vista es un conjunto de individuos.
+individuos de muchas especies diferentes.
+pero hay algo mas.
+una inteligencia que no pertenece a ninguno de los individuos.
+y que permanece invisible a nuestros ojos.
+podemos intuir que existe porque vemos sus resultados.
+un proceso inteligente que no vemos.
+una poderosa inteligencia formada por todos los individuos.
+los individuos no son el objetivo final, son parte de algo mayor.
+
+ese es el objetivo de este modelo logico.
+mostrar lo que la vida es en realidad.
 
 
 
@@ -21,6 +34,10 @@ un sistema que continua ejecutando un proceso infinito aun cuando los individuos
 
 - la vida
 
+anterior: la vida es una caracteristica de ciertas instancias naturales.
+posterior: la vida es una inteligencia - una entidad inteligente.
+
+
 - el ADN
 
 - la reproduccion
@@ -29,6 +46,10 @@ un sistema que continua ejecutando un proceso infinito aun cuando los individuos
 
 - el individuo
 
+vision anterior: los individuos son la vida - existe un orden de jerarquia con especies mas importantes que otras.
+revelacion: la vida es mas que un conjunto de individuos, es un proceso - no existe una diferencia apreciable en el rol de individuos de diferentes especies en el proceso.
+
+el rol del individuo no es resolver el problema. lo que se espera del individuo es que cumpla con su ciclo de vida.
 
 
 ----------------------

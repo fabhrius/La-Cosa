@@ -1,0 +1,13 @@
+
+a- el proceso de calculo:
+
+- introduccion (dos trenes - lanzar una flecha - sumar un listado)
+
+- elementos del proceso (datos - metodo - estados)
+
+- transformacion de la informacion (estado inicial - estados intermedios - estado final)
+
+- ejemplo (sumar un listado)
+
+
+---------------------

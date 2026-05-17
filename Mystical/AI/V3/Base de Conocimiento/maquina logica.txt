@@ -1,0 +1,59 @@
+
+'Construiremos el sistema inteligente utilizando los siguientes elementos:
+- ADN, utilizado como memoria del sistema, contiene los datos que serán procesados, y funciona como una memoria de solo lectura.
+- Reproducción, utilizada como mecanismo procesador. Durante la reproducción, los datos contenidos en el ADN son modificados, aplicando un método, para crear una nueva cadena de ADN, similar a la original pero no igual. El método varía con el problema que se quiere resolver.
+- Individuos, bloques de construcción del sistema, y su único componente. Contienen el ADN con los datos y se reproducen. Cumplen con un ciclo de vida.
+- Ciclo de vida (nacer-reproducirse-morir), rutina de funcionamiento de la máquina.
+
+Resumen de funcionamiento:
+- Los datos contenidos en el ADN se procesan generación tras generación. El proceso avanza solo un paso en el cálculo con cada generación.
+
+Ejemplo - Problema a resolver:
+Sobre un tablero de ajedrez de 8 por 8 casillas colocaremos una ficha. Las casillas del tablero serán referenciadas con una letra y un número, tales como 'A1' o 'E5', en donde letras y números referencian filas y columnas. Un movimiento válido desplaza la ficha a una distancia de una casilla. Queremos que la máquina averigüe cuál es el camino que la ficha debe recorrer para ir desde la casilla 'A1' hasta la casilla 'H8'.
+
+Pseudo-código - Ejemplo de individuo:
+Individuo (abstracción lógica)
+{
+  ADN - (datos):
+  {
+    - posición = la posición de la ficha sobre el tablero (ejemplo: 'C3');
+    - lista de antepasados = listado con las posiciones de sus antepasados (ejemplo: 'A1-B2');
+  };
+  Reproducción (función):
+  {
+    - objetivo = generar un hijo por cada movimiento válido desde la posición actual;
+    - método = por cada movimiento válido crea un hijo con la siguiente información en el ADN:
+      1. posición = la nueva posición de la ficha sobre el tablero;
+      2. lista de antepasados = copia su lista de antepasados y agrega su propia posición;
+    - resultado = devuelve una lista con todos los hijos posibles;
+  };
+};
+
+Ejemplo de reproducción (uno de los hijos posibles):
+padre { posición='C3'; lista de antepasados='A1-B2'; }
+hijo { posición='D4'; lista de antepasados='A1-B2-C3'; }
+
+Funcionamiento del individuo:
+El individuo tiene un ciclo de vida que consiste en 'nacer-reproducirse-morir'. Después de nacer generará todos los hijos posibles en la siguiente generación, y morirá.
+
+Resolución del problema:
+- Creamos un individuo en la posición inicial 'A1'.
+- Una vez creado cumplirá con su ciclo de vida, se reproducirá generando todos sus hijos posibles.
+- Y sus hijos harán lo mismo.
+- Con el tiempo nacerá un individuo con posición='H8'. Este individuo tiene la solución al problema en su lista de antepasados.
+
+Resolución paso a paso:
+- Creamos un individuo con posición 'A1' (estado inicial): individuo_EI { posición='A1'; lista_de_antepasados=''; }
+- Generación 1: A1 genera 3 hijos contiguos, incluyendo B2: individuo_B2 { posición='B2'; lista_de_antepasados='A1'; }
+- Generación 2: B2 genera 8 hijos, incluyendo C3: individuo_C3 { posición='C3'; lista_de_antepasados='A1-B2'; }
+- Generación 3: C3 genera 8 hijos, incluyendo D4: individuo_D4 { posición='D4'; lista_de_antepasados='A1-B2-C3'; }
+- Generación 4: D4 genera 8 hijos, incluyendo E5: individuo_E5 { posición='E5'; lista_de_antepasados='A1-B2-C3-D4'; }
+- Generación 5: E5 genera 8 hijos, incluyendo F6: individuo_F6 { posición='F6'; lista_de_antepasados='A1-B2-C3-D4-E5'; }
+- Generación 6: F6 genera 8 hijos, incluyendo G7: individuo_G7 { posición='G7'; lista_de_antepasados='A1-B2-C3-D4-E5-F6'; }
+- Generación 7: G7 genera 8 hijos, incluyendo H8: individuo_H8 { posición='H8'; lista_de_antepasados='A1-B2-C3-D4-E5-F6-H8'; }'
+
+-------------------------
+
+
+
+
