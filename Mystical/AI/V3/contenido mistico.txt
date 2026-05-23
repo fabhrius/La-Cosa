@@ -13,10 +13,14 @@ individuos:
 diferentes - instancias de vida - componentes - exploradores
 la realidad desde un punto de vista unico
 
+un paso unico en la oscuridad para reducir la incertidumbre
+
+
 
 
 reproduccion:
 
+redundancia - procesamiento de la informacion - construccion estructural
 
 
 memoria:
@@ -25,7 +29,11 @@ memoria:
 
 Espiritu:
 
+intencion - plan - proposito - tendencia - objetivo - atractor
+
 
 inteligencia:
+
+se construye a si misma
 para sobrevivir a si mismo crea la inmortalidad.
 pero para crear la inmortalidad debe necesariamente crear primero la vida.
