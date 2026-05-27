@@ -3,32 +3,32 @@ Resumen de contenidos:
 
 
 
-- algo mas que solo individuos
+1- algo mas que solo individuos
 los individuos han participado en la busqueda de la solucion, pero ninguno de ellos puede resolver el problema por si solo.
 la inteligencia que ha resuelto el problema no pertenece a ninguno de los individuos.
 
 
-- una entidad
+2- una entidad
 aunque el sistema esta formado por muchos individuos, todo el conjunto funciona como una maquina unica, un sistema.
 un unico proceso que se lleva a cabo con la sucesion de individuos, el flujo. el proceso los incluye a todos, desde el primero hasta el ultimo.
 el sistema es uno, una entidad.
 
-- una inteligencia
+3- una inteligencia
 la actividad es puramente logica.
 no existe otra cosa mas que el proceso, y los mecanismos de soporte e implementacion.
 
-- un organismo inmortal
+4- un organismo inmortal
 mientras los individuos mueren como parte esencial de su ciclo, la vida en si misma no tiene limite.
 en el experimento que hemos llevado a cabo vemos como los individuos cumplen su function y mueren, pero el proceso continua adelante sin detenerse nunca.
 
 
-- la independencia del individuo es aparente
+5- la independencia del individuo es aparente
 el individuo no tiene sentido fuera del sistema.
 
-- el objetivo del individuo es cumplir con su ciclo de vida
+6- el objetivo del individuo es cumplir con su ciclo de vida
 el sistema no espera ninguna otra cosa del individuo, solo que cumpla su ciclo de vida. 
 
-- una inteligencia que observa el universo desde infinitos puntos de vista diferentes
+7- una inteligencia que observa el universo desde infinitos puntos de vista diferentes
 cada individuo explora el espacio a su modo, por su propio camino, y todos aportan su experiencia al sistema.
 
 

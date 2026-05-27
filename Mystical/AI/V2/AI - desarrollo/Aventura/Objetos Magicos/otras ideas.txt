@@ -46,4 +46,25 @@ la varita magica
 poder: concede al instante un objeto necesario (una llave, un caballo, etc)
 maldicion: cobra al instante un precio muy elevado. incendios, muerte de ganado, muerte de la vegetacion, tormentas, tornados, terremotos, etc.
 
+--------------------
 
+un saco con objetos.
+
+
+utilidad: el usuario mete la mano y saca el objeto que necesita.
+maldicion: el objeto es necesario para causar una desgracia
+
+
+-------------------------
+
+
+el caldero de los espiritus.
+
+
+utilidad: los espiritus realizan lo que el usuario necesita
+maldicion: provocan caos destruccion muerte
+
+accion: al utilizarlo para concinar del vapor emergen espiritus malignos.
+
+
+--------------------

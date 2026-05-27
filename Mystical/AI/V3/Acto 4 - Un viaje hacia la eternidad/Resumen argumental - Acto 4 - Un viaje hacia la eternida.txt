@@ -81,9 +81,20 @@ Disenado para no detenerse jamas.
 (4-6)
     - Cap. 18: Fiabilidad (gestion de memoria - colapso del sistema)
 
+- Gestion de la memoria y la informacion
+- Memoria distribuida e inmutable.
+
+
 La Imposibilidad de la memoria infinita y la Solucion de la memoria dinamica y distribuida.
-El sistema no se detiene por limitaciones de recursos.
+El sistema no se detiene por limitaciones de recursos. 
+El espacio de memoria se ajusta a lo necesario.
+una vez creada no se agrega nueva informacion.
 Consigue asi abordar problemas de dimension infinita con recursos discretos.
+La memoria no se desborda.
+
+la memoria es inmutable.
+los datos pueden modificarse sin riesgo.
+un conjunto de datos defectuoso no puede corromper a otro conjunto de datos.
 
 (4-7)
     - Cap. 19: Poda.  (porque morimos)
