@@ -82,7 +82,7 @@ Disenado para no detenerse jamas.
     - Cap. 18: Fiabilidad (gestion de memoria - colapso del sistema)
 
 - Gestion de la memoria y la informacion
-- Memoria distribuida e inmutable.
+- Memoria distribuida e inmutablilidad de los datos.
 
 
 La Imposibilidad de la memoria infinita y la Solucion de la memoria dinamica y distribuida.
@@ -95,6 +95,11 @@ La memoria no se desborda.
 la memoria es inmutable.
 los datos pueden modificarse sin riesgo.
 un conjunto de datos defectuoso no puede corromper a otro conjunto de datos.
+
+las modificaciones nunca se hacen sobre el original, siempre sobre una copia.
+el original es inmutable.
+esto permite experimentar, crear variaciones mejores y peores. sin que esto altere el original.
+
 
 (4-7)
     - Cap. 19: Poda.  (porque morimos)

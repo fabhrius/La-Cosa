@@ -25,7 +25,6 @@ Capítulo 1 — No todas las inteligencias son iguales
 Capítulo 2 — Límites físicos de la inteligencia
 
 
-Capítulo 3 — Posibles arquitecturas y arquitectura óptima
 
 
 Capítulo 4 — Cómo medir una inteligencia
@@ -47,6 +46,10 @@ Capítulo 9 — Escalabilidad
 
 
 Capítulo 10 — Autonomía
+
+
+Capítulo 3 — Posibles arquitecturas y arquitectura óptima
+
 
 
 Capítulo 11 — Síntesis: El límite final
