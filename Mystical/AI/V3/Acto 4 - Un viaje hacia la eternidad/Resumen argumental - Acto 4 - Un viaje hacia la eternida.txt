@@ -6,6 +6,17 @@ Resumen de contenidos:
 - Acto 4: Un viaje hacia la eternidad.
  Analiza las características del sistema.   
 
+- exploracion
+- eficiencia
+- potencia
+- coste
+- redundancia
+- gestion de memoria
+- poda
+
+
+
+
 (4-0)
 
 Introduccion:
