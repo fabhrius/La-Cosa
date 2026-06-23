@@ -89,6 +89,8 @@ maldicion: el camino esta maldito. con desgracias terribles a cada paso.
 la lente que ve a traves de las cosas.
 
 
+maldicion: lo que el usuario ve le impulsa a tomar decisiones con desenlaces terribles. cosas que no habrian pasado sin la ayuda de la lente.
+
 ----------------
 
 
