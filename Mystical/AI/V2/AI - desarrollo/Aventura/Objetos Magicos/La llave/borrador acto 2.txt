@@ -1,0 +1,200 @@
+vamos a comenzar con el desarrollo del segundo acto.
+
+tu habias propuesto la siguiente estructura:
+
+"Acto II - La primera inversión
+Objetivo dramático
+Mostrar que la búsqueda tiene un precio.
+Acontecimientos
+    • La expedición atraviesa bosques y montañas.
+    • Las dificultades son mayores de lo esperado.
+    • Uno de los amigos muere en un accidente durante el ascenso.
+    • El grupo queda devastado.
+Finalmente alcanzan la cueva.
+Decepción
+La cueva está vacía.
+No hay tesoro.
+No hay puerta.
+No hay riqueza.
+Ruptura inicial
+Uno de los integrantes concluye que todo ha sido un error.
+Decide abandonar.
+Los demás lo dejan marchar.
+Revelación
+Esa misma noche descubren grabados antiguos en la roca.
+Entre ellos aparece nuevamente el símbolo de la llave.
+Y un segundo mapa.
+Final del acto
+Aunque tienen dudas, deciden continuar."
+
+
+vamos a utilizarla
+y vamos a dividirlo en 3 capitulo con las siguientes partes:
+
+
+acto 2: El alto coste de la busqueda.
+
+cap1
+la expedicion - dificultades - 
+
+Parte 1 - La expedicion:
+
+Parte 2: Primeros contratiempos:
+
+
+cap2
+
+ el ascenso imposible - el accidente - la cueva
+
+parte 1: El ascenso imposible
+
+parte 2: El accidente
+
+parte 3: La cueva
+
+cap3
+decepcion - desercion - revelacion de un nuevo mapa
+
+parte 1 - el tesoro no esta en la cueva:
+
+parte 2 - la primera desercion:
+
+parte 3 - la revelacion de un nuevo mapa:
+
+-------------------
+
+
+
+esta es la estructura y vamos a desarrollarlo por partes.
+empezaremos por la parte 1 del capitulo 1.
+
+es la siguiente:
+
+"acto 2:
+cap1
+Parte 1 - La expedicion:
+
+no tardarom mucho en organizar la expedicion.
+el entusiasmo generaba un sentimiento de urgencia.
+estudiaron el mapa en detalle, organizaron el viaje en escalas.
+dividieron las tareas y en pocos dias habian reunido todo lo necesario, una carreta, dos caballos, tiendas, mantas, herramientas.
+el viaje no seria muy largo, en unos pocos dias alcanzarian la base de las montanas, a partir de alli no tardarian mas de una semana en alcanzar el area que indicaba el mapa.
+despues de eso, el tiempo dependeria de la suerte. La localizacion exacta de la boveda era desconocida.
+
+el objetivo no estaba muy lejos de alli, y todos sentian que les esperaba una gran aventura.
+
+una manana, con los primeros rayos de sol, abandonaron el pueblo.
+."
+
+
+---------------
+
+
+aqui describimos los preparativos, el sentimiento del grupo, y presentamos la expedicion como una aventura emocionante.
+la idea es que el lector se emocione con una aventura extraordinaria y desee ver el fabuloso tesoro que encontraran.
+
+el dia debe describirse como glorioso, la partida como epica, emocionante. 
+todos estamos seguros de que el tesoro les espera.
+y cada detalle es estimulante.
+
+este parrafo debe tener una extension de unas 700 palabras.
+
+ 
+
+
+
+-----------------------------------------------------------------
+
+
+
+
+acto 2:
+
+
+cap1
+la expedicion - dificultades - 
+
+Parte 1 - La expedicion:
+
+no tardarom mucho en organizar la expedicion.
+el entusiasmo generaba un sentimiento de urgencia.
+dividieron las tareas y en pocos dias habian reunido todo lo necesario, una carreta, dos caballos, tiendas, mantas, herramientas.
+y una manana, con los primeros rayos de sol, abandonaron el pueblo.
+el viaje no seria muy largo, en unos cuantos dias alcanzarian la base de la montana, a partir de alli no tardarian mas de una semana en alcanzar el area que indicaba el mapa.
+despues de eso, el tiempo dependeria de la suerte. La localizacion exacta de la boveda era desconocida.
+
+
+Parte 2: Dificultades:
+
+contratiempo1: la tormenta - abandonan parte del equipo
+
+cerca de la base de las montanas, en la zona pantanosa que rodea el rio sigsagueante, les sorpendio la tormenta.
+el dia habia sido claro durante la manana, pero al llegar la tarde se cubrio rapidamente de nubes.
+avanzaban por el estrecho camino que bordea el rio, y el pantano les rodeaba en todas direcciones cuando las primera gotas comenzaron a caer.
+no podian quedarse alli. el rio podia desbordarse en esa zona. avanzaron tan rapido como pudieron.
+en cuestion de unos minutos, la lluvia se convirtio en tormenta.
+el cielo se oscurecio. rayos, relampagos, truenos, y un momento despues el diluvio.
+el agua comenzo a caer en grandes cantidades. un bloque de agua que impedia la vision. el grupo tiraba de la carreta y los caballos intentando hacerlos avanzar, sin poder ver con claridad hacia adonde.
+por primera vez se sintieron a merced de los elementos.
+la fuerza de la tormenta era colosal.
+un momento despues el camino desaparecio.
+era dificil de decir si se habian internado en el rio por la falta de vision, o si el rio se habia desbordado cubriendo el camino por completo.
+sus pies comenzaron a hundirse en el barro. la lluvia caia con tanta fuerza que los hombres no podian verse entre si.
+estaban todos alrededor de la carreta? 
+avanzaban hundiendose en el barro con el agua llegando casi a la cintura, adentrandose en el rio.
+la carreta se atasco en el barro.
+los caballos no podian levantar las patas, hundiendose en el barro.
+los hombres solo podian intentar ponerse a salvo.
+salir de alli.
+
+
+
+
+
+
+
+
+contratiempo2: el puente roto - la ruta que habian trazado no es transitable y tienen que desviarse para alcanzar el otro lado de la montana
+
+
+cap2
+
+el accidente - la cueva
+
+
+con el puente roto llegar al lugar que describe el mapa se vuelve imposible.
+el equipo debe recurrir a la escalada.
+deben subir por una pared de gran dificultad y ascender mucha distancia.
+uno de ellos cae al vacio.
+
+
+
+habian llegado muy lejos para rendirse. continuarian intentandolo hasta el final. alcanzar el objetivo se habia vuelto un reto.
+finalmente lo consiguen. una cueva de dificil acceso en el lugar indicado por el mapa.
+sin duda este era el lugar.
+(esperanza)
+
+
+
+
+
+cap3
+
+parte 1 - el tesoro no esta en la cueva:
+
+parte 2 - la primera desercion:
+
+parte 3 - la revelacion de un nuevo mapa:
+
+
+en la cueva no hay nada.
+la boveda no esta alli.
+todos se sienten decepcionados. 
+(decepcion)
+uno de ellos decide abandonar. nadie intenta detenerlo. decide volver solo. los demas no lo siguen.
+han invertido mucho para abandonar ahora.
+
+
+en un pasaje de la cueva encuentran simbolos y un mapa. el dibujo de la llave confirma que se trata de la continuacion del camino hacia la boveda.
+(vuelve la esperanza)
+
