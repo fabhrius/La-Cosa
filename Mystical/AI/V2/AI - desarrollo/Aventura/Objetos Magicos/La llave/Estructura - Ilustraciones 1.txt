@@ -1,32 +1,35 @@
 Acto 1
 
 Cap 1 - 
-El valle - La llave - La leyenda
+El valle - La llave - La leyenda  X
 
 Cap 2 - 
-El libro - El tesoro
+El libro - El tesoro  X
 
 Cap 3 -
 La compra del libro - El pacto
 
+---------
+
 Acto 2
 
 Cap 2-1
-La expedicion - La tormenta - El puente roto
+La expedicion - La tormenta - El puente roto  X
 
 Cap 2-2
-El ascenso imposible - El accidente - La cueva
+El ascenso imposible - El accidente - La derrota
 
-Cap 2-3
-Decepcion, no hay tesoro - Desercion, dos se retiran - Un nuevo mapa
+
+
+--------------
 
 Acto 3
 
 Cap 3-1
-Financiacion - El robo - El desierto de piedra
+Financiacion - El robo - El desierto de piedra  X
 
 Cap 3-2
-El acantilado - La puerta - El cuervo
+El acantilado - La puerta - El cuervo  X
 
 
 
@@ -65,10 +68,6 @@ El ascenso imposible - El accidente - La cueva
 imagen 7: 5 escalando una pared vertical sin equipo
 imagen 8: la entrada de la cueva
 
-Cap 2-3
-Decepcion, no hay tesoro - Desercion, dos se retiran - Un nuevo mapa
-
-imagen 9: un mapa grabado sobre la pared de roca dentro de una cueva
 
 Acto 3
 Cap 3-1
