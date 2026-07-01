@@ -1,36 +1,39 @@
 Acto 1
 
-Cap 1 - 
+Cap 1 - La llave de hierro
 El valle - La llave - La leyenda  X
 
-Cap 2 - 
+Cap 2 - El tesoro del rey
 El libro - El tesoro  X
 
-Cap 3 -
-La compra del libro - El pacto
+Cap 3 - El pacto
+La compra del libro - El pacto  X
 
 ---------
 
-Acto 2
+Acto 2 - Lo imprevisto
 
-Cap 2-1
+Cap 2-1 - El factor suerte
 La expedicion - La tormenta - El puente roto  X
 
-Cap 2-2
-El ascenso imposible - El accidente - La derrota
+Cap 2-2 - El limite
+El ascenso imposible - Ghim - La derrota  X
 
 
 
 --------------
 
-Acto 3
+Acto 3 - El destino
 
-Cap 3-1
+Cap 3-1 - Impulso
 Financiacion - El robo - El desierto de piedra  X
 
-Cap 3-2
-El acantilado - La puerta - El cuervo  X
+Cap 3-2 - 
+El acantilado - El camino - El destino  X
 
+
+Cap 3-3
+Un nuevo dia X
 
 
 ----------------------------------------
