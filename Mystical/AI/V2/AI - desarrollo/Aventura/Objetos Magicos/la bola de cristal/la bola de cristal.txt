@@ -43,7 +43,7 @@ sabe lo que ira mal, modificarlo para conseguir el resultado esperado es un refl
 escena 4:
 
 al cambiar los acontecimientos todo sale como ella queria.
-sin embargo, los cambios tienen efecto en otras areas.
+sin embargo, los cambios tienen efectos en otras areas.
 
 
 escena 5:
@@ -83,4 +83,16 @@ escena 0:
 
 
 --------------------------
+
+
+el protagonista ve en la bola un momento del futuro en donde algo sale mal.
+no es algo grave, pero simplemente no sale como era esperado. por ejemplo, el protagonista ve que perdera el barco porque llegara tarde. es un contratiempo.
+pero ahora que conoce el futuro puede hacer algo para cambiarlo.
+
+intentar cambiarlo es un impulso inevitable.
+y al intentar cambiarlo desencadenara la tragedia.
+
+porque, el protagonista no sabe que todos los futuros alternativos son peores.
+
+
 

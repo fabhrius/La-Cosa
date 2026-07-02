@@ -1,0 +1,13 @@
+METADATA           = Bloque YAML al inicio
+TITLE              = #
+SECTION            = ##
+TEXT               = Texto normal
+THOUGHT            = *texto*
+EMPHASIS           = *texto*
+STRONG             = **texto**
+QUOTE              = > texto
+SCENE_BREAK        = * * *
+DIALOGUE           = — texto
+IMAGE              = ![texto](archivo.jpg)
+LINK               = [texto](url)
+HORIZONTAL_RULE    = ---
