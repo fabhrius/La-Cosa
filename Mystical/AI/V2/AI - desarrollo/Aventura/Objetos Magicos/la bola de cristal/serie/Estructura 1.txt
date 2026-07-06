@@ -21,11 +21,11 @@ cap 3
 Acto 2: 
 
 
-1- efecto colateral 1
+1- efecto colateral 1 - Omhp
 
-2- efecto colateral 2
+2- efecto colateral 2 - Alhat
 
-3- efecto colateral 3
+3- efecto colateral 3 - Penht
 
 
 ---------------------
