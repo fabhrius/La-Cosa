@@ -1,13 +1,8 @@
 ---
-
 title: La Bola de Cristal
-
 author: Tony Fabrico
-
 series: Omniscientis
-
 version: 1.0
-
 ---
 
 # OMNISCIENTIS
