@@ -1,0 +1,36 @@
+pandoc relatos\002_la_bola_de_cristal\laboladecristal.md -o odt\LaBolaDeCristal.odt --reference-doc=plantilla\Omniscientis_V01.odt
+
+
+
+
+
+pandoc relatos\002_la_bola_de_cristal\laboladecristal.md -t html
+
+
+pandoc relatos\001_la_llave\prueba.md -o odt\prueba2.odt --reference-doc=plantilla\Omniscientis_V01.odt
+
+C:\Repo\vida\development\Cuentos\Omniscientis
+
+pandoc relatos\002_la_bola_de_cristal\laboladecristal.md -t html
+
+
+
+pandoc relatos\002_la_bola_de_cristal\laboladecristal.md -o sin_plantilla.odt
+
+
+-----------------------
+
+cd C:\Repo\vida\development\Cuentos\Omniscientis
+
+pandoc relatos\002_la_bola_de_cristal\laboladecristal.md -o base.odt
+
+
+
+
+
+
+
+
+pandoc relatos\002_la_bola_de_cristal\laboladecristal.md -o odt\LaBolaDeCristal.odt --reference-doc=plantilla\Omniscientis_V02.odt
+
+
