@@ -43,5 +43,12 @@ pandoc relatos\002_la_bola_de_cristal\test.md -t html
 pandoc relatos\002_la_bola_de_cristal\test.md -o test.odt --reference-doc=plantilla\Omniscientis_V02.odt
 
 
+------------------------
+
+
+test_pagebreak.md
+
+pandoc relatos\002_la_bola_de_cristal\test_pagebreak.md -o test_pagebreak.odt --reference-doc=plantilla\Omniscientis_V03.odt
+
 
 
