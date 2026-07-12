@@ -21,11 +21,26 @@ Tony Fabrico
 
 
 
-\newpage
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 
+::: {custom-style="Credits"}
+La Bola de Cristal
 
+Colección Omniscientis
 
+Autor: Tony Fabrico
+
+Primera edición: 2026
+
+Todos los derechos reservados.
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 
 
@@ -39,15 +54,22 @@ Tony Fabrico
 
 >											— Fabhrius
 
-***
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
 
 ## Capítulo 1: La Almoneda de Maese Dahg
 
-***
 
+
+::: {custom-style="PartTitle"}
 Parte 1 - La Almoneda de Maese Dahg
+:::
 
-***
+
+
 
 Existió una vez, mucho tiempo atras, un pequeño pueblo llamado Drywind.
 
@@ -102,10 +124,23 @@ Eran fragmentos de historias olvidadas.
 Y algunas historias son olvidadas por una buena razón.
 
 ***
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
+::: {custom-style="Illustration"}
+[Ilustración: La Almoneda de Maese Dahg]
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="PartTitle"}
 Parte 2 - Dahg el tendero
+:::
 
-***
+
 
 Sobre la tienda, en la planta superior del edificio, vivía su propietario.
 
@@ -3033,3 +3068,16 @@ Miró la carreta atrapada.
 
 Y volvió a mirar la suya.
 
+
+
+::: {custom-style="FinalPage"}
+
+✦
+
+Fin del relato
+
+✦
+
+Omniscientis
+
+:::
