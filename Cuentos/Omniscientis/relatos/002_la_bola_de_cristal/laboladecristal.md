@@ -123,7 +123,10 @@ Eran fragmentos de historias olvidadas.
 
 Y algunas historias son olvidadas por una buena razón.
 
-***
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
 ::: {custom-style="PageBreak"}
 &nbsp;
 :::
@@ -194,11 +197,14 @@ Por eso, cuando veían a Dahg caminar por las calles del pueblo, lo saludaban co
 
 Pero casi siempre esperaban a que hubiera doblado la esquina para continuar sus conversaciones.
 
-***
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
 
 Parte 3 - El negocio
 
-***
+
 
 La vida en Drywind transcurría despacio.
 
@@ -286,17 +292,20 @@ Luego apoyó cuidadosamente el paquete sobre la madera y dijo:
 
 —Tengo algo que podría interesarle.
 
-***
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
 
 \newpage
 
 ## Capítulo 2
 
-***
+
 
 Parte 1 - Una lente de lectura
 
-***
+
 
 Dahg señaló una mesa de trabajo situada al fondo de la tienda.
 
@@ -392,11 +401,14 @@ Como si ocultara un propósito que todavía no había revelado.
 
 Porque mas allá de su belleza decorativa, al verlo en accion el objeto adquiría una dimensión casi mágica.
 
-***
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
 
 Parte 2 - La compra
 
-***
+
 
 Dahg continuó examinando la lente durante varios minutos.
 
@@ -550,11 +562,13 @@ Como si el verdadero propósito de su visita no hubiera sido vender la lente.
 
 Sino librarse de ella.
 
-***
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
 
 Parte 3 - Un examen detallado
 
-***
+
 
 Tan pronto como la mujer abandonó la tienda, Dahg volvió a concentrar toda su atención en la extraña lente de lectura.
 
@@ -730,19 +744,21 @@ Y entonces, por fin, consiguió distinguir una figura humana.
 
 Una figura que le resultó inquietantemente familiar.
 
-***
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
 
 \newpage
 
-***
+
 
 ## Capítulo 3
 
-***
+
 
 Parte 1 - La visión
 
-***
+
 
 El cristal ya no mostraba las páginas del libro.
 
@@ -970,7 +986,9 @@ Con la mirada fija sobre la esfera.
 
 Intentando comprender qué acababa de presenciar.
 
-***
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
 
 Parte 2 - El significado
 
@@ -3068,7 +3086,9 @@ Miró la carreta atrapada.
 
 Y volvió a mirar la suya.
 
-
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 ::: {custom-style="FinalPage"}
 
