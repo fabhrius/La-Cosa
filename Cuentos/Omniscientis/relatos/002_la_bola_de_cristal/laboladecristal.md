@@ -70,6 +70,9 @@ Parte 1 - La Almoneda de Maese Dahg
 
 
 
+::: {custom-style="ChapterStart"}
+Existió una vez, mucho tiempo atras, un pequeño pueblo llamado Drywind.
+:::
 
 Existió una vez, mucho tiempo atras, un pequeño pueblo llamado Drywind.
 
@@ -133,6 +136,18 @@ Y algunas historias son olvidadas por una buena razón.
 
 ::: {custom-style="Illustration"}
 [Ilustración: La Almoneda de Maese Dahg]
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="Illustration"}
+![La Almoneda de Maese Dahg](img/La Almoneda.png){ width=100% }
+:::
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
 :::
 
 ::: {custom-style="PageBreak"}
@@ -296,22 +311,26 @@ Luego apoyó cuidadosamente el paquete sobre la madera y dijo:
 ✦ ✦ ✦
 :::
 
-
-\newpage
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 ## Capítulo 2
 
-
-
+::: {custom-style="PartTitle"}
 Parte 1 - Una lente de lectura
+:::
 
-
-
+::: {custom-style="ChapterStart"}
 Dahg señaló una mesa de trabajo situada al fondo de la tienda.
-
 —Por aquí, si es tan amable.
-
 La mujer asintió y lo siguió entre los estrechos pasillos formados por estanterías y montones de antigüedades.
+Ahora que podía observarla de cerca, Dahg comprendió que no se trataba de una cliente corriente.
+Debía rondar los cuarenta años. Vestía un elegante abrigo de viaje confeccionado con telas de gran calidad y llevaba guantes de cuero impecablemente cuidados. Cada detalle de su apariencia transmitía refinamiento.
+:::
+
+
+
 
 Ahora que podía observarla de cerca, Dahg comprendió que no se trataba de una cliente corriente.
 
