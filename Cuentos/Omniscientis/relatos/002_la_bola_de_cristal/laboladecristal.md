@@ -15,15 +15,32 @@ version: 1.0
 :::
 
 ::: {custom-style="Credits"}
+
+OMNISCIENTIS · Relatos
+
 La Bola de Cristal
 
-Colección Omniscientis
+© Tony Fabrico
 
-Autor: Tony Fabrico
-
-Primera edición: 2026
+Primera edición · 2026
 
 Todos los derechos reservados.
+
+✦
+
+Este relato forma parte del universo narrativo Omniscientis.
+
+✦
+
+Ninguna parte de esta publicación puede reproducirse, 
+
+distribuirse o transmitirse por ningún medio 
+
+sin autorización previa del autor, 
+
+excepto en los casos permitidos por la legislación aplicable.
+
+
 :::
 
 ::: {custom-style="PageBreak"}
@@ -37,27 +54,40 @@ Todos los derechos reservados.
 
 ## Prólogo 
 
+
+
 El tiempo.
 
-Es un fenómeno que ha fascinado a los hombres desde el principio de los días.
+
+Sepulta las ciudades. Borra los caminos. Convierte las certezas en leyendas.
+
+Y mientras hablamos, se consume lentamente. Igual que el aceite de una lámpara.
+
 
 Hay quienes sostienen que el tiempo es como un camino ya trazado. 
+
 Que el pasado, el presente y el futuro existen al mismo tiempo, y que cada acontecimiento ocupa un lugar que no puede ser alterado.
 
 Otros, en cambio, afirman que solo existe el presente. 
-Que el pasado sobrevive únicamente en la memoria y que el futuro no es más que un conjunto de posibilidades.
+
+Que el pasado sobrevive únicamente en la memoria, y que el futuro no es más que un conjunto de posibilidades.
+
+
+El tiempo ha fascinado a los hombres desde el principio de los días.
+
 
 Los sabios de la antigüedad buscaron respuestas en los astros, en los sueños, en los números.
 
 Algunas leyendas afirman que llegaron a construir extraños instrumentos con el unico objetivo de desvelar lo que ocurrirá, el destino.
 
+
 Aquellos secretos se han perdido con el paso de los siglos.
 
-Porque el tiempo es un adversario paciente.
-Sepulta las ciudades. Borra los caminos. Convierte las certezas en leyendas.
-
 Pero,
+
 ¿qué harías tú si pudieras conocer el futuro?
+
+
 
 Lo que voy a relatar ahora, sucedió hace tanto tiempo que ya nadie recuerda cuándo.
 En un lugar que ya no aparece en ningún mapa.
@@ -67,6 +97,7 @@ En un pequeño pueblo llamado Drywind, al norte de las Regiones Planas, no muy l
 Allí hubo una vez una almoneda.
 
 Y esta historia, comienza exactamente allí.
+
 
 ::: {custom-style="PageBreak"}
 &nbsp;
@@ -80,10 +111,9 @@ Y esta historia, comienza exactamente allí.
 
 
 > "El conocimiento cambia al observador,
-
 > y el observador cambia aquello que observa."
 
->											— Fabhrius
+> — Fabhrius
 
 ::: {custom-style="PageBreak"}
 &nbsp;
@@ -96,7 +126,9 @@ Parte 1 - La Almoneda de Maese Dahg
 :::
 
 ::: {custom-style="ChapterStart"}
-La tienda se encontraba en el extremo de la avenida comercial, justo donde terminaban las últimas casas del pueblo y comenzaban los campos abiertos. Era una construcción antigua de madera oscurecida por los años, con un largo porche cubierto que crujía bajo el peso de cada visitante.
+En un pequeño pueblo llamado Drywind existió una vez una almoneda llamada, "La Almoneda de Maese Dahg".
+La tienda se encontraba en el extremo de la avenida comercial, justo donde terminaban las últimas casas del pueblo y comenzaban los campos abiertos. 
+Era una construcción antigua de madera oscurecida por los años, con un largo porche cubierto que crujía bajo el peso de cada visitante.
 :::
 
 En el exterior se exhibían herramientas usadas, cofres desgastados y toda clase de objetos corrientes rescatados del olvido.
@@ -128,9 +160,7 @@ que solo cosas viejas.
 ✧ La Almoneda de Maese Dahg ✧
 :::
 
-::: {custom-style="Separator"}
-✦ ✦ ✦
-:::
+
 
 ::: {custom-style="PageBreak"}
 &nbsp;
@@ -297,12 +327,14 @@ Porque mas allá de su belleza decorativa, al verlo en accion el objeto adquirí
 :::
 
 ::: {custom-style="Illustration"}
-![La Almoneda de Maese Dahg](img/cap1-2.png){ width=100% }
+![](img/cap1-2.png){ width=100% }
 :::
 
-::: {custom-style="Separator"}
-✦ ✦ ✦
+::: {custom-style="IlustrationCaption"}
+✧ La Bola de Cristal ✧
 :::
+
+
 
 ::: {custom-style="PageBreak"}
 &nbsp;
@@ -496,8 +528,16 @@ Una figura que le resultó inquietantemente familiar.
 &nbsp;
 :::
 
-::: {custom-style="PageBreak"}
-&nbsp;
+
+::: {custom-style="FinalPage"}
+
+
+Fin del relato
+
+✦
+
+Omniscientis
+
 :::
 
 
