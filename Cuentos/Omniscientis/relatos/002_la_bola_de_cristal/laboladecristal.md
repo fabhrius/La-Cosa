@@ -5,19 +5,9 @@ series: Omniscientis
 version: 1.0
 ---
 
-# OMNISCIENTIS
-
-
-
-## Relatos
-
-
-
-# La Bola de Cristal
-
-
-
-Tony Fabrico
+::: {custom-style="Illustration"}
+![](img/portada.jpg){ width=100% }
+:::
 
 
 ::: {custom-style="PageBreak"}
