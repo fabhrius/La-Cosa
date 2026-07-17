@@ -1023,6 +1023,76 @@ La cerró tras de sí.
 
 Y comenzó a caminar hacia el muelle.
 
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+
+## Acto II
+
+
+> "Muchas veces no existe una solución perfecta.
+> Solo existe la menos mala."
+
+> — Fabhrius
+
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+
+# Capítulo 1 - Omhp.
+
+::: {custom-style="PartTitle"}
+Parte 1 - Dahg inicia la marcha.
+:::
+
+
+::: {custom-style="ChapterStart"}
+
+Dia: viernes, hora: 7 pm.
+Dahg abandonó la almoneda y emprendió el camino a pie hacia el muelle del río.
+Llevaba consigo una pequeña bolsa con documentos, algunas monedas y todo lo necesario para el viaje.
+Era un día importante.
+
+:::
+
+En Próspera lo esperaba un escribano encargado de preparar los documentos para la venta de unos terrenos que había heredado muchos años atrás. Aquella operación representaba una oportunidad excepcional para ampliar el negocio y poner en marcha los planes que llevaba tanto tiempo preparando.
+
+Cerró la puerta de la tienda con llave.
+Comprobó por costumbre que las contraventanas estuvieran bien aseguradas.
+Y comenzó a caminar.
+
+El sol descendía lentamente sobre los tejados de Drywind.
+Las largas sombras de las casas se extendían sobre la calle principal mientras una suave brisa agitaba las ramas de los árboles.
+
+A lo lejos, sobre las llanuras, algunas nubes grises comenzaban a reunirse en el horizonte.
+Nada extraordinario.
+Posiblemente una de esas tormentas pasajeras que aparecían con frecuencia al final del verano.
+
+Dahg avanzó a buen ritmo. Conocía perfectamente el camino.
+Había recorrido aquella ruta decenas de veces a lo largo de los años.
+Y tenía la intención de no cometer los errores que había visto en la esfera.
+No viajaría con la señora Alhat.
+No perdería tiempo esperando a una mula testaruda.
+Y tampoco se detendría a conversar con nadie.
+
+Aquella era la diferencia.
+Aquella era la ventaja que le había proporcionado la visión.
+Sonrió para sí.
+Todo estaba bajo control.
+Había salido con tiempo de sobra.
+
+Y mientras abandonaba las últimas casas del pueblo, estaba convencido de que nada podría impedirle llegar puntualmente al embarcadero.
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -1031,6 +1101,741 @@ Y comenzó a caminar hacia el muelle.
 ::: {custom-style="PageBreak"}
 &nbsp;
 :::
+
+::: {custom-style="PartTitle"}
+Parte 2 - El encuentro con Omhp.
+:::
+
+
+No había recorrido mucha distancia cuando llegó al extremo de la avenida principal.
+Allí, junto a una pequeña cerca de madera, se encontraba la propiedad de Omhp.
+
+El viejo granjero estaba trabajando cerca del camino.
+Al ver a Dahg levantó una mano para saludarlo.
+Después abandonó lo que estaba haciendo y comenzó a acercarse.
+
+Dahg sintió una incómoda sensación de familiaridad.
+Ya había visto aquello.
+La esfera se lo había mostrado con claridad.
+Precisamente allí, en aquel lugar.
+Con Omhp.
+
+Durante un instante estuvo tentado de continuar caminando sin detenerse.
+Pero descartó la idea inmediatamente.
+Omhp era un buen vecino. Y además parecía preocupado.
+Así que se acercó unos pasos y esperó.
+
+—Buenas tardes, Dahg.
+
+—Buenas tardes, Omhp.
+
+El granjero apoyó ambas manos sobre la cerca y suspiró.
+
+—Me preguntaba si podrías darme tu opinión sobre un problema que estoy teniendo.
+
+Dahg escuchó con atención.
+
+Omhp le explicó que durante las últimas semanas había descubierto numerosos túneles en varios de sus campos. Al principio creyó que se trataba de unos pocos topos, pero la situación parecía estar empeorando.
+Ahora también había encontrado madrigueras de marmotas.
+Los animales estaban dañando las raíces de algunos cultivos y comenzaban a representar una amenaza para la cosecha.
+
+—Recuerdo que el año pasado tuviste algo parecido —dijo Omhp—. Pensé que quizá sabrías qué hacer.
+
+Dahg asintió lentamente.
+Era cierto.
+Había tenido problemas similares en unos terrenos cercanos al río y había conseguido resolverlos después de varias semanas de trabajo.
+Comprendía perfectamente la preocupación del granjero.
+Y también comprendía que aquella conversación podía prolongarse mucho más de lo conveniente.
+
+Miró brevemente hacia el camino.
+Después volvió a mirar a Omhp.
+
+—Me gustaría ayudarte ahora mismo —respondió—, pero debo llegar al muelle antes de las nueve. Esta noche sale el barco hacia Próspera y no puedo perderlo.
+
+El granjero pareció decepcionado.
+Solo un poco.
+
+—Lo entiendo.
+
+—Mañana por la tarde regresaré y veremos el problema juntos. Revisaremos los campos y pensaremos una solución.
+
+La expresión de Omhp se suavizó.
+
+—Te lo agradecería.
+
+—No te preocupes. Lo resolveremos.
+
+Los dos hombres intercambiaron unas últimas palabras.
+Después se estrecharon la mano.
+Y finalmente Dahg reanudó la marcha.
+
+Mientras se alejaba sintió una creciente satisfacción.
+La conversación había sido breve.
+Mucho más breve que la que había observado dentro de la esfera.
+Había evitado el retraso.
+Había cumplido con su plan.
+Y al mismo tiempo no había dejado de ayudar a un vecino que necesitaba consejo.
+Sonrió para sí mismo.
+Las cosas estaban funcionando exactamente como había previsto.
+
+Ahora solo tenía que continuar caminando.
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="PartTitle"}
+Parte 3 - Omhp sale con su carreta.
+:::
+
+
+
+Omhp permaneció junto a la cerca observando cómo Dahg se alejaba por el camino.
+
+El comerciante caminaba a buen ritmo.
+Sin detenerse.
+Sin mirar atrás.
+Al cabo de unos minutos su figura se convirtió en una pequeña silueta oscura recortada contra las llanuras.
+Y finalmente desapareció tras una suave elevación del terreno.
+
+El viejo granjero regresó a sus tareas.
+
+Intentó concentrarse en el trabajo.
+Pero las marmotas seguían ocupando sus pensamientos.
+Aquella situación comenzaba a preocuparlo más de lo que estaba dispuesto a admitir.
+Si no actuaba pronto, la cosecha podría verse seriamente afectada.
+
+Permaneció unos minutos reflexionando.
+Entonces recordó algo.
+Cumhp.
+Su vecino del sur.
+
+El año anterior había tenido problemas similares en varios campos.
+Tal vez ya hubiera encontrado una solución.
+Y si alguien podía ofrecerle un buen consejo, probablemente fuera él.
+
+Omhp levantó la vista hacia el camino.
+La granja de Cumhp no quedaba demasiado lejos.
+Podía ir.
+Hablar con él.
+Y regresar antes de que anocheciera por completo.
+
+La decisión parecía razonable.
+Así que se dirigió al establo.
+Y poco después salió conduciendo su vieja carreta.
+
+El caballo avanzó por el sendero con paso nervioso.
+Más inquieto de lo habitual.
+Movía las orejas. Sacudía la cabeza.
+Y golpeaba el suelo con los cascos con impaciencia.
+
+—¿Qué te ocurre hoy? —murmuró el granjero.
+
+Omhp levantó entonces la vista hacia el cielo.
+Las nubes seguían acumulándose sobre las llanuras.
+La tormenta que antes parecía lejana comenzaba a tomar forma.
+Una enorme masa oscura avanzaba lentamente desde el oeste.
+Quizá el caballo estuviera reaccionando a eso.
+Probablemente no fuera nada.
+Tiró suavemente de las riendas y continuó avanzando.
+
+No tardó mucho en divisar a Dahg caminando por el camino principal.
+
+El comerciante se encontraba ya cerca de la curva que conducía hacia los molinos.
+La distancia entre ambos disminuía poco a poco.
+Omhp sonrió.
+Pensó que podía acercarlo hasta el muelle.
+La granja de Cumhp quedaba prácticamente en la misma dirección.
+Y así Dahg llegaría todavía antes a su barco.
+
+Le pareció una buena idea.
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="PartTitle"}
+Parte 4 - El trueno.
+:::
+
+
+Omhp sacudió suavemente las riendas.
+El caballo comenzó a trotar.
+La distancia que los separaba de Dahg era ya muy pequeña.
+Apenas unos metros.
+
+El comerciante caminaba tranquilamente por el borde del camino.
+Omhp abrió la boca para llamarlo.
+Y entonces ocurrió.
+
+Un relámpago atravesó el cielo.
+
+No fue el destello lejano de una tormenta distante.
+Fue una descarga cegadora.
+Brutal.
+Instantánea.
+El rayo cayó sobre un árbol situado muy cerca del camino.
+La explosión sacudió el aire.
+El trueno estalló con una violencia tan repentina que pareció desgarrar el cielo sobre sus cabezas.
+
+El caballo se encabritó.
+Lanzó un relincho de terror.
+Y salió disparado.
+
+Omhp tiró de las riendas con todas sus fuerzas.
+Demasiado tarde.
+El animal ya no obedecía.
+Había entrado en pánico.
+La carreta se lanzó hacia delante dando violentos saltos sobre el camino.
+
+—¡No!
+
+El grito de Omhp se perdió entre el estruendo.
+Dahg se volvió justo a tiempo para ver al caballo abalanzarse sobre él.
+
+No hubo tiempo para apartarse.
+No hubo tiempo para correr.
+No hubo tiempo para nada.
+El impacto fue brutal.
+
+El caballo lo golpeó de lleno.
+
+Dahg salió despedido fuera del camino.
+Rodó por el suelo entre piedras y maleza.
+Sintió un dolor agudo atravesarle la pierna.
+
+La carreta pasó junto a él como una masa de madera y hierro fuera de control.
+Omhp seguía aferrado a las riendas intentando inútilmente recuperar el control.
+El caballo continuó acelerando.
+Cada vez más rápido.
+Cada vez más lejos.
+
+Arrastrando la carreta desbocada hacia el pueblo.
+
+
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="PartTitle"}
+Parte 5 - Fuego.
+:::
+
+
+
+Dahg permaneció tendido junto al camino.
+
+Estaba aturdido.
+Intentó incorporarse pero un dolor agudo atravesó su rodilla y volvió a caer al suelo.
+
+Un instante después escuchó el impacto.
+Un estruendo seco.
+Violento.
+El sonido de algo pesado golpeando con fuerza. De madera rompiéndose.
+
+Después gritos. 
+Voces lejanas. Confusas. Alarmadas.
+
+Levantó la cabeza intentando descubrir lo qué había sucedido.
+Durante los primeros segundos todo parecía normal.
+
+Pero entonces apareció el humo.
+Una columna oscura comenzó a elevarse lentamente hacia el cielo.
+Parecía surgir del almacén situado junto a la avenida principal.
+
+Después vió las llamas.
+Un resplandor anaranjado parpadeando tras los tejados.
+El edificio parecía estar ardiendo.
+
+El incendio rapidamente se hizo perfectamente visible.
+Estaba creciendo.
+
+Poco después se produjo una explosión. 
+El estallido resonó en el aire.
+Sintió el golpe en el pecho.
+
+Y mientras el humo oscurecía el cielo del atardecer, Dahg permaneció en el suelo, junto al camino, inmóvil, impotente. 
+
+Contemplando con horror desde la distancia cómo Drywind comenzaba a arder.
+
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+
+## Capítulo 2 - Alhat
+
+::: {custom-style="PartTitle"}
+Parte 1 - Dahg sale de su casa.
+:::
+
+
+::: {custom-style="ChapterStart"}
+
+Dia: viernes, hora: 7 pm.
+Dahg dentro de la tienda hacía los últimos preparativos antes de salir.
+Debía abordar a las 9 pm el barco que lo llevaría hasta la ciudad.
+Poco antes de las siete, Dahg cerró la puerta de la almoneda y emprendió a pie el camino hacia el muelle del río.
+
+:::
+
+
+Llevaba consigo los documentos para reunirse con el escribano de Próspera y la esperanza de que aquel viaje marcara el comienzo de una etapa mejor para su negocio.
+Caminaba con paso firme.
+El aire era agradable.
+Una suave brisa recorría las calles de Drywind mientras el calor del día comenzaba a disiparse.
+
+Sobre las llanuras, algunas nubes oscuras se agrupaban lentamente en el horizonte.
+
+Las tiendas de la avenida comercial empezaban a cerrar sus puertas.
+Y las calles se vaciaban poco a poco.
+
+Al llegar al extremo del pueblo, Dahg divisó a Omhp trabajando junto a la cerca de su propiedad.
+El anciano levantó una mano para saludarlo.
+Después se acercó al camino.
+Durante unos minutos conversaron acerca de ciertos problemas que estaban afectando a los cultivos del granjero.
+Omhp esperaba recibir algunos consejos.
+Pero Dahg tenía prisa.
+Le explicó que debía embarcar aquella misma noche y prometió regresar al día siguiente para ayudarlo.
+Los dos hombres se despidieron cordialmente.
+
+Y Dahg continuó caminando.
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+
+::: {custom-style="PartTitle"}
+Parte 2 - Rumbo al almacén.
+:::
+
+No muy lejos de allí, en el extremo sur de Drywind, la señora Alhat terminaba sus tareas diarias.
+
+La anciana recorría lentamente los corrales asegurándose de que todos los animales estuvieran protegidos antes de la llegada de la noche.
+
+Las nubes se acumulaban cada vez con más rapidez.
+Una tormenta parecía estar formándose sobre las llanuras.
+Y aunque todavía no llovía, el aire tenía ese olor característico que anunciaba cambios en el tiempo.
+
+La señora Alhat observó el cielo durante unos instantes.
+Después continuó trabajando.
+Vivía sola desde hacía muchos años.
+Su pequeña granja apenas ocupaba unas pocas hectáreas, pero era suficiente para mantener una vida sencilla y tranquila.
+
+Criaba media docena de cabras. Algunos cerdos. Un rebaño de ovejas.
+Varias gallinas.
+Y una vieja mula gris que la acompañaba desde hacía tanto tiempo que ya la consideraba una amiga más que un animal de trabajo.
+
+Y aunque el trabajo nunca terminaba realmente, rara vez se quejaba.
+Era una mujer paciente. Práctica.
+Acostumbrada a resolver los problemas con esfuerzo y perseverancia.
+
+Cuando terminó de revisar los corrales comprobó también que los animales dispusieran de agua suficiente para pasar la noche.
+
+Solo entonces recordó el encargo que la esperaba en el almacén del pueblo.
+Había pedido varios sacos de grano. Aceite. Algunas herramientas.
+Y otras provisiones necesarias para las semanas siguientes.
+
+Miró nuevamente hacia el cielo.
+Aún tenía tiempo.
+Si se apresuraba podría recogerlo todo antes de que comenzara la tormenta.
+
+Preparó la carreta.
+Enganchó a la mula.
+Y poco después abandonó la granja.
+
+La vieja compañera avanzaba con su habitual paso tranquilo mientras las ruedas crujían suavemente sobre el camino.
+La señora Alhat sonrió.
+Aquella noche, según los planes originales, habría estado llevando a Dahg hacia el muelle.
+Pero el comerciante había decidido caminar.
+
+De modo que ahora disponía de tiempo libre.
+
+Y había decidido aprovecharlo para recoger las mercancías que necesitaba.
+Sin prisa.
+Sin preocupaciones.
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+
+::: {custom-style="PartTitle"}
+Parte 3 - El trueno.
+:::
+
+La señora Alhat llegó al almacén poco después.
+
+El edificio se encontraba junto a la avenida principal, cerca de la entrada norte de Drywind.
+Era una de las construcciones más grandes del pueblo.
+
+Un enorme edificio de madera levantado muchos años atrás, con aspecto de granero o establo gigante.
+La planta inferior servía como almacén de mercancías.
+La superior se utilizaba para guardar excedentes de grano, herramientas y materiales que no se necesitaban con frecuencia.
+Un amplio porche recorría toda la fachada principal.
+Bajo aquel techo se acumulaban sacos, barriles, cajas y todo tipo de mercancías esperando ser recogidas o distribuidas.
+
+A aquella hora todavía había actividad.
+Algunos granjeros terminaban sus compras.
+Un par de carreteros discutían precios junto a la entrada.
+Dos trabajadores descargaban mercancías procedentes de una barcaza llegada esa misma mañana por el río.
+Y Xenhk, el propietario del almacén, atendía personalmente a los últimos clientes del día.
+La vida cotidiana de Drywind parecía concentrarse allí.
+
+La señora Alhat detuvo la carreta frente al porche.
+
+Su pedido ya estaba preparado.
+Todo estaba apilado junto a la pared frontal del edificio.
+
+Muy cerca de una enorme hilera de vasijas de barro repletas de aceite.
+
+Había decenas de ellas.
+Grandes recipientes sellados con cera y tela encerada.
+Algunos alcanzaban casi la altura de una persona.
+Otros estaban apilados unos sobre otros formando verdaderas paredes de cerámica.
+El aceite era uno de los productos más valiosos que almacenaba Xenhk.
+Y aquella semana había recibido un cargamento especialmente grande.
+
+La señora Alhat intercambió algunas palabras con el comerciante.
+Hablaron del tiempo.
+De las cosechas.
+Y de la tormenta que parecía acercarse desde las llanuras.
+Después comenzó a cargar lentamente los sacos en la carreta.
+
+La vieja mula aguardaba pacientemente.
+Inmóvil.
+Con la tranquilidad de quien había repetido aquella rutina cientos de veces.
+
+Pasaron varios minutos.
+La carga estaba casi terminada.
+La señora Alhat levantaba uno de los últimos sacos cuando ocurrió.
+
+Un resplandor cegador atravesó el cielo.
+
+Tan brillante que durante un instante pareció convertir la tarde en pleno día.
+Un rayo cayó en algún lugar de los campos cercanos.
+La descarga golpeó la tierra con una violencia estremecedora.
+Y en ese mismo instante sono un trueno.
+Un estruendo tan brutal que pareció partir la tierra.
+
+La señora Alhat soltó involuntariamente el saco que llevaba en brazos.
+La mula dio un salto.
+
+La anciana tardó un momento en recuperarse.
+Entonces soltó una carcajada.
+
+—¿Te has asustado? —preguntó acariciando el cuello del animal.
+
+La mula resopló.
+Y aquello la hizo reír todavía más.
+Fue un momento breve.
+Una pequeña pausa en una tarde completamente normal.
+Hasta que algo apareció en la curva del camino.
+
+Una carreta.
+
+Avanzaba a una velocidad imposible.
+Fuera de control.
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="PartTitle"}
+Parte 4 - Una carreta fuera de control.
+:::
+
+La señora Alhat no tuvo tiempo de reaccionar.
+
+La carreta surgió de la curva como un proyectil.
+Y se abalanzó directamente sobre ella.
+
+Impactó contra la carreta de la señora Alhat con un estruendo ensordecedor.
+Y todo el conjunto atravesó la fachada del almacén.
+Las dos carretas irrumpieron en el edificio como un ariete.
+Atravesando las vasijas de aceite almacenadas junto a la pared frontal.
+
+Una de las lámparas de aceite que colgaban del techo se desprendió durante el impacto.
+La llama tocó el aceite derramado.
+
+Y se inició el fuego.
+
+En pocos segundos el edificio entero estaba ardiendo.
+El calor se volvió insoportable.
+El viejo Omhp y La señora Alhat quedaron atrapados en el interior en una prisión de madera en llamas.
+
+El intenso calor alcanzó las vasijas de aceite que habían permanecido intactas y provocó una explosión.
+
+El incendio duplicó su tamaño en cuestión de segundos.
+Y entonces, las construcciones vecinas comenzaron a arder.
+
+No muy lejos de allí, junto a la curva del camino que conducía al muelle, Dahg intentaba adivinar lo que estaba sucediendo.
+
+Observando con horror la escena desde el suelo.
+
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+## Capitulo 3 - Penht.
+
+::: {custom-style="PartTitle"}
+Parte 1 - Dahg sale de su casa.
+:::
+
+::: {custom-style="ChapterStart"}
+
+Dia: viernes, hora: 7 pm.
+Poco después de las siete de la tarde, Dahg cerró la puerta de la almoneda y emprendió el camino hacia el muelle del río.
+Debía llegar antes de las nueve para abordar el barco que lo llevaría a Próspera.
+
+:::
+
+
+Al pasar frente a la propiedad de Omhp se detuvo unos minutos para saludar a su amigo.
+Conversaron brevemente.
+Después Dahg continuó caminando.
+
+Había salido con tiempo suficiente y el firme propósito de no perder el barco.
+
+Las nubes comenzaban a cubrir el cielo cuando alcanzó la curva del camino.
+
+Un potente trueno resonó sobre las llanuras.
+
+El sonido fue tan repentino que Dahg se volvió instintivamente hacia el campo abierto.
+Y en ese mismo instante una carreta fuera de control apareció a su espalda.
+No tuvo tiempo de apartarse.
+El impacto lo arrojó fuera del camino.
+Cayó al suelo con violencia.
+La carreta continuó avanzando sin detenerse.
+Unos segundos después desapareció tras la curva.
+
+Se escuchó un fuerte golpe.
+La carreta habia chocado contra algo.
+
+Un poco después una columna de humo comenzó a elevarse sobre los tejados de Drywind.
+Dahg intentó ponerse en pie.
+Un dolor intenso en la rodilla se lo impidió.
+Desde el suelo observó cómo el humo aumentaba de tamaño.
+
+Entonces aparecieron las primeras llamas.
+ 
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="PartTitle"}
+Parte 2 - Una columna de humo.
+:::
+
+No muy lejos de allí, junto a la orilla del río, el mismo trueno también llamó la atención de Penht.
+
+Penht era un joven granjero de unos treinta años.
+Había nacido en Drywind y había pasado allí toda su vida.
+Trabajador, responsable y siempre dispuesto a ayudar a los demás, era una de esas personas que parecían llevarse bien con todo el mundo.
+
+Muchos vecinos lo apreciaban.
+Y Dahg lo apreciaba más que nadie.
+Con los años había llegado a considerarlo casi como un hijo.
+
+Aquella tarde Penht se encontraba terminando la jornada en su granja.
+El sonido del trueno lo obligó a levantar la vista hacia el cielo.
+Una tormenta parecía estar formándose sobre la región.
+Las nubes negras continuaban acumulándose lentamente y avanzaban desde las llanuras.
+
+Penht cultivaba maíz y criaba un pequeño grupo de caballos.
+Pensó que sería prudente dejar los animales bajo techo antes de que comenzara a llover.
+Se dirigió al establo y comenzó a acomodarlos en el interior.
+Estaba cerrando una de las puertas cuando algo llamó su atención.
+
+A lo lejos, por encima de los árboles, una columna de humo se elevaba sobre el horizonte.
+
+Parecía provenir directamente del pueblo.
+¿Qué podía estar ocurriendo?
+
+Entonces escuchó una explosión.
+Y un instante después distinguió las llamas en la distancia.
+
+Un incendio en el pueblo.
+
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="PartTitle"}
+Parte 3 - Ayuda.
+:::
+
+
+Penht no perdió tiempo.
+Salió del establo, montó uno de sus caballos y se dirigió al pueblo al galope.
+
+La columna de humo crecía a cada minuto.
+Y cuanto más se acercaba, más evidente resultaba la magnitud del incendio.
+
+Pocos minutos después llegó a las primeras casas de Drywind.
+
+El aire olía a humo.
+Pequeñas cenizas eran arrastradas por el viento.
+Los vecinos corrían de un lado a otro transportando cubos de agua, herramientas y cualquier cosa que pudiera servir para combatir el fuego.
+
+Penht avanzó por la calle principal.
+
+Varias viviendas estaban ardiendo.
+Otras estaban siendo desalojadas por precaución.
+Los habitantes intentaban salvar muebles, herramientas, animales y provisiones antes de que las llamas alcanzaran sus propiedades.
+
+El incendio parecía haberse originado en la zona del almacén.
+Desde allí se había extendido a las construcciones más cercanas.
+Las llamas sobresalían por encima de los tejados y una densa nube de humo cubría buena parte del centro del pueblo.
+
+Penht intentó acercarse.
+Pero el calor era demasiado intenso.
+Y el humo demasiado espeso.
+Comprendió que llegar hasta el almacén era imposible.
+Se detuvo unos instantes para observar la situación.
+
+Los vecinos que trabajaban cerca del incendio parecían concentrar sus esfuerzos en impedir que el fuego alcanzara nuevas construcciones.
+Aquello tenía sentido.
+
+El almacén y las casas más próximas parecían perdidos.
+La prioridad ahora era evitar que las llamas continuaran avanzando.
+
+Desmontó. Ató el caballo a una cerca. Y fue a reunirse con los demás.
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="PartTitle"}
+Parte 4 - Un acto heroico.
+:::
+
+Quería ayudar.
+Pero comprendía que no era posible salvarlo todo.
+Había que elegir dónde actuar.
+
+Entonces escuchó relinchos. 
+Venían de un establo situado al otro lado de la calle.
+
+Miró hacia allí.
+El fuego había alcanzado una de las paredes exteriores y comenzaba a extenderse por el tejado.
+Todavía no estaba completamente envuelto en llamas.
+Pero no quedaba mucho tiempo.
+Si había animales dentro, pronto quedarían atrapados.
+
+Penht cruzó la calle corriendo.
+Empujó la puerta.
+Una bocanada de humo caliente salió al exterior.
+
+Se cubrió la boca y la nariz con una manga de la camisa y entró.
+El interior estaba lleno de humo.
+La visibilidad era escasa.
+Las llamas avanzaban por una de las paredes y comenzaban a propagarse por las vigas del techo.
+
+Los caballos estaban al fondo. Asustados.
+Golpeando las puertas de los compartimentos con las patas.
+Intentando escapar.
+
+Penht se dirigió hacia ellos.
+Liberó al primero.
+El animal salió disparado hacia la salida.
+Después soltó al segundo.
+El humo era cada vez más espeso.
+Le costaba respirar.
+Los ojos le ardían.
+Empezo a sentirse mareado, desorientado.
+
+Continuó avanzando hacia el último compartimento.
+Consiguió abrir el cierre.
+El caballo se lanzó hacia delante y corrió hacia la puerta.
+
+Penht se volvió para seguirlo.
+Entonces escuchó un crujido.
+Una de las vigas principales había cedido.
+Levantó la vista.
+Y apenas tuvo tiempo de comprender lo que ocurría.
+
+Cuando una parte del techo se desplomó sobre él.
+
+
+
+
+
+
+
+
+
+
+
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+
 
 
 ::: {custom-style="FinalPage"}
