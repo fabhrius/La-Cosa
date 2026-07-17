@@ -661,6 +661,377 @@ Una figura que le resultó inquietantemente familiar.
 &nbsp;
 :::
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+
+
+## Capítulo 3 - Conocimiento.
+
+
+::: {custom-style="PartTitle"}
+Parte 1 - La visión
+:::
+
+::: {custom-style="ChapterStart"}
+
+El cristal ya no mostraba las páginas del libro.
+Las cifras y las anotaciones habían desaparecido por completo tras aquella extraña niebla blanca que ahora llenaba el interior de la esfera.
+La niebla continuó moviéndose lentamente.
+Girando sobre sí misma.
+Como nubes empujadas por un viento invisible.
+Y poco a poco comenzó a despejarse.
+
+:::
+
+
+
+Primero aparecieron sombras.
+Después formas.
+Y finalmente una escena completa.
+Dahg contuvo la respiración.
+
+Estaba observando la calle principal de Drywind.
+La reconoció inmediatamente.
+La avenida comercial.
+Las fachadas de las casas.
+La fuente de piedra situada junto a la plaza.
+Todo estaba allí.
+Y entonces se vio a sí mismo.
+
+La impresión fue tan intensa que se apartó de golpe de la mesa.
+Durante unos segundos permaneció inmóvil.
+Observando.
+Incapaz de comprender.
+El hombre que aparecía dentro de la esfera era él.
+No existía ninguna duda.
+Su misma ropa.
+Su mismo sombrero.
+Su misma forma de caminar.
+
+La escena mostraba el momento en que cerraba las puertas de la almoneda al final de la jornada.
+
+El sol estaba descendiendo sobre el horizonte.
+Las sombras eran largas.
+Y la luz tenía ese color rojizo característico de los últimos momentos de la tarde.
+Dahg volvió a acercarse lentamente.
+La imagen era imposible.
+
+En la calle aparecía también la señora Alhat.
+
+La anciana aguardaba sentada sobre el pescante de su carreta, tirada por la vieja mula que utilizaba para transportar mercancías entre Drywind y los pueblos vecinos.
+Dahg observó cómo su otro yo se acercaba.
+Intercambiaban algunas palabras.
+Después subía a la carreta y ambos partían juntos por la avenida principal.
+
+La carreta avanzó lentamente hasta el final de la avenida.
+Allí se detuvo junto a la casa de Omhp.
+
+El viejo granjero salió al camino.
+Parecía estar conversando con ellos.
+Los tres permanecieron hablando durante varios minutos.
+Luego la carreta continuó avanzando.
+
+La imagen cambió.
+Ahora mostraba el camino que conducía hacia el río.
+Las sombras se habían alargado todavía más.
+El viaje parecía desarrollarse con normalidad.
+Hasta que sucedió algo extraño.
+
+Un intenso relámpago cruzó el cielo.
+
+Incluso dentro de la esfera el destello resultó impresionante.
+Y en ese mismo instante la mula se detuvo.
+
+Simplemente dejó de caminar.
+Dahg observó cómo la señora Alhat tiraba de las riendas.
+Después cómo descendía de la carreta.
+Su otro yo también bajaba.
+Ambos parecían intentar convencer al animal para que continuara avanzando.
+
+Pero la mula permanecía inmóvil.
+
+Como una estatua.
+La escena continuó durante largo rato.
+Finalmente vio cómo se despedía de la señora Alhat.
+Después reanudaba el viaje a pie.
+
+La esfera volvió a cambiar.
+Ahora mostraba la granja de Penht.
+
+El joven apareció saliendo de uno de los establos.
+Dahg sonrió al reconocerlo.
+Apreciaba a Penht como si fuera el hijo que nunca había tenido.
+
+Los dos conversaron unos momentos.
+Luego Penht señaló hacia el camino.
+Finalmente ambos subieron a la carreta del muchacho y continuaron juntos hacia el río.
+
+La visión avanzó una vez más.
+Y apareció el muelle.
+Dahg sintió un escalofrío.
+Conocía perfectamente aquel lugar.
+Allí era donde debía embarcar dentro de unos días para viajar a Próspera.
+Observó cómo la carreta se acercaba.
+Cada vez más.
+Hasta que el río apareció ante ellos.
+Y entonces lo vio.
+
+El barco estaba alejándose del embarcadero.
+Las velas desplegadas.
+La corriente empujándolo lentamente río abajo.
+
+Dentro de la esfera, Dahg permaneció inmóvil contemplando cómo la embarcación se alejaba.
+
+Después pareció decir algo a Penht.
+Los dos permanecieron allí durante unos instantes.
+Y finalmente dieron media vuelta.
+La carreta se alejó del muelle.
+La imagen comenzó a desvanecerse.
+Las formas perdieron nitidez.
+
+Y poco después la niebla blanca volvió a llenar el interior del cristal.
+Dahg permaneció inmóvil.
+Con la mirada fija sobre la esfera.
+Intentando comprender qué acababa de presenciar.
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="PartTitle"}
+Parte 2 - El significado
+:::
+
+Durante varios minutos, Dahg permaneció sentado frente a la mesa sin apartar la vista de la esfera.
+
+La niebla había desaparecido.
+El cristal volvía a ser completamente transparente.
+Como si nada hubiera ocurrido.
+Como si la extraña visión hubiera sido una simple ilusión provocada por el cansancio.
+
+Pero Dahg sabía que no era así.
+Había reconocido cada lugar.
+Cada persona.
+Cada detalle.
+Aquello no podía ser una casualidad.
+Y cuanto más pensaba en ello, más evidente le parecía la respuesta.
+
+La esfera estaba mostrando el futuro.
+
+Sintió un escalofrío.
+La idea era absurda.
+Imposible.
+Y, sin embargo, explicaba perfectamente lo que acababa de ver.
+No eran recuerdos.
+Ni eran sueños.
+Eran acontecimientos que todavía no habían sucedido.
+
+Se levantó de la silla y comenzó a caminar lentamente por la habitación.
+Intentando ordenar sus pensamientos.
+
+Dentro de unos días debía viajar a Próspera.
+Todo estaba preparado.
+Había comprado el pasaje. Había organizado el viaje.
+Y el escribano lo esperaba para redactar los documentos necesarios para la venta de los terrenos heredados.
+
+Aquella operación era una de las piezas más importantes de sus planes.
+Con ese dinero ampliaría el negocio.
+Adquiriría nuevas mercancías. Buscaría clientes en otros lugares.
+Y aprovecharía al máximo las posibilidades que le ofrecía la nueva carreta.
+Por primera vez en muchos años sentía que avanzaba hacia algo mejor.
+
+Y ahora la esfera le mostraba que perdería el barco.
+
+Se detuvo junto a la ventana.
+Observó la oscuridad que cubría las calles del pueblo.
+
+Perder el barco significaría perder el pasaje.
+Pero eso era lo de menos.
+Lo verdaderamente grave sería el retraso.
+Tal vez el escribano no pudiera recibirlo de nuevo hasta semanas más tarde.
+Tal vez la venta se aplazara durante meses.
+Quizá incluso hasta el año siguiente.
+
+La idea le produjo una profunda inquietud.
+
+No era un hombre joven.
+Había pasado décadas construyendo aquel negocio.
+Décadas ahorrando moneda tras moneda.
+Y aunque rara vez lo admitía en voz alta, comenzaba a sentir el peso de los años.
+No quería seguir esperando.
+No quería posponer una vez más los cambios que había planeado durante tanto tiempo.
+
+Necesitaba que las cosas avanzaran.
+Necesitaba que el futuro comenzara por fin.
+
+Volvió a mirar la esfera.
+Y entonces algo cambió en su forma de pensar.
+
+La preocupación desapareció poco a poco.
+Sustituida por una sensación completamente distinta.
+
+Ventaja.
+
+Porque la visión mostraba algo que todavía no había ocurrido.
+Y eso significaba que aún podía actuar.
+
+Comprendió de inmediato cuál era el verdadero valor de aquella información.
+
+La esfera no le había mostrado una desgracia inevitable.
+Le había mostrado un problema antes de que sucediera.
+Una advertencia.
+Una oportunidad.
+Una posibilidad de corregir sus errores antes de cometerlos.
+
+Una lenta sonrisa apareció en su rostro.
+Ahora conocía la causa del retraso.
+La conversación con Omhp.
+Los problemas con la mula de la señora Alhat.
+Las demoras durante el trayecto.
+Todo estaba ahí.
+Todo podía evitarse.
+
+Se acercó a la mesa.
+Apoyó una mano sobre el cristal.
+Y se sintió tranquilo.
+
+—No voy a perder ese barco —murmuró.
+
+Después observó nuevamente la esfera.
+Inmóvil.
+Silenciosa.
+Inofensiva.
+
+Y pensó que quizá acababa de realizar la mejor compra de toda su vida.
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="PartTitle"}
+Parte 3 - El plan
+:::
+
+
+La respuesta era evidente.
+
+No necesitaba cambiar grandes cosas.
+Solo debía evitar los retrasos.
+Nada más.
+
+Volvió a sentarse junto a la mesa y repasó mentalmente la visión una vez más.
+La conversación con Omhp.
+La carreta de la señora Alhat.
+La mula detenida junto al camino.
+Cada demora había añadido unos minutos al viaje.
+Minutos que finalmente le habían costado el barco.
+
+Pero ahora conocía el problema.
+Y conocer el problema era el primer paso para resolverlo.
+
+La señora Alhat solía ofrecerle transporte hasta el muelle cuando sus viajes coincidían.
+Era una buena vecina y siempre estaba dispuesta a ayudar.
+Sin embargo, su vieja mula podía ser imprevisible.
+A veces se detenía sin motivo aparente, o se negaba a cruzar un puente, o avanzar por determinados caminos.
+Dahg debería haber tenido aquello en cuenta desde el principio.
+
+Pero aún estaba a tiempo de corregirlo.
+Hablaría con ella al día siguiente.
+Le agradecería su ofrecimiento.
+Y le explicaría que prefería realizar el trayecto caminando.
+Después de todo, la distancia no era tan grande.
+Podía recorrerla perfectamente a pie.
+
+Y si evitaba perder tiempo durante el trayecto, llegaría al muelle con margen suficiente.
+
+Tampoco se detendría a conversar con Omhp.
+El viejo granjero era un hombre amable, pero disfrutaba de las conversaciones largas.
+Aquella vez tendría que disculparse y continuar caminando.
+Así de sencillo.
+
+Cuanto más pensaba en ello, más convencido estaba de que funcionaría.
+La visión le había mostrado exactamente dónde se encontraba el problema.
+Y él acababa de encontrar la solución.
+
+Una sensación de alivio comenzó a reemplazar la preocupación que había sentido momentos antes.
+
+Después de todo, tampoco era una cuestión de vida o muerte.
+Ni se estaba incendiando el pueblo.
+
+Solo se trataba de llegar a tiempo a un barco.
+Nada más.
+Y ahora que conocía los obstáculos, no tenía ninguna razón para fracasar.
+
+Finalmente apagó la lámpara.
+Se acostó.
+Y durmió mejor de lo que habría imaginado.
+
+Durante los días siguientes apenas volvió a pensar en la esfera.
+
+Cumplió con sus obligaciones habituales.
+Atendió a los clientes.
+Ordenó mercancías.
+Preparó documentos.
+Y organizó todo lo necesario para el viaje.
+
+Tal y como había decidido, habló con la señora Alhat y rechazó amablemente su ayuda.
+La anciana pareció sorprendida, pero no insistió.
+Los preparativos continuaron.
+Y los días pasaron.
+Hasta que finalmente llegó la fecha señalada.
+
+La tarde del viaje transcurrió con aparente normalidad.
+Dahg revisó por última vez sus documentos.
+Comprobó que llevaba consigo el dinero necesario.
+Y se aseguró de que nada quedara pendiente en la tienda.
+
+Solo entonces, cuando estaba a punto de marcharse, sintió regresar una pequeña inquietud.
+
+No era miedo.
+Ni tampoco duda.
+Solo una incómoda sensación que no lograba explicar.
+
+Permaneció unos segundos inmóvil junto a la puerta.
+Recordando la visión.
+Recordando el barco alejándose por el río.
+Recordando la extraña niebla que había llenado el cristal.
+
+Todo aquello ya no importaba.
+
+Había previsto los retrasos.
+Había tomado precauciones.
+Había corregido el problema.
+
+Llegaré a tiempo, se dijo.
+
+Fuera, el sol comenzaba a descender hacia el horizonte.
+Algunas nubes oscuras se acumulaban lentamente en la distancia.
+
+Tomó su sombrero.
+Abrió la puerta.
+La cerró tras de sí.
+
+Y comenzó a caminar hacia el muelle.
+
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
 
 ::: {custom-style="FinalPage"}
 
