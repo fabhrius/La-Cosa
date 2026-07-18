@@ -163,7 +163,7 @@ Muchos de ellos realmente creían que los objetos que se acumulaban en la almone
 :::
 
 ::: {custom-style="Illustration"}
-![](img/cap1-1.png){ width=100% }
+![](img/acto1-cap1.png){ width=100% }
 :::
 
 ::: {custom-style="IlustrationCaption"}
@@ -395,7 +395,7 @@ Porque mas allá de su belleza decorativa, al verlo en accion el objeto adquirí
 :::
 
 ::: {custom-style="Illustration"}
-![](img/cap1-2.png){ width=100% }
+![](img/acto1-cap2.png){ width=100% }
 :::
 
 ::: {custom-style="IlustrationCaption"}
@@ -1036,7 +1036,7 @@ Y comenzó a caminar hacia el muelle.
 :::
 
 
-## Acto II
+# Acto II
 
 
 > "Muchas veces no existe una solución perfecta.
@@ -1050,7 +1050,7 @@ Y comenzó a caminar hacia el muelle.
 :::
 
 
-# Capítulo 1 - Omhp.
+## Capítulo 1 - Omhp.
 
 ::: {custom-style="PartTitle"}
 Parte 1 - Dahg inicia la marcha.
@@ -1817,14 +1817,422 @@ Y apenas tuvo tiempo de comprender lo que ocurría.
 Cuando una parte del techo se desplomó sobre él.
 
 
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 
 
+# Acto 3
+
+> "Algunas veces, algo que parece un problema, 
+> es en realidad la solución de otro problema que aún no hemos visto."
+
+> — Fabhrius
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 
+## Capítulo 1 - Lo Oculto.
 
 
+::: {custom-style="PartTitle"}
+Parte 1 - Tiempo después
+:::
 
+::: {custom-style="ChapterStart"}
+
+Habían pasado tres semanas desde el día del incendio.
+El pueblo recuperaba poco a poco su ritmo habitual mientras comenzaban los trabajos de reconstrucción de los edificios dañados.
+
+:::
+
+
+Dahg todavía caminaba con cierta dificultad debido a una lesión en la rodilla que ya empezaba a superar.
+
+Más difícil de superar estaba resultando la ausencia de sus amigos.
+Y especialmente la de Penht.
+
+La venta del terreno había quedado suspendida.
+Retomaría las gestiones, posiblemente, en la próxima primavera.
+
+Ahora necesitaba tiempo y tranquilidad.
+
+Aquella mañana se sentía con más energía.
+Decidió poner orden en la tienda.
+Mover algunos muebles.
+Limpiar.
+Dar mejor aspecto a los objetos expuestos.
+
+Pasó así varias horas reorganizando mercancías y retirando el polvo acumulado, hasta que su atención se posó sobre la bola de cristal.
+
+Continuaba exactamente donde la había dejado aquella noche.
+No había vuelto a tocarla desde entonces.
+Pensó que tal vez podía retomar el trabajo de restauración que había pensado realizar antes de ponerla a la venta.
+
+La tomó entre sus manos.
+La observó detenidamente.
+La giró hacia un lado y hacia el otro.
+Seguía siendo un objeto extraordinario.
+
+Hermoso.
+Intrigante.
+Y profundamente inquietante.
+Lo que había visto aquella noche continuaba sin encontrar explicación.
+
+¿Había mostrado realmente el futuro?
+¿O todo había sido una extraña ilusión nacida de su imaginación?
+
+Sin embargo, había perdido el barco.
+Se había encontrado con Omhp.
+Y el rayo había caído exactamente como lo había visto.
+¿Coincidencias?
+Quizás.
+
+Y si la bola mostraba el futuro...
+¿Por qué permanecía ahora en silencio?
+
+Dahg la dejó con cuidado sobre la mesa y se apartó unos pasos.
+El misterio crecía en su imaginación.
+Permaneció observándola.
+Pensando.
+Intentando comprender.
+Y entonces sucedió de nuevo.
+
+Un fino hilo de humo blanco apareció en el interior del cristal.
+Se extendió lentamente.
+Giró sobre sí mismo.
+Y acabó llenando toda la esfera hasta volverla completamente opaca.
+
+Dahg sintió un escalofrío. Aquello le heló la sangre.
+Ahora ya no parecía ser su imaginación.
+
+Y no estaba seguro de querer ver lo que mostraría esta vez.
+
+Pero tampoco pudo apartar la vista.
+
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="PartTitle"}
+Parte 2 - Una nueva visión.
+:::
+
+
+La imagen se hizo más nítida.
+
+Dahg avanzaba despacio por el camino del puente viejo.
+Reconoció el lugar al instante.
+Era la ruta que conducía a Leavebehind, un pequeño pueblo del valle occidental al que viajaba con frecuencia por negocios.
+
+A lo lejos apareció la silueta del puente.
+
+Y sobre él, una carreta.
+
+Dahg sintió una inmediata inquietud.
+Nadie utilizaba aquel puente desde hacía años.
+Las maderas estaban podridas y varias de las vigas habían cedido. Los vecinos preferían recorrer varios kilómetros adicionales antes que arriesgarse a cruzarlo.
+Cuando se acercó comprobó que la situación era todavía peor de lo que parecía.
+
+Una de las ruedas de la carreta había atravesado el entablado y había quedado atrapada entre las vigas.
+
+El caballo ya había sido desenganchado.
+Su dueño esperaba junto al camino observando impotente.
+
+Hablaron unos momentos.
+Despues de eso, ataron una gruesa cuerda entre las dos carretas.
+Dahg avanzó lentamente.
+La cuerda se tensó.
+La carreta atrapada no se movió.
+Volvió a intentarlo.
+La cuerda quedó rígida como una barra de hierro.
+Y de pronto la rueda salió de la trampa.
+
+La carreta se desplazó bruscamente hacia adelante.
+Una de las vigas principales se rompió, el puente entero se inclinó unos centímetros.
+Y las dos carretas quedaron atravesadas sobre la estructura.
+
+Dahg intentó hacer retroceder a su caballo.
+Demasiado tarde.
+El puente seguía cediendo bajo el peso.
+Las tablas se partían una tras otra.
+Comprendió que ya no podría salvar ninguna de las dos.
+
+Corrió hacia el caballo y soltó los arneses.
+
+El animal retrocedió aterrorizado hasta terreno firme.
+Los dos hombres se alejaron apresuradamente.
+Un instante después el puente se derrumbó.
+
+Las dos carretas desaparecieron entre una nube de polvo y astillas.
+
+Veinte metros más abajo, el río Verdastro se las tragó.
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="PartTitle"}
+Parte 3 - ¿Y ahora qué?
+:::
+
+
+La visión se desvaneció tan repentinamente como había aparecido.
+El humo blanco desapareció del interior de la esfera.
+Y el cristal volvió a ser una simple lente de lectura.
+
+Dahg permaneció inmóvil.
+No podía apartar la vista de ella.
+
+Acababa de ver cómo perdía la carreta.
+
+Su carreta.
+La misma por la que había trabajado durante años.
+La misma en la que había invertido todos sus ahorros.
+Sin ella no podría transportar mercancías.
+No podría ampliar el negocio.
+No podría recuperarse de las pérdidas que había sufrido tras el incendio.
+Aquella carreta no era un lujo.
+Era su futuro.
+
+Se levantó lentamente de la silla.
+Comenzó a caminar por la habitación.
+Esto era realmente serio. Una advertencia.
+
+Se alejó de la mesa y continuó trabajando en la tienda durante el resto del día.
+Intentó concentrarse en los clientes.
+Ordenó mercancías.
+Intentó pensar en cualquier otra cosa.
+
+Pero la imagen del puente regresaba una y otra vez.
+La carreta atrapada.
+Las tablas crujiendo.
+El puente cediendo lentamente.
+Su propia carreta desapareciendo en el río.
+
+Aquella noche se acostó más temprano de lo habitual. Y durmió mal.
+Soñó con caminos que se bifurcaban.
+Con decisiones imposibles.
+
+Se despertó sobresaltado antes del amanecer.
+La habitación estaba oscura.
+
+Ya lo había decidido.
+Tenía que deshacerse de aquella cosa.
+No quería volver a ver otra visión.
+No quería volver a preguntarse qué debía cambiar.
+No quería seguir viviendo pendiente de futuros que aún no existían.
+
+Se vistió.
+Bajó a la tienda.
+Y antes incluso de abrir las puertas colocó la esfera de cristal en el escaparate.
+
+Ya no pretendía obtener una gran ganancia.
+Ni siquiera un beneficio.
+Le bastaba con recuperar el dinero que había pagado por ella.
+Quería verla lejos.
+
+Lo antes posible.
+
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="PartTitle"}
+Parte 4 - La venta
+:::
+
+
+Aquella mañana abrió la tienda con los primeros rayos del sol.
+
+Todavía estaba retirando las cubiertas que protegían el escaparate cuando oyó abrirse la puerta.
+
+Un hombre acababa de entrar.
+Vestía ropa de viaje de buena calidad y llevaba una cartera de cuero bajo el brazo.
+Su aspecto era distinguido.
+No parecía un noble, sino un hombre instruido.
+Alguien acostumbrado a trabajar con documentos y libros.
+
+Recorrió la tienda con una rápida mirada y casi de inmediato se detuvo frente a la esfera de cristal.
+
+—¿Puedo verla? —preguntó.
+
+Dahg asintió.
+El visitante tomó el objeto con cuidado.
+Observó los grabados de marfil.
+Examinó el cristal a contraluz.
+Comprobó el estado del soporte.
+Y después sonrió con evidente satisfacción.
+Parecía conocer perfectamente aquella clase de instrumentos.
+
+Explicó que era escribano.
+Procedía de Fogliempilate, una ciudad situada muy al sur, en la región de Mezzapianta.
+Viajaba por negocios.
+Aquella misma tarde partiría hacia Pomagrande siguiendo la ruta comercial del río.
+
+Durante varios minutos conversaron sobre mapas, documentos antiguos, rutas mercantiles y métodos de copia.
+
+Era un hombre culto.
+Educado.
+Y extraordinariamente agradable.
+Dahg disfrutó de la conversación.
+
+Sin embargo, había algo que lo inquietaba.
+
+Apenas habían pasado unas horas desde que decidió deshacerse de la esfera.
+Y ahora tenía delante exactamente al comprador que necesitaba.
+Un hombre con dinero.
+Con conocimientos suficientes para apreciar el objeto.
+Con una necesidad real de utilizarlo.
+Y además un viajero que abandonaría la región aquel mismo día.
+
+Era, en todos los sentidos posibles, el cliente perfecto.
+Aquello debía ser una coincidencia.
+Sin duda lo era.
+Pero resultaba una coincidencia extrañamente oportuna.
+
+Finalmente el hombre dejó la esfera sobre el mostrador.
+
+—¿Cuál es su precio? —preguntó.
+
+Solo entonces Dahg dudó.
+Su mirada descendió hacia el cristal.
+Recordó el humo blanco. Las imágenes. El incendio. El puente.
+La sensación de estar observando algo que ningún ser humano debería conocer.
+¿Debía venderla?
+
+Aquella pregunta no tenía una respuesta sencilla.
+No sabía qué era realmente la esfera.
+No sabía cómo funcionaba.
+Ni siquiera estaba seguro de que fuese peligrosa.
+
+Después de todo, la esfera no había provocado el incendio.
+Ni había derribado el puente.
+Solo había mostrado algo.
+Información.
+Nada más.
+
+Y la información no era buena ni mala por sí misma.
+
+Todo dependía de lo que cada persona decidiera hacer con ella.
+Quizá, en manos adecuadas, aquel objeto podría resultar útil.
+Quizá incluso beneficioso.
+
+Dahg apoyó ambas manos sobre el mostrador.
+Miró al escribano.
+Y respondió:
+
+—¿Cuánto cree usted que vale?
+
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="PartTitle"}
+Parte 5 - Futuro imperfecto.
+:::
+
+En los días siguientes la rutina volvió a envolver la almoneda con su ritmo continuo, predecible y confortable.
+
+La vida recuperó poco a poco su aspecto habitual.
+Las semanas se transformaron en meses.
+El otoño llegó y se marchó.
+Después vino el invierno.
+Y casi sin darse cuenta, Dahg recibió la primavera.
+
+Había conocido durante el invierno al propietario de la almoneda de Aguasfrías, un pueblo situado dos jornadas al oeste.
+
+Tras varias conversaciones habían acordado una asociación comercial.
+
+Cada año intercambiarían las mercancías que no conseguían vender en sus respectivos pueblos, ofreciendo así los productos a nuevos compradores.
+
+La idea parecía prometedora.
+Y Dahg necesitaba nuevas oportunidades.
+
+Parecía este un buen momento del año para viajar hasta Aguasfrías e intercambiar mercaderías con su nuevo socio. 
+Así que una mañana cargó su carreta con varias piezas cuidadosamente seleccionadas, algo de comida para el viaje y abandonó Drywind antes del amanecer.
+
+El clima era agradable.
+No había nubes en el cielo.
+Y durante varias horas avanzó tranquilamente por los caminos del oeste.
+
+Al acercarse a la zona montañosa, el bosque comenzó a rodear el camino.
+Los árboles proyectaban una agradable sombra sobre la ruta.
+El viaje estaba resultando mejor de lo esperado.
+
+Y poco antes del mediodía llegó al puente viejo.
+
+Entonces se detuvo.
+
+Sobre el puente había una carreta.
+
+Dahg sintió un escalofrío.
+Reconoció la escena de inmediato.
+La había visto antes.
+En el interior de una esfera de cristal.
+
+Permaneció inmóvil observando.
+Una de las ruedas había atravesado el entablado.
+La carreta estaba atrapada.
+Al otro lado apareció un hombre desconocido que se acercó apresuradamente.
+
+El caballo ya había sido liberado.
+Pero la carreta seguía sobre el puente.
+Exactamente igual que en la visión.
+
+El hombre llegó hasta él.
+Su expresión reflejaba preocupación.
+
+—¡Por favor! ¡Ayúdame! La rueda ha quedado atrapada entre las tablas. Si no consigo sacarla la perderé.
+
+Dahg no respondió.
+Miró el puente.
+Después miró la carreta del desconocido.
+Y finalmente dirigió la vista hacia la suya.
+
+La carreta nueva.
+La carreta por la que había trabajado durante años.
+
+El desconocido volvió a hablar.
+Esta vez con más urgencia.
+
+—¿Me ayudará?
+
+Dahg permaneció inmóvil.
+Miró al hombre.
+Miró la carreta atrapada.
+
+Y después volvió a mirar la suya.
 
 
 ::: {custom-style="Separator"}
@@ -1836,10 +2244,7 @@ Cuando una parte del techo se desplomó sobre él.
 :::
 
 
-
-
 ::: {custom-style="FinalPage"}
-
 
 Fin del relato
 
