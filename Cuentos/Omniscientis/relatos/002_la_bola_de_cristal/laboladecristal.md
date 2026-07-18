@@ -804,6 +804,15 @@ Intentando comprender qué acababa de presenciar.
 &nbsp;
 :::
 
+::: {custom-style="Illustration"}
+![](img/acto1-cap3.png){ width=100% }
+:::
+
+::: {custom-style="IlustrationCaption"}
+✧ La Vision ✧
+:::
+
+
 ::: {custom-style="PartTitle"}
 Parte 2 - El significado
 :::
@@ -941,8 +950,10 @@ Y conocer el problema era el primer paso para resolverlo.
 
 La señora Alhat solía ofrecerle transporte hasta el muelle cuando sus viajes coincidían.
 Era una buena vecina y siempre estaba dispuesta a ayudar.
+
 Sin embargo, su vieja mula podía ser imprevisible.
 A veces se detenía sin motivo aparente, o se negaba a cruzar un puente, o avanzar por determinados caminos.
+
 Dahg debería haber tenido aquello en cuenta desde el principio.
 
 Pero aún estaba a tiempo de corregirlo.
@@ -1380,6 +1391,14 @@ Contemplando con horror desde la distancia cómo Drywind comenzaba a arder.
 &nbsp;
 :::
 
+::: {custom-style="Illustration"}
+![](img/acto2-cap1.png){ width=100% }
+:::
+
+::: {custom-style="IlustrationCaption"}
+✧ Desde la distancia ✧
+:::
+
 ::: {custom-style="PageBreak"}
 &nbsp;
 :::
@@ -1576,6 +1595,14 @@ Fuera de control.
 &nbsp;
 :::
 
+::: {custom-style="Illustration"}
+![](img/acto2-cap2.png){ width=100% }
+:::
+
+::: {custom-style="IlustrationCaption"}
+✧ Una carreta fuera de control ✧
+:::
+
 ::: {custom-style="PartTitle"}
 Parte 4 - Una carreta fuera de control.
 :::
@@ -1763,6 +1790,14 @@ Desmontó. Ató el caballo a una cerca. Y fue a reunirse con los demás.
 
 ::: {custom-style="PageBreak"}
 &nbsp;
+:::
+
+::: {custom-style="Illustration"}
+![](img/acto2-cap3.png){ width=100% }
+:::
+
+::: {custom-style="IlustrationCaption"}
+✧ El incendio ✧
 :::
 
 ::: {custom-style="PartTitle"}
@@ -1990,6 +2025,14 @@ Veinte metros más abajo, el río Verdastro se las tragó.
 
 ::: {custom-style="PageBreak"}
 &nbsp;
+:::
+
+::: {custom-style="Illustration"}
+![](img/acto3-cap1.png){ width=100% }
+:::
+
+::: {custom-style="IlustrationCaption"}
+✧ La carreta y el puente ✧
 :::
 
 ::: {custom-style="PartTitle"}
@@ -2229,7 +2272,9 @@ Esta vez con más urgencia.
 —¿Me ayudará?
 
 Dahg permaneció inmóvil.
+
 Miró al hombre.
+
 Miró la carreta atrapada.
 
 Y después volvió a mirar la suya.
