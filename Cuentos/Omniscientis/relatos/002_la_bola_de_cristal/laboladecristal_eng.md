@@ -1816,7 +1816,7 @@ And went to join the others.
 :::
 
 ::: {custom-style="IlustrationCaption"}
-✧ El incendio ✧
+✧ The fire ✧
 :::
 
 ::: {custom-style="PartTitle"}
@@ -1915,69 +1915,104 @@ The village was slowly returning to its usual rhythm as reconstruction work bega
 
 
 Dahg was still walking with some difficulty because of a knee injury that was finally beginning to heal.
+
 Much harder to overcome was the absence of his friends.
 And especially that of Penht.
+
 The sale of the land had been put on hold.
 He would resume the arrangements, perhaps, the following spring.
+
 For now, he needed time and peace of mind.
+
 That morning, he felt more energetic.
 He decided to put the shop in order.
 Move some furniture.
 Clean.
 Give the displayed items a better appearance.
+
 He spent several hours reorganizing merchandise and removing the accumulated dust, until his attention fell upon the crystal ball.
+
 It remained exactly where he had left it that night.
 He had not touched it since then.
 He thought that perhaps he could resume the restoration work he had planned to carry out before putting it up for sale.
+
 He picked it up.
 He examined it carefully.
 Turned it from side to side.
 It was still an extraordinary object.
+
 Beautiful.
 Intriguing.
 And deeply unsettling.
 What he had seen that night still had no explanation.
+
 Had it truly shown the future?
 Or had everything been nothing more than a strange illusion created by his own imagination?
+
 And yet, he had missed the riverboat.
 He had encountered Omhp.
 And the lightning had struck exactly as he had seen.
 Coincidences?
 Perhaps.
+
 And if the crystal ball showed the future...
 Why was it silent now?
+
 Dahg carefully placed it back on the table and stepped away.
 The mystery grew in his mind.
 He remained there, watching it.
 Thinking.
 Trying to understand.
 And then it happened again.
+
 A thin thread of white smoke appeared inside the crystal.
 It slowly spread.
 Swirled around itself.
 And eventually filled the entire sphere, turning it completely opaque.
+
 Dahg felt a chill run through him.
 The sight sent a cold shiver down his spine.
 Now it no longer seemed like a creation of his imagination.
+
 And he was not sure he wanted to see what it would show him this time.
+
 But he could not look away.
 
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
+::: {custom-style="PartTitle"}
 Part 2 – A New Vision
+:::
+
+
+
+
 The image became clearer.
+
 Dahg was moving slowly along the road toward the old bridge.
 He recognized the place immediately.
 It was the route leading to Leavebehind, a small village in the western valley that he often visited for business.
+
 In the distance, the silhouette of the bridge appeared.
+
 And on it, a wagon.
+
 Dahg felt an immediate sense of unease.
 No one had used that bridge for years.
 The wooden planks were rotten, and several of the beams had already given way. The villagers preferred to travel several additional miles rather than risk crossing it.
 As he approached, he realized the situation was even worse than it had seemed.
+
 One of the wagon wheels had broken through the wooden decking and become trapped between the beams.
+
 The horse had already been unhitched.
 Its owner stood beside the road, watching helplessly.
+
 They spoke for a few moments.
 After that, they tied a thick rope between the two wagons.
 Dahg moved forward slowly.
@@ -1986,29 +2021,57 @@ The trapped wagon did not move.
 He tried again.
 The rope became rigid as an iron bar.
 And suddenly, the wheel came free.
+
 The wagon lurched violently forward.
 One of the main beams snapped, the entire bridge tilted several inches.
 And the two wagons were left stranded across the structure.
+
 Dahg tried to make his horse move backward.
 Too late.
 The bridge continued collapsing under the weight.
 The planks broke one after another.
 He understood that he could no longer save either wagon.
+
 He ran toward the horse and released the harness.
+
 The animal backed away in terror onto solid ground.
 The two men hurried away.
 A moment later, the bridge collapsed.
+
 The two wagons vanished beneath a cloud of dust and splintered wood.
+
 Twenty meters below, the Verdastro River swallowed them whole.
 
 
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="Illustration"}
+![](img/acto3-cap1.png){ width=100% }
+:::
+
+::: {custom-style="IlustrationCaption"}
+✧ The wagon and the bridge ✧
+:::
+
+::: {custom-style="PartTitle"}
 Part 3 – What Now?
+:::
+
 The vision vanished as suddenly as it had appeared.
 The white smoke disappeared from inside the sphere.
 And the crystal became nothing more than a simple reading lens once again.
+
 Dahg remained motionless.
 He could not take his eyes away from it.
+
 He had just seen himself lose the wagon.
+
 His wagon.
 The very one he had worked for years to obtain.
 The one into which he had invested all his savings.
@@ -2017,51 +2080,75 @@ He would not be able to expand his business.
 He would not be able to recover from the losses he had suffered after the fire.
 That wagon was not a luxury.
 It was his future.
+
 He slowly rose from the chair.
 And began walking around the room.
 This was serious.
 A warning.
+
 He stepped away from the table and continued working in the shop for the rest of the day.
 He tried to focus on his customers.
 He organized merchandise.
 He tried to think about anything else.
+
 But the image of the bridge kept returning again and again.
 The trapped wagon.
 The creaking planks.
 The bridge slowly collapsing.
 His own wagon disappearing into the river.
+
 That night he went to bed earlier than usual.
 And he slept poorly.
 He dreamed of roads that divided into different paths.
 Of impossible choices.
+
 He woke suddenly before dawn.
 The room was dark.
+
 He had already made his decision.
 He had to get rid of that thing.
 He did not want to see another vision.
 He did not want to wonder again what he should change.
 He did not want to continue living at the mercy of futures that did not yet exist.
+
 He dressed.
 Went downstairs to the shop.
 And even before opening the doors, he placed the crystal sphere in the display window.
+
 He was no longer trying to make a large profit.
 Not even to earn anything from it.
 It was enough if he could recover the money he had paid for it.
 He wanted it gone.
+
 As soon as possible.
 
 
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="PartTitle"}
 Part 4 – The Sale
+:::
+
 That morning he opened the shop with the first rays of sunlight.
+
 He was still removing the covers that protected the display window when he heard the door open.
+
 A man had just entered.
 He wore high-quality traveling clothes and carried a leather portfolio under one arm.
 His appearance was distinguished.
 He did not look like a nobleman, but rather like an educated man.
 Someone accustomed to working with documents and books.
+
 He glanced around the shop and almost immediately stopped in front of the crystal sphere.
-“May I see it?” he asked.
+
+— May I see it? —he asked—.
+
 Dahg nodded.
 The visitor picked up the object carefully.
 He examined the ivory carvings.
@@ -2069,28 +2156,37 @@ Held the crystal up to the light.
 Checked the condition of the base.
 Then he smiled with clear satisfaction.
 He seemed to know this kind of instrument perfectly.
+
 He explained that he was a scribe.
 He came from Fogliempilate, a city far to the south, in the region of Mezzapianta.
 He was traveling on business.
 That very afternoon he would continue on to Pomagrande, following the river trade route.
+
 For several minutes they spoke about maps, ancient documents, merchant routes, and methods of copying manuscripts.
+
 He was a cultured man.
 Well-mannered.
 And extraordinarily pleasant.
 Dahg enjoyed the conversation.
+
 And yet, something troubled him.
+
 Only a few hours had passed since he had decided to get rid of the sphere.
 And now, standing before him, was exactly the kind of buyer he needed.
 A man with money.
 With enough knowledge to appreciate the object.
 With a genuine reason to use it.
 And, on top of that, a traveler who would be leaving the region that very day.
+
 He was, in every possible sense, the perfect customer.
 It had to be a coincidence.
 There was no doubt about that.
 But it was a strangely convenient coincidence.
+
 Finally, the man placed the sphere back on the counter.
-“What is your price?” he asked.
+
+— What is your price? —he asked—.
+
 Only then did Dahg hesitate.
 His gaze fell upon the crystal.
 He remembered the white smoke.
@@ -2099,75 +2195,141 @@ The fire.
 The bridge.
 The feeling of witnessing something no human being should ever know.
 Should he sell it?
+
 That question had no simple answer.
 He did not know what the sphere truly was.
 He did not know how it worked.
 He was not even certain that it was dangerous.
+
 After all, the sphere had not caused the fire.
 Nor had it brought down the bridge.
 It had only shown something.
 Information.
 Nothing more.
+
 And information was neither good nor bad by itself.
+
 Everything depended on what each person chose to do with it.
 Perhaps, in the right hands, the object could be useful.
 Perhaps even beneficial.
+
 Dahg placed both hands on the counter.
 He looked at the scribe.
 And answered:
-“How much do you believe it is worth?”
+
+— How much do you believe it is worth?
 
 
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="PartTitle"}
 Part 5 – An Imperfect Future
+:::
+
+
+
 In the days that followed, routine once again surrounded the auction house with its continuous, predictable, and comforting rhythm.
+
 Life slowly returned to its usual appearance.
 Weeks turned into months.
 Autumn came and went.
 Then winter arrived.
 And almost without realizing it, Dahg welcomed the arrival of spring.
+
 During the winter, he had met the owner of the auction house in Aguasfrías, a village located two days’ journey to the west.
+
 After several conversations, they had agreed to form a business partnership.
+
 Each year, they would exchange the merchandise they were unable to sell in their respective villages, offering those products to new buyers.
+
 The idea seemed promising.
 And Dahg needed new opportunities.
+
 It seemed like the right time of year to travel to Aguasfrías and exchange goods with his new partner.
 So one morning, he loaded his wagon with several carefully selected pieces, packed some food for the journey, and left Drywind before dawn.
+
 The weather was pleasant.
 There were no clouds in the sky.
 And for several hours he traveled peacefully along the western roads.
+
 As he approached the mountainous region, the forest began to surround the path.
 The trees cast a pleasant shade over the road.
 The journey was turning out better than expected.
+
 And shortly before midday, he reached the old bridge.
+
 Then he stopped.
+
 There was a wagon on the bridge.
+
 Dahg felt a chill run through him.
 He recognized the scene immediately.
 He had seen it before.
 Inside a crystal sphere.
+
 He remained motionless, watching.
 One of the wheels had broken through the wooden decking.
 The wagon was trapped.
 From the other side, an unknown man appeared and hurried toward him.
+
 The horse had already been released.
 But the wagon remained on the bridge.
 Exactly as it had appeared in the vision.
+
 The man reached him.
 His expression showed concern.
-“Please! Help me! The wheel is trapped between the planks. If I cannot get it out, I will lose it.”
+
+— Please! Help me! The wheel is trapped between the planks. If I cannot get it out, I will lose it.
+
 Dahg did not answer.
 He looked at the bridge.
 Then he looked at the stranger’s wagon.
 And finally, he turned his eyes toward his own.
+
 The new wagon.
 The wagon he had worked for years to obtain.
+
 The stranger spoke again.
 This time with greater urgency.
-“Will you help me?”
+
+— Will you help me?
+
+&nbsp;
+&nbsp;
+
+
 Dahg remained still.
+
 He looked at the man.
+
 He looked at the trapped wagon.
+
 And then he looked back at his own.
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+
+::: {custom-style="FinalPage"}
+
+Fin del relato
+
+✦
+
+Omniscientis
+
+:::
 
 
 
