@@ -5,6 +5,7 @@ cd C:\Repo\vida\development\Cuentos\Omniscientis
 pandoc relatos\002_la_bola_de_cristal\laboladecristal.md -o odt\LaBolaDeCristal.odt --reference-doc=plantilla\Omniscientis_V01.odt
 
 
+pandoc relatos\002_la_bola_de_cristal\laboladecristal_eng.md -o odt\LaBolaDeCristal_eng.odt --reference-doc=plantilla\Omniscientis_V01.odt
 
 
 -------------------------------------------

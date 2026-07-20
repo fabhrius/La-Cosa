@@ -1,0 +1,70 @@
+acto 1
+
+encuentra la llave
+conoce el tesoro
+compra el mapa
+inicia la expedicion.
+
+(coste)
+(el tesoro puede no existir)
+-----------------------
+
+
+acto 2
+
+
+pierden el equipo
+
+el puente esta roto
+
+muere uno de ellos
+
+desisten
+
+(coste)
+(derrota - no hay beneficios - hay perdidas)
+--------------------
+
+acto 3
+
+
+vuelven al pueblo
+
+buscan nueva financiacion
+
+alguien abandona el proyecto
+
+inician una nueva expedicion
+
+(coste)
+(recuperar lo perdido - abandonar es aceptar las perdidas)
+(el que mayor beneficio obtiene es el que ha abandonado ahora)
+---------------
+
+
+acto 4
+
+
+traicion
+
+muerte en el desierto
+
+no hay nada en el destino
+
+muere otro socio
+
+el ultimo encuentra la puerta
+
+(otros costes mas alla de los economicos)
+
+-------------
+
+
+acto 5
+
+la boveda
+
+el cuervo
+
+reinicio
+

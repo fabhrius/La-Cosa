@@ -312,17 +312,12 @@ Parte 1 - Una lente de lectura
 :::
 
 ::: {custom-style="ChapterStart"}
-
 Dahg señaló una mesa de trabajo situada al fondo de la tienda.
 &nbsp; &nbsp;
 —Por aquí, si es tan amable.
 &nbsp; &nbsp;
 La mujer asintió y lo siguió entre los estrechos pasillos formados por estanterías y montones de antigüedades.
-
 :::
-
-
-
 
 Ahora que podía observarla de cerca, Dahg comprendió que no se trataba de una cliente corriente.
 
@@ -916,7 +911,6 @@ Después observó nuevamente la esfera.
 Inmóvil.
 Silenciosa.
 Inofensiva.
-
 Y pensó que quizá acababa de realizar la mejor compra de toda su vida.
 
 ::: {custom-style="Separator"}
@@ -1603,6 +1597,10 @@ Fuera de control.
 ✧ Una carreta fuera de control ✧
 :::
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
 ::: {custom-style="PartTitle"}
 Parte 4 - Una carreta fuera de control.
 :::
@@ -1632,7 +1630,6 @@ El incendio duplicó su tamaño en cuestión de segundos.
 Y entonces, las construcciones vecinas comenzaron a arder.
 
 No muy lejos de allí, junto a la curva del camino que conducía al muelle, Dahg intentaba adivinar lo que estaba sucediendo.
-
 Observando con horror la escena desde el suelo.
 
 
