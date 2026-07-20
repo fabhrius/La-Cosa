@@ -314,7 +314,7 @@ Parte 1 - Una lente de lectura
 ::: {custom-style="ChapterStart"}
 Dahg señaló una mesa de trabajo situada al fondo de la tienda.
 &nbsp; &nbsp;
-—Por aquí, si es tan amable.
+— Por aquí, si es tan amable.
 &nbsp; &nbsp;
 La mujer asintió y lo siguió entre los estrechos pasillos formados por estanterías y montones de antigüedades.
 :::
@@ -1268,7 +1268,7 @@ Le pareció una buena idea.
 :::
 
 ::: {custom-style="PartTitle"}
-Parte 4 - El trueno.
+Parte 4 - El sonido del trueno.
 :::
 
 
@@ -1505,7 +1505,7 @@ Sin preocupaciones.
 
 
 ::: {custom-style="PartTitle"}
-Parte 3 - El trueno.
+Parte 3 - El sonido del trueno.
 :::
 
 La señora Alhat llegó al almacén poco después.
