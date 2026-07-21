@@ -6,7 +6,7 @@ version: 1.0
 ---
 
 ::: {custom-style="Illustration"}
-![](img/portada.jpg){ width=100% }
+![](img/The Crystal Ball_cover_eng.jpg){ width=100% }
 :::
 
 
@@ -297,10 +297,6 @@ Then she carefully placed the bundle upon the wood and said:
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
-:::
-
-::: {custom-style="PageBreak"}
-&nbsp;
 :::
 
 ::: {custom-style="PageBreak"}
@@ -658,10 +654,6 @@ A figure that seemed disturbingly familiar.
 &nbsp;
 :::
 
-::: {custom-style="PageBreak"}
-&nbsp;
-:::
-
 
 
 
@@ -814,6 +806,9 @@ Trying to understand what he had just witnessed.
 ✧ The Vision ✧
 :::
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 ::: {custom-style="PartTitle"}
 Part 2 – The Meaning
@@ -1657,9 +1652,7 @@ Watching the scene in horror from the ground.
 &nbsp;
 :::
 
-::: {custom-style="PageBreak"}
-&nbsp;
-:::
+
 
 
 ## Chapter 3 – Penht
@@ -1817,6 +1810,10 @@ And went to join the others.
 
 ::: {custom-style="IlustrationCaption"}
 ✧ The fire ✧
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
 :::
 
 ::: {custom-style="PartTitle"}
@@ -2057,6 +2054,10 @@ Twenty meters below, the Verdastro River swallowed them whole.
 
 ::: {custom-style="IlustrationCaption"}
 ✧ The wagon and the bridge ✧
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
 :::
 
 ::: {custom-style="PartTitle"}

@@ -6,7 +6,7 @@ version: 1.0
 ---
 
 ::: {custom-style="Illustration"}
-![](img/portada.jpg){ width=100% }
+![](img/La Bola de Cristal_portada_esp.jpg){ width=100% }
 :::
 
 
@@ -301,9 +301,7 @@ Luego apoyó cuidadosamente el paquete sobre la madera y dijo:
 &nbsp;
 :::
 
-::: {custom-style="PageBreak"}
-&nbsp;
-:::
+
 
 ## Capítulo 2 - Una Pieza Única.
 
@@ -347,7 +345,7 @@ Dahg no necesitó examinarla detenidamente para comprender que aquella pieza hab
 
 La mujer observó la expresión del comerciante y esbozó una leve sonrisa.
 
-—No es un objeto decorativo —explicó—. Aunque la mayoría de las personas creen que lo es.
+— No es un objeto decorativo —explicó—. Aunque la mayoría de las personas creen que lo es.
 
 Colocó un libro abierto sobre la mesa y situó la pieza encima.
 
@@ -361,7 +359,7 @@ Las pequeñas líneas de escritura aparecieron ampliadas dentro del cristal con 
 Cada letra parecía más nítida. Más definida. Más fácil de leer.
 Era un efecto tan sorprendente que por un instante resultaba difícil creer que no hubiera algún truco oculto.
 
-—Es una lente de lectura —dijo la mujer—. Fue construida para facilitar el trabajo de escribanos, estudiosos y copistas.
+— Es una lente de lectura —dijo la mujer—. Fue construida para facilitar el trabajo de escribanos, estudiosos y copistas.
 
 Dahg observó el instrumento con renovado interés.
 Ahora ya no veía únicamente una pieza hermosa.
@@ -414,20 +412,20 @@ La pieza parecía antigua.
 
 No mostraba daños importantes, pero el desgaste acumulado en algunas zonas revelaba que había pasado por muchas manos a lo largo de los años. En los rincones más profundos de los grabados aún quedaban restos de polvo oscuro que el tiempo había depositado allí lentamente.
 
-—¿Sabe quién la fabricó? —preguntó Dahg.
+— ¿Sabe quién la fabricó? —preguntó Dahg.
 
 La mujer negó con la cabeza.
 
-—No.
+— No.
 
-—¿Y de dónde procede?
+— ¿Y de dónde procede?
 
-—Tampoco lo sé.
+— Tampoco lo sé.
 
 Aquella respuesta sorprendió al comerciante.
 La mujer pareció advertirlo.
 
-—La compré hace aproximadamente un año, en un mercado de antigüedades de Próspera. El vendedor tampoco conocía su origen. Según me explicó, había pertenecido a otro comerciante antes que él. Y ese comerciante la había obtenido de otra persona.
+— La compré hace aproximadamente un año, en un mercado de antigüedades de Próspera. El vendedor tampoco conocía su origen. Según me explicó, había pertenecido a otro comerciante antes que él. Y ese comerciante la había obtenido de otra persona.
 
 Dahg asintió lentamente.
 
@@ -457,11 +455,11 @@ Valía mucho dinero.
 Quizá demasiado para lo que podía permitirse en aquel momento.
 Aun así decidió intentarlo.
 
-—¿Cuánto pide por ella?
+— ¿Cuánto pide por ella?
 
 La mujer respondió inmediatamente.
 
-—Diez monedas.
+— Diez monedas.
 
 Su tono fue seco y definitivo.
 Como si la decisión hubiera sido tomada mucho antes de entrar en la tienda.
@@ -500,9 +498,9 @@ Las recogió inmediatamente.
 Guardó el dinero.
 Y se puso en pie.
 
-—Ha sido un placer hacer negocios con usted, maese Dahg.
+— Ha sido un placer hacer negocios con usted, maese Dahg.
 
-—Igualmente, señora.
+— Igualmente, señora.
 
 La mujer inclinó ligeramente la cabeza.
 Luego se dirigió hacia la puerta.
@@ -656,9 +654,6 @@ Una figura que le resultó inquietantemente familiar.
 &nbsp;
 :::
 
-::: {custom-style="PageBreak"}
-&nbsp;
-:::
 
 
 
@@ -807,6 +802,9 @@ Intentando comprender qué acababa de presenciar.
 ✧ La Vision ✧
 :::
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 ::: {custom-style="PartTitle"}
 Parte 2 - El significado
@@ -905,7 +903,7 @@ Se acercó a la mesa.
 Apoyó una mano sobre el cristal.
 Y se sintió tranquilo.
 
-—No voy a perder ese barco —murmuró.
+— No voy a perder ese barco —murmuró.
 
 Después observó nuevamente la esfera.
 Inmóvil.
@@ -1130,13 +1128,13 @@ Pero descartó la idea inmediatamente.
 Omhp era un buen vecino. Y además parecía preocupado.
 Así que se acercó unos pasos y esperó.
 
-—Buenas tardes, Dahg.
+— Buenas tardes, Dahg.
 
-—Buenas tardes, Omhp.
+— Buenas tardes, Omhp.
 
 El granjero apoyó ambas manos sobre la cerca y suspiró.
 
-—Me preguntaba si podrías darme tu opinión sobre un problema que estoy teniendo.
+— Me preguntaba si podrías darme tu opinión sobre un problema que estoy teniendo.
 
 Dahg escuchó con atención.
 
@@ -1144,7 +1142,7 @@ Omhp le explicó que durante las últimas semanas había descubierto numerosos t
 Ahora también había encontrado madrigueras de marmotas.
 Los animales estaban dañando las raíces de algunos cultivos y comenzaban a representar una amenaza para la cosecha.
 
-—Recuerdo que el año pasado tuviste algo parecido —dijo Omhp—. Pensé que quizá sabrías qué hacer.
+— Recuerdo que el año pasado tuviste algo parecido —dijo Omhp—. Pensé que quizá sabrías qué hacer.
 
 Dahg asintió lentamente.
 Era cierto.
@@ -1155,20 +1153,20 @@ Y también comprendía que aquella conversación podía prolongarse mucho más d
 Miró brevemente hacia el camino.
 Después volvió a mirar a Omhp.
 
-—Me gustaría ayudarte ahora mismo —respondió—, pero debo llegar al muelle antes de las nueve. Esta noche sale el barco hacia Próspera y no puedo perderlo.
+— Me gustaría ayudarte ahora mismo —respondió—, pero debo llegar al muelle antes de las nueve. Esta noche sale el barco hacia Próspera y no puedo perderlo.
 
 El granjero pareció decepcionado.
 Solo un poco.
 
-—Lo entiendo.
+— Lo entiendo.
 
-—Mañana por la tarde regresaré y veremos el problema juntos. Revisaremos los campos y pensaremos una solución.
+— Mañana por la tarde regresaré y veremos el problema juntos. Revisaremos los campos y pensaremos una solución.
 
 La expresión de Omhp se suavizó.
 
-—Te lo agradecería.
+— Te lo agradecería.
 
-—No te preocupes. Lo resolveremos.
+— No te preocupes. Lo resolveremos.
 
 Los dos hombres intercambiaron unas últimas palabras.
 Después se estrecharon la mano.
@@ -1238,7 +1236,7 @@ Más inquieto de lo habitual.
 Movía las orejas. Sacudía la cabeza.
 Y golpeaba el suelo con los cascos con impaciencia.
 
-—¿Qué te ocurre hoy? —murmuró el granjero.
+— ¿Qué te ocurre hoy? —murmuró el granjero.
 
 Omhp levantó entonces la vista hacia el cielo.
 Las nubes seguían acumulándose sobre las llanuras.
@@ -1301,7 +1299,7 @@ El animal ya no obedecía.
 Había entrado en pánico.
 La carreta se lanzó hacia delante dando violentos saltos sobre el camino.
 
-—¡No!
+— ¡No!
 
 El grito de Omhp se perdió entre el estruendo.
 Dahg se volvió justo a tiempo para ver al caballo abalanzarse sobre él.
@@ -1568,7 +1566,7 @@ La mula dio un salto.
 La anciana tardó un momento en recuperarse.
 Entonces soltó una carcajada.
 
-—¿Te has asustado? —preguntó acariciando el cuello del animal.
+— ¿Te has asustado? —preguntó acariciando el cuello del animal.
 
 La mula resopló.
 Y aquello la hizo reír todavía más.
@@ -1641,9 +1639,6 @@ Observando con horror la escena desde el suelo.
 &nbsp;
 :::
 
-::: {custom-style="PageBreak"}
-&nbsp;
-:::
 
 ## Capitulo 3 - Penht.
 
@@ -1795,6 +1790,10 @@ Desmontó. Ató el caballo a una cerca. Y fue a reunirse con los demás.
 
 ::: {custom-style="IlustrationCaption"}
 ✧ El incendio ✧
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
 :::
 
 ::: {custom-style="PartTitle"}
@@ -2032,6 +2031,10 @@ Veinte metros más abajo, el río Verdastro se las tragó.
 ✧ La carreta y el puente ✧
 :::
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
 ::: {custom-style="PartTitle"}
 Parte 3 - ¿Y ahora qué?
 :::
@@ -2120,7 +2123,7 @@ Alguien acostumbrado a trabajar con documentos y libros.
 
 Recorrió la tienda con una rápida mirada y casi de inmediato se detuvo frente a la esfera de cristal.
 
-—¿Puedo verla? —preguntó.
+— ¿Puedo verla? —preguntó.
 
 Dahg asintió.
 El visitante tomó el objeto con cuidado.
@@ -2158,7 +2161,7 @@ Pero resultaba una coincidencia extrañamente oportuna.
 
 Finalmente el hombre dejó la esfera sobre el mostrador.
 
-—¿Cuál es su precio? —preguntó.
+— ¿Cuál es su precio? —preguntó.
 
 Solo entonces Dahg dudó.
 Su mirada descendió hacia el cristal.
@@ -2187,7 +2190,7 @@ Dahg apoyó ambas manos sobre el mostrador.
 Miró al escribano.
 Y respondió:
 
-—¿Cuánto cree usted que vale?
+— ¿Cuánto cree usted que vale?
 
 
 ::: {custom-style="Separator"}
@@ -2253,7 +2256,7 @@ Exactamente igual que en la visión.
 El hombre llegó hasta él.
 Su expresión reflejaba preocupación.
 
-—¡Por favor! ¡Ayúdame! La rueda ha quedado atrapada entre las tablas. Si no consigo sacarla la perderé.
+— ¡Por favor! ¡Ayúdame! La rueda ha quedado atrapada entre las tablas. Si no consigo sacarla la perderé.
 
 Dahg no respondió.
 Miró el puente.
@@ -2266,7 +2269,12 @@ La carreta por la que había trabajado durante años.
 El desconocido volvió a hablar.
 Esta vez con más urgencia.
 
-—¿Me ayudará?
+— ¿Me ayudará?
+
+
+&nbsp;
+&nbsp;
+
 
 Dahg permaneció inmóvil.
 
