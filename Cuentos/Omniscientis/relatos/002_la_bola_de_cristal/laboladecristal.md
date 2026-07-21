@@ -47,6 +47,12 @@ excepto en los casos permitidos por la legislación aplicable.
 &nbsp;
 :::
 
+
+
+::: {custom-style="IconCenterPage"}
+![](img/simbolo_icono.png){ width=7% }
+:::
+
 ::: {custom-style="PageBreak"}
 &nbsp;
 :::
@@ -105,6 +111,12 @@ Y esta historia, comienza exactamente allí.
 ::: {custom-style="PageBreak"}
 &nbsp;
 :::
+
+
+::: {custom-style="IconCenterPage"}
+![](img/simbolo_icono.png){ width=7% }
+:::
+
 
 ::: {custom-style="PageBreak"}
 &nbsp;
@@ -1034,6 +1046,10 @@ Y comenzó a caminar hacia el muelle.
 &nbsp;
 :::
 
+::: {custom-style="IconCenterPage"}
+![](img/simbolo_icono.png){ width=7% }
+:::
+
 ::: {custom-style="PageBreak"}
 &nbsp;
 :::
@@ -1856,6 +1872,10 @@ Cuando una parte del techo se desplomó sobre él.
 &nbsp;
 :::
 
+::: {custom-style="IconCenterPage"}
+![](img/simbolo_icono.png){ width=7% }
+:::
+
 ::: {custom-style="PageBreak"}
 &nbsp;
 :::
@@ -2305,4 +2325,6 @@ Omniscientis
 :::
 
 
-
+::: {custom-style="IconCenterPage"}
+![](img/simbolo_icono.png){ width=7% }
+:::

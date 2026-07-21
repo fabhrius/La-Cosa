@@ -48,6 +48,10 @@ except as permitted by applicable law.
 &nbsp;
 :::
 
+::: {custom-style="IconCenterPage"}
+![](img/simbolo_icono.png){ width=7% }
+:::
+
 ::: {custom-style="PageBreak"}
 &nbsp;
 :::
@@ -99,6 +103,10 @@ And this story begins exactly there.
 
 ::: {custom-style="PageBreak"}
 &nbsp;
+:::
+
+::: {custom-style="IconCenterPage"}
+![](img/simbolo_icono.png){ width=7% }
 :::
 
 ::: {custom-style="PageBreak"}
@@ -655,9 +663,6 @@ A figure that seemed disturbingly familiar.
 :::
 
 
-
-
-
 ## Chapter 3 – Knowledge
 
 
@@ -675,8 +680,6 @@ Like clouds driven by an invisible wind.
 And little by little, it began to clear.
 
 :::
-
-
 
 
 First came shadows.
@@ -1039,6 +1042,10 @@ And began walking toward the dock.
 
 ::: {custom-style="PageBreak"}
 &nbsp;
+:::
+
+::: {custom-style="IconCenterPage"}
+![](img/simbolo_icono.png){ width=7% }
 :::
 
 ::: {custom-style="PageBreak"}
@@ -1877,6 +1884,10 @@ Before part of the roof collapsed onto him.
 &nbsp;
 :::
 
+::: {custom-style="IconCenterPage"}
+![](img/simbolo_icono.png){ width=7% }
+:::
+
 ::: {custom-style="PageBreak"}
 &nbsp;
 :::
@@ -2332,5 +2343,7 @@ Omniscientis
 
 :::
 
-
+::: {custom-style="IconCenterPage"}
+![](img/simbolo_icono.png){ width=7% }
+:::
 
