@@ -7,6 +7,8 @@ inicia la expedicion.
 
 (coste)
 (el tesoro puede no existir)
+(nuestros deseos y la interpretacion de la informacion)
+
 -----------------------
 
 
