@@ -3,10 +3,9 @@ acto 1
 encuentra la llave
 conoce el tesoro
 compra el mapa
-inicia la expedicion.
+el pacto
 
-(coste)
-(el tesoro puede no existir)
+
 (nuestros deseos y la interpretacion de la informacion)
 
 -----------------------
@@ -14,12 +13,13 @@ inicia la expedicion.
 
 acto 2
 
+inicia la expedicion.
 
-pierden el equipo
+la tormenta - pierden el equipo
 
-el puente esta roto
+el puente esta roto - la ruta es inaccesible
 
-muere uno de ellos
+asumen demasiado riesgo - muere uno de ellos
 
 desisten
 
