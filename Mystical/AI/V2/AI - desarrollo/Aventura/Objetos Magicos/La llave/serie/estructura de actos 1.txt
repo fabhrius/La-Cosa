@@ -1,4 +1,4 @@
-acto 1
+acto 1 (la illusion)
 
 encuentra la llave
 conoce el tesoro
@@ -6,12 +6,13 @@ compra el mapa
 el pacto
 
 
-(nuestros deseos y la interpretacion de la informacion)
+(tema : nuestros deseos y la interpretacion de la informacion)
+(objetivo: pone en marcha la accion)
 
 -----------------------
 
 
-acto 2
+acto 2 (la realidad)
 
 inicia la expedicion.
 
@@ -25,9 +26,14 @@ desisten
 
 (coste)
 (derrota - no hay beneficios - hay perdidas)
+
+(final - muerte de ghim)
+
+(tema: el plan imaginado - y la realidad - o diferencia entre espectativas y realidad)
+(objetivo: pierden en una apuesta mas de lo que querian arriesgar  - aun asi se niegan a aceptar la derrota y continuan apostando)
 --------------------
 
-acto 3
+acto 3 (todo o nada)
 
 
 vuelven al pueblo
@@ -41,10 +47,16 @@ inician una nueva expedicion
 (coste)
 (recuperar lo perdido - abandonar es aceptar las perdidas)
 (el que mayor beneficio obtiene es el que ha abandonado ahora)
+
+(final - robo)
+
+(tema: costes hundidos - cuando no podemos aceptar las perdidas - psicologia del riesgo)
+(objetivo: la trampa - quien cree que pierde si abandona)
+
 ---------------
 
 
-acto 4
+acto 4 (desgaste moral)
 
 
 traicion
@@ -59,10 +71,14 @@ el ultimo encuentra la puerta
 
 (otros costes mas alla de los economicos)
 
+(final - la puerta)
+
+(tema: diferencia entre perseverancia y obstinacion)
+(objetivo: 
 -------------
 
 
-acto 5
+acto 5 (el destino)
 
 la boveda
 
@@ -70,3 +86,5 @@ el cuervo
 
 reinicio
 
+(tema: conclusion - tiempo de saldar la deuda)
+(objetivo: giro inesperado - final fatal - continuidad del misterio - final abierto)
