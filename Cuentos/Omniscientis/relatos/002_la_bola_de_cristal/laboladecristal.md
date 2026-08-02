@@ -1055,7 +1055,7 @@ Y comenzó a caminar hacia el muelle.
 :::
 
 
-# Acto II
+# Acto 2
 
 
 > "Muchas veces no existe una solución perfecta.
