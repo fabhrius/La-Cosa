@@ -6,7 +6,7 @@ version: 1.0
 ---
 
 ::: {custom-style="Illustration"}
-![](img/La Llave_portada_esp.jpg){ width=100% }
+![](img/la_llave/portada_ESP.jpg){ width=100% }
 :::
 
 
@@ -62,7 +62,110 @@ excepto en los casos permitidos por la legislación aplicable.
 
 
 
-Incluir un prologo aqui.
+
+Decisiones.
+
+
+La vida nos obliga a decidir.
+Lo hace todos los días.
+
+
+Elegimos un camino.
+Confiamos en una persona.
+Aceptamos un trabajo.
+Cruzamos un océano.
+Construimos una familia.
+Perseguimos un sueño.
+
+
+Y sólo mucho después descubrimos si aquella decisión era correcta.
+
+
+Resulta extraño.
+
+
+Porque antes de actuar jamás conocemos toda la verdad.
+Nunca vemos el mapa completo.
+
+
+Siempre falta algo.
+
+
+Una conversación que nunca ocurrió.
+Un peligro oculto.
+Una oportunidad que todavía no existe.
+Una consecuencia que sólo será visible cuando ya resulte imposible regresar.
+
+
+Vivimos rodeados de información incompleta.
+
+
+Y allí donde termina el conocimiento...
+comienza la imaginación.
+
+
+Entonces llenamos los espacios vacíos con esperanzas.
+Con miedos.
+Con recuerdos.
+Con deseos.
+
+
+Poco a poco dejamos de distinguir qué parte de aquello que creemos pertenece realmente al mundo... y qué parte pertenece únicamente a nosotros.
+
+
+Quizá por eso las grandes equivocaciones nunca parecen equivocaciones mientras las estamos cometiendo.
+
+
+Al contrario.
+
+
+Suelen parecer decisiones perfectamente razonables.
+
+
+Porque cada paso se justifica con el anterior.
+Y cuando finalmente comprendemos que el camino era equivocado...
+descubrimos otra dificultad.
+
+
+Volver atrás también tiene un precio.
+
+
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+
+
+Tal vez el misterio no consista en averiguar qué ocurrirá mañana.
+
+
+Tal vez el verdadero misterio sea otro.
+
+
+&nbsp;
+
+
+## ¿Cómo tomar decisiones cuando la realidad siempre está incompleta?
+
+
+&nbsp;
+
+
+&nbsp;
+
+
+
+El relato que sigue sucedió hace mucho tiempo, en un pequeño pueblo llamado Oldwood.
+
+
+Allí hubo una vez una granja. 
+
+
+Y esta historia comienza exactamente allí.
+
+
+
 
 
 ::: {custom-style="PageBreak"}
@@ -109,6 +212,8 @@ Pero tampoco era pobre.
 
 
 Tenía suficiente para vivir.
+
+
 Y en aquellos tiempos, aquello era una fortuna.
 
 
@@ -957,10 +1062,14 @@ Mientras que, la llave de hierro, silenciosa sobre la mesa, parecía observarlos
 
 
 
-# Acto 2 - Realidad.
+# Acto 2 - La Realidad
 
 
-> "El mundo que imaginamos y el mundo que habitamos rara vez son el mismo."
+> "El mundo que imaginamos 
+> y el mundo que habitamos 
+
+> rara vez son el mismo."
+
 
 > -Fabhrius
 
@@ -970,10 +1079,10 @@ Mientras que, la llave de hierro, silenciosa sobre la mesa, parecía observarlos
 :::
 
 
-## Capitulo 1 -
+## Capitulo 1 - El Entorno Natural
 
 ::: {custom-style="PartTitle"}
-Parte 1 - La expedición
+Parte 1 - La Expedición
 :::
 
 
@@ -985,25 +1094,40 @@ Compararon los antiguos dibujos con mapas modernos de la región y confeccionaro
 :::
 
 
-
 Identificaron montañas, ríos, bosques y caminos conocidos. Debatieron distintas rutas, calcularon jornadas de viaje y señalaron los lugares más adecuados para acampar. Estimaron el tiempo necesario para cada tramo y planificaron cómo superar los obstáculos que esperaban encontrar.
-Poco a poco dejaron de hablar de una leyenda.
 Empezaron a hablar de una expedición.
+
+
 Según sus cálculos alcanzarían las montañas en dos días. Después deberían abandonar los caminos conocidos e internarse en una región prácticamente inexplorada. Si el mapa era correcto, la bóveda no podía encontrarse mucho más lejos.
-Aquella búsqueda dejó de parecer una fantasía. Se había convertido en un proyecto. Un desafío que podían preparar. Un objetivo que podían alcanzar.
+
+
 El entusiasmo convirtió la espera en una carga difícil de soportar. Cada día que permanecían en Oldwood era un día durante el cual el tesoro seguía oculto bajo las montañas. Cada conversación terminaba hablando de la bóveda, de la llave o del rey Jumphrestebar. La fortuna perdida parecía cada vez más cercana.
+
+
 Preparar la expedición resultó mucho más costoso de lo que habían imaginado.
+
+
 Compraron una carreta capaz de transportar a los seis hombres y todo el equipo necesario para una semana de viaje. Dos caballos fuertes, barriles de agua, sacos de harina, carne salada, herramientas, cuerdas de escalada, mantas, tiendas de campaña, lámparas de aceite y cuanto pudiera resultarles útil en una travesía de la que apenas conocían el destino.
+
 Los ahorros reunidos durante años de trabajo comenzaron a desaparecer uno tras otro. Pero ninguno dudó. Todos estaban convencidos de que aquella inversión sería insignificante comparada con la riqueza que los esperaba al final del camino.
+
+
 Los preparativos ocuparon casi una semana.
 Mientras unos revisaban el equipo, otros reforzaban la carreta, compraban provisiones o resolvían los asuntos que dejarían pendientes en el pueblo. Cuando todo estuvo listo, no quedaba nada más que esperar al amanecer.
+
+
 El alba llegó limpia y luminosa.
 Las lluvias de los días anteriores habían dejado el aire fresco y transparente. Desde el valle podían distinguir con extraordinaria claridad las montañas que se alzaban en el horizonte occidental.
+
+
 Cargaron la carreta.
 Ajustaron las riendas.
 Los caballos comenzaron a avanzar mientras las ruedas crujían sobre el camino de tierra.
 Los seis amigos abandonaron Oldwood convencidos de que se dirigían hacia la mayor fortuna jamás escondida en Lluviara.
+
+
 Ninguno imaginaba lo diferente que era el camino que habían dibujado sobre el mapa del camino que estaban a punto de recorrer.
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -1014,87 +1138,148 @@ Ninguno imaginaba lo diferente que era el camino que habían dibujado sobre el m
 :::
 
 ::: {custom-style="PartTitle"}
-Parte 2 - La tormenta
+Parte 2 - La Tormenta
 :::
 
 
 Al segundo día de viaje alcanzaron la extensa zona pantanosa que rodeaba el río Straripante. Habían recorrido ya casi la mitad del trayecto.
 El paisaje cambió por completo.
+
+
 Los bosques desaparecieron. La tierra firme se volvió escasa. El río se dividía una y otra vez formando incontables brazos que serpenteaban entre el barro. Pequeñas islas de hierba sobresalían entre extensiones de agua oscura que parecían no tener fin.
+
+
 El camino se estrechó hasta convertirse en una franja de tierra apenas más alta que el propio pantano.
+
+
 Poco a poco quedaron rodeados por agua y juncos en todas direcciones. Desde cualquier punto el paisaje parecía idéntico. Sin conocer el sendero resultaba fácil caminar durante horas sin acercarse a ninguna parte. El gran pantano era un inmenso laberinto del que pocos viajeros salían sin dificultad.
+
+
 El suelo tampoco inspiraba confianza.
-Una mezcla de agua y arcilla formaba un barro espeso y pegajoso que atrapaba las botas a cada paso. Avanzar exigía un esfuerzo constante. Los caballos hundían lentamente sus patas y la carreta crujía mientras sus ruedas luchaban por no quedar atrapadas.
+
+
+Una mezcla de agua y arcilla formaba un barro espeso y pegajoso que atrapaba las botas a cada paso. Avanzar exigía un gran esfuerzo. Los caballos hundían lentamente sus patas y la carreta crujía mientras sus ruedas luchaban por no quedar atrapadas.
 Aun así continuaron.
+
+
 Durante toda la mañana el cielo permaneció despejado. El sol brillaba sobre las aguas inmóviles del pantano y el aire era cálido y húmedo.
 Pero al avanzar la tarde las primeras nubes comenzaron a aparecer por el oeste.
+
+
 Al principio fueron unas pocas manchas oscuras.
 Después una gran masa negra que fue cubriendo lentamente el horizonte.
+
+
 El viento cambió de dirección.
 El aire se volvió pesado.
 Silencioso.
 Inquietante.
 Kempht levantó la vista hacia el cielo.
+
+
 —No me gusta esto.
+
+
 Nadie respondió.
 Aquel no era un lugar donde pasar la noche. Debían atravesar el pantano antes de que oscureciera.
+
+
 Las primeras gotas comenzaron a caer pocos minutos después.
+
+
 Eran pequeñas.
 Dispersas.
 Inofensivas.
 Luego llegaron más.
+
+
 Y más.
+
+
 El viento empezó a soplar con fuerza.
 Los caballos se agitaron.
 Un trueno retumbó a lo lejos.
 Y entonces llegó la tormenta.
+
+
 Fue tan repentina que ninguno tuvo tiempo de reaccionar.
 El cielo desapareció tras una inmensa cortina de nubes negras. Los relámpagos comenzaron a desgarrar la oscuridad mientras los truenos hacían temblar el aire.
 Un instante después el agua empezó a desplomarse sobre ellos con una violencia inimaginable.
+
+
 La lluvia era tan intensa que resultaba difícil mantener los ojos abiertos.
 La visibilidad desapareció.
 Los hombres apenas distinguían las siluetas de sus propios compañeros.
+
+
 —¡Seguid avanzando! —gritó Nohk.
+
+
 Pero cada paso resultaba más difícil que el anterior.
 El río Straripante había comenzado a desbordarse.
+
+
 El agua cubrió primero el camino.
 Después los tobillos.
 Las rodillas.
 Y poco después les llegaba ya a la cintura.
 Nadie podía distinguir dónde terminaba el sendero y dónde comenzaba el río.
+
+
 Tal vez se habían desviado.
 Tal vez el río había invadido todo el pantano.
 Tal vez ambas cosas.
+
+
 El barro desaparecía bajo el agua.
 Los caballos avanzaban con enorme dificultad, luchando en cada paso por liberarse del barro que los sujetaba con fuerza.
 Entonces ocurrió.
+
+
 La rueda delantera de la carreta se hundió bruscamente hasta el eje.
+
+
 Los caballos relincharon y tiraron con todas sus fuerzas.
 Las correas se tensaron.
 La madera crujió.
 Durante unos segundos pareció que lograrían liberarla.
 Pero el terreno cedió bajo el enorme peso de la carga.
+
+
 La segunda rueda comenzó a hundirse también.
 El barro empezó a tragarse lentamente la carreta.
+
+
 Como si el pantano hubiera esperado pacientemente aquel instante.
 Los seis hombres empujaron.
 Cavaron con las manos.
 Intentaron colocar ramas bajo las ruedas.
+
+
 Fue inútil.
+
+
 Cada esfuerzo conseguía únicamente hundirla un poco más.
 Entonces comprendieron que la habían perdido.
 Descargaron apresuradamente cuanto pudieron rescatar.
 Cada hombre cargó sobre sus hombros lo que fue capaz de transportar.
 El resto quedó atrás.
+
 Nohk se volvió una última vez.
 Apenas podía distinguir la carreta entre la lluvia.
 Un relámpago iluminó fugazmente el pantano.
 Durante un instante contempló cómo el barro terminaba de tragarse la carreta, junto con las provisiones, las herramientas y buena parte de todo aquello que habían reunido durante semanas de trabajo.
 Después volvió la oscuridad.
+
+
 La lluvia caía sobre ellos con una fuerza implacable.
 El barro intentaba arrancarles las botas.
 Caminaron durante un rato luchando por escapar del pantano.
+
+
 Finalmente alcanzaron una elevación rocosa que sobresalía entre las aguas.
+
+
 Permanecieron allí, en silencio, esperando.
 Cuando la noche llegó, la lluvia había cesado.
 Frente a ellos se extendía una inmensa laguna oscura.
@@ -1103,6 +1288,8 @@ Donde unas horas antes existía un camino ahora sólo quedaba agua.
 Nadie podía señalar dónde había quedado la carreta.
 Ni los caballos.
 Ni el sendero que los había conducido hasta allí.
+
+
 El pantano había borrado toda huella de su paso.
 
 ::: {custom-style="Separator"}
@@ -1126,56 +1313,103 @@ El pantano había borrado toda huella de su paso.
 :::
 
 ::: {custom-style="PartTitle"}
-Parte 3 - El puente
+Parte 3 - El Puente
 :::
 
 
 Los días siguientes fueron mucho más difíciles.
+
+
 Sin la carreta, cada hombre debía transportar sobre la espalda todo cuanto había conseguido salvar de la tormenta. Las provisiones se habían reducido considerablemente. El avance era lento y agotador. Al caer la noche apenas les quedaban fuerzas para levantar el campamento.
 El entusiasmo con el que habían abandonado Oldwood comenzaba a desvanecerse.
+
+
 Finalmente alcanzaron la región montañosa.
 Según sus cálculos, el lugar señalado por el mapa ya no podía encontrarse muy lejos. Quizá cincuenta millas. Tal vez menos. Después de todo lo ocurrido, el final del viaje parecía al alcance de la mano.
 Fue entonces cuando llegaron al borde del acantilado.
+
+
 El camino terminaba allí.
+
+
 Ante ellos se abría una inmensa garganta de roca que descendía cientos de metros hasta el cauce del río. Las paredes caían casi en vertical, lisas y oscuras. Muy abajo, el agua golpeaba las rocas con un estruendo continuo que ascendía hasta ellos convertido en un eco lejano.
+
+
 Todos buscaron con la vista el puente.
+
+
 No estaba.
 Sólo permanecían los restos de los antiguos pilares de piedra, aferrados a ambos extremos del precipicio. El puente colgante que aparecía dibujado en el mapa había desaparecido hacía mucho tiempo. Quizá había cedido durante una tormenta. Quizá había sido destruido en alguna guerra olvidada. Ya no importaba.
+
+
 La ruta había dejado de existir.
+
+
 Nadie habló.
 Cada uno permanecía inmóvil contemplando el vacío, como si esperara descubrir una solución oculta entre las paredes del acantilado.
 Durante varios minutos sólo se escuchó el rugido del río.
 Johf fue el primero en romper el silencio.
+
+
 —Se acabó.
+
+
 Nadie discutió aquellas palabras.
 Habían perdido la carreta.
 Los caballos.
 Gran parte de las provisiones.
 Y ahora el propio camino.
+
+
 Regresar a Oldwood significaba aceptar que todo aquel esfuerzo no había servido para nada.
+
+
 Nohk continuaba observando el precipicio.
 Después habló.
+
+
 —Yo no voy a volver.
+
+
 Su voz sonó extrañamente serena.
+
+
 —Hemos llegado demasiado lejos para detenernos ahora.
+
+
 Nadie respondió de inmediato.
-La frase quedó suspendida en el aire.
 Todos comprendían el peligro.
 Pero también comprendían el peso de cuanto habían perdido para llegar hasta allí.
 Fue Kempht quien señaló la pared del acantilado.
+
+
 —Si logramos bajar hasta el río... quizá podamos subir por la otra ladera.
+
+
 Todos miraron hacia donde apuntaba.
+
+
 La pared era casi vertical.
 La roca apenas ofrecía lugares donde apoyar los pies.
 Un error significaría una caída de cientos de metros.
 Era una locura.
+
+
 Y, sin embargo, comenzaron a estudiarla como si fuera una posibilidad razonable.
+
+
 Al cabo de un rato tomaron la decisión.
 Descenderían por el acantilado.
 Cruzarían el río.
 Y tratarían de escalar la pared opuesta.
+
+
 Ninguno habría aceptado un riesgo semejante antes de iniciar la expedición.
+
+
 Ahora les parecía una alternativa posible.
+
+
 El umbral de lo aceptable se había desplazado. 
 
 
@@ -1192,7 +1426,7 @@ El umbral de lo aceptable se había desplazado.
 
 
 
-## Capitulo 2 -
+## Capitulo 2 - Una Decisión
 
 
 ::: {custom-style="PartTitle"}
@@ -1210,11 +1444,17 @@ No siempre lo hacía.
 
 Fragmentos de piedra se desprendían bajo sus pies y desaparecían en el vacío. Pasaban varios segundos antes de que el eco de los impactos ascendiera desde el fondo del barranco.
 Nadie hablaba. Sólo se oía el silbido del viento, el roce áspero de las cuerdas contra la pared y, muy abajo, el rugido del río.
+
+
 Cuando por fin alcanzaron la base del acantilado, el sol ya comenzaba a caer.
 El río corría encajonado entre dos murallas de roca. No era ancho, apenas veinte metros, pero la corriente era brutal. El agua golpeaba las piedras con una fuerza capaz de romper huesos.
+
+
 Un viejo árbol derribado permitía avanzar hasta casi la mitad del cauce. Después no había más camino.
 Había que lanzarse.
 Johf se ofreció sin vacilar.
+
+
 Se ató una cuerda a la cintura, comprobó el nudo dos veces y esperó. Observó la corriente, respiró hondo y se dejó caer.
 El río lo golpeó como un martillo.
 La corriente lo arrancó de inmediato de su trayectoria y lo arrastró varios metros aguas abajo. Intentó nadar hacia la otra orilla, pero el agua lo empujó contra una roca. Desapareció un instante entre la espuma.
@@ -1223,23 +1463,32 @@ Desde la orilla, los demás sólo podían sujetarla y esperar.
 Johf volvió a emerger tosiendo. Se aferró a una roca, perdió el agarre y la corriente volvió a llevárselo.
 Lo intentó otra vez.
 Y otra.
+
+
 Cuando sus fuerzas parecían agotarse, logró alcanzar un saliente junto a la orilla opuesta. Trepó a él con los últimos restos de energía, avanzó entre las rocas resbaladizas y aseguró la cuerda alrededor del tronco de un árbol.
-Sólo entonces los demás soltaron el aire que llevaban conteniendo.
 Uno por uno comenzaron el cruce, aferrados a la cuerda mientras la corriente trataba de arrancarlos de ella.
 
 
 
-Cuando alcanzaron la base de la pared oriental, el sol comenzaba a ocultarse tras las montañas.
+Cuando alcanzaron la base de la pared oriental, el sol se había ocultado detrás de las montañas.
 Entonces comprendieron la magnitud del obstáculo.
+
+
 La roca se elevaba frente a ellos como una inmensa muralla de granito gris. Trescientos metros de pared casi vertical ascendían hasta perderse en el resplandor anaranjado del atardecer.
 Nadie dijo una palabra.
 Durante varios minutos permanecieron inmóviles, recorriendo la montaña con la mirada, buscando una debilidad que no existía.
+
+
 No había senderos.
 No había cornisas.
 No había una ruta evidente.
 Sólo una inmensa superficie de piedra levantándose hacia el cielo.
 Johf fue el primero en romper el silencio.
+
+
 —Es imposible.
+
+
 Nadie respondió.
 Aquella única palabra resumía cuanto todos pensaban.
 La montaña había vencido.
@@ -1250,63 +1499,124 @@ Habían atravesado el gran pantano.
 Habían perdido la carreta, los caballos y la mayor parte de las provisiones.
 Habían descendido por un acantilado que ningún hombre sensato habría intentado cruzar.
 Y el tesoro estaba, según el mapa, al otro lado de aquella pared.
+
+
 Tan cerca.
+
+
 Nohk dio unos pasos hacia la roca.
 Apoyó la mano sobre el granito frío y comenzó a recorrer la pared con la vista.
+
+
 —Tiene que existir un paso.
+
+
 Nadie discutió aquellas palabras.
 Durante el resto de la tarde examinaron la montaña desde distintos ángulos. Buscaron grietas, salientes, pequeñas cornisas, cualquier irregularidad que pudiera servir para iniciar la escalada.
 Encontraron muy poco.
+
+
 Al caer la noche levantaron un pequeño campamento junto al río.
 Las llamas de la hoguera apenas lograban romper la oscuridad que descendía sobre el valle. Cenaron en silencio, compartiendo las escasas provisiones que les quedaban.
 Después volvieron a mirar la montaña.
+
+
 Seguía allí.
 Inmóvil.
 Indiferente.
 Como si esperara pacientemente a que tomaran una decisión.
+
+
 Nadie consiguió dormir.
 Cada uno permanecía despierto, contemplando la enorme pared de roca iluminada por la luna.
 Sabían que intentar escalarla era una imprudencia.
 También sabían que al amanecer lo intentarían.
+
+
 Porque cuanto más cerca creían estar del tesoro, más insoportable se volvía la idea de regresar con las manos vacías.
 
 
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+
+::: {custom-style="PartTitle"}
+Parte 2 - La Trampa
+:::
+
+
+
 Al amanecer, en cuanto la luz permitió distinguir las grietas de la roca, prepararon las cuerdas, repartieron el equipo y comenzaron la ascensión.
+
+
 Los primeros metros fueron casi fáciles.
 La pared ofrecía buenas presas para manos y pies. Había grietas profundas, pequeñas cornisas y salientes suficientes para avanzar con confianza. La cima parecía cercana. El tesoro, al alcance de la mano.
+
+
 Siguieron subiendo.
 Diez metros más.
 Veinte.
 Cincuenta.
 El río fue quedando abajo. Los árboles se encogieron hasta parecer un manto verde. El viento empezó a soplar con más fuerza.
 Después llegaron los primeros problemas.
+
+
 Las grietas comenzaron a desaparecer. Las cornisas se hicieron estrechas. Cada nuevo movimiento exigía estirar un poco más el cuerpo, buscar a ciegas un apoyo que, a menudo, no existía.
 El avance se volvió desesperadamente lento.
+
+
 Un hombre permanecía inmóvil mientras examinaba la roca durante largos minutos. Cuando por fin encontraba un paso, ascendía apenas unos centímetros y el siguiente ocupaba su lugar.
 Nadie hablaba ya.
 Sólo se escuchaba la respiración agitada, el roce de las botas sobre la piedra y el leve chirrido de las cuerdas tensándose.
 Habían superado el primer centenar de metros cuando comprendieron el alcance de su error.
+
+
 No era que el camino hacia arriba fuese difícil.
 Era que había dejado de existir.
+
+
 El primero quedó detenido frente a un tramo de roca lisa. Buscó una grieta. Tanteó con los dedos. Probó una pequeña protuberancia. Se desmoronó al tocarla.
 No había dónde sujetarse.
 Intentó retroceder.
 Entonces descubrió que tampoco podía.
+
+
 Bajar significaba volver a buscar, a ciegas, apoyos que ya no podía ver bajo sus botas. Bastaba un movimiento equivocado para perder el equilibrio.
+
+
 Uno tras otro dejaron de avanzar.
 La columna entera quedó inmóvil.
+
+
 Suspendidos a más de cien metros del suelo.
 Sin espacio para descansar.
 Sin fuerza para permanecer allí durante mucho tiempo.
 Sin un camino para continuar.
+
+
 Y de pronto, 
 aferrados a la roca, suspendidos sobre el vacío, paralizados por el vertigo, 
 nadie pensó en el tesoro.
+
+
 Sólo existía la pared.
 Y el vacío.
+
+
 Comprendieron entonces una verdad insoportable.
+
+
 Ya no estaban escalando la montaña.
+
+
 La montaña los había atrapado.
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -1330,79 +1640,125 @@ La montaña los había atrapado.
 
 
 ::: {custom-style="PartTitle"}
-Parte 2 - Punto de no retorno
+Parte 3 - Punto de No Retorno
 :::
 
 
 
 El viento comenzó a soplar con mayor fuerza.Y todo parecía complicarse.
+
+
 Desde la base, con los pies en la tierra, la escalada había parecido mucho más sencilla.
 Ahora era otra cosa.
+
+
 La cima parecía alejarse cada vez más con el paso del tiempo.
+
+
 Los minutos pasaban y nadie conseguía avanzar un solo paso.
 Seguir aferrados a la roca exigía ya un esfuerzo insoportable.
 
+
 Ghim, el más joven del grupo, consiguió mover una mano. Después encontró otro punto de apoyo para un pie.
 Entonces descubrió un nuevo agarre y avanzó un paso más.
+
+
 Tal vez su vista comenzaba a adaptarse y era capaz de distinguir posibilidades que antes habían pasado inadvertidas.
 O quizá era la certeza de que dejar de avanzar significaba caer, tarde o temprano.
+
+
 Comenzó a descubrir pequeñas grietas que los demás no habían visto. Salientes apenas visibles. Irregularidades suficientes para continuar ascendiendo en diagonal.
 Como si la montaña, por fin, empezara a revelar un camino.
 
+
 Avanzó otro paso mientras los demás permanecían inmóviles, cada vez más rígidos.
+
+
 Las grietas formaban una ruta mucho más accesible.
 Ghim comenzó a subir con rapidez.
 
 —¡Por aquí! —gritó.
+
+
 Aquello era exactamente lo que todos necesitaban. Una salida.
 
+
 Ghim continuó ascendiendo, olvidando el vértigo.
-Se movía con una soltura sorprendente a  de cien metros de altura.
-más
+Se movía con una soltura sorprendente a más de cien metros de altura.
+
+
 El resto del grupo lo observaba con atención. Con esperanza.
 En realidad, no había otra opción más que seguirlo. Permanecer inmóviles no era posible para siempre.
+
+
 Johf fue el primero en intentarlo.
 Movió una mano. Luego un pie.
 Avanzó apenas unos centímetros.
 Y allí quedó, tratando de adivinar cuál había sido el siguiente punto de apoyo.
 
+
 Mientras tanto, Ghim seguía subiendo cada vez más deprisa.
 Con la facilidad de alguien que conocía la montaña.
 Con la seguridad de quien sabía exactamente dónde colocar cada mano.
+
+
 Ya estaba varios metros por encima de los demás.
 Y seguía avanzando.
 Un paso.
 Otro.
 Y otro más.
 Entonces ocurrió.
+
+
 De repente.
-Nadie comprendió qué había pasado.
+
+
+Nadie comprendió lo qué había pasado.
+
+
 Sus manos se despegaron de la pared.	
+
+
 Simplemente se soltó.
+
+
 Y cayó.
+
 
 Su cuerpo rebotó contra la pared de granito mientras descendía.
 El golpe produjo un sonido seco.
 Terrible.
 
+
 Los demás lo observaron paralizados. Nadie podía moverse.
 Permanecieron inmóviles.
 Aferrados a la roca.
 Intentando comprender.
+
+
 Ninguno había podido hacer nada para evitarlo.
 
+
 Fue entonces cuando comprendieron algo aterrador.  
+
+
 La muerte estaba mucho más cerca de lo que imaginaban.
 
+
 Y, en un instante, el profundo dolor por la pérdida repentina de un amigo se mezcló con el horror de sentirse esperando, de forma inminente, la misma suerte.
+
 
 Ahora conocían la verdad.
 La realidad rara vez puede controlarse.
 Y nunca se detiene.
 
+
 Atrapados en mitad de la pared. Suspendidos sobre el vacío.
 Ninguno estaba a salvo. 
+
+
 Ninguno tenía garantía alguna de alcanzar la cima.
+
 
 
 ::: {custom-style="Separator"}
