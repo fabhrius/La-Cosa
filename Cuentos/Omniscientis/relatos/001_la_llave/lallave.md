@@ -175,7 +175,16 @@ Y este relato comienza exactamente allí.
 # Acto I - La Leyenda
 
 
-> "Observamos la realidad a través de nuestras expectativas."
+> "La mente teme más a lo desconocido que al error.
+
+> Es por eso que reviste la ignorancia de certeza.
+
+> Y aquello que espera encontrar
+
+> se convierte en  
+
+> el mundo que cree haber visto."
+
 
 > — Fabhrius
 
@@ -1055,10 +1064,17 @@ Mientras que, la llave de hierro, silenciosa sobre la mesa, parecía observarlos
 # Acto 2 - La Realidad
 
 
-> "El mundo que imaginamos 
-> y el mundo que habitamos 
+> "La mente puede recorrer mil senderos.
 
-> rara vez son el mismo."
+> Pero solo los pies descubren las piedras.
+
+> Las verdades más profundas 
+
+> permanecen ocultas a la imaginación.
+
+> Y solo se revelan 
+
+> a quien decide caminar."
 
 
 > -Fabhrius
@@ -1771,7 +1787,16 @@ Ninguno tenía garantía alguna de alcanzar la cima.
 # Acto 3 - Sin Límites
 
 
-> "La perseverancia y la obstinación suelen parecer idénticas mientras la historia está ocurriendo."
+> "Mientras el camino permanece abierto,
+
+> la perseverancia y la obstinación
+
+> visten el mismo rostro.
+
+> Solo el tiempo
+
+> conoce sus verdaderos nombres."
+
 
 > -Fabhrius
 
@@ -2430,8 +2455,10 @@ Ninguno de ellos sintió que estuviera cruzando un límite. Y, sin embargo, acab
 # Acto 4 - Corrupción
 
 
-> "Conocimiento antiguo linea 1.
-> linea 2."
+> "Ningún hombre recorre un largo camino sin dejar algo de sí en él. 
+
+> Lo difícil es descubrir, al final, qué fue exactamente lo que quedó atrás."
+
 
 > — Fabhrius
 
