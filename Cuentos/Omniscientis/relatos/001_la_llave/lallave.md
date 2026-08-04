@@ -2035,6 +2035,18 @@ Y eso bastó para que el fracaso dejara de parecer definitivo.
 &nbsp;
 :::
 
+::: {custom-style="Illustration"}
+![](img/la_llave/acto3_cap2.jpg){ width=100% }
+:::
+
+::: {custom-style="IlustrationCaption"}
+✧ En la posada ✧
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
 ::: {custom-style="PartTitle"}
 Parte 2 — ¿Existe realmente el tesoro?
 :::
@@ -3167,16 +3179,22 @@ No podía estar ocurriendo.
 
 
 Corrió hacia la entrada. 
-Empujó con todas sus fuerzas.
-Golpeó el hierro.
-Una vez.
-Otra vez.
-Intentó abrirla.
-Pero la puerta no se movió.
 
+Empujó con todas sus fuerzas.
+
+Golpeó el hierro.
+
+Una vez.
+
+Otra vez.
+
+Intentó abrirla.
+
+Pero la puerta no se movió.
 
 Estaba cerrada. 
 
+&nbsp;
 
 Y ya no era posible abrirla desde dentro.
 
@@ -3185,6 +3203,18 @@ Y ya no era posible abrirla desde dentro.
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="Illustration"}
+![](img/la_llave/acto5_cap1.jpg){ width=100% }
+:::
+
+::: {custom-style="IlustrationCaption"}
+✧ Sin salida ✧
 :::
 
 ::: {custom-style="PageBreak"}
