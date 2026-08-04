@@ -69,92 +69,94 @@ Decisiones.
 La vida nos obliga a decidir.
 Lo hace todos los días.
 
+&nbsp;
 
-Elegimos un camino.
-Confiamos en una persona.
-Aceptamos un trabajo.
-Cruzamos un océano.
-Construimos una familia.
+Elegimos un camino. Confiamos en una persona. Aceptamos un trabajo. Cruzamos un océano. Construimos una familia.
 Perseguimos un sueño.
 
+&nbsp;
 
-Y sólo mucho después descubrimos si aquella decisión era correcta.
+Y sólo después descubrimos si aquella decisión era correcta.
 
+&nbsp;
 
 Resulta extraño.
 
-
 Porque antes de actuar jamás conocemos toda la verdad.
+
 Nunca vemos el mapa completo.
-
-
 Siempre falta algo.
 
+&nbsp;
 
-Una conversación que nunca ocurrió.
-Un peligro oculto.
-Una oportunidad que todavía no existe.
+Una conversación que nunca ocurrió. Un peligro oculto. Una oportunidad que todavía no existe.
+
 Una consecuencia que sólo será visible cuando ya resulte imposible regresar.
 
+&nbsp;
 
 Vivimos rodeados de información incompleta.
 
-
 Y allí donde termina el conocimiento...
+
 comienza la imaginación.
 
+&nbsp;
 
 Entonces llenamos los espacios vacíos con esperanzas.
+
 Con miedos.
+
 Con recuerdos.
+
 Con deseos.
 
+&nbsp;
 
-Poco a poco dejamos de distinguir qué parte de aquello que creemos pertenece realmente al mundo... y qué parte pertenece únicamente a nosotros.
+Poco a poco dejamos de distinguir qué parte de aquello que creemos pertenece realmente al mundo... 
 
+y qué parte pertenece únicamente a nosotros.
+
+&nbsp;
 
 Quizá por eso las grandes equivocaciones nunca parecen equivocaciones mientras las estamos cometiendo.
 
-
 Al contrario.
-
 
 Suelen parecer decisiones perfectamente razonables.
 
 
 Porque cada paso se justifica con el anterior.
+
 Y cuando finalmente comprendemos que el camino era equivocado...
 descubrimos otra dificultad.
 
 
 Volver atrás también tiene un precio.
 
+&nbsp;
 
 Tal vez el misterio no consista en averiguar qué ocurrirá mañana.
 Tal vez el verdadero misterio sea otro.
 
-Un enigma que podría resolverse respondiendo a una única pregunta.
-
+Un enigma que podría resolverse respondiendo a una única pregunta:
 
 > ¿Cómo tomar decisiones cuando la realidad siempre está incompleta?
 
 
+::: {custom-style="PageBreak"}
 &nbsp;
-
-
-&nbsp;
+:::
 
 
 
 La historia que sigue sucedió hace mucho tiempo, en un pequeño pueblo llamado Oldwood.
 
-
 Allí hubo una vez una granja. 
 
+&nbsp;
 
 Y este relato comienza exactamente allí.
-
-
 
 
 
@@ -1085,7 +1087,7 @@ Mientras que, la llave de hierro, silenciosa sobre la mesa, parecía observarlos
 :::
 
 
-## Capitulo 1 - El Entorno Natural
+## Capitulo 1 - Naturaleza
 
 ::: {custom-style="PartTitle"}
 Parte 1 - La Expedición
@@ -1432,7 +1434,7 @@ El umbral de lo aceptable se había desplazado.
 
 
 
-## Capitulo 2 - Una Decisión
+## Capitulo 2 - Decisión
 
 
 ::: {custom-style="PartTitle"}
@@ -1806,10 +1808,10 @@ Ninguno tenía garantía alguna de alcanzar la cima.
 :::
 
 
-## Capítulo 1 -
+## Capítulo 1 - Un nuevo plan
 
 ::: {custom-style="PartTitle"}
-Parte 1 - Una nueva ruta
+Parte 1 - De vuelta en la granja.
 :::
 
 ::: {custom-style="ChapterStart"}
@@ -1827,7 +1829,6 @@ Necesitaba una carreta, caballos, herramientas, provisiones y una larga lista de
 
 La expedición le había costado mucho. Se había llevado todo cuanto tenía.
 Había invertido en ella el poco dinero que había conseguido ahorrar, además de su carreta y sus caballos.
-
 
 Y lo había perdido todo.
 
@@ -1916,7 +1917,7 @@ Solo una cosa había cambiado.
 Hasta hacía unos días contemplaba aquella pequeña granja como un hogar, el lugar donde viviría el resto de su vida.
 
 
-Ahora la observaba como un recurso que todavía podía vender.
+Ahora la observaba como algo que todavía podía vender.
 
 
 ::: {custom-style="Separator"}
@@ -1940,7 +1941,7 @@ Ahora la observaba como un recurso que todavía podía vender.
 :::
 
 
-## Capítulo 2 - 
+## Capítulo 2 - La recompensa justifica el riesgo.
 
 ::: {custom-style="PartTitle"}
 Parte 1 — Una nueva ruta
@@ -2432,7 +2433,9 @@ Ya no sólo habían decidido regresar a las montañas.
 Habían decidido apostar el resto de sus vidas a que el tesoro existía.
 
 
-Ninguno de ellos sintió que estuviera cruzando un límite. Y, sin embargo, acababan de dejar atrás el último que todavía los unía a la vida que habían conocido.
+Ninguno de ellos sintió que estuviera cruzando un límite. 
+
+Y, sin embargo, acababan de dejar atrás el último que todavía los unía a la vida que habían conocido.
 
 
 ::: {custom-style="Separator"}
@@ -2452,12 +2455,14 @@ Ninguno de ellos sintió que estuviera cruzando un límite. Y, sin embargo, acab
 :::
 
 
-# Acto 4 - Corrupción
+# Acto 4 - Erosión
 
 
 > "Ningún hombre recorre un largo camino sin dejar algo de sí en él. 
 
-> Lo difícil es descubrir, al final, qué fue exactamente lo que quedó atrás."
+> Lo difícil es descubrir, al final, 
+
+> qué fue exactamente lo que quedó atrás."
 
 
 > — Fabhrius
@@ -2468,7 +2473,7 @@ Ninguno de ellos sintió que estuviera cruzando un límite. Y, sin embargo, acab
 :::
 
 
-## Capitulo 1 - 
+## Capitulo 1 - Persecución
 
 ::: {custom-style="PartTitle"}
 Parte 1 — La víspera
@@ -2767,7 +2772,7 @@ Sin lucha. Sin discusiones. Sin piedad.
 :::
 
 
-## Capítulo 2 - 
+## Capítulo 2 - El fin del mundo
 
 ::: {custom-style="PartTitle"}
 Parte 1 — El acantilado
@@ -3036,10 +3041,16 @@ Una puerta de hierro, incrustada en la pared de roca.
 :::
 
 
-# Acto 5
+# Acto 5 - El Destino
 
-> "Conocimiento antiguo linea 1.
-> linea 2."
+> "Ninguna elección revela su naturaleza
+
+> en el instante en que nace.
+
+
+> Solo aquello que deja tras de sí
+
+> da testimonio de lo que fue."
 
 > — Fabhrius
 
@@ -3050,7 +3061,7 @@ Una puerta de hierro, incrustada en la pared de roca.
 
 
 
-## Capítulo 1 — El destino
+## Capítulo 1 — La Verdad
 
 ::: {custom-style="PartTitle"}
 Parte 1 — La Bóveda
@@ -3301,12 +3312,16 @@ Omniscientis
 
 ## De la Biblioteca Infinita
 
-La Llave
+Volúmenes catalogados
 
-La Bola de Cristal
+◆ La Llave
 
-La Lámpara
+◆ La Bola de Cristal
 
-La Semilla
+Registros pendientes de catalogación
+
+◇ La Lámpara
+
+◇ La Semilla
 
 :::

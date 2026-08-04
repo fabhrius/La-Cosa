@@ -17,7 +17,7 @@ acto 3 - sin limite
 9- el premio justifica el riesgo
 10- el robo
 
-acto 4 - corrupcion
+acto 4 - erosion
 
 11- el desierto de piedra
 12- el fin del mundo
