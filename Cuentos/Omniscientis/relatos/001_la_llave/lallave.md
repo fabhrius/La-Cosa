@@ -1609,19 +1609,23 @@ Sin un camino para continuar.
 
 
 Y de pronto, 
-aferrados a la roca, suspendidos sobre el vacío, paralizados por el vertigo, 
+aferrados a la roca, paralizados por el vertigo, 
 nadie pensó en el tesoro.
 
 
 Sólo existía la pared.
 Y el vacío.
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 Comprendieron entonces una verdad insoportable.
 
 
 Ya no estaban escalando la montaña.
 
+&nbsp;
 
 La montaña los había atrapado.
 
@@ -2312,8 +2316,12 @@ Nohk continuó hablando, cada vez con más convicción.
 
 Johf comenzó a asentir.
 Kempht también.
+
+
 La idea resultaba extrañamente tranquilizadora.
+
 Convertía las pérdidas en una inversión.
+
 Y la incertidumbre en una promesa.
 
 
@@ -3004,12 +3012,14 @@ La entrada de una cueva. Un túnel que se internaba en las entrañas de la monta
 
 
 Nohk permaneció inmóvil.
+
 Escuchando.
 
 
 No llegaba ningún sonido desde el interior.
 Levantó la lámpara.
 La luz recorrió las paredes de roca.
+
 Avanzó unos metros dentro de la cueva.
 
 
