@@ -1,8 +1,3 @@
-
-
-
-
-
 ---
 # title: The Key
 # author: Tony Fabrico
@@ -11,7 +6,7 @@ version: 1.0
 ---
 
 ::: {custom-style="Illustration"}
-![](img/The Key_cover_eng.jpg){ width=100% }
+![](img/la_llave/cover_ENG.jpg){ width=100% }
 :::
 
 
@@ -62,10 +57,6 @@ except as permitted by applicable law.
 :::
 
 
-
-
-
-
 ## Prologue
 
 &nbsp;
@@ -76,12 +67,23 @@ Decisions.
 &nbsp;
 
 Life forces us to make them.
-
 Every single day.
 
-We choose a path. We trust a stranger. We accept a job. We cross an ocean. We build a family. We chase a dream.
+&nbsp;
+
+
+We choose a path. We trust a stranger. 
+
+We accept a job. We cross an ocean. 
+
+We build a family. We chase a dream.
+
+&nbsp;
+
 
 Only afterward do we discover whether the choice was the right one.
+
+&nbsp;
 
 There is something peculiar about that.
 
@@ -89,15 +91,25 @@ Before we act, we never know the whole truth.
 
 We never see the entire map. There is always something missing.
 
+&nbsp;
+
+
 A conversation that never took place. A hidden danger. An opportunity that does not yet exist.
 
+&nbsp;
+
 A consequence that will remain invisible until the moment it is too late to turn back.
+
+&nbsp;
 
 We live surrounded by incomplete information.
 
 And where knowledge ends...
 
 imagination begins.
+
+&nbsp;
+
 
 So we fill the empty spaces with hope.
 
@@ -107,9 +119,14 @@ With memories.
 
 With desire.
 
+&nbsp;
+
 Little by little, we lose the ability to tell which part of what we believe truly belongs to the world...
 
 and which part exists only within ourselves.
+
+&nbsp;
+
 
 Perhaps that is why our greatest mistakes never feel like mistakes while we are making them.
 
@@ -117,23 +134,37 @@ Quite the opposite.
 
 They usually seem perfectly reasonable.
 
+&nbsp;
+
+
 Each step is justified by the one before it.
 
 And when we finally realize we have been walking the wrong road, we discover another problem.
 
 Turning back has a price as well.
 
-Perhaps the mystery is not discovering what tomorrow will bring.
+&nbsp;
 
+
+Perhaps the mystery is not discovering what tomorrow will bring.
 Perhaps the real mystery is something else entirely.
+
 
 A riddle that might be answered with a single question:
 
-How do you make the right decision when reality is always incomplete?
+> How do you make the right decision when reality is always incomplete?
+
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 The story that follows took place long ago, in a small village called Oldwood.
 
 There once stood a farm there.
+
+&nbsp;
+
 
 And this tale begins at that very place.
 
@@ -2474,7 +2505,8 @@ And that alone was enough for failure to no longer seem final.
 :::
 
 ::: {custom-style="PartTitle"}
-Part 2 – Does the Treasure Really Exist?:::
+Part 2 – Does the Treasure Really Exist?
+:::
 
 
 
@@ -3725,6 +3757,309 @@ An iron door, embedded in the wall of rock.
 
 ::: {custom-style="PageBreak"}
 &nbsp;
+:::
+
+
+## Chapter 1 — The Truth
+
+::: {custom-style="PartTitle"}
+Part 1 — The Vault
+:::
+
+::: {custom-style="ChapterStart"}
+
+Nohk hurried toward the door. There was no longer any doubt. The vault was real. They had all been wrong.
+The iron door was covered in rust and scarred by the passage of time. There were no royal emblems. No ancient inscriptions. Only the door.
+And a lock.
+
+:::
+
+
+
+He slid the key into it.
+
+It fit perfectly.
+
+He turned it with all his strength.
+
+A sharp metallic crack echoed through the cave, like the awakening of an ancient mechanism after centuries of silence.
+
+The lock yielded.
+
+He braced himself against the heavy iron door and pushed.
+
+Slowly, it began to open.
+
+A current of cold air drifted out from the darkness beyond. Still air. Ancient air. Air that had remained trapped there for centuries.
+
+He raised the lantern, trying to pierce the darkness.
+
+He hesitated.
+
+Only a few steps now separated him from the end of his search.
+
+A moment later, he stepped inside.
+
+The lantern's light crept slowly across the chamber.
+
+Bare rock.
+
+Naked walls.
+
+Something pale lay on the floor.
+
+He moved closer.
+
+Bones.
+
+A skull.
+
+He swept the lantern farther.
+
+Another.
+
+And another.
+
+The remains of several men lay scattered near the entrance, wrapped in the rotting remnants of clothing that had almost completely vanished with time. Only their bones remained.
+
+The sight unsettled him.
+
+He stared at them for several long seconds.
+
+Then he walked on.
+
+A few steps later, the lantern illuminated the far wall.
+
+It was the end of the chamber.
+
+He crossed the room and laid a hand against the stone.
+
+Solid.
+
+Cold.
+
+Slowly, he turned around.
+
+From there he could see the entire vault.
+
+It was a circular chamber carved into the rock.
+
+No windows.
+
+No other doors.
+
+No hidden passages.
+
+No inscriptions.
+
+No symbols.
+
+Only the skeletons of those men.
+
+Nothing else.
+
+It was empty.
+
+A metallic sound shattered the silence.
+
+The door was moving.
+
+For a single second, he watched as it slowly began to close.
+
+Before he could react, the massive slab of iron slammed into the frame with a deafening crash.
+
+The entire mountain seemed to tremble.
+
+The key was thrown from the lock.
+
+It struck the stone floor once...
+
+Then disappeared beneath the door.
+
+His mind refused to accept what he was seeing.
+
+It couldn't be happening.
+
+"No!"
+
+He lunged toward the entrance.
+
+He shoved against the iron with all his strength.
+
+He pounded it with his fists.
+
+Once.
+
+Then again.
+
+He tried to force it open.
+
+But the door did not move.
+
+It was sealed.
+
+And it could no longer be opened from the inside.
+
+
+
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="Illustration"}
+![](img/la_llave/acto5_cap1.jpg){ width=100% }
+:::
+
+::: {custom-style="IlustrationCaption"}
+✧ No way out ✧
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="PartTitle"}
+Part 2 — A New Day
+:::
+
+
+
+
+After the night came a new day.
+
+The sun shone over the sea as a raven flew into the cave.
+
+Morning light streamed through the entrance, illuminating the iron door. And there, upon the stone floor, a flash of green caught the bird's attention.
+
+The raven hopped closer and studied the object for a few moments.
+
+Then it seized the key in its talons and took flight.
+
+Within moments, it had left the cave behind.
+
+The spring sky seemed made for nothing but its wings.
+
+It soared above the cliffs, gliding among the clouds before climbing higher and higher into the open sky.
+
+It crossed mountains.
+
+Forests.
+
+Rivers.
+
+For a long time it drifted upon the rising currents that climbed from the valleys below.
+
+Until, somewhere far away, it released the key.
+
+The iron object spun through the air, struck the ground, bounced once...
+
+And disappeared into the grass.
+
+There it remained.
+
+For a time.
+
+Until one quiet morning, near the village of Wetwood, a farmer named Jahnk was walking along a dirt road on his way to the market.
+
+It was a pleasant day.
+
+The sky was clear.
+
+His thoughts were occupied with simple things.
+
+The harvest.
+
+The livestock.
+
+The price of wheat.
+
+Then he noticed something glinting among the grass.
+
+He knelt down.
+
+Brushed aside a few branches.
+
+And picked it up.
+
+It was an old iron key.
+
+Heavy.
+
+Strangely beautiful.
+
+A green stone gleamed in its handle.
+
+Jahnk turned it over in his hands with quiet curiosity.
+
+A coat of arms was engraved in the iron.
+
+A symbol he did not recognize.
+
+He smiled.
+
+"Today is my lucky day."
+
+He slipped the key into his bag...
+
+And continued on his way.
+
+
+
+::: {custom-style="Separator"}
+✦ ✦ ✦
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+
+::: {custom-style="FinalPage"}
+
+End of the Tale
+
+✦
+
+Omniscientis
+
+:::
+
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+
+::: {custom-style="IconCenterPage"}
+![](img/simbolo_icono.png){ width=20% }
+:::
+
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="CollectionPage"}
+
+## From the Infinite Library
+
+Catalogued Volumes
+
+◆ The Key
+
+◆ The Crystal Ball
+
+Records Awaiting Cataloguing
+
+◇ The Lamp
+
+◇ The Seed
+
 :::
 
 

@@ -2325,6 +2325,34 @@ Omniscientis
 :::
 
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+
 ::: {custom-style="IconCenterPage"}
-![](img/simbolo_icono.png){ width=7% }
+![](img/simbolo_icono.png){ width=20% }
+:::
+
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="CollectionPage"}
+
+## De la Biblioteca Infinita
+
+Volúmenes catalogados
+
+◆ La Llave
+
+◆ La Bola de Cristal
+
+Registros pendientes de catalogación
+
+◇ La Lámpara
+
+◇ La Semilla
+
 :::

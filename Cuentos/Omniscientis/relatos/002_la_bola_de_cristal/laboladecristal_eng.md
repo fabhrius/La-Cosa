@@ -2335,7 +2335,7 @@ And then he looked back at his own.
 
 ::: {custom-style="FinalPage"}
 
-Fin del relato
+End of the Tale
 
 ✦
 
@@ -2343,7 +2343,36 @@ Omniscientis
 
 :::
 
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+
 ::: {custom-style="IconCenterPage"}
-![](img/simbolo_icono.png){ width=7% }
+![](img/simbolo_icono.png){ width=20% }
+:::
+
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+::: {custom-style="CollectionPage"}
+
+## From the Infinite Library
+
+Catalogued Volumes
+
+◆ The Key
+
+◆ The Crystal Ball
+
+Records Awaiting Cataloguing
+
+◇ The Lamp
+
+◇ The Seed
+
 :::
 

@@ -60,19 +60,23 @@ excepto en los casos permitidos por la legislación aplicable.
 
 ## Prólogo 
 
-
+&nbsp;
 
 
 Decisiones.
 
+&nbsp;
 
 La vida nos obliga a decidir.
 Lo hace todos los días.
 
 &nbsp;
 
-Elegimos un camino. Confiamos en una persona. Aceptamos un trabajo. Cruzamos un océano. Construimos una familia.
-Perseguimos un sueño.
+Elegimos un camino. Confiamos en una persona. 
+
+Aceptamos un trabajo. Cruzamos un océano. 
+
+Construimos una familia. Perseguimos un sueño.
 
 &nbsp;
 
@@ -84,12 +88,13 @@ Resulta extraño.
 
 Porque antes de actuar jamás conocemos toda la verdad.
 
-Nunca vemos el mapa completo.
-Siempre falta algo.
+Nunca vemos el mapa completo. Siempre falta algo.
 
 &nbsp;
 
 Una conversación que nunca ocurrió. Un peligro oculto. Una oportunidad que todavía no existe.
+
+&nbsp;
 
 Una consecuencia que sólo será visible cuando ya resulte imposible regresar.
 
@@ -125,12 +130,12 @@ Al contrario.
 
 Suelen parecer decisiones perfectamente razonables.
 
+&nbsp;
 
 Porque cada paso se justifica con el anterior.
 
 Y cuando finalmente comprendemos que el camino era equivocado...
 descubrimos otra dificultad.
-
 
 Volver atrás también tiene un precio.
 
@@ -138,6 +143,7 @@ Volver atrás también tiene un precio.
 
 Tal vez el misterio no consista en averiguar qué ocurrirá mañana.
 Tal vez el verdadero misterio sea otro.
+
 
 Un enigma que podría resolverse respondiendo a una única pregunta:
 
