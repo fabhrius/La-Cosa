@@ -181,7 +181,7 @@ And this tale begins at that very place.
 &nbsp;
 :::
 
-Act I — The Legend
+# Act I — The Legend
 
 > "The mind fears the unknown more than it fears error.
 >
@@ -210,14 +210,11 @@ Part 1 – The Valley
 
 ::: {custom-style="ChapterStart"}
 Somewhere in the valley east of the mountains, where the Bager River flowed down from the highlands through the forests of Oldwood, lived a young farmer named Nohk.
-His home was a modest wooden cottage built beside the river, on a narrow stretch of fertile land where he grew grain and kept a few animals—chickens, goats, and pigs.
 :::
 
-
-
+His home was a modest wooden cottage built beside the river, on a narrow stretch of fertile land where he grew grain and kept a few animals—chickens, goats, and pigs.
 
 He was not wealthy.
-
 But neither was he poor.
 
 He had enough.
@@ -235,24 +232,27 @@ Some afternoons he walked to the village. It was only half an hour away along th
 And although they sometimes complained about the monotony of country life, deep down none of them truly wished it were different.
 
 They were happy.
-
 Perhaps without even knowing it.
 
 That afternoon seemed no different from any other.
-
 The sun was sinking slowly behind the mountains.
-
 A gentle breeze stirred the leaves.
-
 And Nohk was following the familiar path toward the village.
 
 Then he saw something unusual.
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 A flash.
 
 Something gleamed among the grass.
 
 He stepped off the path and walked toward it.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -272,26 +272,29 @@ The glint came from the base of an ancient oak. Half-hidden beneath the undergro
 It was an iron key.
 
 Yet it looked unlike any key he had ever seen.
+It was larger than those used for ordinary locks, and the iron had been worked with remarkable precision. 
+The bow was fashioned into an elegant pattern of flowing curves and interwoven geometric shapes.
+At its center rested a green gemstone about the size of a walnut.
 
-It was larger than those used for ordinary locks, and the iron had been worked with remarkable precision. The bow was fashioned into an elegant pattern of flowing curves and interwoven geometric shapes. At its center rested a green gemstone about the size of a walnut.
-
-The gem caught the afternoon sunlight and returned it in flashes of emerald. That was what had drawn his eye from the path.
+The gem caught the afternoon sunlight and returned it in flashes of emerald. 
+That was what had drawn his eye from the path.
 
 Nohk turned the key over in his hands.
-
 It was heavier than he had expected.
-
-Along one side he noticed a symbol engraved into the iron. It resembled a coat of arms—or perhaps a royal seal. The key was far too valuable to belong to a common farmer. Perhaps some nobleman had lost it while traveling. Perhaps it had fallen from a passing carriage.
+Along one side he noticed a symbol engraved into the iron. It resembled a coat of arms—or perhaps a royal seal. 
+The key was far too valuable to belong to a common farmer. 
+Perhaps some nobleman had lost it while traveling. 
+Perhaps it had fallen from a passing carriage.
 
 The gemstone alone might be worth a small fortune.
-
 He could sell it in the village.
 
 With the right buyer, he might earn enough to purchase a new cart...
-
 or repair the roof before winter.
 
 He slipped the key into a leather pouch and continued on his way.
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -302,6 +305,19 @@ He slipped the key into a leather pouch and continued on his way.
 &nbsp;
 :::
 
+::: {custom-style="Illustration"}
+![](img/la_llave/acto1_cap1.jpg){ width=100% }
+:::
+
+::: {custom-style="IlustrationCaption"}
+✧ A green gleam ✧
+:::
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+
 ::: {custom-style="PartTitle"}
 Part 3 – The Legend
 :::
@@ -310,60 +326,55 @@ Part 3 – The Legend
 
 
 As always when he came to the village, his first stop was the tavern.
-
 It was a large building of dark wood standing beside the main square. At that hour, it was already quite crowded. Farmers. Merchants. Craftsmen.
-
 Most of them were gathered around long communal tables, talking and laughing.
 
-Nohk quickly found his friends. Five young men from the village were discussing trade, goods, and the prices of the harvests. Many of the region’s agreements began precisely there.
-
+Nohk quickly found his friends. 
+Five young men from the village were discussing trade, goods, and the prices of the harvests. 
+Many of the region’s agreements began precisely there.
 Between mugs of ale and endless debates, business was made.
-
 Nohk took a seat.
 
-“What do you make of this?” he asked.
+—What do you make of this? —he asked.
 
 And he placed the key on the table.
-
 The conversation stopped immediately.
-
 Everyone looked at the object.
-
 The green stone shimmered beneath the light of the lamps.
 
-One of them lifted it and examined it in his hands. Another studied the symbol carved into the metal. A third tested its weight.
-
+One of them lifted it and examined it in his hands. 
+Another studied the symbol carved into the metal. 
+A third tested its weight.
 For several minutes, they exchanged their opinions.
 
-“It is not an ordinary key.”
+—It is not an ordinary key.
 
 The words confirmed what Nohk had suspected.
-
 Perhaps he truly had found something valuable.
-
-The comments grew more enthusiastic with every passing moment. They discussed possible buyers. They estimated its worth. They imagined different ways of selling it.
+The comments grew more enthusiastic with every passing moment. 
+They discussed possible buyers. 
+They estimated its worth. 
+They imagined different ways of selling it.
 
 Until one voice interrupted them.
 
-“Wait. I have seen this key before.”
+—Wait. I have seen this key before.
 
 The one who spoke was Ghim, the youngest of the group. He held the key in his hands and studied it with a strange expression.
 
-“In an old book. At Jorhm’s house.”
+—In an old book. At Jorhm’s house.
 
 The words immediately caught everyone’s attention.
-
 Jorhm was an old man known for keeping a collection of manuscripts passed down through generations. Strange books. Ancient legends. Forgotten tales.
-
 No one paid them much attention.
 
-“I am certain,” the young man continued. “It is the very same key.”
+—I am certain, —the young man continued—. It is the very same key.
 
 Nohk no longer saw it as merely a valuable object.
-
 Perhaps that piece of iron carried a story of its own.
 
-“If I were you,” Ghim finally added, “I would learn more before selling it. It may be worth far more than you think.”
+—If I were you, —Ghim finally added—, I would learn more before selling it. It may be worth far more than you think.
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -390,120 +401,91 @@ The six friends followed the path in almost complete silence. The excitement had
 
 
 If the old man recognized the key, perhaps they could discover its true value.
-
 Or perhaps they could learn who had lost it.
 
 When they arrived, they found Jorhm sitting beneath a vine covered with green leaves. The old man rested in a wooden chair, watching the sunset. The last rays of sunlight illuminated the vineyards and painted the stone walls of the house with gold.
-
 He seemed completely unaware of the commotion approaching along the path.
 
-“Jorhm!” Kempht called as they drew near.
+—Jorhm! —Kempht called as they drew near.
 
 The old man looked up.
 
-“What is it? Is the village on fire?”
+—What is it? Is the village on fire?
 
 The young men laughed.
 
-“Not exactly.”
+—Not exactly.
 
 Kempht took out the key and held it up.
 
-“Look at this.”
+—Look at this.
 
 Jorhm reached out his hand without much interest.
-
 But the moment his fingers touched the metal, his expression changed.
-
 The smile vanished.
-
 He brought the key closer to his eyes. Turned it slowly. Examined the green stone. Then the shield engraved into the metal. And finally, he looked once more at the gemstone.
 
 For several seconds, no one spoke.
-
 The old man seemed unable to take his eyes away from the object.
 
-“It cannot be...” he whispered.
+—It cannot be... —he whispered.
 
 He rose with a speed surprising for someone his age. Still holding the key, he walked toward the house.
 
-“Come.”
+—Come.
 
 The six friends followed him.
-
 They crossed a narrow corridor and entered the main room.
 
 The chamber was surrounded by shelves that stretched from floor to ceiling. Dozens. Perhaps hundreds of books.
-
 Some were carefully bound. Others looked so ancient that they seemed ready to crumble at the slightest touch. There were rolled maps, parchments, boxes filled with documents, and small objects gathered from distant lands.
-
 That collection was Jorhm’s pride.
-
 Within those pages survived forgotten stories and fragments of the past. The last remnants of life from the ancient peoples of Lluviara.
-
 And to him, those books represented his true wealth.
 
 Jorhm walked directly toward one of the shelves at the back of the room.
-
 He did not hesitate for a moment.
-
 He knew exactly where to look.
-
 He removed a thick volume covered in dust.
-
 The binding was worn by the passage of years. The leather had darkened and cracked with age.
-
 With great care, he carried the book to a table.
-
 He opened it.
-
 The pages whispered softly as they moved.
-
 He turned several pages quickly. Then others more slowly.
-
 Until finally, he stopped.
 
 His eyes widened.
-
 He placed the key upon the open page.
 
-“Look.”
+—Look.
 
 The young men leaned over the table.
-
 On the page was a drawing.
-
 A key.
-
 Exactly the same.
-
 The same shape. The same green stone. The same royal crest engraved into the metal. Even the smallest decorative marks matched perfectly.
-
 It was not similar.
-
 It was the very same key.
 
 No one spoke.
-
 The surprise had silenced the room.
-
 At last, Jorhm broke the silence.
 
-“There is no doubt.”
+—There is no doubt.
 
 His voice sounded deeper than before.
 
-“It is her.”
+—It is her.
 
-“Her?” Nohk asked.
+—Her? —Nohk asked.
 
 The old man slowly placed one hand upon the book.
 
-“The key to the king’s treasure.”
+—The key to the king’s treasure.
 
 Jorhm looked once more at the key.
 
-“And if this key is real... then perhaps the legend is real as well.”
+—And if this key is real... then perhaps the legend is real as well.
 
 
 
@@ -535,174 +517,130 @@ Part 2 – The Legend of the King’s Treasure
 :::
 
 
-
-
 For several moments, no one spoke.
-
 The six young men remained leaning over the table, looking from the key to the drawing in the book and back again.
-
 The resemblance was so perfect that it was unsettling.
-
 Finally, it was Nohk who broke the silence.
 
-“What legend is this?”
+—What legend is this?
 
 Jorhm partially closed the volume and rested both hands upon its cover. He seemed to be gathering his thoughts.
 
 Then he settled into a chair beside the table.
 
-“It is a very old story,” he began. “So old that most people have long since forgotten it. According to this book, it happened nearly three hundred years ago, during the reign of Jumphrestebar.”
+—It is a very old story, —he began—. So old that most people have long since forgotten it. According to this book, it happened nearly three hundred years ago, during the reign of Jumphrestebar.
 
 The name meant nothing to the young men.
-
 Jorhm continued.
 
-“In those days, a terrible war divided Lluviara. The eastern regions remained loyal to the king. The western lands sought to overthrow him. For years, both sides fought without rest. Entire cities were destroyed. Roads became dangerous. Trade vanished. No one knew who would emerge victorious.”
+—In those days, a terrible war divided Lluviara. The eastern regions remained loyal to the king. The western lands sought to overthrow him. For years, both sides fought without rest. Entire cities were destroyed. Roads became dangerous. Trade vanished. No one knew who would emerge victorious.
 
 The old man paused.
-
 The flames of a lamp flickered softly in the room.
 
-“Over time, the situation grew worse. Eventually, the king was forced to abandon the capital and flee. His enemies advanced from every direction. He feared that if he was defeated, everything he possessed would fall into the hands of his enemies.”
+—Over time, the situation grew worse. Eventually, the king was forced to abandon the capital and flee. His enemies advanced from every direction. He feared that if he was defeated, everything he possessed would fall into the hands of his enemies.
 
 Jorhm opened the book again and turned several pages.
-
 Drawings of fortresses, ancient symbols, and texts written in a difficult script appeared before them.
 
-“That was when the king made an extraordinary decision. He ordered the construction of a hidden chamber. A secret vault somewhere within Lluviara.
-
-“There he would store the treasure of the Crown.
-
-“Gold.
-
-“Precious stones.
-
-“Jewels worthy of emperors.
-
-“Relics, works of art, and objects of immeasurable value.
-
-“A treasure so magnificent that even imagination could scarcely contain it. Perhaps the greatest treasure that ever existed.”
-
+—That was when the king made an extraordinary decision. He ordered the construction of a hidden chamber. A secret vault somewhere within Lluviara.
+There he would store the treasure of the Crown.
+Gold.
+Precious stones.
+Jewels worthy of emperors.
+Relics, works of art, and objects of immeasurable value.
+A treasure so magnificent that even imagination could scarcely contain it. Perhaps the greatest treasure that ever existed.
+ 
 The young men listened in silence.
 
-“According to the legend, the chamber was built to withstand any attack. Its walls were impenetrable. Its entrance was protected by an iron door that could not be destroyed. No army could break through it. No tool could open it.”
+—According to the legend, the chamber was built to withstand any attack. Its walls were impenetrable. Its entrance was protected by an iron door that could not be destroyed. No army could break through it. No tool could open it.
 
 The old man pointed toward the drawing of the key.
 
-“Only one thing could open it.
-
-“The key.”
+—Only one thing could open it. The key.
 
 The boys’ eyes immediately turned toward the object resting on the table.
-
 The green stone seemed to shine even brighter beneath the lamplight.
 
-“When the king realized that his death was near,” Jorhm continued, “he decided to preserve the secret. He summoned one of his most loyal servants and described the location of the chamber in exact detail.
-
-“The man drew a map.
-
-“One single map.”
+—When the king realized that his death was near, —Jorhm continued—, he decided to preserve the secret. He summoned one of his most loyal servants and described the location of the chamber in exact detail. The man drew a map. One single map.
 
 Jorhm turned several more pages.
-
 And there it was.
-
 A collection of lines, markings, and symbols drawn by hand centuries before.
-
 It appeared to be little more than a meaningless sketch.
-
 And yet everyone immediately understood what they were looking at.
-
 It was a map.
-
 The map of the treasure.
 
 The young men leaned closer.
-
 Those ancient lines awakened their imagination in a way that was impossible to resist.
-
 Mountains.
-
 Rivers.
-
 Paths.
-
 Unknown places.
-
 Some hidden location where, according to the legend, a king’s fortune still waited.
 
 Jorhm watched their expressions and let out a brief laugh.
 
-“Do not look at me like that.”
+—Do not look at me like that.
 
 They all raised their eyes.
 
-“I do not believe a single word of this story.”
+—I do not believe a single word of this story.
 
 The young men looked disappointed.
 
-“You do not?” Kempht asked.
+—You do not? —Kempht asked.
 
-“Of course not.”
+—Of course not.
 
 Jorhm closed the book gently.
 
-“It is a tale for children. A legend. Nothing more.”
+—It is a tale for children. A legend. Nothing more.
 
 He leaned back in his chair.
 
-“If that vault truly existed, someone would have found it centuries ago. Many people searched for the treasure. Some used copies of this very map. Others followed different clues.
-
-“None of them ever found anything.”
+—If that vault truly existed, someone would have found it centuries ago. Many people searched for the treasure. Some used copies of this very map. Others followed different clues.
+None of them ever found anything.
 
 The old man tapped his fingers against the cover of the book.
 
-“Neither the chamber nor the key was ever discovered.”
+—Neither the chamber nor the key was ever discovered.
 
 He looked once more at the drawing.
-
 Then at the key.
-
 Then back at the drawing.
-
 His expression changed slightly.
-
 The certainty in his voice seemed to weaken.
 
-“And yet...”
+—And yet...
+
+&nbsp;
 
 The room fell silent.
 
 Jorhm took the key into his hands.
-
 He turned it slowly.
-
 Examined the engraved crest.
-
 The green stone.
-
 The patterns in the metal.
-
 Then he compared it with the illustration once more.
-
 And again.
-
 As if hoping to discover some difference.
-
 But he found none.
-
 Finally, he released a long breath.
 
-“I would swear this is impossible.”
+—I would swear this is impossible.
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 No one spoke.
-
 The old man continued staring at the key with a mixture of fascination and confusion.
-
 He seemed to doubt his own beliefs.
 
 And that was far more unsettling than the legend itself.
-
 
 
 
@@ -716,9 +654,6 @@ And that was far more unsettling than the legend itself.
 
 
 
-
-
-
 ## Chapter 3: The Beginning
 
 ::: {custom-style="PartTitle"}
@@ -729,190 +664,126 @@ Part 1 – The Purchase
 Over the following days, the key became the subject of every conversation.
 At first, it was only a curiosity.
 A strange object found in the forest.
-But the human mind rarely settles for a simple explanation when a more exciting one exists.
 :::
 
 
 
 
-
+But the human mind rarely settles for a simple explanation when a more exciting one exists.
 
 Every afternoon, the young men gathered at the tavern.
-
 And every afternoon, the conversation inevitably returned to the same subject.
-
 The key.
-
 The king.
-
 The treasure.
-
 The map.
-
 At first, they discussed possibilities.
-
 Then they began discussing certainties.
 
 What if the legend was true?
-
 What if that key truly belonged to the king?
-
 That last idea was especially powerful.
-
 They had the key.
-
 The real one.
-
 The very same key shown in the book.
-
 The more they talked about it, the more reasonable it seemed.
-
 And the harder it became to think of anything else.
 
 Nohk began imagining chests overflowing with gold coins.
-
 Kempht spoke of buying land.
-
 Others dreamed of opening businesses, building larger houses, or traveling to places they had never seen.
-
 The king’s fortune began to take shape in their minds.
-
 It was no longer a legend.
-
 It was an opportunity.
-
 An extraordinary one.
-
 A unique one.
 
 Eventually, they decided to return to Jorhm’s house.
-
 They needed to see the book again.
-
 They wanted to study the map carefully.
-
 Perhaps the answer had been there all along.
-
 Perhaps those seemingly chaotic lines concealed precise instructions.
 
 But when they arrived, the old man refused.
 
-“No.”
+—No.
 
 The answer came immediately.
-
 He did not even allow them to finish speaking.
 
-“You have seen enough.”
+—You have seen enough.
 
 The young men insisted.
-
 They tried to reason with him. They explained their theories. They showed him the key once more.
-
 But Jorhm remained firm.
 
-“Listen carefully,” he said seriously. “You are turning a story into an obsession.”
+—Listen carefully, —he said seriously—. You are turning a story into an obsession.
 
 Those words angered them.
-
 Because deep down, they all knew he was right.
 
 The old man studied their faces.
-
 He saw the anxiety.
-
 The hope.
-
 The ambition.
-
 And something else.
-
 Something that was beginning to worry him.
 
-“It is a legend,” he continued. “A tale invented centuries ago. No one ever found the treasure. No one ever found the vault.
-
-“And no one ever found the key.”
+—It is a legend, —he continued—. A tale invented centuries ago. No one ever found the treasure. No one ever found the vault.
+And no one ever found the key.
 
 He raised his eyes toward Nohk.
 
-“Do not allow an old story to make you forget reality.”
+—Do not allow an old story to make you forget reality.
 
 But his warnings came too late.
-
 During the following days, imagination did the rest.
-
 Each conversation strengthened the one before it.
-
 Each doubt was answered by a new possibility.
-
 Each objection found an explanation.
 
 Little by little, the existence of the treasure stopped being a possibility.
-
 It became a conviction.
 
 The young men began to feel like people who already possessed a fortune, even though they had not yet held a single coin in their hands.
-
 The wealth seemed to be waiting for them.
-
 Hidden.
-
 Patiently.
 
 Eventually, an idea emerged.
-
 Simple.
-
 Direct.
-
 Inevitable.
 
-“What if we buy the book?”
+—What if we buy the book?
 
 The proposal fell upon the table like a revelation.
-
 For several seconds, no one spoke.
-
 Then they began to nod.
-
 Of course.
-
 That was the solution.
-
 If Jorhm would not lend it to them, they could purchase it.
-
 Everything had a price.
-
 They only needed to offer an amount high enough.
-
 An amount impossible to refuse.
 
 And so they began gathering money.
-
 They sold animals.
-
 Tools.
-
 Goods.
-
 Carts.
-
 Everything they could spare.
-
 When they finished, they had gathered more money than any of them had ever held in their hands before.
-
 A small fortune.
 
 Perhaps the greatest investment they would ever make in their lives.
-
 And one morning, carrying a heavy bag filled with coins, the six friends once again walked the path leading to Jorhm’s house.
-
 They were certain that this time they would return with the book.
-
 And with it...
 
 the first step toward the king’s treasure.
 
+&nbsp;
 
 
 
@@ -934,126 +805,93 @@ Part 2 – The Adventure Begins
 Jorhm saw them coming long before they reached the house.
 
 He was sitting beneath the vines, in the same place where he often spent his afternoons watching the valley. From there, he could see the path that climbed up from the village.
-
 And that day, he recognized them immediately.
-
 The six of them walked together.
-
 Determined.
-
 With a clear purpose.
 
 The old man sighed.
-
 He had hoped that their excitement would fade with the passing of time. That the initial enthusiasm would disappear. That reason would eventually prevail.
-
 But it had not happened.
-
 Quite the opposite.
-
 Something had changed in them.
-
 He sensed it even before hearing a single word.
-
 That mixture of hope and anxiety shining in their eyes troubled him.
-
 He had seen that expression before.
-
 In ruined merchants.
-
 In gamblers.
-
 In men convinced they were about to discover a fortune.
-
 And it rarely ended well.
 
 The young men reached the table.
-
 Nohk was the first to speak.
 
-“Jorhm, we want the book.”
+—Jorhm, we want the book.
 
 The old man looked up.
 
-“I already told you what I think of that story.”
+—I already told you what I think of that story.
 
-“We have come to make you an offer.”
+—We have come to make you an offer.
 
 For a moment, no one spoke.
-
 Then one of the young men placed a heavy leather bag on the table.
-
 The coins clinked against the wood.
 
 Jorhm looked at the bag.
-
 Then at the young men.
-
 And finally back at the bag.
-
 His expression changed.
 
-“What is this?”
+—What is this?
 
-“Two hundred coins.”
+—Two hundred coins.
 
 The old man opened his eyes in surprise.
 
-“Two hundred?”
+—Two hundred?
 
 Nohk nodded.
 
-“Two hundred coins for the book.”
+—Two hundred coins for the book.
 
 Jorhm remained silent.
-
 The amount was absurd.
-
 With that money, he could live comfortably for years.
-
 It was far more than any book he owned was worth.
-
 Even that one.
-
 He slowly shook his head.
 
-“Boys... the vault does not exist.”
+—Boys... the vault does not exist.
 
 No one answered.
 
-“It is a legend. A story invented long ago. Nothing more.”
+—It is a legend. A story invented long ago. Nothing more.
 
 The six remained still.
-
 Nohk held the old man’s gaze.
 
-“Two hundred coins for the book.”
+—Two hundred coins for the book.
 
 Then Jorhm understood.
-
 The discussion had ended before it had even begun.
-
 These young men were no longer seeking advice.
-
 They had already made their decision.
-
 The money was merely a formality.
 
 He looked at the bag once more.
-
 Then at the book he had guarded for so many years.
-
 And finally, he looked back at the young men.
 
 A vague sense of concern filled him.
-
 As if he were handing them something far more dangerous than an old volume.
 
-“I see that you have made your decision,” he said at last.
+—I see that you have made your decision, —he said at last.
 
 No one answered.
-
 There was no need.
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -1082,116 +920,77 @@ Part 3 – The Pact
 :::
 
 
-
-
 That same night, they gathered at Nohk’s house.
-
 The book occupied the center of the table.
-
 The lamps remained burning until deep into the night.
 
 Again and again, they studied the pages.
-
 They compared symbols.
-
 They examined notes.
-
 And above all, they analyzed the map.
-
 To everyone’s surprise, it was far easier to understand than they had imagined.
-
 It was not a collection of meaningless scribbles.
-
 The geographical features matched places they knew.
-
 The references appeared to be real.
-
 And most importantly of all, the destination marked on the map was not on the other side of the world.
 
 It was relatively close.
-
 To the west.
-
 In the mountains.
-
 Only a few days’ journey away.
-
 Perhaps three.
-
 The revelation filled the room with excitement.
 
 The treasure was no longer a distant legend.
-
 Now it had a location.
-
 A specific place.
-
 A destination.
-
 Something they could reach.
-
 Something they could find.
 
 The king’s fortune seemed to be waiting for them.
-
 Hidden for centuries.
-
 Only a few days away.
 
 The conversations grew more animated.
-
 The laughter became louder.
-
 Each of them was already imagining the future that awaited them.
-
 Lands.
-
 Houses.
-
 Businesses.
-
 Livestock.
-
 Freedom.
-
 A wealth beyond anything an ordinary farmer could ever hope to possess.
-
 Finally, Nohk raised his cup.
-
 The others did the same.
 
-“When we find the treasure,” he said, “we will divide it equally among us.”
+—When we find the treasure, —he said—, we will divide it equally among us.
 
 The five immediately nodded.
-
 It was fair.
-
 They had begun together.
-
 They would finish together.
 
-“Partners,” Kempht declared.
+—Partners, —Kempht declared.
 
-“Partners,” the others repeated.
+—Partners, —the others repeated.
 
 The cups struck together.
-
 The pact was sealed.
 
 A king’s treasure divided among six men.
-
 There would be more than enough for everyone.
-
 That night, none of them hesitated.
-
 None of them felt afraid.
-
 None of them imagined what those words truly meant.
+
+&nbsp;
 
 Meanwhile, the iron key lay silently upon the table...
 
 as if watching them.
 
+&nbsp;
 
 
 
@@ -1248,86 +1047,63 @@ Part 1 – The Expedition
 
 For several days, they studied the map with great care.
 They compared the ancient drawing with newer maps of the region and produced a larger, far more detailed copy. Upon it, they added notes, estimated distances, and landmarks.
-Every afternoon, they spread the map across the table in Nohk's house and spent hours tracing with their fingers the lines that had been drawn centuries before.
 
 :::
 
 
 
-
+Every afternoon, they spread the map across the table in Nohk's house and spent hours tracing with their fingers the lines that had been drawn centuries before.
 
 They identified mountains, rivers, forests, and familiar roads. They debated different routes, calculated each day's journey, and marked the best places to make camp. They estimated how long each stretch would take and planned how they would overcome the obstacles they expected to encounter.
 
 Before long, they were no longer discussing a possibility.
-
 They were planning an expedition.
 
 According to their calculations, they would reach the mountains in two days.
-
 Beyond that point, they would have to leave the known roads behind and venture into a region that was all but unexplored.
-
 If the map was accurate, the vault could not be much farther.
 
 Their excitement made the waiting almost unbearable.
-
 Each day they remained in Oldwood was another day the treasure lay hidden beneath the mountains.
-
 Every conversation ended the same way—with the vault, the key, or King Jumphrestebar.
-
 The lost fortune seemed closer with every passing day.
 
 Preparing for the expedition proved far more expensive than they had expected.
 
 They bought a wagon large enough to carry all six men and everything they would need for a week's journey.
-
 Two strong horses.
-
 Barrels of water.
-
 Sacks of flour.
-
 Salted meat.
-
 Tools.
-
 Climbing ropes.
-
 Blankets.
-
 Tents.
-
 Oil lamps.
-
 And anything else that might prove useful on a journey whose destination they barely understood.
 
 The savings they had accumulated through years of hard work began disappearing one purchase after another.
-
 But none of them hesitated.
-
 Each was convinced that the cost would be insignificant compared to the wealth awaiting them at the journey's end.
 
 The preparations took nearly a week.
-
 While some inspected the equipment, others reinforced the wagon, bought supplies, or settled the affairs they would leave behind in the village.
-
 When everything was finally ready, there was nothing left to do but wait for dawn.
 
 Morning arrived bright and clear.
-
 The rains of the previous days had left the air cool and crystal clear.
-
 From the valley, they could see the mountains rising along the western horizon with remarkable clarity.
 
 They loaded the wagon.
-
 Fastened the harnesses.
-
 The horses started forward as the wheels creaked over the dirt road.
-
 The six friends left Oldwood convinced they were traveling toward the greatest treasure ever hidden in Lluviara.
+
+&nbsp;
 
 None of them imagined how different the journey they had drawn upon the map would be from the one they were about to travel.
 
+&nbsp;
 
 
 
@@ -1347,201 +1123,140 @@ Part 2 – The Storm
 
 
 On the second day of their journey, they reached the vast marshes surrounding the Straripante River.
-
 They had already covered nearly half the distance.
-
 The landscape changed completely.
 
 The forests vanished.
-
 Solid ground became scarce.
-
 The river split again and again into countless channels that wound through the mud. Small islands of grass rose above stretches of dark water that seemed to have no end.
 
 The road narrowed until it became little more than a strip of earth barely higher than the marsh itself.
 
 Gradually, they found themselves surrounded by water and reeds in every direction.
-
 From anywhere within the marsh, the landscape looked exactly the same. Without knowing the trail, a traveler could wander for hours without getting any closer to his destination.
-
 The Great Marsh was a vast labyrinth from which few travelers escaped without difficulty.
 
 The ground inspired little confidence.
 
 Water and clay had formed a thick, clinging mud that seized their boots with every step.
-
 Progress demanded constant effort.
-
 The horses sank deeper with every stride, and the wagon groaned as its wheels struggled to keep from becoming trapped.
-
 Still, they pressed on.
 
 Throughout the morning, the sky remained clear.
-
 The sun shone upon the still waters of the marsh, and the air was warm and heavy with moisture.
-
 But as afternoon wore on, the first clouds appeared in the west.
 
 At first, only a few dark patches.
-
 Then a great black mass that slowly swallowed the horizon.
 
 The wind shifted.
-
 The air grew heavy.
-
 Silent.
-
 Unsettling.
-
 Kempht looked up.
 
-“I do not like this.”
+—I do not like this.
 
 No one answered.
-
 This was no place to spend the night.
-
 They had to cross the marsh before darkness fell.
 
 The first drops of rain came only minutes later.
 
 Small.
-
 Scattered.
-
 Harmless.
-
 Then came more.
 
 And more.
 
 The wind began to howl.
-
 The horses grew restless.
-
 A distant roll of thunder echoed across the marsh.
-
 Then the storm arrived.
 
 It came so suddenly that no one had time to react.
-
 The sky vanished behind an immense wall of black clouds.
-
 Lightning tore across the darkness.
-
 Thunder shook the air.
-
 Then the rain came crashing down upon them with unimaginable force.
 
 It fell so heavily that it became difficult to keep their eyes open.
-
 Visibility vanished.
-
 Each man could barely make out the silhouettes of the others.
 
-“Keep moving!” Nohk shouted.
+—Keep moving! —Nohk shouted.
 
 But every step became harder than the last.
-
 The Straripante River had begun to overflow.
 
 The water covered the road.
-
 Then their ankles.
-
 Their knees.
-
 Before long, it had risen to their waists.
-
 No one could tell where the road ended and the river began.
 
 Perhaps they had wandered off the trail.
-
 Perhaps the river had swallowed the entire marsh.
-
 Perhaps both.
 
 The mud disappeared beneath the rising water.
-
 The horses struggled desperately, fighting at every step to free their legs from the mud that gripped them.
-
 Then it happened.
 
 The wagon's front wheel suddenly sank to its axle.
 
 The horses reared and pulled with all their strength.
-
 The harnesses stretched tight.
-
 The wood groaned.
-
 For a few seconds, it seemed they might free it.
-
 But the ground gave way beneath the enormous weight of the load.
 
 The second wheel began to sink as well.
-
 The marsh slowly started to swallow the wagon.
 
 As though it had been waiting patiently for that very moment.
-
 The six men pushed.
-
 They dug with their hands.
-
 They wedged branches beneath the wheels.
 
 It was useless.
 
 Every effort only drove the wagon deeper into the mud.
-
 Then they realized it was lost.
-
 They hastily unloaded everything they could save.
-
 Each man took upon his shoulders as much as he could carry.
-
 The rest was abandoned.
 
 Nohk turned back one last time.
-
 He could barely make out the wagon through the rain.
-
 A flash of lightning illuminated the marsh.
-
 For a single instant, he watched the mud consume the wagon, along with their supplies, their tools, and much of everything they had spent weeks gathering.
-
 Then darkness returned.
 
 The rain beat down with relentless force.
-
 The mud tried to pull the boots from their feet.
-
 They struggled onward for what felt like hours, fighting to escape the marsh.
 
 At last, they reached a rocky rise that stood above the floodwaters.
 
 There they remained in silence.
-
 Waiting.
-
 By the time night fell, the rain had stopped.
-
 Before them stretched a vast, dark lake.
-
 The landscape had been transformed.
-
 Where a road had existed only hours before, there was now nothing but water.
 
 No one could point to where the wagon had disappeared.
-
 Or the horses.
-
 Or the path that had led them there.
+
+&nbsp;
 
 The marsh had erased every trace of their passage.
 
+&nbsp;
 
 
 
@@ -1571,130 +1286,99 @@ Part 3 – The Bridge
 
 
 
-
-
 The days that followed proved far more difficult.
 
 Without the wagon, each man had to carry on his back everything he had managed to save from the storm.
-
 Their supplies had been greatly reduced.
-
 Progress became slow and exhausting.
-
 By nightfall, they scarcely had the strength to raise their tents.
-
 The excitement with which they had left Oldwood was beginning to fade.
 
 At last, they reached the mountains.
-
 According to their calculations, the place marked on the map could not be much farther away.
-
 Perhaps fifty miles.
-
 Perhaps less.
-
 After everything they had endured, the end of the journey seemed almost within reach.
-
 That was when they arrived at the edge of the cliff.
 
 The road ended there.
 
 Before them lay an immense gorge, plunging hundreds of feet down to the river below.
-
 Its walls fell almost straight down, smooth and dark.
-
 Far beneath them, the river crashed against the rocks with a ceaseless roar that rose to them as a distant echo.
 
 Every one of them searched for the bridge.
 
 It was gone.
-
 Only the remains of the old stone pillars still stood, clinging to either side of the chasm.
-
 The suspension bridge shown on the map had vanished long ago.
-
 Perhaps it had collapsed during a storm.
-
 Perhaps it had been destroyed in some forgotten war.
-
 It no longer mattered.
 
 The route no longer existed.
 
 No one spoke.
-
 They stood motionless, staring into the abyss, as though expecting some hidden solution to reveal itself among the cliffs.
-
 For several minutes, the only sound was the roar of the river.
-
 Johf was the first to break the silence.
 
-“It is over.”
+—It is over.
 
 No one argued.
-
 They had lost the wagon.
-
 The horses.
-
 Much of their food.
-
 And now...
-
 the road itself.
 
 Returning to Oldwood would mean admitting that everything they had sacrificed had been for nothing.
 
 Nohk continued staring into the chasm.
-
 Then he spoke.
 
-“I am not going back.”
+—I am not going back.
 
 His voice was strangely calm.
 
-“We have come too far to turn back now.”
+—We have come too far to turn back now.
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
 
 No one answered at once.
-
 They all understood the danger.
-
 But they also understood the weight of everything they had already lost to reach that place.
-
 It was Kempht who pointed toward the face of the cliff.
 
-“If we can climb down to the river... perhaps we can make our way up the other side.”
+—If we can climb down to the river... perhaps we can make our way up the other side.
 
 They all looked where he was pointing.
-
 The cliff was almost vertical.
-
 The rock offered scarcely enough footing to support a man.
-
 One mistake would mean a fall of hundreds of feet.
-
 It was madness.
 
 And yet...
-
 they began studying the cliff as though it were a reasonable possibility.
 
 After a time, they made their decision.
-
 They would descend the cliff.
-
 Cross the river.
-
 And attempt to climb the opposite wall.
 
 Not one of them would have accepted such a risk before setting out on the expedition.
 
 Now...
-
 it seemed entirely possible.
+
+&nbsp;
 
 The boundary of what they considered acceptable had shifted.
 
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -1723,168 +1407,108 @@ It did not always do so.
 :::
 
 
-
 Fragments of stone broke loose beneath their feet and vanished into the abyss.
-
 Several seconds passed before the echoes of their impact rose from the bottom of the gorge.
-
 No one spoke.
-
 Only the whistle of the wind, the rough scrape of ropes against the rock, and, far below, the endless roar of the river.
 
 By the time they finally reached the foot of the cliff, the sun was already sinking.
-
 The river rushed between two towering walls of stone.
-
 It was not wide—barely twenty yards across—but its current was savage.
-
 The water crashed against the rocks with enough force to break bones.
 
 An old fallen tree stretched nearly halfway across the river.
-
 Beyond that, there was no path.
-
 Someone would have to jump.
-
 Johf volunteered without hesitation.
 
 He tied a rope around his waist, checked the knot twice, and waited.
-
 He studied the current.
-
 Drew a deep breath.
-
 Then threw himself into the water.
-
 The river struck him like a hammer.
-
 The current tore him instantly from his course and swept him several yards downstream.
-
 He fought toward the opposite bank, but the water hurled him against a boulder.
-
 For an instant, he disappeared beneath the white water.
-
 The rope snapped tight.
-
 From the shore, the others could do nothing but hold fast...
-
 and wait.
-
 Johf surfaced again, coughing violently.
-
 He clung to a rock.
-
 Lost his grip.
-
 The current seized him once more.
-
 He tried again.
-
 And again.
 
 Just as his strength seemed spent, he reached a narrow ledge beside the opposite bank.
-
 With the last of his strength, he pulled himself onto it, scrambled across the slippery rocks, and secured the rope around the trunk of a tree.
-
 One by one, the others crossed, clinging to the rope while the river struggled to tear them away.
 
 By the time they reached the foot of the eastern cliff, the sun had disappeared behind the mountains.
-
 Only then did they understand the true scale of the obstacle.
 
 The wall of granite rose before them like an immense fortress of gray stone.
-
 A thousand feet of near-vertical rock climbed toward the orange glow of the evening sky.
-
 No one spoke.
-
 For several minutes, they stood motionless, searching the mountainside for a weakness that did not exist.
 
 There were no paths.
-
 No ledges.
-
 No obvious route.
-
 Only an immense wall of stone reaching toward the heavens.
-
 Johf was the first to break the silence.
 
-“It is impossible.”
+—It is impossible.
 
 No one answered.
-
 That single word expressed what every one of them was thinking.
-
 The mountain had won.
-
 They needed only to turn around, follow the river, and return to Oldwood.
-
 They still had their lives.
-
 But no one moved.
-
 They had crossed forests.
-
 Traversed the Great Marsh.
-
 Lost the wagon.
-
 The horses.
-
 Most of their supplies.
-
 Descended a cliff that no sensible man would ever have attempted.
-
 And according to the map...
-
 the treasure lay beyond that wall.
 
 So close.
 
 Nohk stepped toward the rock.
-
 He placed one hand upon the cold granite and slowly searched the cliff with his eyes.
 
-“There has to be a way.”
+—There has to be a way.
 
 No one argued.
-
 For the rest of the afternoon, they examined the mountain from every angle.
-
 They searched for cracks, ledges, narrow shelves—any irregularity that might offer the beginning of a climb.
-
 They found very little.
 
 When night fell, they made a small camp beside the river.
-
 The fire cast only a faint light against the darkness descending over the valley.
-
 They ate in silence, sharing what little food remained.
-
 Then they looked once more at the mountain.
 
 It was still there.
-
 Motionless.
-
 Indifferent.
-
 As though patiently waiting for them to make their decision.
 
 No one slept.
-
 Each man lay awake, staring at the immense wall of stone beneath the moonlight.
-
 They knew attempting the climb would be reckless.
-
 They also knew that, when morning came...
-
 they would try.
 
-For the closer they believed themselves to be to the treasure...
+&nbsp;
 
+For the closer they believed themselves to be to the treasure...
 the more unbearable the thought of returning empty-handed became.
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -1901,112 +1525,81 @@ Part 2 – The Trap
 :::
 
 
-
 At dawn, as soon as there was enough light to make out the cracks in the rock, they prepared the ropes, divided the equipment, and began the ascent.
 
 The first stretch was almost easy.
-
 The cliff offered solid handholds and firm footing. Deep cracks, narrow ledges, and enough projections to climb with confidence.
-
 The summit seemed close.
-
 The treasure...
-
 within reach.
 
 They kept climbing.
-
 Ten yards more.
-
 Twenty.
-
 Fifty.
-
 The river dropped farther below them.
-
 The trees shrank into a green carpet.
-
 The wind grew stronger.
-
 Then came the first signs of trouble.
 
 The cracks became fewer.
-
 The ledges narrowed.
-
 Every new move demanded a little more reach, a little more balance, a blind search for a handhold that often was not there.
-
 Their progress slowed to a crawl.
 
 One climber would remain perfectly still for long minutes, studying the rock.
-
 Only after finding a possible route would he climb a few more inches, allowing the next man to take his place.
-
 No one spoke anymore.
-
 Only heavy breathing.
-
 Boots scraping against stone.
-
 The faint creak of ropes pulled tight.
-
 They had climbed more than three hundred feet before they finally understood the true nature of their mistake.
 
 It was not that the climb had become difficult.
-
 It was that the route had ceased to exist.
 
 The lead climber stopped before a stretch of smooth stone.
-
 He searched for a crack.
-
 Ran his fingers across the rock.
-
 Tested a small protrusion.
-
 It crumbled beneath his touch.
-
 There was nothing to hold on to.
-
 He tried to climb back down.
-
 Then he made another discovery.
-
 He could not.
 
 Descending meant searching blindly for footholds hidden beneath his boots.
-
 One wrong movement...
-
 and he would lose his balance.
 
 One by one, the climbers stopped moving.
-
 The entire line hung motionless.
 
 Suspended more than three hundred feet above the ground.
-
 With nowhere to rest.
-
 Without the strength to remain there for long.
-
 With no way forward.
-
 And no safe way back.
 
 Then, clinging to the mountainside, frozen by vertigo...
-
 no one thought about the treasure.
 
 There was only the cliff.
-
 And the abyss.
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 At last, they understood a terrible truth.
 
 They were no longer climbing the mountain.
 
+&nbsp;
+
 The mountain had trapped them.
+
+&nbsp;
 
 
 
@@ -2037,89 +1630,62 @@ Part 3 – The Point of No Return
 
 
 
-
 The wind grew stronger.
-
 And everything seemed to become more difficult.
 
 From the foot of the mountain, with solid ground beneath their feet, the climb had looked far easier.
-
 Now it was something else entirely.
 
 The summit seemed to drift farther away with every passing minute.
 
 Time slipped by, yet no one managed to climb another step.
-
 Simply clinging to the rock had become an unbearable effort.
 
 Ghim, the youngest of the group, managed to move one hand.
-
 Then he found another foothold.
-
 Then another handhold.
-
 He climbed one step higher.
 
 Perhaps his eyes were beginning to adjust, allowing him to see possibilities the others had missed.
-
 Or perhaps he understood that, sooner or later, to stop climbing meant to fall.
 
 He began to notice tiny cracks the others had overlooked.
-
 Ledges scarcely visible.
-
 Small irregularities—just enough to continue climbing diagonally.
-
 As though the mountain had finally begun to reveal a path.
 
 He climbed another step while the others remained frozen, growing weaker by the minute.
 
 The cracks formed a route that was far easier to follow.
-
 Ghim began to climb more quickly.
 
-“This way!” he shouted.
+—This way! —he shouted.
 
 It was exactly what they needed.
-
 A way out.
 
 Ghim kept climbing, forgetting the abyss beneath him.
-
 He moved with astonishing confidence more than three hundred feet above the river.
 
 The others watched him closely.
-
 With hope.
-
 In truth, they had no choice but to follow him.
-
 They could not remain where they were forever.
 
 Johf was the first to try.
-
 He moved one hand.
-
 Then one foot.
-
 He gained only a few inches before stopping again, searching desperately for the next hold.
 
 Meanwhile, Ghim continued upward, climbing faster and faster.
-
 With the ease of a man who knew the mountain.
-
 With the confidence of someone who knew exactly where every hand belonged.
 
 He was several yards above the others now.
-
 Still climbing.
-
 One step.
-
 Another.
-
 And another.
-
 Then it happened.
 
 Without warning.
@@ -2133,15 +1699,11 @@ He simply let go.
 And fell.
 
 His body struck the granite wall as it plunged downward.
-
 The sound was sharp.
-
 Sickening.
 
 The others watched in silence.
-
 Unable to move.
-
 They clung to the rock, trying to understand what they had just seen.
 
 There was nothing any of them could have done.
@@ -2153,19 +1715,16 @@ Death was much closer than they had ever imagined.
 And in a single instant, the grief of losing a friend became inseparable from the horror of knowing they might soon share his fate.
 
 Now they knew the truth.
-
 Reality is rarely ours to control.
-
 And it never stops.
 
 Trapped halfway up the mountainside.
-
 Suspended above the abyss.
-
 Not one of them was safe.
 
-Not one of them had any certainty of reaching the summit.
+&nbsp;
 
+Not one of them had any certainty of reaching the summit.
 
 
 
