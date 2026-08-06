@@ -2644,100 +2644,71 @@ Part 3 — The Desert
 :::
 
  
-
 For two days they followed the wagon tracks.
-
 The trail was easy to find.
 
 Johf was carrying too much weight and moving slowly through the Stone Desert.
-
 The wheels had left deep marks between the rocks, and from time to time they found signs of his passage:
-
 The remains of a campfire.
-
 Broken branches.
-
 The tracks of the horses.
 
 Every hour that passed brought them closer.
-
 But it also carried them farther away from what they had once been.
-
 They were no longer traveling as companions searching for a fortune.
-
 They did not share plans.
-
 They did not speak about the future.
-
 Now they were hunting a man.
 
 On the third day, as the sun began to descend, they saw a thin column of smoke rising among the stone formations.
-
 The wagon was there.
-
 Johf had made camp beside a group of rocks, searching for some shade.
-
 The horses were resting.
-
 The map and the key were still with him.
-
 For several minutes they watched from a distance.
-
 Everything they had lost was there before them.
 
 Kempht looked at Nohk.
 
-“We can take it now.”
+—We can take it now.
 
 Nohk watched the camp in silence.
-
 He did not answer.
-
 They would wait.
 
 Night slowly descended over the desert.
-
 Johf’s fire weakened until it became nothing more than a few glowing embers.
-
 The wind began to move through the stones.
-
 Exhaustion finally overcame the man sleeping beside the wagon.
-
 Then they moved.
-
 Without words.
-
 Without sound.
 
 They approached slowly.
-
 They untied the horses.
-
 Removed the equipment.
-
 Loaded the wagon.
-
 For several minutes, everything remained silent.
 
 When they were about to leave, Johf opened his eyes.
-
 At first, he did not understand what he was seeing.
-
 Then he rose suddenly.
 
-“Nohk?”
+—Nohk?
 
 No one answered.
-
 He ran out of the camp.
-
 The wagon was already beginning to disappear into the darkness.
 
-“Wait!”
+—Wait!
 
 The horses continued forward.
 
-“Don’t leave me here!”
+—Don’t leave me here!
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 Slowly, the distance grew.
 
@@ -2745,12 +2716,17 @@ Johf could no longer follow.
 
 And he watched as the wagon moved away, leaving him at the mercy of the desert.
 
+&nbsp;
+
 Without a struggle.
 
 Without an argument.
 
+&nbsp;
+
 Without mercy.
 
+&nbsp;
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -2782,126 +2758,90 @@ Part 1 — The Cliff
 ::: {custom-style="ChapterStart"}
 After several days of travel, they finally reached the place marked on the map.
 The land rose gently toward a vast plain covered in grass.
+
+:::
+
+
 The landscape was strange.
 Too open.
 There were no trees.
 No ruins.
 No mountains.
 Only the wind moving across the endless expanse.
-:::
-
-
-
 
 They walked for a long time without finding anything.
 
 Then the land ended.
-
 The ground suddenly disappeared beneath their feet, replaced by an immense cliff descending hundreds of meters toward the sea.
-
 Beyond it, there was no other land.
-
 Only water stretching all the way to the horizon.
 
 It was the end of the continent.
-
 The very edge of the world.
 
 The map had led them there.
-
 And there was nothing.
 
 They remained motionless, staring at the landscape.
-
 Behind them, the plain stretched as far as the eye could see.
-
 Before them, there was only the sea, the wind, and the emptiness.
-
 There was nowhere else to search.
 
 They had crossed marshes.
-
 Traversed deserts.
-
 Climbed mountains.
-
 Only to reach that place.
-
 They had never imagined that it could be empty.
-
 Reality had finally caught up with them.
 
 Kempht dropped his pack onto the grass.
-
 Nohk did the same.
-
 Neither felt the need to speak.
-
 They remained there for a long time, listening to the sound of waves crashing against the rocks far below.
 
 Old Jorhm had tried to warn them.
-
 It was only a legend.
-
 They had chosen to believe something else.
-
 They had mistaken a desire for a promise.
-
 And now the world offered them an answer that was unbearably simple.
-
 There was no treasure.
-
 Only the sea.
 
 Nohk lay down on the grass.
-
 The urgency that had ruled his life for weeks seemed to disappear.
-
 He looked at the sky.
-
 He watched the clouds drift slowly above him.
-
 The sea breeze carried the scent of grass and salt.
-
 Fresh.
-
 Gentle.
-
 He closed his eyes for a moment and listened.
-
 The sound of the wind.
-
 The distant cries of seabirds.
-
 He saw them flying.
-
 Free.
 
 A gull crossed the sky above them.
-
 It glided for a few moments, carried by the wind, and disappeared beyond the edge of the cliff.
 
 Kempht followed its flight with his eyes.
-
 Slowly, he stood and walked toward the edge.
 
 He leaned carefully over the void.
-
 The drop was dizzying.
-
 Far below, the sea struck the rocks with tremendous force, sending columns of white foam into the air.
-
 Then he saw it.
 
 About fifty meters away, attached to the cliff face, a narrow ledge descended diagonally until it disappeared beneath a rocky overhang.
 
 He stared at it for several seconds, unable to look away.
-
 Then he turned his head.
 
-“Hey, Nohk...
+&nbsp;
 
-is that a path?”
+—Hey, Nohk...
+is that a path?
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -2917,118 +2857,83 @@ Part 2 — The Path
 :::
 
 
- 
-
 It was impossible to know whether the narrow ledge actually led anywhere.
-
 It could end a few meters ahead.
-
 It could collapse.
-
 It could be nothing more than an irregularity in the rock, lost among hundreds of similar cracks.
-
 But after everything they had endured, every possibility was worth exploring.
 
-“We have to find out where it leads,” Nohk said.
+—We have to find out where it leads, —Nohk said.
 
 Kempht did not hesitate.
 
-“I will go.”
+—I will go.
 
 He approached the edge of the cliff and carefully began to descend until he reached the ledge.
-
 He placed both feet on the narrow strip of stone and remained still for a moment, allowing himself to adjust to the height.
-
 The wind struck the cliff face with force.
-
 Far below, the sea crashed against the rocks with a constant roar.
-
 The ledge descended gently along the mountain until it disappeared behind a rocky outcrop.
 
-“It might be the way,” he shouted.
+—It might be the way, —he shouted.
 
 Nohk remained above.
-
 He did not descend.
-
 He did not offer a rope.
-
 He did not search for another route.
-
 From there, he could see everything.
-
 If the ledge collapsed, he would know.
-
 If it led somewhere, he would know that as well.
 
 Kempht began to walk.
-
 One step.
-
 Then another.
-
 He moved slowly, placing one hand first, then one foot, testing each section of rock before putting his full weight upon it.
-
 He did not seem afraid.
-
 On the contrary.
-
 Each meter he crossed reminded him of the same thought that had brought him there.
-
 The treasure was close.
 
 Nohk watched him in silence.
-
 Long ago, he would have descended with him.
-
 He would have shared the risk.
-
 He would have protected his friend.
-
 But that man had disappeared long before they reached the cliff.
-
 The storm.
-
 The mountain.
-
 The betrayal.
-
 The death.
-
 Each loss had erased something from him.
-
 Now only the objective remained.
 
 Kempht took another step.
-
 And another.
-
 He slowly raised his left foot, searching for a new place to rest it.
-
 The stone cracked.
-
 For an instant, everything seemed to stop.
-
 As if the mountain itself were deciding.
 
 Then the rock gave way.
 
 His body lost its balance.
 
+&nbsp;
+
 And he fell.
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 Nohk waited.
 
 He remained still for several seconds.
-
 Then he slowly walked to the edge.
 
 He looked down.
 
 He could not see the body.
-
 Only the sea striking the rocks again and again.
-
 He waited a moment longer.
 
 Then he stepped away from the cliff and lowered himself onto the grass.
@@ -3036,57 +2941,37 @@ Then he stepped away from the cliff and lowered himself onto the grass.
 He rested his back against the ground.
 
 The world continued exactly as before.
-
 He remained there for hours.
-
 He was no longer in a hurry.
 
 When the sun began to disappear, he lit a small fire.
-
 The flames illuminated his face as darkness covered the coast.
 
 One thought returned again and again.
-
 Kempht had been completely certain.
-
 He had descended without hesitation.
 
 What if he had died only a few steps before reaching the end?
 
 Nohk continued watching the fire for a long time.
-
 Finally, he stood.
-
 He lit the oil lamp.
-
 Walked toward the edge of the cliff.
-
 And began to descend.
 
 Night had transformed the mountain into an immense black mass.
-
 The wind was colder.
-
 The sea seemed even farther below.
-
 He placed both feet on the ledge.
-
 Took a deep breath.
-
 And began to move.
-
 Step by step.
-
 Without looking down.
 
 The rock slowly curved around the outcrop.
-
 The ledge ended.
-
 Before him appeared a dark opening.
-
 The entrance to a cave.
-
 A tunnel leading deep into the heart of the mountain.
 
 Nohk remained still.
@@ -3094,17 +2979,18 @@ Nohk remained still.
 Listening.
 
 No sound came from within.
-
 He raised the lamp.
-
 The light moved across the stone walls.
 
 He walked several steps into the cave.
 
 And then the flame revealed something impossible, only a few steps ahead.
 
+&nbsp;
+
 An iron door, embedded in the wall of rock.
 
+&nbsp;
 
 
 
@@ -3141,10 +3027,20 @@ An iron door, embedded in the wall of rock.
 # Act 5 - Destiny
 
 
-> “No choice reveals its true nature
+> “No choice 
+>
+> reveals its true nature
+>
 > at the moment it is born.
+>
+> &nbsp;
+>
 > Only what it leaves behind
+>
 > bears witness to what it truly was.”
+>
+> &nbsp;
+>
 > —Fabhrius 
 
 
@@ -3163,29 +3059,32 @@ Part 1 — The Vault
 ::: {custom-style="ChapterStart"}
 
 Nohk hurried toward the door. There was no longer any doubt. The vault was real. They had all been wrong.
-The iron door was covered in rust and scarred by the passage of time. There were no royal emblems. No ancient inscriptions. Only the door.
-And a lock.
+The iron door was covered in rust and scarred by the passage of time. 
 
 :::
 
+There were no royal emblems. No ancient inscriptions. 
 
+Only the door.
+
+And a lock.
+
+&nbsp;
 
 He slid the key into it.
 
 It fit perfectly.
 
+&nbsp;
+
 He turned it with all his strength.
-
 A sharp metallic crack echoed through the cave, like the awakening of an ancient mechanism after centuries of silence.
-
 The lock yielded.
 
 He braced himself against the heavy iron door and pushed.
-
 Slowly, it began to open.
 
 A current of cold air drifted out from the darkness beyond. Still air. Ancient air. Air that had remained trapped there for centuries.
-
 He raised the lantern, trying to pierce the darkness.
 
 He hesitated.
@@ -3193,66 +3092,46 @@ He hesitated.
 Only a few steps now separated him from the end of his search.
 
 A moment later, he stepped inside.
-
 The lantern's light crept slowly across the chamber.
 
 Bare rock.
-
 Naked walls.
-
 Something pale lay on the floor.
 
 He moved closer.
-
 Bones.
-
 A skull.
-
 He swept the lantern farther.
-
 Another.
-
 And another.
-
 The remains of several men lay scattered near the entrance, wrapped in the rotting remnants of clothing that had almost completely vanished with time. Only their bones remained.
-
 The sight unsettled him.
-
 He stared at them for several long seconds.
-
 Then he walked on.
 
 A few steps later, the lantern illuminated the far wall.
-
 It was the end of the chamber.
-
 He crossed the room and laid a hand against the stone.
-
 Solid.
-
 Cold.
-
 Slowly, he turned around.
 
 From there he could see the entire vault.
 
 It was a circular chamber carved into the rock.
-
 No windows.
-
 No other doors.
-
 No hidden passages.
-
 No inscriptions.
-
 No symbols.
-
 Only the skeletons of those men.
-
 Nothing else.
 
+&nbsp;
+
 It was empty.
+
+&nbsp;
 
 A metallic sound shattered the silence.
 
@@ -3265,16 +3144,17 @@ Before he could react, the massive slab of iron slammed into the frame with a de
 The entire mountain seemed to tremble.
 
 The key was thrown from the lock.
-
 It struck the stone floor once...
-
 Then disappeared beneath the door.
 
 His mind refused to accept what he was seeing.
-
 It couldn't be happening.
 
-"No!"
+—No!
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 He lunged toward the entrance.
 
@@ -3292,8 +3172,12 @@ But the door did not move.
 
 It was sealed.
 
+&nbsp;
+
+
 And it could no longer be opened from the inside.
 
+&nbsp;
 
 
 
@@ -3322,8 +3206,6 @@ Part 2 — A New Day
 :::
 
 
-
-
 After the night came a new day.
 
 The sun shone over the sea as a raven flew into the cave.
@@ -3333,62 +3215,64 @@ Morning light streamed through the entrance, illuminating the iron door. And the
 The raven hopped closer and studied the object for a few moments.
 
 Then it seized the key in its talons and took flight.
-
 Within moments, it had left the cave behind.
-
 The spring sky seemed made for nothing but its wings.
 
 It soared above the cliffs, gliding among the clouds before climbing higher and higher into the open sky.
-
 It crossed mountains.
-
 Forests.
-
 Rivers.
-
 For a long time it drifted upon the rising currents that climbed from the valleys below.
 
 Until, somewhere far away, it released the key.
 
 The iron object spun through the air, struck the ground, bounced once...
+and disappeared into the grass.
 
-And disappeared into the grass.
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 There it remained.
-
 For a time.
 
-Until one quiet morning, near the village of Wetwood, a farmer named Jahnk was walking along a dirt road on his way to the market.
+&nbsp;
+
+Until one quiet morning, 
+
+near the village of Wetwood, a farmer named Jahnk was walking along a dirt road on his way to the market.
 
 It was a pleasant day.
-
 The sky was clear.
 
 His thoughts were occupied with simple things.
 
 The harvest.
-
 The livestock.
-
 The price of wheat.
 
 Then he noticed something glinting among the grass.
 
 He knelt down.
-
 Brushed aside a few branches.
-
 And picked it up.
+
+&nbsp;
 
 It was an old iron key.
 
 Heavy.
-
 Strangely beautiful.
 
 A green stone gleamed in its handle.
 
+&nbsp;
+
 Jahnk turned it over in his hands with quiet curiosity.
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 A coat of arms was engraved in the iron.
 
@@ -3396,11 +3280,14 @@ A symbol he did not recognize.
 
 He smiled.
 
-"Today is my lucky day."
+—Today is my lucky day.
+
+&nbsp;
 
 He slipped the key into his bag...
+and continued on his way.
 
-And continued on his way.
+&nbsp;
 
 
 

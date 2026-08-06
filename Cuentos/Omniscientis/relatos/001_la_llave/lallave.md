@@ -2386,8 +2386,9 @@ Parte 3 — El desierto
 
 
 Durante dos días siguieron las huellas de la carreta.
-El rastro era fácil de encontrar. Johf llevaba demasiado peso y avanzaba lentamente por el desierto de piedra. Las ruedas habían dejado marcas profundas entre las rocas y, de vez en cuando, encontraban señales de su paso: restos de una hoguera, algunas ramas rotas, huellas de los caballos.
+El rastro era fácil de encontrar. 
 
+Johf llevaba demasiado peso y avanzaba lentamente por el desierto de piedra. Las ruedas habían dejado marcas profundas entre las rocas y, de vez en cuando, encontraban señales de su paso: restos de una hoguera, algunas ramas rotas, huellas de los caballos.
 
 Cada hora que pasaba los acercaba más.
 Pero también los alejaba de aquello que habían sido.
@@ -2395,24 +2396,19 @@ Ya no viajaban como compañeros buscando una fortuna.
 No compartían planes ni hablaban del futuro.
 Ahora perseguían a un hombre.
 
-
 Al tercer día, cuando el sol comenzaba a descender, vieron una pequeña columna de humo elevándose entre las formaciones de piedra.
 La carreta estaba allí.
 Johf había acampado junto a unas rocas buscando algo de sombra. Los caballos descansaban. El mapa y la llave seguían con él.
 Durante unos minutos observaron desde la distancia.
 Todo aquello que habían perdido estaba allí delante.
 
-
 Kempht miró a Nohk.
 
-
 —Podemos tomarlo ahora.
-
 
 Nohk observó el campamento en silencio.
 No respondió.
 Esperarían.
-
 
 La noche cayó lentamente sobre el desierto.
 El fuego de Johf se redujo hasta convertirse en unas pocas brasas. El viento comenzó a recorrer las piedras. El cansancio terminó venciendo al hombre que dormía cerca de la carreta.
@@ -2420,39 +2416,46 @@ Entonces se movieron.
 Sin palabras.
 Sin ruido.
 
-
 Se acercaron lentamente. Soltaron las riendas de los caballos. Retiraron el equipo. Cargaron la carreta.
 Durante unos minutos todo permaneció en silencio.
-
 
 Cuando estaban a punto de alejarse, Johf abrió los ojos.
 Al principio no comprendió lo que estaba viendo.
 Después se levantó de golpe.
 
-
 —¿Nohk?
-
 
 Nadie respondió.
 Corrió fuera del campamento.
 La carreta ya comenzaba a alejarse entre las sombras.
 
-
 —¡Esperad!
-
 
 Los caballos siguieron avanzando.
 
-
 —¡No me dejéis aquí!
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 Poco a poco la distancia aumentó.
+
 Johf ya no pudo perseguirlos.
+
 Y vio como la carreta se alejaba dejandolo a merced del desierto.
 
-Sin lucha. Sin discusiones. Sin piedad.
+&nbsp;
 
+Sin lucha. 
+
+Sin discusiones. 
+
+&nbsp;
+
+Sin piedad.
+
+&nbsp;
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -2483,39 +2486,33 @@ Parte 1 — El acantilado
 
 ::: {custom-style="ChapterStart"}
 Tras varios días de viaje alcanzaron por fin el lugar señalado en el mapa.
-El terreno ascendía suavemente hasta una extensa llanura cubierta de hierba. El paisaje era extraño. Demasiado abierto. No había árboles, ni ruinas, ni montañas. Sólo el viento recorriendo la inmensidad.
+El terreno ascendía suavemente hasta una extensa llanura cubierta de hierba. 
 :::
 
+El paisaje era extraño. Demasiado abierto. No había árboles, ni ruinas, ni montañas. Sólo el viento recorriendo la inmensidad.
 
 Caminaron durante largo rato sin encontrar nada.
-
 
 Después, la tierra terminó.
 El suelo desaparecía de repente bajo sus pies, sustituido por un inmenso acantilado que descendía cientos de metros hasta el mar. Más allá no existía ninguna otra tierra. Sólo el agua extendiéndose hasta el horizonte.
 
-
 Era el final del continente. El borde mismo del mundo.
-
 
 El mapa los había conducido hasta allí.
 Y no había nada.
-
 
 Permanecieron inmóviles, contemplando el paisaje.
 A su espalda se extendía la llanura hasta donde alcanzaba la vista. Frente a ellos sólo existían el mar, el viento y el vacío.
 No quedaba ningún otro lugar donde buscar.
 
-
 Habían atravesado pantanos, cruzado desiertos, escalado montañas, para llegar hasta aquel punto.
 Nunca imaginaron que pudiera estar vacío.
 La realidad les había alcanzado. 
-
 
 Kempht dejó caer la mochila sobre la hierba.
 Nohk hizo lo mismo.
 Ninguno sintió la necesidad de hablar.
 Permanecieron allí un largo rato, escuchando el rumor de las olas golpeando la roca muchos metros más abajo.
-
 
 El viejo Jorhm había intentado advertirles.
 Sólo era una leyenda.
@@ -2523,7 +2520,6 @@ Ellos habían preferido creer otra cosa.
 Habían confundido un deseo con una promesa.
 Y ahora el mundo les ofrecía una respuesta insoportablemente sencilla.
 No había tesoro. Sólo el mar.
-
 
 Nohk se tumbó sobre la hierba.
 Toda la urgencia que había gobernado su vida durante semanas parecía haberse desvanecido.
@@ -2535,28 +2531,26 @@ El sonido del viento. Los gritos lejanos de las aves marinas.
 Las vió volar. 
 Libres.
 
-
 Una gaviota cruzó el cielo sobre ellos.
 Planeó unos instantes, aprovechando el viento, y desapareció detrás del borde del acantilado.
 
-
 Kempht siguió su vuelo con la mirada.
 Se incorporó lentamente y caminó hasta el borde.
-
 
 Se inclinó con prudencia sobre el vacío.
 La caída era vertiginosa. El mar golpeaba con fuerza las rocas, muy abajo, levantando columnas de espuma blanca.
 Entonces lo vio.
 
-
 A unos cincuenta metros de distancia, pegada a la pared del acantilado, una estrecha cornisa descendía en diagonal hasta perderse bajo un saliente de roca.
-
 
 Permaneció observándola unos segundos, sin apartar la vista.
 Después volvió la cabeza.
 
+&nbsp;
 
 —Eh, Nohk... ¿eso de ahí es un camino?
+
+&nbsp;
 
 
 
@@ -2572,36 +2566,28 @@ Después volvió la cabeza.
 Parte 2 — El camino
 :::
 
-
 No estaba claro que aquella estrecha cornisa condujera a ninguna parte.
 Podía terminar unos metros más adelante. Podía derrumbarse. Podía no ser más que una irregularidad de la roca perdida entre cientos de grietas semejantes.
 Pero después de todo lo que habían sufrido, cualquier posibilidad merecía ser explorada.
 
-
 —Tenemos que averiguar adónde lleva —dijo Nohk.
-
 
 Kempht ni siquiera dudó.
 
-
 —Voy yo.
-
 
 Se acercó al borde del acantilado y comenzó a descender con cuidado hasta alcanzar la cornisa. Apoyó ambos pies sobre la estrecha franja de piedra y permaneció inmóvil unos instantes, acostumbrándose al vértigo.
 El viento golpeaba la pared con fuerza.
 Muy abajo, el mar rompía contra las rocas con un estruendo constante.
 La cornisa descendía suavemente siguiendo la montaña hasta desaparecer detrás de un saliente.
 
-
 —Puede que sea el camino —gritó.
-
 
 Nohk permaneció arriba.
 No descendió.
 No ofreció una cuerda.
 No buscó otro acceso.
 Desde allí podía verlo todo. Si la cornisa se derrumbaba, lo sabría. Si conducía a algún lugar, también.
-
 
 Kempht comenzó a caminar.
 Un paso.
@@ -2611,7 +2597,6 @@ No parecía asustado.
 Al contrario.
 Cada metro que recorría le recordaba la misma idea que lo había llevado hasta allí.
 El tesoro estaba cerca.
-
 
 Nohk lo observaba en silencio.
 Tiempo atrás habría descendido con él.
@@ -2625,58 +2610,58 @@ La muerte.
 Cada pérdida había borrado algo de él.
 Ahora sólo quedaba el objetivo.
 
-
 Kempht avanzó otro paso.
 Y otro.
 Levantó lentamente el pie izquierdo buscando un nuevo apoyo.
 La piedra crujió.
 Durante un instante todo pareció detenerse.
 Como si la montaña estuviera decidiendo.
+
 Entonces la roca cedió.
+
 Su cuerpo perdió el equilibrio.
 
+&nbsp;
 
 Y cayó.
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 Nohk esperó.
 
-
 Permaneció inmóvil unos segundos.
 Después caminó lentamente hasta el borde.
+
 Miró hacia abajo.
+
 No distinguió el cuerpo.
 Sólo el mar golpeando una y otra vez contra las piedras.
 Esperó un momento más.
+
 Después se alejó del precipicio y se dejó caer sobre la hierba.
 
-
 Apoyó la espalda en el suelo.
-
 
 El mundo continuaba exactamente igual.
 Permaneció allí durante horas.
 Ya no tenía prisa.
 
-
 Cuando el sol comenzó a ocultarse, encendió una pequeña hoguera.
 Las llamas iluminaron su rostro mientras la oscuridad iba cubriendo la costa.
-
 
 Una idea regresaba una y otra vez.
 Kempht había estado completamente convencido.
 Había descendido sin vacilar.
 
-
 ¿Y si sólo había muerto unos metros antes de llegar?
-
 
 Continuó observando el fuego un largo rato.
 Finalmente se puso en pie.
 Encendió la lámpara de aceite.
 Se acercó al borde del acantilado.
 Y comenzó a descender.
-
 
 La noche había transformado la montaña en una inmensa masa negra.
 El viento era más frío.
@@ -2687,17 +2672,14 @@ Y comenzó a avanzar.
 Paso a paso.
 Sin mirar hacia abajo.
 
-
 La roca rodeó lentamente el saliente.
 La cornisa terminó.
 Frente a él apareció una abertura oscura.
 La entrada de una cueva. Un túnel que se internaba en las entrañas de la montaña.
 
-
 Nohk permaneció inmóvil.
 
 Escuchando.
-
 
 No llegaba ningún sonido desde el interior.
 Levantó la lámpara.
@@ -2708,9 +2690,11 @@ Avanzó unos metros dentro de la cueva.
 
 Y entonces la luz de la llama reveló algo imposible, unos pocos pasos mas adelante.
 
+&nbsp;
 
 Una puerta de hierro, incrustada en la pared de roca.
 
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -2734,9 +2718,6 @@ Una puerta de hierro, incrustada en la pared de roca.
 :::
 
 
-
-
-
 ::: {custom-style="IconCenterPage"}
 ![](img/simbolo_icono.png){ width=7% }
 :::
@@ -2748,15 +2729,20 @@ Una puerta de hierro, incrustada en la pared de roca.
 
 # Acto 5 - El Destino
 
-> "Ninguna elección revela su naturaleza
-
+> "Ninguna elección 
+>
+> revela su naturaleza
+>
 > en el instante en que nace.
-
-
+>
+> &nbsp;
+>
 > Solo aquello que deja tras de sí
-
+>
 > da testimonio de lo que fue."
-
+>
+> &nbsp;
+>
 > — Fabhrius
 
 
@@ -2778,47 +2764,46 @@ Nohk corrió hacia la puerta.
 Ahora ya no tenía ninguna duda. La bóveda existía.
 Todos estaban equivocados.
 La puerta de hierro estaba cubierta de óxido y marcas del paso del tiempo. 
-No había símbolos reales. Ni inscripciones antiguas. 
-Sólo la puerta.
-Y una cerradura.
 
 :::
 
+No había símbolos reales. Ni inscripciones antiguas. 
 
+Sólo la puerta.
 
+Y una cerradura.
+
+&nbsp;
 
 Introdujo la llave.
+
 Encajó perfectamente.
 
+&nbsp;
 
 La giró con fuerza.
 Un sonido seco, como un golpe, resonó en el interior de la cueva.
 Un mecanismo antiguo despertando después de siglos de silencio.
 Y la cerradura cedió.
 
-
 Empujo con fuerza la pesada puerta de hierro.
 Lentamente, comenzó a abrirse.
-
 
 Una corriente de aire frío salió desde el interior.
 Un aire inmóvil. Antiguo. Encerrado allí durante siglos.
 Levantó la lámpara.
 Intentando adivinar lo que podria estar oculto en la oscuridad.
-Dudó.
 
+Dudó.
 
 Sólo unos pasos lo separaban ahora del final de la búsqueda.
 
-
 Un momento despues entró abriéndose paso en la oscuridad. 
 Avanzando lentamente por la cámara.
+
 Roca.
 Paredes desnudas.
-
-
 Distinguió algo en el suelo.
-
 
 Algo blanco. Se acercó.
 Eran huesos. Un cráneo.
@@ -2830,46 +2815,47 @@ La visión le produjo una sensación incómoda.
 Permaneció mirándolos durante unos segundos.
 Después continuó avanzando.
 
-
 Unos pasos mas adelante, la luz de la lámpara reveló el muro posterior.
 Parecía el final de la boveda.
 Caminó hasta la pared del fondo. La tocó. 
 Sólida. Fría.
 Se volvió lentamente.
 
-
 Desde alli pudo ver toda la estancia.
-
 
 Era una construccion circular, sin ventanas, ni otras puertas, sin otras camaras.
 Excavada en la roca. Sin inscripciones, ni simbolos. 
 Solo contenia los esqueletos de aquellos hombres.
 Nada más.
+
+&nbsp;
+
 Estaba vacía.
 
+&nbsp;
 
 Un ruido metálico interrumpió sus pensamientos.
 
-
 La puerta se movio.
-
 
 Durante un segundo observó cómo comenzaba a cerrarse.
 
-
 Antes de que pudiera reaccionar la pesada hoja de hierro golpeó el marco con un estruendo ensordecedor.
+
 La roca entera pareció temblar.
+
 La llave salió despedida de la cerradura.
 Rebotó sobre la piedra.
 Y desapareció al otro lado de la puerta.
 
-
 Su mente rechazó lo que estaba viendo.
 No podía estar ocurriendo.
 
-
 —¡No! 
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 Corrió hacia la entrada. 
 
@@ -2891,6 +2877,7 @@ Estaba cerrada.
 
 Y ya no era posible abrirla desde dentro.
 
+&nbsp;
 
 
 
@@ -2921,21 +2908,16 @@ Parte 2 - Un nuevo día
 
 Después de la noche llegó un nuevo día.
 
-
 El sol brillaba sobre el mar cuando un cuervo entró en la cueva.
-
 
 La luz de la mañana se filtraba por la entrada e iluminaba la puerta de hierro.
 Y sobre el suelo, un destello verde llamó la atención del ave.
 
-
 El cuervo se aproximó dando pequeños saltos. Observó el objeto durante unos segundos.
-
 
 Cogió la llave con sus patas y levantó el vuelo.
 Se alejó de la cueva en un instante. 
 El cielo de aquella mañana de primavera parecía hecho únicamente para él. 
-
 
 Atravesó los acantilados planeando entre las nubes, y se elevó más y más en el aire.
 Sobrevoló las montañas.
@@ -2943,58 +2925,70 @@ Los bosques.
 Los ríos.
 Voló durante un largo rato impulsado por las corrientes de aire que ascendían desde los valles.
 
-
 Hasta que, en algún lugar lejano, dejó caer la llave a tierra, y se alejó.
-
 
 El objeto giró varias veces en el aire, robotó contra el suelo, y desapareció entre la hierba.
 
+&nbsp;
 
-Y alli permanecio durante un tiempo.
+Alli permanecio durante un tiempo.
 
+&nbsp;
 
-Hasta que un dia,
-en una tranquila mañana,
-cerca del pueblo de Wetwood, un campesino llamado Jahnk caminaba por un sendero de tierra rumbo al mercado.
+Hasta que un dia, 
 
+en una tranquila mañana, cerca del pueblo de Wetwood, 
+un campesino llamado Jahnk caminaba por un sendero de tierra rumbo al mercado.
 
 El día era agradable.
 El cielo estaba despejado.
+
 Y sus pensamientos estaban ocupados por asuntos sencillos.
+
 La cosecha.
 Los animales.
 El precio del trigo.
 
-
 Fue entonces cuando vio algo brillar entre la hierba.
-
 
 Se agachó.
 Apartó unas ramas.
 Y lo recogió.
 
+&nbsp;
 
 Era una vieja llave de hierro.
+
 Pesada.
 Extrañamente hermosa.
+
 Una piedra verde resplandecía en su empuñadura.
+
+&nbsp;
 
 
 Jahnk la observó con curiosidad.
-Le dio la vuelta entre las manos.
-Había un escudo grabado en el metal.
-Un símbolo que no reconoció.
 
+Le dio la vuelta entre las manos.
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+Había un escudo grabado en el metal.
+
+Un símbolo que no reconoció.
 
 Sonrió.
 
-
 —Hoy es mi día de suerte.
 
+&nbsp;
 
-Guardó la llave en una bolsa que llevaba, y continuó su camino.
+Guardó la llave en una bolsa que llevaba, 
+y continuó su camino.
 
-
+&nbsp;
 
 
 ::: {custom-style="Separator"}
