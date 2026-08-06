@@ -1573,7 +1573,7 @@ Ninguno tenía garantía alguna de alcanzar la cima.
 >
 > conoce sus verdaderos nombres."
 >
-> -Fabhrius
+> —Fabhrius
 
 
 ::: {custom-style="PageBreak"}
@@ -1590,49 +1590,41 @@ Parte 1 - De vuelta en la granja.
 ::: {custom-style="ChapterStart"}
 
 La mañana apenas había comenzado cuando Nohk volvió a extender el mapa sobre la mesa de su casa.
-Habían transcurrido ya dos días desde el regreso a Oldwood. Posiblemente pasarían todavía algunos días más antes de que la nueva expedición estuviera preparada para partir.
-Debía estar mejor preparado esta vez.
+Habían transcurrido ya dos días desde el regreso a Oldwood. 
 
 :::
 
+Posiblemente pasarían todavía algunos días más antes de que la nueva expedición estuviera preparada para partir.
+Debía estar mejor preparado esta vez.
 
 Nohk habría querido marcharse aquella misma mañana. Lo único que se lo impedía era la falta de recursos.
 Necesitaba una carreta, caballos, herramientas, provisiones y una larga lista de otras cosas.
-
 
 La expedición le había costado mucho. Se había llevado todo cuanto tenía.
 Había invertido en ella el poco dinero que había conseguido ahorrar, además de su carreta y sus caballos.
 
 Y lo había perdido todo.
 
-
 Nohk no era un hombre rico.
 Ahora era un poco más pobre.
 
-
 ¿Había sido un error emprender aquella búsqueda?
-
 
 No creía que esa pregunta pudiera responderse todavía.
 Mientras existiera la posibilidad de que el tesoro fuera real, todo lo perdido seguía siendo una inversión.
 
-
 Solo el fracaso definitivo convertiría aquellos sacrificios en pérdidas.
 Y ese fracaso solo llegaría el día en que decidiera abandonar.
-
 
 Por eso ya no se preguntaba si debía continuar.
 Esa decisión había quedado atrás.
 Ahora solo buscaba una forma distinta de llegar al mismo lugar.
 
-
 Si aquel tesoro existía, las pérdidas sufridas hasta entonces eran insignificantes.
-
 
 Acababa de terminar de trazar una nueva ruta.
 El antiguo camino había dejado de existir siglos atrás. El puente que aparecía dibujado en el mapa se había derrumbado hacía mucho tiempo.
 Pero el resto de las referencias seguían teniendo sentido.
-
 
 Las montañas.
 Los ríos.
@@ -1640,14 +1632,11 @@ La posición del sol.
 Las distancias.
 Todo encajaba.
 
-
 Podían alcanzar las tierras altas rodeando la cordillera por el oeste, atravesando el Desierto de Piedra y regresando hacia el este una vez superadas las montañas.
-
 
 Era una ruta mucho más larga.
 Mucho más cara.
 Y mucho más peligrosa.
-
 
 Necesitarían una carreta nueva, animales de carga, más agua, más alimentos y herramientas capaces de soportar varios días atravesando un territorio donde apenas existían refugios.
 Calculó cada distancia.
@@ -1655,43 +1644,42 @@ Anotó las provisiones necesarias.
 Marcó posibles lugares para acampar.
 Cuando terminó, el nuevo mapa parecía el plano de una expedición cuidadosamente preparada.
 
-
 No buscaba una aventura.
 Buscaba una segunda oportunidad.
 
-
 El mapa ya no necesitaba correcciones.
 Quien había cambiado era Nohk.
-
 
 Al mediodía se reuniría con los demás en la posada.
 Enrolló lentamente el pergamino.
 Después levantó la vista.
 
-
 A través de la ventana podía verse el río bordeando la granja. Las primeras luces de la mañana iluminaban los campos de trigo. Las gallinas caminaban alrededor del establo, ajenas a cualquier preocupación.
-
 
 Se colocó el sombrero.
 Tomó el mapa.
 Y salió de la casa.
-
 
 Atravesó la granja por el camino que bordeaba el río.
 La brisa fresca de la mañana lo acompañaba. Respiró el aroma de la hierba húmeda mientras escuchaba el sonido acompasado del agua golpeando la orilla.
 Se alejó poco a poco del confortable refugio de su pequeña casa.
 Y, paso a paso, se internó en el bosque. El mismo en el que había crecido.
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 Todo permanecía exactamente igual que una semana antes.
-Solo una cosa había cambiado.
 
+Solo una cosa había cambiado.
 
 Hasta hacía unos días contemplaba aquella pequeña granja como un hogar, el lugar donde viviría el resto de su vida.
 
+&nbsp;
 
 Ahora la observaba como algo que todavía podía vender.
 
+&nbsp;
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -1726,28 +1714,21 @@ Los cuatro hombres permanecían sentados alrededor de una mesa de madera. Las ja
 :::
 
 
-
-
 Hablaban de la expedición.
 De la tormenta.
 Del puente derrumbado.
 De Ghim.
-La palabra fracaso había comenzado a aparecer en la conversación.
-
+La palabra 'fracaso' había comenzado a aparecer en la conversación.
 
 —Quizá nunca debimos salir de Oldwood —dijo alguien.
 
-
 —Tal vez la bóveda no exista.
-
 
 Nohk permaneció unos instantes junto a la puerta escuchándolos.
 Mientras ellos discutían sobre lo ocurrido, él sólo pensaba en lo que todavía podía ocurrir.
 Se acercó a la mesa, dejó el cilindro de cuero que llevaba bajo el brazo y tomó asiento.
 
-
 —He encontrado otra ruta.
-
 
 Las conversaciones cesaron.
 Cuatro pares de ojos se volvieron hacia él.
@@ -1757,47 +1738,39 @@ Estaba cubierto de anotaciones, medidas y líneas añadidas durante los últimos
 Nohk apoyó un dedo sobre el valle de Oldwood.
 Deslizó lentamente el dedo hacia el oeste.
 
-
 —Si rodeamos la cordillera por el Desierto de Piedra podremos alcanzar las tierras altas desde el norte. Desde allí sólo tendremos que seguir la costa hasta el punto señalado por el mapa.
-
 
 Kempht inclinó el cuerpo sobre la mesa.
 Recorrió el trazado con la mirada.
 Después asintió lentamente.
 
-
 —Puede hacerse.
-
 
 Johf tomó el mapa entre las manos.
 Lo examinó con atención, comparando las nuevas anotaciones con el antiguo recorrido que todavía recordaba.
 Al cabo de unos instantes levantó la vista.
 
-
 —Es más largo.
-
 
 —Sí.
 
-
 —Y mucho más peligroso.
-
 
 —También.
 
-
 Nohk no intentó ocultarlo.
 
-
 —Pero existe.
-
 
 Durante un instante nadie volvió a hablar.
 Dos días antes la expedición había terminado al borde de un acantilado.
 Ahora, de repente, volvía a existir un camino.
 
+&nbsp;
 
 Y eso bastó para que el fracaso dejara de parecer definitivo.
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -1824,23 +1797,17 @@ Y eso bastó para que el fracaso dejara de parecer definitivo.
 Parte 2 — ¿Existe realmente el tesoro?
 :::
 
-
 —Existe un camino —dijo Tarhk, sin apartar la vista del mapa—. Pero... ¿existe realmente el tesoro?
-
 
 El silencio regresó a la mesa.
 Nohk abrió lentamente la bolsa de cuero que llevaba atada al cinturón y dejó la llave sobre la mesa.
 El hierro estaba ennegrecido por los siglos, y la piedra verde brillaba con intensidad.
 
-
 —Miradla otra vez —dijo.
-
 
 Nadie respondió.
 
-
 —Sólo esta piedra vale más dinero del que cualquiera de nosotros ganará en toda su vida. ¿Qué clase de puerta necesita una llave como ésta?
-
 
 Johf la tomó entre las manos.
 La giró despacio.
@@ -1850,58 +1817,58 @@ El trabajo del orfebre.
 Finalmente levantó la vista.
 Tarhk permanecía inmóvil.
 
-
 —Sabemos que el mapa existe.
-
 
 —Y la puerta también debió existir.
 
-
 —La llave está aquí.
-
 
 Johf dejó la llave sobre la mesa.
 
-
 —Tres cosas son ciertas.
-
 
 Se hizo un breve silencio.
 
-
 —Entonces la bóveda también debería existir.
-
 
 Aquella conclusión parecía razonable.
 Después apareció otra.
 
-
 —Si alguien se tomó la molestia de esconder algo durante trescientos años...
-—...debía ser algo importante.
-
+debía ser algo importante.
 
 —Y si era importante...
-—...debía tener un gran valor.
-
+debía tener un gran valor.
 
 Las ideas comenzaron a encadenarse unas con otras.
 Cada argumento hacía parecer más sólido al anterior.
 Cada posibilidad era aceptada como apoyo para la siguiente.
+
 Poco a poco dejaron de preguntarse qué era cierto.
 
+&nbsp;
 
 Comenzaron a preguntarse qué explicación hacía encajar mejor todas las piezas.
 
+&nbsp;
 
 Y ninguna encajaba tan bien como la existencia del tesoro.
-Tarhk observó a sus amigos uno por uno.
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+Tarhk observó a sus amigos uno por uno.
 
 —Todo eso son suposiciones.
 
-
 Nadie respondió.
+
+&nbsp;
+
 Porque las suposiciones empezaban a resultar mucho más cómodas que las dudas.
+
+&nbsp;
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -1921,19 +1888,14 @@ Observaba a sus amigos.
 Esperó a que terminaran de hablar.
 Entonces apartó lentamente la jarra que tenía delante y dijo con calma:
 
-
 —Yo no iré.
-
 
 Las conversaciones se detuvieron.
 Kempht levantó la vista con incredulidad.
 
-
 —¿Qué has dicho?
 
-
 —No continuaré la expedición.
-
 
 El silencio que siguió fue aún más profundo.
 Nadie esperaba aquella respuesta.
@@ -1942,54 +1904,40 @@ Habían discutido el tesoro.
 Pero ninguno había imaginado que alguien pudiera renunciar precisamente ahora.
 Tarhk recorrió lentamente los rostros de sus compañeros.
 
-
 —Hace dos semanas ninguno de nosotros habría aceptado cruzar ese pantano.
-
 
 Nadie respondió.
 
-
 —Hace unos días ninguno habría intentado descender por aquel acantilado para escalar la pared opuesta.
-
 
 Las miradas comenzaron a bajar hacia la mesa.
 
-
 —Y, sin embargo, lo hicimos.
-
 
 Dejó pasar unos segundos.
 
-
 —Decidme una cosa.
-
 
 Miró a Nohk.
 
-
 —¿Dónde está el límite?
-
 
 Nadie contestó.
 Porque ninguno sabía responderla.
 
-
 Tarhk apoyó ambas manos sobre la mesa.
 Su voz seguía siendo tranquila.
 
-
 —No sé si el tesoro existe.
-
 
 Miró la llave.
 Después volvió a mirar a sus amigos.
 
-
 —Pero sí sé una cosa.
-
 
 Hizo una breve pausa.
 
+&nbsp;
 
 —Yo ya he perdido bastante.
 
@@ -2012,93 +1960,80 @@ Parte 4 — La gran racionalización
 Durante unos instantes nadie habló.
 La pregunta de Tarhk seguía girando en el pensamiento del grupo.
 
-
 ¿Dónde estaba el límite?
-
 
 Fue Nohk quien rompió el silencio.
 
-
 —Permitidme haceros otra pregunta.
-
 
 Miró uno por uno a sus compañeros.
 
+&nbsp;
 
 —¿Y si abandonamos... y el tesoro existe?
 
+&nbsp;
 
 Nadie respondió.
 No era una pregunta nueva.
 Había estado presente desde el día en que encontraron la llave.
 Era la posibilidad que convertía cada renuncia en un riesgo.
 
-
 Nohk continuó.
-
 
 —Si abandonamos ahora, nunca lo sabremos.
 
-
 Señaló el mapa.
 
-
 —Puede que el tesoro esté a sólo unos días de camino. Después de todo lo que hemos hecho... ¿vamos a detenernos ahora?
-
 
 Kempht asintió lentamente.
 Aquella idea tenía una fuerza difícil de combatir.
 Entonces Nohk añadió:
 
-
 —Si abandonamos hoy, habremos perdido todo lo que hemos invertido.
-
 
 Tarhk negó con la cabeza.
 
-
 —No.
-
 
 Su respuesta fue inmediata.
 
-
 —Eso ya lo hemos perdido.
-
 
 El silencio volvió a adueñarse de la mesa.
 Nohk sostuvo su mirada.
 
-
 —Todavía no.
 
-
 —Mientras exista una posibilidad de encontrar la bóveda, todo lo que hemos sacrificado puede recuperarse.
-
 
 Tarhk permaneció inmóvil.
 Nohk continuó hablando, cada vez con más convicción.
 
-
 —En cualquier empresa aparecen dificultades. Gastos que nadie había previsto. Eso no significa que el proyecto haya fracasado. Significa que debemos terminarlo.
-
 
 Johf comenzó a asentir.
 Kempht también.
 
-
 La idea resultaba extrañamente tranquilizadora.
+
+&nbsp;
 
 Convertía las pérdidas en una inversión.
 
 Y la incertidumbre en una promesa.
 
+&nbsp;
 
 Tarhk los observó en silencio.
 Comprendió que ya no estaban hablando del tesoro.
 
+&nbsp;
 
 Estaban intentando encontrar una razón que hiciera soportable todo lo que ya habían sacrificado.
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -2121,46 +2056,33 @@ Ya no quedaba nada por discutir.
 Sólo decidir.
 Nohk fue el primero en romper el silencio.
 
-
 —Yo continuaré.
-
 
 Miró uno por uno a sus compañeros.
 
-
 —¿Quién viene conmigo?
-
 
 Kempht respondió sin vacilar.
 
-
 —Yo.
-
 
 Johf tardó apenas unos segundos más.
 
-
 —Contad conmigo.
-
 
 Todos miraron entonces a Pohval.
 Éste permaneció en silencio.
 Finalmente negó despacio con la cabeza.
 
-
 —No.
-
 
 Nadie dijo nada.
 Pohval apoyó ambas manos sobre la mesa.
 
-
 —He perdido demasiado para seguir apostando.
-
 
 Miró la llave.
 Después el mapa.
-
 
 —Si el tesoro existe, nunca sabré lo que había allí.
 Pero todavía conservo mi casa.
@@ -2168,15 +2090,12 @@ Mi tierra.
 Y mi vida.
 No pienso entregar también eso.
 
-
 Nohk no respondió.
 No intentó convencerlo.
 Sabía que aquella decisión ya estaba tomada.
 
-
 La expedición continuaría.
 Pero sólo con tres hombres.
-
 
 Quedaba un problema.
 El dinero.
@@ -2187,45 +2106,40 @@ Herramientas.
 Provisiones para varias semanas.
 Ninguno conservaba suficiente dinero para afrontarlo solo.
 
-
 —Venderé la parcela del este —dijo Nohk.
-
 
 Lo dijo con la misma naturalidad con la que habría hablado de reparar un tejado.
 Aquella tierra había pertenecido a su familia desde hacía generaciones.
 Ya no parecía importante.
 
-
 Kempht levantó la vista.
-
 
 —Yo venderé mis caballos.
 
-
 Johf permaneció pensativo unos instantes.
-
 
 —Pediré un préstamo.
 Lo devolveré cuando encontremos la bóveda.
 
-
 Nadie discutió aquellas decisiones.
 Las aceptaron con una facilidad que habría resultado impensable apenas unas semanas antes.
 
-
 La conversación continuó hasta bien entrada la noche.
 Entre cuentas, distancias y provisiones, la nueva expedición fue tomando forma sobre la mesa de la posada.
-
 
 Cuando abandonaron el edificio, el plan estaba completo.
 Ya no sólo habían decidido regresar a las montañas.
 Habían decidido apostar el resto de sus vidas a que el tesoro existía.
 
+&nbsp;
 
 Ninguno de ellos sintió que estuviera cruzando un límite. 
 
+&nbsp;
+
 Y, sin embargo, acababan de dejar atrás el último que todavía los unía a la vida que habían conocido.
 
+&nbsp;
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -2247,13 +2161,20 @@ Y, sin embargo, acababan de dejar atrás el último que todavía los unía a la 
 # Acto 4 - Erosión
 
 
-> "Ningún hombre recorre un largo camino sin dejar algo de sí en él. 
-
-> Lo difícil es descubrir, al final, 
-
+> "Ningún hombre recorre un largo camino  
+>
+> sin dejar algo de sí en él.
+>
+> &nbsp;
+>
+> Lo difícil  
+>
+> es descubrir, al final,
+>
 > qué fue exactamente lo que quedó atrás."
-
-
+>
+> &nbsp;
+>
 > — Fabhrius
 
 
@@ -2271,36 +2192,31 @@ Parte 1 — La víspera
 ::: {custom-style="ChapterStart"}
 
 Los días siguientes fueron de gran actividad.
-La nueva expedición comenzó a tomar forma poco a poco. Esta vez no había lugar para la improvisación. Cada decisión era discutida con cuidado. Cada compra respondía a una necesidad concreta. Habían aprendido muchas cosas durante el primer intento y no repetirían los mismos errores.
+La nueva expedición comenzó a tomar forma poco a poco. Esta vez no había lugar para la improvisación. 
 
 :::
 
+Cada decisión era discutida con cuidado. Cada compra respondía a una necesidad concreta. Habían aprendido muchas cosas durante el primer intento y no repetirían los mismos errores.
 
 Nohk vendió una pequeña parcela de tierra junto al río. Kempht consiguió dos buenos caballos. Johf obtuvo un préstamo ofreciendo su casa como garantía. Entre los tres reunieron el dinero suficiente para comprar una carreta nueva, herramientas, cuerdas, tiendas de campaña, mantas y provisiones para varias semanas.
 La nueva expedición era mejor que la primera.
 Y también mucho más cara.
 
-
 Esta vez ninguno conservaba ya un margen para equivocarse.
 
-
 Durante varios días revisaron el mapa una y otra vez. Corrigieron distancias. Marcaron pozos de agua. Calcularon el tiempo necesario para atravesar el Desierto de Piedra durante la noche y evitar el calor del día. Estudiaron posibles lugares donde acampar y prepararon reservas para cualquier retraso inesperado.
-
 
 Ya no hablaban como soñadores.
 Hablaban como hombres convencidos de que el éxito dependía únicamente de una buena planificación.
 La montaña los había derrotado una vez.
 No volvería a hacerlo.
 
-
 La tarde anterior a la partida cargaron la carreta. Las herramientas fueron cuidadosamente ordenadas. Las cuerdas se enrollaron de forma que pudieran utilizarse en cualquier momento. Cada saco de comida fue contado dos veces. Cada barril de agua quedó firmemente sujeto para soportar el viaje.
 Cuando terminaron, el vehículo permanecía inmóvil frente al establo, preparado para partir al amanecer.
-
 
 Los tres lo contemplaron durante un momento.
 Aquella carreta era mucho más que madera, hierro y caballos.
 Representaba una segunda oportunidad.
-
 
 La conversación de aquella noche fue distinta a las anteriores.
 Ya no discutían si el tesoro existía.
@@ -2308,19 +2224,17 @@ Hablaban de cuánto tardarían en encontrarlo.
 Incluso comenzaron a imaginar qué haría cada uno con la riqueza del rey. Compraría tierras. Levantaría una casa más grande. Contrataría trabajadores. Viviría sin volver a preocuparse por el dinero.
 Durante unas horas, la expedición dejó de parecer una apuesta para convertirse, una vez más, en un futuro posible.
 
-
 Cenaron abundantemente en la posada.
 Hablaron poco del viaje.
 Rieron.
 Al despedirse, acordaron reunirse antes del amanecer.
 
-
 Todo estaba preparado.
 Sólo quedaba partir.
+
 Nohk apenas consiguió dormir.
 Se despertó cuando el cielo todavía estaba completamente oscuro. El pueblo descansaba en silencio. El aire era frío y húmedo. Se vistió sin hacer ruido y salió de la casa convencido de que sería el primero en llegar.
 Entonces percibió algo extraño.
-
 
 No se oía a los caballos.
 Se detuvo.
@@ -2328,27 +2242,41 @@ Miró hacia el establo.
 Las puertas estaban abiertas.
 Durante un instante permaneció inmóvil, sin comprender.
 Después comenzó a correr.
+
 El establo estaba vacío.
 La carreta había desaparecido.
 
-
 El corazón comenzó a latirle con fuerza.
 Entró de nuevo en la casa.
+
 La llave ya no estaba donde la había guardado.
+
 Tampoco el mapa.
 
-
 Un pensamiento atravesó su mente antes incluso de comprobarlo.
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+
 Corrió hacia la casa de Johf.
+
 Golpeó la puerta.
+
 Nadie respondió.
+
 Empujó con fuerza.
+
 La casa estaba vacía.
 
-
 Entonces comprendió la verdad.
+
+&nbsp;
+
 La segunda expedición había terminado antes incluso de comenzar.
 
+&nbsp;
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -2366,7 +2294,6 @@ Unos minutos más tarde, Nohk y Kempht analizaban el establo en busca de informa
 
 Nohk observó durante un momento las profundas marcas que las ruedas de la carreta habían dejado sobre el barro. A su lado, Kempht contemplaba el camino con la misma expresión de incredulidad.
 
-
 Johf simplemente había esperado a que todos durmieran.
 Había cargado la carreta, y ensillado los caballos.
 Había tomado la llave, el mapa, las provisiones, las herramientas.
@@ -2374,9 +2301,7 @@ Y se había marchado antes del amanecer.
 Todo aquello no había sido un impulso.
 Había sido un plan.
 
-
 —Nos llevaba ventaja desde antes de que nos acostáramos —murmuró Kempht.
-
 
 Nohk no respondió.
 Su mirada seguía fija sobre las huellas de las ruedas.
@@ -2390,32 +2315,25 @@ La carreta.
 El dinero.
 Las semanas de trabajo.
 
-
 Todo dependía ahora de un solo hombre que avanzaba hacia las montañas con varias horas de ventaja.
 Nohk cerró los ojos un instante.
 Comprendió que el tesoro ya no era únicamente una promesa de riqueza.
 Se había convertido en la única forma de dar sentido a todo lo que habían sacrificado.
 
-
 Si Johf encontraba la bóveda antes que ellos...
 Todo habría terminado.
 Todo habría sido inútil.
 
-
 —Tenemos que alcanzarlo —dijo finalmente.
-
 
 Kempht levantó la vista.
 
-
 —¿Cómo?
-
 
 No tenían caballos.
 No tenían dinero.
 No tenían tiempo.
 Y con cada minuto que permanecían allí aumentaba la distancia entre ellos y Johf.
-
 
 Entonces Nohk miró hacia el otro extremo del pueblo.
 Allí, junto a un cercado de madera, dos caballos permanecían atados frente al granero de una pequeña granja.
@@ -2425,14 +2343,11 @@ Y otra vez hacia los caballos.
 No era una decisión difícil.
 Sólo era una decisión que unas semanas antes jamás habría considerado.
 
-
 —Los devolveremos cuando todo termine —dijo con voz tranquila.
-
 
 Kempht comprendió inmediatamente lo que estaba proponiendo.
 No intentó convencerlo de lo contrario.
 Habían cruzado demasiadas fronteras para detenerse ahora.
-
 
 El viento recorría los tejados de Oldwood.
 Caminaron sin hacer ruido entre las sombras.
@@ -2442,21 +2357,20 @@ Uno de ellos dejó escapar un leve relincho.
 Los dos hombres permanecieron completamente inmóviles.
 Esperando.
 
-
 Entonces desataron las riendas.
 Guiaron lentamente a los animales hasta el camino.
 Montaron.
 Y abandonaron el pueblo antes del amanecer.
 
-
 Detrás de ellos quedaron las casas, las tierras que habían cultivado desde niños y la vida tranquila que  habían conocido.
-
 
 Buscaban a un ladrón.
 
+&nbsp;
 
 Sin darse cuenta, acababan de convertirse en dos más.
 
+&nbsp;
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦

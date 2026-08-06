@@ -1777,142 +1777,101 @@ Part 1 – Back at the Farm
 
 Morning had barely begun when Nohk spread the map across the table in his house once again.
 It had been two days since they returned to Oldwood.
-It would likely be several more before a new expedition could be ready to depart.
-This time, he intended to be better prepared.
+
 
 :::
 
-
+It would likely be several more before a new expedition could be ready to depart.
+This time, he intended to be better prepared.
 
 He would have left that very morning if he could.
-
 The only thing stopping him was a lack of resources.
-
 He needed a wagon.
-
 Horses.
-
 Tools.
-
 Provisions.
-
 And a long list of everything else the journey would demand.
 
 The expedition had cost him dearly.
-
 It had consumed everything he owned.
-
 The small savings he had spent years accumulating.
-
 His wagon.
-
 His horses.
 
 All gone.
 
 Nohk had never been a wealthy man.
-
 Now he was poorer still.
 
 Had it been a mistake to begin the search?
 
 He no longer believed that question could be answered.
-
 As long as the treasure might still be real, everything he had lost remained an investment.
 
 Only final failure would turn those sacrifices into losses.
-
 And that failure would come only on the day he chose to abandon the search.
 
 So he no longer asked himself whether he should continue.
-
 That decision was already behind him.
-
 Now he searched only for another way to reach the same destination.
 
 If the treasure truly existed, everything they had lost so far was insignificant.
 
 He had just finished drawing a new route.
-
 The old road had vanished centuries before.
-
 The bridge shown on the map had collapsed long ago.
-
 But every other landmark still made sense.
 
 The mountains.
-
 The rivers.
-
 The position of the sun.
-
 The distances.
-
 Everything fit.
 
 They could reach the highlands by circling the mountain range from the west, crossing the Stone Desert, and turning east again after passing beyond the peaks.
 
 The journey would be much longer.
-
 Far more expensive.
-
 And far more dangerous.
 
 They would need another wagon.
-
 Pack animals.
-
 More water.
-
 More food.
-
 And equipment capable of enduring several days across a land where shelter was almost nonexistent.
-
 He calculated every distance.
-
 Listed every supply they would need.
-
 Marked possible campsites.
-
 When he finished, the new map looked like the blueprint of a carefully planned expedition.
 
 He was not searching for adventure.
-
 He was searching for a second chance.
 
 The map no longer needed correcting.
-
 Nohk was the one who had changed.
 
 At noon, he would meet the others at the inn.
-
 He slowly rolled up the parchment.
-
 Then looked up.
 
 Through the window, he could see the river winding past the farm.
-
 The first light of morning lay across the wheat fields.
-
 Chickens wandered around the stable, untouched by any human concern.
 
 He put on his hat.
-
 Picked up the map.
-
 And stepped outside.
 
 He crossed the farm along the path beside the river.
-
 The cool morning breeze followed him.
-
 He breathed in the scent of damp grass while listening to the steady rhythm of the water against the bank.
-
 Gradually, he left behind the quiet refuge of his little farmhouse.
-
 Step by step, he entered the forest.
-
 The same forest where he had grown up.
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 Everything was exactly as it had been a week before.
 
@@ -1922,9 +1881,13 @@ Until a few days ago, he had looked upon the little farm as his home...
 
 the place where he would spend the rest of his life.
 
+&nbsp;
+
 Now...
 
 he looked at it as something he could still sell.
+
+&nbsp;
 
 
 
@@ -1964,83 +1927,65 @@ No one seemed in the mood to drink.
 :::
 
 
-
-
 They spoke of the expedition.
-
 The storm.
-
 The collapsed bridge.
-
 Ghim.
+The word 'failure' had begun to find its way into the conversation.
 
-The word *failure* had begun to find its way into the conversation.
+—Perhaps we should never have left Oldwood, —one of them said.
 
-“Perhaps we should never have left Oldwood,” one of them said.
-
-“Perhaps the vault does not exist.”
+—Perhaps the vault does not exist.
 
 Nohk remained by the doorway for a few moments, listening.
-
 While they argued about what had happened...
-
 he could think only about what might still happen.
-
 He walked to the table, set down the leather map case he had been carrying beneath his arm, and took a seat.
 
-“I found another route.”
+—I found another route.
 
 The conversation stopped.
-
 Four pairs of eyes turned toward him.
-
 Calmly, he unrolled the new map across the table.
-
 It was no longer the simple drawing copied from Jorhm's book.
-
 It was covered with notes, measurements, and lines added over the previous two days.
-
 Nohk placed one finger upon the valley of Oldwood.
-
 Then slowly traced a path westward.
 
-“If we circle the mountain range through the Stone Desert, we can reach the highlands from the north. From there, we need only follow the ridge to the place marked on the map.”
+—If we circle the mountain range through the Stone Desert, we can reach the highlands from the north. From there, we need only follow the ridge to the place marked on the map.
 
 Kempht leaned over the table.
-
 He studied the route for a long moment.
-
 Then nodded slowly.
 
-“It can be done.”
+—It can be done.
 
 Johf picked up the map.
-
 He examined it carefully, comparing the new markings with the route he still remembered.
-
 After a moment, he looked up.
 
-“It is longer.”
+—It is longer.
 
-“Yes.”
+—Yes.
 
-“And much more dangerous.”
+—And much more dangerous.
 
-“Yes.”
+—Yes.
 
 Nohk made no attempt to deny it.
 
-“But it exists.”
+—But it exists.
 
 For a moment, no one spoke.
-
 Two days earlier, the expedition had ended at the edge of a cliff.
-
 Now, suddenly...
-
 there was a road once again.
 
+&nbsp;
+
 And that alone was enough for failure to no longer seem final.
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -2068,8 +2013,7 @@ Part 2 – Does the Treasure Really Exist?
 :::
 
 
-
-“There may be a way,” Tarhk said, without taking his eyes off the map. “But... does the treasure truly exist?”
+—There may be a way, —Tarhk said, without taking his eyes off the map—. But... does the treasure truly exist?
 
 Silence settled over the table once more.
 
@@ -2077,73 +2021,73 @@ Nohk slowly untied the leather pouch from his belt and placed the key upon the t
 
 The iron had been blackened by centuries, yet the green stone still shone with remarkable brilliance.
 
-“Look at it again,” he said.
+—Look at it again, —he said.
 
 No one answered.
 
-“That stone alone is worth more money than any of us will earn in a lifetime.
-
-What kind of door requires a key like this?”
+—That stone alone is worth more money than any of us will earn in a lifetime.
+What kind of door requires a key like this?
 
 Johf picked it up.
-
 He turned it slowly in his hands.
-
 He studied the royal crest engraved in the iron.
-
 The emerald.
-
 The craftsmanship.
-
 Then he looked up.
-
 Tarhk remained silent.
 
-“We know the map exists.”
+—We know the map exists.
 
-“And the door must have existed as well.”
+—And the door must have existed as well.
 
-“The key is here.”
+—The key is here.
 
 Johf gently laid it back upon the table.
 
-“Three things are certain.”
+—Three things are certain.
 
 For a moment, no one spoke.
 
-“Then the vault should exist as well.”
+—Then the vault should exist as well.
 
 The conclusion seemed perfectly reasonable.
-
 Then another followed.
 
-“If someone went to the trouble of hiding something for three hundred years...”
+—If someone went to the trouble of hiding something for three hundred years...
+it must have been something important.
 
-“…it must have been something important.”
-
-“And if it was important...”
-
-“…it must have been immensely valuable.”
+—And if it was important...
+it must have been immensely valuable.
 
 One idea led naturally to the next.
-
 Each argument made the previous one seem stronger.
-
 Each possibility became support for the next.
 
 Little by little, they stopped asking what they actually knew.
 
+&nbsp;
+
 Instead, they began asking which explanation made all the pieces fit together.
+
+&nbsp;
 
 And none fit so neatly as the existence of the treasure.
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
 Tarhk looked at each of his friends in turn.
 
-“These are all assumptions.”
+—These are all assumptions.
 
 No one answered.
 
+&nbsp;
+
 Because assumptions were beginning to feel far more comfortable than doubt.
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -2161,79 +2105,67 @@ Part 3 – The First to Leave
 
 
 While some tried to prove that the treasure had to exist, Tarhk remained silent.
-
 He was not looking at the key.
-
 He was looking at his friends.
-
 He waited until they had finished speaking.
-
 Then he slowly pushed away the mug in front of him and said calmly:
 
-“I will not go.”
+—I will not go.
 
 The conversations stopped.
-
 Kempht looked up in disbelief.
 
-“What did you say?”
+—What did you say?
 
-“I will not continue the expedition.”
+—I will not continue the expedition.
 
 The silence that followed was deeper than before.
-
 No one had expected that answer.
-
 They had discussed the new route.
-
 They had discussed the treasure.
-
 But no one had imagined that someone could walk away now.
-
 Precisely now.
-
 Tarhk slowly looked at each of his companions.
 
-“Two weeks ago, none of us would have agreed to cross that marsh.”
+—Two weeks ago, none of us would have agreed to cross that marsh.
 
 No one answered.
 
-“A few days ago, none of us would have attempted to descend that cliff in order to climb the opposite wall.”
+—A few days ago, none of us would have attempted to descend that cliff in order to climb the opposite wall.
 
 Their eyes began to fall toward the table.
 
-“And yet...
-
-we did.”
+—And yet...
+we did.
 
 He allowed several seconds to pass.
 
-“Tell me something.”
+—Tell me something.
 
 He looked at Nohk.
 
-“Where is the limit?”
+—Where is the limit?
 
 No one answered.
-
 Because none of them knew.
 
 Tarhk placed both hands upon the table.
-
 His voice remained calm.
 
-“I do not know if the treasure exists.”
+—I do not know if the treasure exists.
 
 He looked at the key.
-
 Then back at his friends.
 
-“But I do know one thing.”
+—But I do know one thing.
 
 He paused briefly.
 
-“I have already lost enough.”
+&nbsp;
 
+—I have already lost enough.
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -2249,89 +2181,86 @@ Part 4 – The Great Rationalization
 :::
 
 
-
 For several moments, no one spoke.
-
 Tarhk's question continued to echo in their minds.
 
-*Where was the limit?*
+Where was the limit?
 
 It was Nohk who finally broke the silence.
 
-“Let me ask you something else.”
+—Let me ask you something else.
 
 He looked at each of his companions in turn.
 
-“What if we leave...
+&nbsp;
 
-and the treasure exists?”
+—What if we leave...
+and the treasure exists?
+
+&nbsp;
 
 No one answered.
-
 It was not a new question.
-
 It had been present since the day they found the key.
-
 It was the possibility that turned every decision to quit into a risk.
 
 Nohk continued.
 
-“If we abandon the search now, we will never know.”
+—If we abandon the search now, we will never know.
 
 He pointed toward the map.
 
-“The treasure may be only a few days away. After everything we have done...
-
-are we really going to stop now?”
+—The treasure may be only a few days away. After everything we have done...
+are we really going to stop now?
 
 Kempht slowly nodded.
-
 The idea carried a force that was difficult to resist.
-
 Then Nohk added:
 
-“If we stop today, we will have lost everything we have invested.”
+—If we stop today, we will have lost everything we have invested.
 
 Tarhk shook his head.
 
-“No.”
+—No.
 
 His answer came immediately.
 
-“We have already lost it.”
+—We have already lost it.
 
 Silence returned to the table.
-
 Nohk held his gaze.
 
-“Not yet.”
+—Not yet.
 
-“As long as there is still a chance of finding the vault, everything we have sacrificed can be recovered.”
+—As long as there is still a chance of finding the vault, everything we have sacrificed can be recovered.
 
 Tarhk remained still.
-
 Nohk continued speaking, his voice growing more certain with every word.
 
-“Every undertaking faces difficulties. Unexpected expenses. Problems no one could have predicted. That does not mean the project has failed.
-
-It means we must finish what we started.”
+—Every undertaking faces difficulties. Unexpected expenses. Problems no one could have predicted. That does not mean the project has failed.
+It means we must finish what we started.
 
 Johf began to nod.
-
 So did Kempht.
 
 The idea was strangely comforting.
+
+&nbsp;
 
 It transformed losses into an investment.
 
 And uncertainty into a promise.
 
-Tarhk watched them in silence.
+&nbsp;
 
+Tarhk watched them in silence.
 He understood then that they were no longer talking about the treasure.
+
+&nbsp;
 
 They were searching for a reason that would make everything they had already sacrificed easier to bear.
 
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -2350,123 +2279,98 @@ Part 5 – The Final Wager
 
 
 For several moments, no one spoke again.
-
 The doubts had been expressed.
-
 The arguments had been made.
-
 There was nothing left to discuss.
-
 Only a decision remained.
-
 Nohk was the first to break the silence.
 
-“I will continue.”
+—I will continue.
 
 He looked at each of his companions.
 
-“Who will come with me?”
+—Who will come with me?
 
 Kempht answered without hesitation.
 
-“I will.”
+—I will.
 
 Johf took only a few seconds longer.
 
-“Count me in.”
+—Count me in.
 
 Then they all looked at Pohval.
-
 He remained silent.
-
 Finally, he slowly shook his head.
 
-“No.”
+—No.
 
 No one spoke.
-
 Pohval placed both hands upon the table.
 
-“I have lost too much to keep gambling.”
+—I have lost too much to keep gambling.
 
 He looked at the key.
-
 Then at the map.
 
-“If the treasure exists, I will never know what was inside that vault.
-
+—If the treasure exists, I will never know what was inside that vault.
 But I still have my home.
-
 My land.
-
 And my life.
-
-I will not give those away as well.”
+I will not give those away as well.
 
 Nohk did not answer.
-
 He did not try to persuade him.
-
 He knew that decision had already been made.
 
 The expedition would continue.
-
 But with only three men.
 
 One problem remained.
-
 Money.
-
 The first expedition had consumed nearly all of their resources.
-
 They needed another wagon.
-
 Animals.
-
 Tools.
-
 Provisions for several weeks.
-
 None of them had enough money to face the cost alone.
 
-“I will sell the eastern field,” Nohk said.
+—I will sell the eastern field, —Nohk said.
 
 He spoke with the same calmness he might have used when discussing a damaged roof.
-
 That land had belonged to his family for generations.
-
 It no longer seemed important.
 
 Kempht looked up.
 
-“I will sell my horses.”
+—I will sell my horses.
 
 Johf remained silent for a moment.
 
-“I will take a loan.
-
-I will repay it when we find the vault.”
+—I will take a loan.
+I will repay it when we find the vault.
 
 No one questioned those decisions.
-
 They accepted them with an ease that would have seemed impossible only a few weeks earlier.
 
 The conversation continued deep into the night.
-
 Between calculations, distances, and supplies, the new expedition slowly took shape upon the inn's table.
 
 When they finally left the building, the plan was complete.
-
 They had not only decided to return to the mountains.
-
 They had decided to wager the rest of their lives on the belief that the treasure existed.
 
+&nbsp;
+
 None of them felt that they were crossing a boundary.
+
+&nbsp;
 
 And yet...
 
 they had just left behind the last one that still connected them to the life they had known.
 
+&nbsp;
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -2489,11 +2393,18 @@ they had just left behind the last one that still connected them to the life the
 # Act 4 – Erosion
 
 > “No man walks a long road
+>
 > without leaving a part of himself upon it.
 >
+> &nbsp;
+>
 > The greatest difficulty
+>
 > is discovering, at the end of the journey,
+>
 > what was truly left behind.”
+>
+> &nbsp;
 >
 > —Fabhrius
 
@@ -2514,123 +2425,79 @@ Part 1 — The Eve
 The days that followed were filled with activity.
 The new expedition slowly began to take shape.
 This time there would be no room for improvisation.
-Every decision was carefully discussed. Every purchase answered a specific need. They had learned many things during their first attempt, and they would not repeat the same mistakes.
 
 :::
 
+Every decision was carefully discussed. Every purchase answered a specific need. They had learned many things during their first attempt, and they would not repeat the same mistakes.
 
 Nohk sold a small piece of land beside the river.
-
 Kempht acquired two strong horses.
-
 Johf obtained a loan by offering his house as collateral.
-
 Together, the three men gathered enough money to buy a new wagon, tools, ropes, tents, blankets, and provisions for several weeks.
-
 The new expedition was better than the first.
-
 And it was also far more expensive.
 
 This time, none of them had any margin left for mistakes.
 
 For several days they studied the map again and again.
-
 They corrected distances.
-
 Marked water sources.
-
 Calculated the time required to cross the Stone Desert during the night and avoid the heat of the day.
-
 They studied possible places to make camp and prepared reserves for any unexpected delay.
 
 They no longer spoke like dreamers.
-
 They spoke like men convinced that success depended only on careful preparation.
-
 The mountain had defeated them once.
-
 It would not do so again.
 
 The afternoon before their departure, they loaded the wagon.
-
 The tools were arranged with care.
-
 The ropes were coiled so they could be used at a moment’s notice.
-
 Each sack of food was counted twice.
-
 Each barrel of water was firmly secured to withstand the journey.
-
 When they finished, the wagon stood motionless before the stable, ready to leave at dawn.
 
 The three men looked at it for a moment.
-
 That wagon was much more than wood, iron, and horses.
-
 It represented a second chance.
 
 The conversation that night was different from those before.
-
 They no longer discussed whether the treasure existed.
-
 They spoke about how long it would take them to find it.
-
 They even began imagining what each of them would do with the king’s wealth.
-
 Buy land.
-
 Build a larger house.
-
 Hire workers.
-
 Live without ever worrying about money again.
-
 For a few hours, the expedition ceased to feel like a wager.
-
 It became, once again, a possible future.
 
 They ate a generous meal at the inn.
-
 They spoke little about the journey.
-
 They laughed.
-
 When they parted, they agreed to meet before dawn.
 
 Everything was ready.
-
 Only departure remained.
 
 Nohk barely managed to sleep.
-
 He woke while the sky was still completely dark.
-
 The village rested in silence.
-
 The air was cold and damp.
-
 He dressed quietly and left the house, convinced he would be the first to arrive.
-
 Then he noticed something strange.
 
 There was no sound of horses.
-
 He stopped.
-
 He looked toward the stable.
-
 The doors were open.
-
 For a moment he stood motionless, unable to understand.
-
 Then he began to run.
 
 The stable was empty.
-
 The wagon was gone.
 
 His heart began to race.
-
 He rushed back into the house.
 
 The key was no longer where he had hidden it.
@@ -2638,6 +2505,10 @@ The key was no longer where he had hidden it.
 Neither was the map.
 
 A thought crossed his mind before he even confirmed it.
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
 He ran toward Johf’s house.
 
@@ -2651,8 +2522,11 @@ The house was empty.
 
 Then he understood the truth.
 
+&nbsp;
+
 The second expedition had ended before it had even begun.
 
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -2670,130 +2544,91 @@ Part 2 — A Necessary Decision
 
 
 A few minutes later, Nohk and Kempht were examining the stable, searching for clues.
-
 They needed to understand what had truly happened.
 
 Nohk studied for a moment the deep tracks the wagon wheels had left in the mud.
-
 Beside him, Kempht stared at the road with the same expression of disbelief.
 
 Johf had simply waited until everyone was asleep.
-
 He had loaded the wagon.
-
 Harnessed the horses.
-
 Taken the key, the map, the provisions, and the tools.
-
 Then he had left before dawn.
-
 None of it had been an impulse.
-
 It had been a plan.
 
-“He was already ahead of us before we even went to sleep,” Kempht murmured.
+—He was already ahead of us before we even went to sleep, —Kempht murmured.
 
 Nohk did not answer.
-
 His eyes remained fixed on the wagon tracks.
-
 Those marks seemed to disappear into the distance carrying far more than a wagon.
-
 They had not lost a few possessions.
-
 They had lost the expedition.
-
 They had lost the possibility of recovering everything they had sacrificed during the first attempt.
-
 The land he had sold.
-
 The horses.
-
 The wagon.
-
 The money.
-
 The weeks of work.
 
 Everything now depended on a single man who was heading toward the mountains with several hours’ advantage.
-
 Nohk closed his eyes for a moment.
-
 He understood then that the treasure was no longer merely a promise of wealth.
-
 It had become the only way to give meaning to everything they had sacrificed.
 
 If Johf found the vault before they did...
-
 Everything would be over.
-
 Everything would have been for nothing.
 
-“We have to catch him,” he finally said.
+—We have to catch him, —he finally said.
 
 Kempht looked up.
 
-“How?”
+—How?
 
 They had no horses.
-
 No money.
-
 No time.
-
 And every minute they remained there increased the distance between them and Johf.
 
 Then Nohk looked toward the other side of the village.
-
 There, beside a wooden fence, two horses stood tied in front of a small farm’s barn.
-
 He watched them silently.
-
 Then he looked back at the wagon tracks.
-
 And once again toward the horses.
-
 It was not a difficult decision.
-
 It was simply a decision that, only a few weeks earlier, he would never have considered.
 
-“We will return them when this is over,” he said calmly.
+—We will return them when this is over, —he said calmly.
 
 Kempht immediately understood what he was suggesting.
-
 He did not try to convince him otherwise.
-
 They had crossed too many boundaries to stop now.
 
 The wind moved across the rooftops of Oldwood.
-
 They walked silently through the shadows.
-
 Nohk slowly opened the fence.
-
 The horses raised their heads as they sensed their presence.
-
 One of them gave a quiet whinny.
-
 The two men remained completely still.
-
 Waiting.
 
 Then they untied the reins.
-
 They led the animals quietly to the road.
-
 They mounted.
-
 And they left the village before dawn.
 
 Behind them remained the houses, the lands they had cultivated since childhood, and the peaceful life they had once known.
 
 They were searching for a thief.
 
+&nbsp;
+
 Without realizing it...
 
 they had just become two more.
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
