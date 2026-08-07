@@ -64,46 +64,111 @@ excepto en los casos permitidos por la legislación aplicable.
 
 El tiempo.
 
+&nbsp;
 
-Sepulta las ciudades. Borra los caminos. Convierte las certezas en leyendas.
+Sepulta las ciudades. Borra los caminos. 
 
-Y mientras hablamos, se consume lentamente. Igual que el aceite de una lámpara.
+Convierte las certezas en leyendas.
+
+Y mientras hablamos, 
+
+se consume lentamente. Igual que el aceite de una lámpara.
+
+&nbsp;
+
+Hay quienes sostienen que 
+
+el tiempo es como un camino ya trazado. 
+
+&nbsp;
+
+Que el pasado, el presente y el futuro existen al mismo tiempo, 
+
+y que cada acontecimiento ocupa un lugar que 
+
+no puede ser alterado.
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+&nbsp;
+
+Otros, en cambio, 
+
+afirman que solo existe el presente. 
+
+&nbsp;
+
+Que el pasado sobrevive únicamente en la memoria, 
+
+y que el futuro no es más que 
+
+un conjunto de posibilidades.
+
+&nbsp;
+
+&nbsp;
 
 
-Hay quienes sostienen que el tiempo es como un camino ya trazado. 
+El tiempo 
 
-Que el pasado, el presente y el futuro existen al mismo tiempo, y que cada acontecimiento ocupa un lugar que no puede ser alterado.
+ha fascinado a los hombres desde el principio de los días.
 
-Otros, en cambio, afirman que solo existe el presente. 
+&nbsp;
 
-Que el pasado sobrevive únicamente en la memoria, y que el futuro no es más que un conjunto de posibilidades.
+Los sabios de la antigüedad buscaron respuestas en los astros, 
 
+en los sueños, 
 
-El tiempo ha fascinado a los hombres desde el principio de los días.
+en los números.
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
 
-Los sabios de la antigüedad buscaron respuestas en los astros, en los sueños, en los números.
+&nbsp;
 
-Algunas leyendas afirman que llegaron a construir extraños instrumentos con el unico objetivo de desvelar lo que ocurrirá, el destino.
+Algunas leyendas afirman que 
 
+llegaron a construir extraños instrumentos 
+
+con el unico objetivo de desvelar lo que ocurrirá, 
+
+el destino.
+
+&nbsp;
 
 Aquellos secretos se han perdido con el paso de los siglos.
 
+&nbsp;
+
 Pero,
 
-¿qué harías tú si pudieras conocer el futuro?
+> ¿qué harías tú 
+> 
+> si pudieras conocer el futuro?
 
+::: {custom-style="PageBreak"}
 &nbsp;
+:::
 
-&nbsp;
 
+Lo que voy a relatar ahora, 
 
-Lo que voy a relatar ahora, sucedió hace tanto tiempo que ya nadie recuerda cuándo.
+sucedió hace tanto tiempo que ya nadie recuerda cuándo.
+
 En un lugar que ya no aparece en ningún mapa.
 
-En un pequeño pueblo llamado Drywind, al norte de las Regiones Planas, no muy lejos de Ciudad Próspera.
+En un pequeño pueblo llamado Drywind, 
+
+al norte de las Regiones Planas, no muy lejos de Ciudad Próspera.
+
+&nbsp;
 
 Allí hubo una vez una almoneda.
+
+&nbsp;
 
 Y esta historia, comienza exactamente allí.
 
@@ -125,9 +190,18 @@ Y esta historia, comienza exactamente allí.
 # Acto I
 
 
-> "El conocimiento cambia al observador,
-> y el observador cambia aquello que observa."
-
+> "El conocimiento 
+>
+> cambia al observador,
+>
+> &nbsp;
+>
+> y el observador 
+>
+> cambia aquello que observa."
+>
+> &nbsp;
+>
 > — Fabhrius
 
 ::: {custom-style="PageBreak"}
@@ -165,6 +239,9 @@ O tal vez no.
 Lo cierto es que la mayoría de los habitantes de Drywind evitaban permanecer demasiado tiempo dentro de aquella tienda.
 
 Muchos de ellos realmente creían que los objetos que se acumulaban en la almoneda eran algo mas, que solo cosas viejas.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -292,6 +369,10 @@ Solo entonces se decidió a entrar.
 
 Avanzó rápidamente entre las sombras de la tienda, aferrando con fuerza un paquete envuelto en una tela oscura.
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
 Había algo extraño en ella.
 Algo difícil de explicar.
 
@@ -303,7 +384,12 @@ Cuando llegó frente al mostrador observó a Dahg durante unos segundos.
 
 Luego apoyó cuidadosamente el paquete sobre la madera y dijo:
 
+&nbsp;
+
 — Tengo algo que podría interesarle.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -385,11 +471,21 @@ Había algo en aquel objeto.
 Algo difícil de definir.
 
 Una cualidad que no encajaba con ninguna de las demás piezas que habían pasado por sus manos a lo largo de los años.
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
 Como si la lente hubiera sido creada para hacer algo más que ampliar las palabras impresas sobre una página.
 
 Como si ocultara un propósito que todavía no había revelado.
 
+&nbsp;
+
 Porque mas allá de su belleza decorativa, al verlo en accion el objeto adquiría una dimensión casi mágica.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -527,7 +623,12 @@ Doblando la esquina del edificio vecino desapareció entre la multitud.
 Como si hubiera tenido prisa por marcharse.
 Como si el verdadero propósito de su visita no hubiera sido vender la lente.
 
+&nbsp;
+
 Sino librarse de ella.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -656,7 +757,12 @@ Hasta que su rostro quedó a pocos centímetros de la esfera.
 
 Y entonces, por fin, consiguió distinguir una figura humana.
 
+&nbsp;
+
 Una figura que le resultó inquietantemente familiar.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -680,14 +786,13 @@ Parte 1 - La visión
 
 El cristal ya no mostraba las páginas del libro.
 Las cifras y las anotaciones habían desaparecido por completo tras aquella extraña niebla blanca que ahora llenaba el interior de la esfera.
+
+:::
+
 La niebla continuó moviéndose lentamente.
 Girando sobre sí misma.
 Como nubes empujadas por un viento invisible.
 Y poco a poco comenzó a despejarse.
-
-:::
-
-
 
 Primero aparecieron sombras.
 Después formas.
@@ -796,7 +901,13 @@ Las formas perdieron nitidez.
 Y poco después la niebla blanca volvió a llenar el interior del cristal.
 Dahg permaneció inmóvil.
 Con la mirada fija sobre la esfera.
+
+&nbsp;
+
 Intentando comprender qué acababa de presenciar.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -1023,20 +1134,40 @@ Recordando la extraña niebla que había llenado el cristal.
 
 Todo aquello ya no importaba.
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
 Había previsto los retrasos.
+
 Había tomado precauciones.
+
 Había corregido el problema.
+
+&nbsp;
+
 
 Llegaré a tiempo, se dijo.
 
+&nbsp;
+
+
 Fuera, el sol comenzaba a descender hacia el horizonte.
+
 Algunas nubes oscuras se acumulaban lentamente en la distancia.
 
 Tomó su sombrero.
+
 Abrió la puerta.
+
 La cerró tras de sí.
 
+&nbsp;
+
 Y comenzó a caminar hacia el muelle.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -1058,9 +1189,18 @@ Y comenzó a caminar hacia el muelle.
 # Acto 2
 
 
-> "Muchas veces no existe una solución perfecta.
-> Solo existe la menos mala."
-
+> "No siempre existe una solución perfecta.
+>
+> &nbsp;
+>
+> Algunas veces,
+>
+> el mejor camino
+>
+> es aquel que causa el menor daño.
+>
+> &nbsp;
+>
 > — Fabhrius
 
 
@@ -1081,9 +1221,10 @@ Parte 1 - Dahg inicia la marcha.
 Dia: viernes, hora: 7 pm.
 Dahg abandonó la almoneda y emprendió el camino a pie hacia el muelle del río.
 Llevaba consigo una pequeña bolsa con documentos, algunas monedas y todo lo necesario para el viaje.
-Era un día importante.
 
 :::
+
+Era un día importante.
 
 En Próspera lo esperaba un escribano encargado de preparar los documentos para la venta de unos terrenos que había heredado muchos años atrás. Aquella operación representaba una oportunidad excepcional para ampliar el negocio y poner en marcha los planes que llevaba tanto tiempo preparando.
 
@@ -1111,7 +1252,12 @@ Sonrió para sí.
 Todo estaba bajo control.
 Había salido con tiempo de sobra.
 
+&nbsp;
+
 Y mientras abandonaba las últimas casas del pueblo, estaba convencido de que nada podría impedirle llegar puntualmente al embarcadero.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -1197,7 +1343,11 @@ Y al mismo tiempo no había dejado de ayudar a un vecino que necesitaba consejo.
 Sonrió para sí mismo.
 Las cosas estaban funcionando exactamente como había previsto.
 
+&nbsp;
+
 Ahora solo tenía que continuar caminando.
+
+&nbsp;
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -1271,7 +1421,12 @@ Pensó que podía acercarlo hasta el muelle.
 La granja de Cumhp quedaba prácticamente en la misma dirección.
 Y así Dahg llegaría todavía antes a su barco.
 
+&nbsp;
+
 Le pareció una buena idea.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦

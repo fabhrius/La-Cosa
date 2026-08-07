@@ -61,43 +61,113 @@ except as permitted by applicable law.
 
 Time.
 
-It buries cities. Erases roads. Turns certainty into legend.
+&nbsp;
 
-And even now, as we speak, it is slowly being consumed—like the oil in a lamp.
+It buries cities. Erases roads. 
+
+Turns certainty into legend.
+
+And even now, as we speak, 
+
+it is slowly being consumed—like the oil in a lamp.
+
+&nbsp;
+
+Some believe that 
+
+time is a path already laid before us.
+
+&nbsp;
 
 
-Some believe that time is a path already laid before us.
+That the past, the present, and the future all exist at once, 
 
-That the past, the present, and the future all exist at once, and that every event occupies a place that cannot be changed.
+and that every event occupies a place 
 
-Others claim that only the present is real.
+that cannot be changed.
 
-That the past survives only in memory, and that the future is nothing more than a collection of possibilities.
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+&nbsp;
 
 
-Time has fascinated mankind since the beginning of days.
+Others 
 
-The sages of old sought answers in the stars, in dreams, and in numbers.
+claim that only the present is real.
 
-Some legends say they even built strange instruments for the sole purpose of unveiling what was yet to come—destiny itself.
+&nbsp;
 
+That the past survives only in memory, 
+
+and that the future is nothing more than 
+
+a collection of possibilities.
+
+&nbsp;
+
+&nbsp;
+
+Time 
+
+has fascinated mankind since the beginning of days.
+
+&nbsp;
+
+The sages of old sought answers in the stars, 
+
+in dreams, 
+
+in numbers.
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+&nbsp;
+
+
+Some legends say 
+
+they even built strange instruments 
+
+for the sole purpose of unveiling what was yet to come
+
+—destiny itself.
+
+&nbsp;
 
 Those secrets have been lost to the passing centuries.
 
+&nbsp;
+
 But...
 
-What would you do if you could know the future?
+> What would you do 
+>
+> if you could know the future?
 
+::: {custom-style="PageBreak"}
 &nbsp;
+:::
 
-&nbsp;
+What I am about to tell 
 
-What I am about to tell happened so long ago that no one remembers when.
+happened so long ago that no one remembers when.
+
 In a place that no longer appears on any map.
 
-In a small village called Drywind, north of the Flatlands, not far from Prosperous City.
+In a small village called Drywind, 
+
+north of the Flatlands, not far from Prosperous City.
+
+&nbsp;
 
 There once stood an auction house there.
+
+&nbsp;
+
 
 And this story begins exactly there.
 
@@ -117,9 +187,18 @@ And this story begins exactly there.
 
 # Act I
 
-> "Knowledge changes the observer,
-> and the observer changes that which is observed."
-
+> "Knowledge 
+>
+> changes the observer,
+>
+> &nbsp;
+>
+> and the observer 
+>
+> changes that which is observed."
+>
+>&nbsp;
+>
 > — Fabhrius
 
 ::: {custom-style="PageBreak"}
@@ -158,6 +237,9 @@ Or perhaps they were not.
 What is certain is that most of the people of Drywind avoided spending too much time inside that shop.
 
 Many truly believed that the objects gathered within the auction house were... something more than mere old things.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -287,6 +369,10 @@ Only then had she stepped inside.
 
 She moved quickly through the shadows of the shop, clutching a bundle wrapped in dark cloth.
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
 There was something unusual about her.
 Something difficult to explain.
 
@@ -296,12 +382,16 @@ Like someone eager to rid herself of something as quickly as possible.
 
 When she reached the counter, she studied Dahg for several seconds.
 
-&nbsp;
-
 
 Then she carefully placed the bundle upon the wood and said:
 
+&nbsp;
+
+
 — I have something that may interest you.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -384,11 +474,21 @@ There was something about the object.
 Something difficult to define.
 
 A quality unlike anything he had encountered in all the years he had spent handling rare and unusual items.
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
 As though the lens had been created to do more than merely enlarge the words printed upon a page.
 
 As though it concealed a purpose it had not yet revealed.
 
+&nbsp;
+
 For beyond its decorative beauty, seeing it in use gave it an almost magical quality.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -524,7 +624,11 @@ Then, rounding the corner of the neighboring building, disappeared into the crow
 As though she had been eager to leave.
 As though the true purpose of her visit had not been to sell the lens.
 
+&nbsp;
+
 But to be rid of it.
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -652,7 +756,13 @@ Closer and closer.
 Until his face was only inches from the sphere.
 
 And at last, he was able to make out a human figure.
+
+&nbsp;
+
 A figure that seemed disturbingly familiar.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -674,13 +784,13 @@ Part 1 – The Vision
 
 The crystal no longer showed the pages of the ledger.
 The numbers and handwritten entries had vanished completely behind the strange white mist that now filled the interior of the sphere.
+
+:::
+
 The mist continued to move slowly.
 Turning upon itself.
 Like clouds driven by an invisible wind.
 And little by little, it began to clear.
-
-:::
-
 
 First came shadows.
 Then shapes.
@@ -789,8 +899,12 @@ The shapes lost their clarity.
 And before long, the white mist once again filled the interior of the crystal.
 Dahg remained motionless.
 His gaze fixed upon the sphere.
+
+&nbsp;
+
 Trying to understand what he had just witnessed.
 
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -1020,20 +1134,40 @@ Remembering the strange mist that had filled the crystal.
 
 None of that mattered anymore.
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
 He had anticipated the delays.
+
 He had taken precautions.
+
 He had corrected the problem.
+
+&nbsp;
+
 
 I will arrive on time, he told himself.
 
+&nbsp;
+
+
 Outside, the sun was beginning to sink toward the horizon.
+
 Some dark clouds were slowly gathering in the distance.
 
 He took his hat.
+
 Opened the door.
+
 Closed it behind him.
 
+&nbsp;
+
 And began walking toward the dock.
+
+&nbsp;
+
 
 
 ::: {custom-style="Separator"}
@@ -1056,10 +1190,20 @@ And began walking toward the dock.
 # Act II
 
 
-> "Many times, there is no perfect solution.
-> There is only the least harmful one."
 
-> — Fabhrius
+> "Not always is there a perfect solution. 
+>
+> &nbsp;
+>
+> Sometimes, 
+>
+> the wisest path
+>
+> is the one that causes the least harm."
+>
+> &nbsp;
+>
+> —Fabhrius
 
 ::: {custom-style="PageBreak"}
 &nbsp;
@@ -1078,10 +1222,10 @@ Part 1 – Dahg Begins the Journey
 Day: Friday. Time: 7 p.m.
 Dahg left the auction house and began walking toward the river dock.
 He carried with him a small bag containing documents, a few coins, and everything he needed for the journey.
-It was an important day.
 
 :::
 
+It was an important day.
 
 In Prosperous City, a scribe was waiting for him to prepare the documents for the sale of some land he had inherited many years before. That transaction represented an exceptional opportunity to expand his business and set in motion the plans he had been preparing for so long.
 
@@ -1109,7 +1253,12 @@ He smiled to himself.
 Everything was under control.
 He had left with time to spare.
 
+&nbsp;
+
 And as he left the last houses of the village behind, he was certain that nothing could prevent him from reaching the dock on time.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -1196,8 +1345,11 @@ And at the same time, he had not failed to help a neighbor who needed his advice
 He smiled to himself.
 Things were working exactly as he had predicted.
 
+&nbsp;
+
 Now he only had to keep walking.
 
+&nbsp;
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -1269,7 +1421,12 @@ He thought he could give him a ride to the dock.
 Cumhp's farm was practically in the same direction.
 And this way Dahg would still reach his riverboat even earlier.
 
+&nbsp;
+
 It seemed like a good idea.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
