@@ -937,9 +937,11 @@ For several minutes, Dahg remained seated at the table, unable to take his eyes 
 The mist had vanished.
 The crystal was once again perfectly transparent.
 As though nothing had happened.
+
 As though the strange vision had been nothing more than an illusion brought on by fatigue.
 
 But Dahg knew better.
+
 He had recognized every place.
 Every person.
 Every detail.
@@ -951,9 +953,12 @@ The sphere was showing him the future.
 A chill ran through him.
 The idea was absurd.
 Impossible.
+
 And yet it explained perfectly what he had just witnessed.
+
 They were not memories.
 Nor were they dreams.
+
 They were events that had not yet taken place.
 
 He rose from his chair and began pacing slowly around the room.
@@ -965,10 +970,10 @@ He had purchased his passage. He had organized the journey.
 And the scribe was expecting him to prepare the documents required for the sale of the land he had inherited.
 
 That transaction was one of the most important pieces of his plans.
+
 With that money, he would expand the business.
 Acquire new merchandise. Seek customers in other places.
 And make full use of the opportunities offered by his new wagon.
-For the first time in many years, he felt that he was moving toward something better.
 
 And now the sphere was showing him that he would miss the riverboat.
 
@@ -995,6 +1000,7 @@ He needed things to move forward.
 He needed the future to begin at last.
 
 He looked at the sphere again.
+
 And then something changed in the way he saw it.
 
 The worry gradually faded.
@@ -1008,9 +1014,12 @@ And that meant he could still act.
 He immediately understood the true value of the information.
 
 The sphere had not shown him an unavoidable misfortune.
+
 It had shown him a problem before it occurred.
+
 A warning.
 An opportunity.
+
 A chance to correct his mistakes before making them.
 
 A slow smile spread across his face.
@@ -1019,19 +1028,39 @@ The conversation with Omhp.
 The trouble with Mrs. Alhat's mule.
 The setbacks along the road.
 It was all there.
+
 And it could all be avoided.
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+
+&nbsp;
+
+
 He stepped closer to the table.
+
+
 Rested a hand upon the crystal.
 And felt at peace.
 
 — I am not going to miss that riverboat —he murmured.
 
 Then he looked at the sphere once more.
+
 Motionless.
 Silent.
 Harmless.
-And he thought that perhaps he had just made the best purchase of his entire life.
+
+&nbsp;
+
+And he thought that perhaps 
+
+he had just made the best purchase of his entire life.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -1342,7 +1371,9 @@ Much shorter than the one he had witnessed inside the sphere.
 He had avoided the delay.
 He had followed his plan.
 And at the same time, he had not failed to help a neighbor who needed his advice.
+
 He smiled to himself.
+
 Things were working exactly as he had predicted.
 
 &nbsp;
@@ -1388,6 +1419,13 @@ Perhaps he had already found a solution.
 And if anyone could offer him good advice, it was probably him.
 
 Omp looked toward the road.
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+&nbsp;
+
 Cumhp's farm was not very far away.
 He could go.
 Speak with him.
@@ -1398,6 +1436,7 @@ So he headed toward the stable.
 And shortly afterward, he rode out driving his old wagon.
 
 The horse moved along the path with a nervous step.
+
 More restless than usual.
 It flicked its ears. Shook its head.
 And struck the ground impatiently with its hooves.
@@ -1405,10 +1444,13 @@ And struck the ground impatiently with its hooves.
 — What is wrong with you today? —the farmer murmured—.
 
 Omp then looked up at the sky.
+
 The clouds continued gathering over the plains.
 The storm that had once seemed distant was beginning to take shape.
 A massive dark cloud was slowly advancing from the west.
+
 Perhaps the horse was reacting to that.
+
 Probably nothing to worry about.
 He gently pulled on the reins and continued forward.
 
@@ -1416,9 +1458,18 @@ It was not long before he spotted Dahg walking along the main road.
 
 The merchant was already near the bend that led toward the mills.
 The distance between them slowly grew smaller.
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+&nbsp;
+
 Omp smiled.
+
 He thought he could give him a ride to the dock.
 Cumhp's farm was practically in the same direction.
+
 And this way Dahg would still reach his riverboat even earlier.
 
 &nbsp;
@@ -1474,11 +1525,13 @@ The wagon lunged forward, bouncing violently along the road.
 — No!
 
 Omp's cry was lost beneath the thunder.
+
 Dahg turned just in time to see the horse charging toward him.
 
 There was no time to move aside.
 No time to run.
 No time for anything.
+
 The impact was brutal.
 
 The horse struck him directly.
@@ -1488,12 +1541,21 @@ He rolled across the ground among stones and weeds.
 A sharp pain shot through his leg.
 
 The wagon passed beside him like a mass of wood and iron gone out of control.
+
 Omp remained gripping the reins, desperately trying to regain control.
+
 The horse kept accelerating.
+
 Faster and faster.
+
 Farther and farther away.
 
+&nbsp;
+
 Dragging the runaway wagon toward the village.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦

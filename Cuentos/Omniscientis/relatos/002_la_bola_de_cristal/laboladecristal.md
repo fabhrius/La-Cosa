@@ -904,7 +904,7 @@ Con la mirada fija sobre la esfera.
 
 &nbsp;
 
-Intentando comprender qué acababa de presenciar.
+Intentando comprender lo qué acababa de presenciar.
 
 &nbsp;
 
@@ -938,9 +938,11 @@ Durante varios minutos, Dahg permaneció sentado frente a la mesa sin apartar la
 La niebla había desaparecido.
 El cristal volvía a ser completamente transparente.
 Como si nada hubiera ocurrido.
+
 Como si la extraña visión hubiera sido una simple ilusión provocada por el cansancio.
 
 Pero Dahg sabía que no era así.
+
 Había reconocido cada lugar.
 Cada persona.
 Cada detalle.
@@ -952,9 +954,12 @@ La esfera estaba mostrando el futuro.
 Sintió un escalofrío.
 La idea era absurda.
 Imposible.
+
 Y, sin embargo, explicaba perfectamente lo que acababa de ver.
+
 No eran recuerdos.
 Ni eran sueños.
+
 Eran acontecimientos que todavía no habían sucedido.
 
 Se levantó de la silla y comenzó a caminar lentamente por la habitación.
@@ -966,10 +971,10 @@ Había comprado el pasaje. Había organizado el viaje.
 Y el escribano lo esperaba para redactar los documentos necesarios para la venta de los terrenos heredados.
 
 Aquella operación era una de las piezas más importantes de sus planes.
+
 Con ese dinero ampliaría el negocio.
 Adquiriría nuevas mercancías. Buscaría clientes en otros lugares.
 Y aprovecharía al máximo las posibilidades que le ofrecía la nueva carreta.
-Por primera vez en muchos años sentía que avanzaba hacia algo mejor.
 
 Y ahora la esfera le mostraba que perdería el barco.
 
@@ -996,6 +1001,7 @@ Necesitaba que las cosas avanzaran.
 Necesitaba que el futuro comenzara por fin.
 
 Volvió a mirar la esfera.
+
 Y entonces algo cambió en su forma de pensar.
 
 La preocupación desapareció poco a poco.
@@ -1009,9 +1015,12 @@ Y eso significaba que aún podía actuar.
 Comprendió de inmediato cuál era el verdadero valor de aquella información.
 
 La esfera no le había mostrado una desgracia inevitable.
+
 Le había mostrado un problema antes de que sucediera.
+
 Una advertencia.
 Una oportunidad.
+
 Una posibilidad de corregir sus errores antes de cometerlos.
 
 Una lenta sonrisa apareció en su rostro.
@@ -1020,19 +1029,37 @@ La conversación con Omhp.
 Los problemas con la mula de la señora Alhat.
 Las demoras durante el trayecto.
 Todo estaba ahí.
+
 Todo podía evitarse.
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+&nbsp;
+
+
 Se acercó a la mesa.
+
 Apoyó una mano sobre el cristal.
 Y se sintió tranquilo.
 
 — No voy a perder ese barco —murmuró.
 
 Después observó nuevamente la esfera.
+
 Inmóvil.
 Silenciosa.
 Inofensiva.
-Y pensó que quizá acababa de realizar la mejor compra de toda su vida.
+
+&nbsp;
+
+Y pensó que quizá 
+
+acababa de realizar la mejor compra de toda su vida.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -1340,7 +1367,9 @@ Mucho más breve que la que había observado dentro de la esfera.
 Había evitado el retraso.
 Había cumplido con su plan.
 Y al mismo tiempo no había dejado de ayudar a un vecino que necesitaba consejo.
+
 Sonrió para sí mismo.
+
 Las cosas estaban funcionando exactamente como había previsto.
 
 &nbsp;
@@ -1360,7 +1389,6 @@ Ahora solo tenía que continuar caminando.
 ::: {custom-style="PartTitle"}
 Parte 3 - Omhp sale con su carreta.
 :::
-
 
 
 Omhp permaneció junto a la cerca observando cómo Dahg se alejaba por el camino.
@@ -1388,6 +1416,14 @@ Tal vez ya hubiera encontrado una solución.
 Y si alguien podía ofrecerle un buen consejo, probablemente fuera él.
 
 Omhp levantó la vista hacia el camino.
+
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+&nbsp;
+
 La granja de Cumhp no quedaba demasiado lejos.
 Podía ir.
 Hablar con él.
@@ -1398,6 +1434,7 @@ Así que se dirigió al establo.
 Y poco después salió conduciendo su vieja carreta.
 
 El caballo avanzó por el sendero con paso nervioso.
+
 Más inquieto de lo habitual.
 Movía las orejas. Sacudía la cabeza.
 Y golpeaba el suelo con los cascos con impaciencia.
@@ -1405,10 +1442,13 @@ Y golpeaba el suelo con los cascos con impaciencia.
 — ¿Qué te ocurre hoy? —murmuró el granjero.
 
 Omhp levantó entonces la vista hacia el cielo.
+
 Las nubes seguían acumulándose sobre las llanuras.
 La tormenta que antes parecía lejana comenzaba a tomar forma.
 Una enorme masa oscura avanzaba lentamente desde el oeste.
+
 Quizá el caballo estuviera reaccionando a eso.
+
 Probablemente no fuera nada.
 Tiró suavemente de las riendas y continuó avanzando.
 
@@ -1416,9 +1456,18 @@ No tardó mucho en divisar a Dahg caminando por el camino principal.
 
 El comerciante se encontraba ya cerca de la curva que conducía hacia los molinos.
 La distancia entre ambos disminuía poco a poco.
+
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+&nbsp;
+
 Omhp sonrió.
+
 Pensó que podía acercarlo hasta el muelle.
 La granja de Cumhp quedaba prácticamente en la misma dirección.
+
 Y así Dahg llegaría todavía antes a su barco.
 
 &nbsp;
@@ -1473,11 +1522,13 @@ La carreta se lanzó hacia delante dando violentos saltos sobre el camino.
 — ¡No!
 
 El grito de Omhp se perdió entre el estruendo.
+
 Dahg se volvió justo a tiempo para ver al caballo abalanzarse sobre él.
 
 No hubo tiempo para apartarse.
 No hubo tiempo para correr.
 No hubo tiempo para nada.
+
 El impacto fue brutal.
 
 El caballo lo golpeó de lleno.
@@ -1487,13 +1538,21 @@ Rodó por el suelo entre piedras y maleza.
 Sintió un dolor agudo atravesarle la pierna.
 
 La carreta pasó junto a él como una masa de madera y hierro fuera de control.
+
 Omhp seguía aferrado a las riendas intentando inútilmente recuperar el control.
+
 El caballo continuó acelerando.
+
 Cada vez más rápido.
+
 Cada vez más lejos.
+
+&nbsp;
+
 
 Arrastrando la carreta desbocada hacia el pueblo.
 
+&nbsp;
 
 
 ::: {custom-style="Separator"}
