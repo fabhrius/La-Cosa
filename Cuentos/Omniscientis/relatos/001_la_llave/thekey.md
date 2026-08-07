@@ -2390,7 +2390,7 @@ they had just left behind the last one that still connected them to the life the
 
 
 
-# Act 4 – Erosion
+# Act IV – Erosion
 
 > “No man walks a long road
 >
@@ -3024,7 +3024,7 @@ An iron door, embedded in the wall of rock.
 :::
 
 
-# Act 5 - Destiny
+# Act V - Destiny
 
 
 > “No choice 
