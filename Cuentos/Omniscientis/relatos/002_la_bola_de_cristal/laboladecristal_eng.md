@@ -185,7 +185,7 @@ And this story begins exactly there.
 
 
 
-# Act I
+# Act I - Warning
 
 > "Knowledge 
 >
@@ -1216,19 +1216,20 @@ And began walking toward the dock.
 :::
 
 
-# Act II
+# Act II - Intervention
 
 
-
-> "Not always is there a perfect solution. 
+> "Not always shall there be 
+>
+> a perfect solution.
 >
 > &nbsp;
 >
-> Sometimes, 
+> At times, the true challenge is
 >
-> the wisest path
+> to possess the wisdom to choose the best
 >
-> is the one that causes the least harm."
+> among those that may be."
 >
 > &nbsp;
 >
@@ -1598,16 +1599,32 @@ An orange glow flickering behind the rooftops.
 The building appeared to be burning.
 
 The fire quickly became impossible to ignore.
+
 It was growing.
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+&nbsp;
+
 Shortly afterward, there was an explosion.
+
 The blast echoed through the air.
+
 He felt the impact in his chest.
 
-And as the smoke darkened the evening sky, Dahg remained on the ground beside the road, motionless and helpless.
+And as the smoke darkened the evening sky, 
+
+Dahg remained on the ground beside the road, 
+
+motionless and helpless.
+
+&nbsp;
 
 Watching in horror from a distance as Drywind began to burn.
 
+&nbsp;
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -1622,7 +1639,7 @@ Watching in horror from a distance as Drywind began to burn.
 :::
 
 ::: {custom-style="IlustrationCaption"}
-✧ From a distance ✧
+✧ Fire ✧
 :::
 
 
@@ -1643,12 +1660,13 @@ Part 1 – Dahg Leaves Home
 Day: Friday. Time: 7 p.m.
 Inside the shop, Dahg was making his final preparations before leaving.
 At nine o'clock that evening, he was due to board the boat that would carry him to the city.
-Shortly before seven, he locked the doors of the auction house and set off on foot toward the river dock.
 
 :::
 
+Shortly before seven, he locked the doors of the auction house and set off on foot toward the river dock.
 
 He carried with him the documents for his meeting with the scribe in Prosperous City, as well as the hope that this journey would mark the beginning of a better future for his business.
+
 He walked with a steady stride.
 The evening air was pleasant.
 A gentle breeze drifted through the streets of Drywind as the warmth of the day slowly faded away.
@@ -1659,15 +1677,24 @@ The shops along the market road were beginning to close their doors.
 And the streets were slowly emptying.
 
 As he reached the edge of the village, Dahg spotted Omhp working beside the fence surrounding his property.
+
 The old farmer raised a hand in greeting.
 Then stepped over to the roadside.
+
 For a few minutes, they spoke about several problems that had been affecting his crops.
+
 Omhp had hoped for some advice.
 But Dahg was in a hurry.
+
 He explained that he had to board the boat that very night and promised to return the following day to help him.
+
 The two men parted on friendly terms.
 
+&nbsp;
+
 And Dahg continued on his way.
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -1725,9 +1752,14 @@ But the merchant had decided to walk instead.
 
 Which meant she now had some free time.
 
+&nbsp;
+
 And she had decided to use it to collect the supplies she needed.
+
 No hurry.
 No worries.
+
+&nbsp;
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -1797,7 +1829,14 @@ The bolt hit the earth with terrifying force.
 And at that very moment came the thunder.
 A crash so violent it seemed to split the world in two.
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+&nbsp;
+
 Mrs. Alhat involuntarily dropped the sack she was carrying.
+
 The mule leapt sideways.
 
 The old woman needed a moment to recover.
@@ -1809,12 +1848,19 @@ The mule snorted.
 And that only made her laugh harder.
 It was a brief moment.
 A small pause in an otherwise ordinary evening.
+
 Until something appeared around the bend in the road.
 
 A wagon.
 
+&nbsp;
+
 It was moving at an impossible speed.
+
 Out of control.
+
+&nbsp;
+
 
 
 ::: {custom-style="Separator"}
@@ -1845,29 +1891,44 @@ Part 4 – A Wagon Out of Control
 Mrs. Alhat had no time to react.
 
 The wagon burst around the bend like a projectile.
+
 And came hurtling straight toward her.
 
 It slammed into Mrs. Alhat's wagon with a deafening crash.
 And together, the two wagons smashed through the front wall of the warehouse.
 They burst into the building like a battering ram.
+
 Plowing through the oil jars stacked along the front of the structure.
 
 One of the oil lamps hanging from the ceiling was torn loose by the impact.
+
 Its flame touched the spilled oil.
 
 And the fire began.
 
 Within seconds, the entire building was ablaze.
+
 The heat became unbearable.
 Old Omhp and Mrs. Alhat were trapped inside a prison of burning wood.
 
 The intense heat reached the oil jars that had remained intact and triggered an explosion.
 
 The fire doubled in size in a matter of seconds.
+
 And then the neighboring buildings began to burn.
 
-Not far away, beside the bend in the road leading to the dock, Dahg was trying to understand what was happening.
+&nbsp;
+
+
+Not far away, 
+
+beside the bend in the road leading to the dock, 
+
+Dahg was trying to understand what was happening.
+
 Watching the scene in horror from the ground.
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -1891,10 +1952,10 @@ Part 1 – Dahg Leaves His House
 
 Day: Friday. Time: 7 p.m.
 Shortly after seven in the evening, Dahg locked the door of the auction house and began walking toward the river dock.
-He needed to arrive before nine in order to board the riverboat that would take him to Prosperous City.
 
 :::
 
+He needed to arrive before nine in order to board the riverboat that would take him to Prosperous City.
 
 
 As he passed by Omhp's property, he stopped for a few minutes to greet his friend.
@@ -1908,10 +1969,14 @@ The clouds were beginning to cover the sky when he reached the bend in the road.
 A powerful thunderclap echoed across the plains.
 
 The sound was so sudden that Dahg instinctively turned toward the open fields.
+
 And at that very moment, a runaway wagon appeared behind him.
+
 He had no time to move aside.
+
 The impact threw him off the road.
 He fell violently to the ground.
+
 The wagon continued forward without stopping.
 A few seconds later, it disappeared around the bend.
 
@@ -1919,12 +1984,17 @@ A loud crash was heard.
 The wagon had struck something.
 
 Shortly afterward, a column of smoke began rising above the rooftops of Drywind.
+
 Dahg tried to stand.
 A sharp pain in his knee prevented him.
+
 From the ground, he watched as the smoke grew larger.
+
+&nbsp;
 
 Then the first flames appeared.
 
+&nbsp;
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -1957,17 +2027,32 @@ The dark clouds continued gathering slowly and were moving in from the plains.
 Penht grew corn and raised a small group of horses.
 He thought it would be wise to bring the animals indoors before the rain began.
 He walked to the stable and started settling them inside.
+
 He was closing one of the doors when something caught his attention.
 
-In the distance, above the trees, a column of smoke was rising along the horizon.
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+&nbsp;
+
+In the distance, above the trees, 
+
+a column of smoke was rising along the horizon.
 
 It seemed to be coming directly from the village.
+
 What could have happened?
 
 Then he heard an explosion.
+
 And a moment later, he saw the flames in the distance.
 
+&nbsp;
+
 A fire in the village.
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -2018,9 +2103,13 @@ It made sense.
 The warehouse and the closest houses appeared to be lost.
 The priority now was to stop the fire from spreading any further.
 
+&nbsp;
+
 He dismounted.
 Tied his horse to a fence.
 And went to join the others.
+
+&nbsp;
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -2061,12 +2150,16 @@ But there was not much time left.
 If there were animals inside, they would soon be trapped.
 
 Penht ran across the street.
+
 He pushed open the door.
+
 A wave of hot smoke rushed outside.
 
 He covered his mouth and nose with the sleeve of his shirt and entered.
+
 The interior was filled with smoke.
 Visibility was poor.
+
 The flames were advancing along one of the walls and beginning to spread through the roof beams.
 
 The horses were at the far end.
@@ -2075,25 +2168,39 @@ Kicking against the doors of their stalls with their hooves.
 Trying to escape.
 
 Penht moved toward them.
+
 He freed the first one.
 The animal bolted toward the exit.
+
 Then he released the second.
+
 The smoke was growing thicker.
 Breathing was becoming difficult.
 His eyes burned.
+
 He began to feel dizzy and disoriented.
 
 He continued toward the last stall.
+
 He managed to open the latch.
 The horse surged forward and ran toward the door.
 
 Penht turned to follow it.
+
 Then he heard a crack.
+
 One of the main beams had given way.
+
 He looked up.
+
 And barely had time to understand what was happening.
 
+&nbsp;
+
 Before part of the roof collapsed onto him.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -2113,11 +2220,20 @@ Before part of the roof collapsed onto him.
 
 
 
-# Act III
+# Act III - Optimization
 
-> "Sometimes, what appears to be a problem
-> is actually the solution to another problem we have not yet seen."
-
+> "Sometimes, 
+>
+> what appears to be a problem
+>
+> is actually 
+>
+> the solution to another problem 
+>
+> we have not yet seen."
+>
+> &nbsp;
+>
 > — Fabhrius
 
 
@@ -2157,6 +2273,13 @@ Move some furniture.
 Clean.
 Give the displayed items a better appearance.
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+&nbsp;
+
+
 He spent several hours reorganizing merchandise and removing the accumulated dust, until his attention fell upon the crystal ball.
 
 It remained exactly where he had left it that night.
@@ -2165,45 +2288,65 @@ He thought that perhaps he could resume the restoration work he had planned to c
 
 He picked it up.
 He examined it carefully.
+
 Turned it from side to side.
 It was still an extraordinary object.
 
 Beautiful.
 Intriguing.
 And deeply unsettling.
+
 What he had seen that night still had no explanation.
 
 Had it truly shown the future?
+
 Or had everything been nothing more than a strange illusion created by his own imagination?
 
 And yet, he had missed the riverboat.
 He had encountered Omhp.
 And the lightning had struck exactly as he had seen.
+
 Coincidences?
+
 Perhaps.
 
+&nbsp;
+
+&nbsp;
+
 And if the crystal ball showed the future...
+
 Why was it silent now?
 
 Dahg carefully placed it back on the table and stepped away.
+
 The mystery grew in his mind.
 He remained there, watching it.
 Thinking.
 Trying to understand.
+
 And then it happened again.
 
 A thin thread of white smoke appeared inside the crystal.
+
 It slowly spread.
 Swirled around itself.
 And eventually filled the entire sphere, turning it completely opaque.
 
 Dahg felt a chill run through him.
+
 The sight sent a cold shiver down his spine.
+
 Now it no longer seemed like a creation of his imagination.
 
 And he was not sure he wanted to see what it would show him this time.
 
+&nbsp;
+
 But he could not look away.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -2267,7 +2410,11 @@ A moment later, the bridge collapsed.
 
 The two wagons vanished beneath a cloud of dust and splintered wood.
 
+&nbsp;
+
 Twenty meters below, the Verdastro River swallowed them whole.
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -2349,10 +2496,14 @@ And even before opening the doors, he placed the crystal sphere in the display w
 He was no longer trying to make a large profit.
 Not even to earn anything from it.
 It was enough if he could recover the money he had paid for it.
+
 He wanted it gone.
+
+&nbsp;
 
 As soon as possible.
 
+&nbsp;
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -2448,7 +2599,11 @@ Dahg placed both hands on the counter.
 He looked at the scribe.
 And answered:
 
+&nbsp;
+
 — How much do you believe it is worth?
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -2513,25 +2668,36 @@ The horse had already been released.
 But the wagon remained on the bridge.
 Exactly as it had appeared in the vision.
 
+&nbsp;
+
 The man reached him.
 His expression showed concern.
 
 — Please! Help me! The wheel is trapped between the planks. If I cannot get it out, I will lose it.
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
 Dahg did not answer.
+
 He looked at the bridge.
+
 Then he looked at the stranger’s wagon.
+
 And finally, he turned his eyes toward his own.
 
 The new wagon.
+
 The wagon he had worked for years to obtain.
+
+&nbsp;
 
 The stranger spoke again.
 This time with greater urgency.
 
 — Will you help me?
 
-&nbsp;
 &nbsp;
 
 
@@ -2541,7 +2707,12 @@ He looked at the man.
 
 He looked at the trapped wagon.
 
+&nbsp;
+
 And then he looked back at his own.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦

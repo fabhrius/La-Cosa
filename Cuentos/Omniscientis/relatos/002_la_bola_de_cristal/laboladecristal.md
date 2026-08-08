@@ -187,7 +187,7 @@ Y esta historia, comienza exactamente allí.
 &nbsp;
 :::
 
-# Acto I
+# Acto I - Advertencia
 
 
 > "El conocimiento 
@@ -1213,18 +1213,23 @@ Y comenzó a caminar hacia el muelle.
 :::
 
 
-# Acto 2
+# Acto 2 - Intervención
 
 
-> "No siempre existe una solución perfecta.
+
+> "No siempre existe 
+>
+> una solución perfecta.
 >
 > &nbsp;
 >
-> Algunas veces,
+> Algunas veces, 
 >
-> el mejor camino
+> el verdadero desafío consiste en
 >
-> es aquel que causa el menor daño.
+> saber escoger la mejor
+>
+> entre aquellas que son posibles."
 >
 > &nbsp;
 >
@@ -1594,15 +1599,34 @@ Un resplandor anaranjado parpadeando tras los tejados.
 El edificio parecía estar ardiendo.
 
 El incendio rapidamente se hizo perfectamente visible.
+
 Estaba creciendo.
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+&nbsp;
+
 Poco después se produjo una explosión. 
+
 El estallido resonó en el aire.
+
 Sintió el golpe en el pecho.
 
-Y mientras el humo oscurecía el cielo del atardecer, Dahg permaneció en el suelo, junto al camino, inmóvil, impotente. 
+Y mientras el humo oscurecía el cielo del atardecer, 
 
-Contemplando con horror desde la distancia cómo Drywind comenzaba a arder.
+Dahg permaneció en el suelo, junto al camino, 
+
+inmóvil, impotente. 
+
+&nbsp;
+
+Contemplando con horror desde la distancia 
+
+cómo Drywind comenzaba a arder.
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -1618,7 +1642,7 @@ Contemplando con horror desde la distancia cómo Drywind comenzaba a arder.
 :::
 
 ::: {custom-style="IlustrationCaption"}
-✧ Desde la distancia ✧
+✧ Fuego ✧
 :::
 
 ::: {custom-style="PageBreak"}
@@ -1638,12 +1662,13 @@ Parte 1 - Dahg sale de su casa.
 Dia: viernes, hora: 7 pm.
 Dahg dentro de la tienda hacía los últimos preparativos antes de salir.
 Debía abordar a las 9 pm el barco que lo llevaría hasta la ciudad.
-Poco antes de las siete, Dahg cerró la puerta de la almoneda y emprendió a pie el camino hacia el muelle del río.
 
 :::
 
+Poco antes de las siete, Dahg cerró la puerta de la almoneda y emprendió a pie el camino hacia el muelle del río.
 
 Llevaba consigo los documentos para reunirse con el escribano de Próspera y la esperanza de que aquel viaje marcara el comienzo de una etapa mejor para su negocio.
+
 Caminaba con paso firme.
 El aire era agradable.
 Una suave brisa recorría las calles de Drywind mientras el calor del día comenzaba a disiparse.
@@ -1654,15 +1679,24 @@ Las tiendas de la avenida comercial empezaban a cerrar sus puertas.
 Y las calles se vaciaban poco a poco.
 
 Al llegar al extremo del pueblo, Dahg divisó a Omhp trabajando junto a la cerca de su propiedad.
+
 El anciano levantó una mano para saludarlo.
 Después se acercó al camino.
+
 Durante unos minutos conversaron acerca de ciertos problemas que estaban afectando a los cultivos del granjero.
+
 Omhp esperaba recibir algunos consejos.
 Pero Dahg tenía prisa.
+
 Le explicó que debía embarcar aquella misma noche y prometió regresar al día siguiente para ayudarlo.
+
 Los dos hombres se despidieron cordialmente.
 
+&nbsp;
+
 Y Dahg continuó caminando.
+
+&nbsp;
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -1719,9 +1753,14 @@ Pero el comerciante había decidido caminar.
 
 De modo que ahora disponía de tiempo libre.
 
+&nbsp;
+
 Y había decidido aprovecharlo para recoger las mercancías que necesitaba.
+
 Sin prisa.
 Sin preocupaciones.
+
+&nbsp;
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -1790,7 +1829,14 @@ La descarga golpeó la tierra con una violencia estremecedora.
 Y en ese mismo instante sono un trueno.
 Un estruendo tan brutal que pareció partir la tierra.
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+&nbsp;
+
 La señora Alhat soltó involuntariamente el saco que llevaba en brazos.
+
 La mula dio un salto.
 
 La anciana tardó un momento en recuperarse.
@@ -1802,12 +1848,19 @@ La mula resopló.
 Y aquello la hizo reír todavía más.
 Fue un momento breve.
 Una pequeña pausa en una tarde completamente normal.
+
 Hasta que algo apareció en la curva del camino.
 
 Una carreta.
 
+&nbsp;
+
 Avanzaba a una velocidad imposible.
+
 Fuera de control.
+
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -1836,29 +1889,45 @@ Parte 4 - Una carreta fuera de control.
 La señora Alhat no tuvo tiempo de reaccionar.
 
 La carreta surgió de la curva como un proyectil.
+
 Y se abalanzó directamente sobre ella.
 
 Impactó contra la carreta de la señora Alhat con un estruendo ensordecedor.
 Y todo el conjunto atravesó la fachada del almacén.
 Las dos carretas irrumpieron en el edificio como un ariete.
+
 Atravesando las vasijas de aceite almacenadas junto a la pared frontal.
 
 Una de las lámparas de aceite que colgaban del techo se desprendió durante el impacto.
+
 La llama tocó el aceite derramado.
 
 Y se inició el fuego.
 
 En pocos segundos el edificio entero estaba ardiendo.
+
 El calor se volvió insoportable.
 El viejo Omhp y La señora Alhat quedaron atrapados en el interior en una prisión de madera en llamas.
 
 El intenso calor alcanzó las vasijas de aceite que habían permanecido intactas y provocó una explosión.
 
 El incendio duplicó su tamaño en cuestión de segundos.
+
 Y entonces, las construcciones vecinas comenzaron a arder.
 
-No muy lejos de allí, junto a la curva del camino que conducía al muelle, Dahg intentaba adivinar lo que estaba sucediendo.
+&nbsp;
+
+
+No muy lejos de allí, 
+
+junto a la curva del camino que conducía al muelle, 
+
+Dahg intentaba adivinar lo que estaba sucediendo.
+
 Observando con horror la escena desde el suelo.
+
+&nbsp;
+
 
 
 ::: {custom-style="Separator"}
@@ -1880,10 +1949,10 @@ Parte 1 - Dahg sale de su casa.
 
 Dia: viernes, hora: 7 pm.
 Poco después de las siete de la tarde, Dahg cerró la puerta de la almoneda y emprendió el camino hacia el muelle del río.
-Debía llegar antes de las nueve para abordar el barco que lo llevaría a Próspera.
 
 :::
 
+Debía llegar antes de las nueve para abordar el barco que lo llevaría a Próspera.
 
 Al pasar frente a la propiedad de Omhp se detuvo unos minutos para saludar a su amigo.
 Conversaron brevemente.
@@ -1896,10 +1965,14 @@ Las nubes comenzaban a cubrir el cielo cuando alcanzó la curva del camino.
 Un potente trueno resonó sobre las llanuras.
 
 El sonido fue tan repentino que Dahg se volvió instintivamente hacia el campo abierto.
+
 Y en ese mismo instante una carreta fuera de control apareció a su espalda.
+
 No tuvo tiempo de apartarse.
+
 El impacto lo arrojó fuera del camino.
 Cayó al suelo con violencia.
+
 La carreta continuó avanzando sin detenerse.
 Unos segundos después desapareció tras la curva.
 
@@ -1907,12 +1980,18 @@ Se escuchó un fuerte golpe.
 La carreta habia chocado contra algo.
 
 Un poco después una columna de humo comenzó a elevarse sobre los tejados de Drywind.
+
 Dahg intentó ponerse en pie.
 Un dolor intenso en la rodilla se lo impidió.
+
 Desde el suelo observó cómo el humo aumentaba de tamaño.
+
+&nbsp;
 
 Entonces aparecieron las primeras llamas.
  
+&nbsp;
+
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -1944,17 +2023,33 @@ Las nubes negras continuaban acumulándose lentamente y avanzaban desde las llan
 Penht cultivaba maíz y criaba un pequeño grupo de caballos.
 Pensó que sería prudente dejar los animales bajo techo antes de que comenzara a llover.
 Se dirigió al establo y comenzó a acomodarlos en el interior.
+
 Estaba cerrando una de las puertas cuando algo llamó su atención.
 
-A lo lejos, por encima de los árboles, una columna de humo se elevaba sobre el horizonte.
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+&nbsp;
+
+
+A lo lejos, por encima de los árboles, 
+
+una columna de humo se elevaba sobre el horizonte.
 
 Parecía provenir directamente del pueblo.
+
 ¿Qué podía estar ocurriendo?
 
 Entonces escuchó una explosión.
+
 Y un instante después distinguió las llamas en la distancia.
 
+&nbsp;
+
 Un incendio en el pueblo.
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -2004,7 +2099,11 @@ Aquello tenía sentido.
 El almacén y las casas más próximas parecían perdidos.
 La prioridad ahora era evitar que las llamas continuaran avanzando.
 
+&nbsp;
+
 Desmontó. Ató el caballo a una cerca. Y fue a reunirse con los demás.
+
+&nbsp;
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -2044,12 +2143,16 @@ Pero no quedaba mucho tiempo.
 Si había animales dentro, pronto quedarían atrapados.
 
 Penht cruzó la calle corriendo.
+
 Empujó la puerta.
+
 Una bocanada de humo caliente salió al exterior.
 
 Se cubrió la boca y la nariz con una manga de la camisa y entró.
+
 El interior estaba lleno de humo.
 La visibilidad era escasa.
+
 Las llamas avanzaban por una de las paredes y comenzaban a propagarse por las vigas del techo.
 
 Los caballos estaban al fondo. Asustados.
@@ -2057,25 +2160,38 @@ Golpeando las puertas de los compartimentos con las patas.
 Intentando escapar.
 
 Penht se dirigió hacia ellos.
+
 Liberó al primero.
 El animal salió disparado hacia la salida.
+
 Después soltó al segundo.
+
 El humo era cada vez más espeso.
 Le costaba respirar.
 Los ojos le ardían.
+
 Empezo a sentirse mareado, desorientado.
 
 Continuó avanzando hacia el último compartimento.
+
 Consiguió abrir el cierre.
 El caballo se lanzó hacia delante y corrió hacia la puerta.
 
 Penht se volvió para seguirlo.
+
 Entonces escuchó un crujido.
+
 Una de las vigas principales había cedido.
+
 Levantó la vista.
+
 Y apenas tuvo tiempo de comprender lo que ocurría.
 
+&nbsp;
+
 Cuando una parte del techo se desplomó sobre él.
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -2096,12 +2212,21 @@ Cuando una parte del techo se desplomó sobre él.
 
 
 
-# Acto 3
+# Acto 3 - Optimización
 
-> "Algunas veces, algo que parece un problema, 
-> es en realidad la solución de otro problema que aún no hemos visto."
-
-> — Fabhrius
+> "Algunas veces, 
+>
+> algo que parece un problema, 
+>
+> es en realidad 
+>
+> la solución de otro problema 
+>
+> que aún no hemos visto."
+>
+> &nbsp;
+>
+> —Fabhrius
 
 ::: {custom-style="PageBreak"}
 &nbsp;
@@ -2139,6 +2264,13 @@ Mover algunos muebles.
 Limpiar.
 Dar mejor aspecto a los objetos expuestos.
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
+&nbsp;
+
+
 Pasó así varias horas reorganizando mercancías y retirando el polvo acumulado, hasta que su atención se posó sobre la bola de cristal.
 
 Continuaba exactamente donde la había dejado aquella noche.
@@ -2147,44 +2279,63 @@ Pensó que tal vez podía retomar el trabajo de restauración que había pensado
 
 La tomó entre sus manos.
 La observó detenidamente.
+
 La giró hacia un lado y hacia el otro.
 Seguía siendo un objeto extraordinario.
 
 Hermoso.
 Intrigante.
 Y profundamente inquietante.
+
 Lo que había visto aquella noche continuaba sin encontrar explicación.
 
 ¿Había mostrado realmente el futuro?
+
 ¿O todo había sido una extraña ilusión nacida de su imaginación?
 
 Sin embargo, había perdido el barco.
 Se había encontrado con Omhp.
 Y el rayo había caído exactamente como lo había visto.
+
 ¿Coincidencias?
+
 Quizás.
 
+&nbsp;
+
 Y si la bola mostraba el futuro...
+
 ¿Por qué permanecía ahora en silencio?
 
 Dahg la dejó con cuidado sobre la mesa y se apartó unos pasos.
+
 El misterio crecía en su imaginación.
 Permaneció observándola.
 Pensando.
 Intentando comprender.
+
 Y entonces sucedió de nuevo.
 
 Un fino hilo de humo blanco apareció en el interior del cristal.
+
 Se extendió lentamente.
 Giró sobre sí mismo.
 Y acabó llenando toda la esfera hasta volverla completamente opaca.
 
-Dahg sintió un escalofrío. Aquello le heló la sangre.
+Dahg sintió un escalofrío. 
+
+Aquello le heló la sangre.
+
 Ahora ya no parecía ser su imaginación.
 
 Y no estaba seguro de querer ver lo que mostraría esta vez.
 
+&nbsp;
+
+
 Pero tampoco pudo apartar la vista.
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -2247,7 +2398,11 @@ Un instante después el puente se derrumbó.
 
 Las dos carretas desaparecieron entre una nube de polvo y astillas.
 
+&nbsp;
+
 Veinte metros más abajo, el río Verdastro se las tragó.
+
+&nbsp;
 
 ::: {custom-style="Separator"}
 ✦ ✦ ✦
@@ -2327,9 +2482,14 @@ Y antes incluso de abrir las puertas colocó la esfera de cristal en el escapara
 Ya no pretendía obtener una gran ganancia.
 Ni siquiera un beneficio.
 Le bastaba con recuperar el dinero que había pagado por ella.
+
 Quería verla lejos.
 
+&nbsp;
+
 Lo antes posible.
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -2424,7 +2584,11 @@ Dahg apoyó ambas manos sobre el mostrador.
 Miró al escribano.
 Y respondió:
 
+&nbsp;
+
 — ¿Cuánto cree usted que vale?
+
+&nbsp;
 
 
 ::: {custom-style="Separator"}
@@ -2487,28 +2651,38 @@ El caballo ya había sido liberado.
 Pero la carreta seguía sobre el puente.
 Exactamente igual que en la visión.
 
+&nbsp;
+
 El hombre llegó hasta él.
 Su expresión reflejaba preocupación.
 
 — ¡Por favor! ¡Ayúdame! La rueda ha quedado atrapada entre las tablas. Si no consigo sacarla la perderé.
 
+::: {custom-style="PageBreak"}
+&nbsp;
+:::
+
 Dahg no respondió.
+
 Miró el puente.
+
 Después miró la carreta del desconocido.
+
 Y finalmente dirigió la vista hacia la suya.
 
 La carreta nueva.
+
 La carreta por la que había trabajado durante años.
+
+&nbsp;
+
 
 El desconocido volvió a hablar.
 Esta vez con más urgencia.
 
 — ¿Me ayudará?
 
-
 &nbsp;
-&nbsp;
-
 
 Dahg permaneció inmóvil.
 
@@ -2516,7 +2690,13 @@ Miró al hombre.
 
 Miró la carreta atrapada.
 
+&nbsp;
+
+
 Y después volvió a mirar la suya.
+
+&nbsp;
+
 
 
 ::: {custom-style="Separator"}
