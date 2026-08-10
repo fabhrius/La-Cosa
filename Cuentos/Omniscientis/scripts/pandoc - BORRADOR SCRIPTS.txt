@@ -26,3 +26,4 @@ pandoc relatos\002_la_bola_de_cristal\laboladecristal.md -o pdf\LaBolaDeCristal.
 
 -----------------------------------
 
+pandoc relatos\001_la_llave\new 1.md -o odt\new 1.odt --reference-doc=plantilla\Omniscientis_V01.odt
