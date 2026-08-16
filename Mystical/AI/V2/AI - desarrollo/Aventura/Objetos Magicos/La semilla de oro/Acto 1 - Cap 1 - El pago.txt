@@ -31,10 +31,10 @@ termina cuando: el extrajero entrega la pepita a Thal.
 
 
 - el pueblo:
-Existio una vez un pequeno pueblo de montana llamado Gufogrigio.
+Existio una vez un pequeno pueblo de montana llamado Greyowl.
 se encontraba en un lugar aislado en alguna parte de la cadena montanosa de Vettascura.
 el acceso era dificil, ya que solo disponia de un unico camino que se volvia intrasitable cuando las lluvias eran copiosas. 
-cosa que solia suceder casi cada ano durante algunos dias. 
+cosa que sucedia con relativa frecuencia. 
 su población era apenas de unas decenas de personas.
 el lugar permanecia en un otono perpetuo con lluvias casi constantes y algunas nevadas esporadicas.
 
@@ -42,11 +42,14 @@ y aunque la población estaba formada en su mayoria por campesinos y pastores, T
 
 - la posada:
 (sotano-salon-dormitorios-vivienda)
+en centro del pueblo habia una posada.
+O tal vez, la posada se habia convertido en el centro del pueblo por ser el unico lugar de reunion disponible.
 la posada, llamada 'La Locanda di Thal', era un viejo caseron de dos plantas con un gran salon que funcionaba como cantina y restaurante. Y en la planta superior disponia de seis grandes habitaciones que proporcionaban alojamiento a los viajantes. Aunque permanecian vacias la mayor parte del ano.
+y sobre ella, un atico en donde vivia su propietario, el posadero.
 
 - el posadero:
 el dueno de la posada era un hombre de unos 40 anos llamado Thal.
-habia recibido la posada como herencia de su tio, hace algunos anos. trabajaba duro con la esperanza conseguir suficiente dinero para retirarse a vivir a un lugar mejor, pero el negocio habia conocido dias mejores.
+habia recibido la posada como herencia de su tio hace algunos anos. trabajaba duro con la esperanza conseguir suficiente dinero para retirarse a vivir a un lugar mejor, pero el negocio habia conocido dias mejores.
 Thal tenia la impression de que el pueblo se volvia cada vez mas solitario y aislado con el paso de los anos.
 quiza era solo su impression.
 lo cierto es que se hacia cada vez mas dificil conseguir un beneficio extra que pudiera apartar para ahorrar al final del ano.
@@ -76,7 +79,7 @@ Thal contaba con el para todo. Era su hombre de confianza, aunque no era particu
 
 ese ano el otono habia sido largo, oscuro, y lluvioso.
 la posada habia permanecido vacia durante los ultimos dos meses. faltaba solo una semana para el incio del invierno.
-y habia estado lloviendo sin descanso durante los ultimos dias, tal vez una semana.
+y habia estado lloviendo sin descanso durante los ultimos dias, tal vez una semana, tal vez mas.
 la tormenta arreciaba afuera y el cielo estaba tan oscuro que era dificil saber si la noche estaba llegando.
 eran ya las ultimas horas de la tarde cuando la puerta de la posada se abrio y un extrano entro en el salon.
 
