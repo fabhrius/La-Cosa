@@ -14,6 +14,7 @@ adaptacion
 
 cap 6 - accidente 2 - el andamio
 cap 7 - accidente 3 - la piedra
+cap 8 - accidente 4 - el yunque
 
 
 acto 3 - circulacion y competencia
