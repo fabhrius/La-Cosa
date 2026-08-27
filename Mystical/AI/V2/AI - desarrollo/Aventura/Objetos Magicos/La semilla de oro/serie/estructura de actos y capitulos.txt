@@ -14,12 +14,13 @@ adaptacion
 
 cap 6 - accidente 2 - el andamio
 cap 7 - accidente 3 - la piedra
-cap 8 - accidente 4 - el yunque
+cap 8 - accidente 4 - el banquete
+cap 9 - empiezan a utilizar el oro
 
 
 acto 3 - circulacion y competencia
 
-empiezan a utilizar el oro
+utilizar el oro sin control
 el oro en circulacion se transforma en un riesgo
 deciden eliminar a la competencia.
 
