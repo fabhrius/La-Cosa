@@ -15,7 +15,7 @@ adaptacion
 cap 6 - accidente 2 - el andamio
 cap 7 - accidente 3 - la piedra
 cap 8 - accidente 4 - el banquete
-cap 9 - empiezan a utilizar el oro
+cap 9 - deciden utilizar el oro
 
 
 acto 3 - circulacion y competencia
@@ -24,8 +24,8 @@ utilizar el oro sin control
 el oro en circulacion se transforma en un riesgo
 deciden eliminar a la competencia.
 
-cap 10 - en circulacion
-cap 11- accidentes
+cap 10 - oro en circulacion
+cap 11- accidentes inesperados
 cap 12 - preocupacion
 cap 13 - competencia
 
