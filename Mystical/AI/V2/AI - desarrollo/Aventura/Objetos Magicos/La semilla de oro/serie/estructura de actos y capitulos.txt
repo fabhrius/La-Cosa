@@ -1,3 +1,12 @@
+
+acto 1 - presentacion y arranque del sistema
+acto 2 - construyen riqueza
+acto 3 - circulacion y competencia
+acto 4 - limite - el sistema colapsa
+acto 5 - cosecha y cierre
+
+--------------------------------------
+
 acto 1 - presentacion y arranque del sistema
 
 cap 1 - el pueblo
