@@ -1,0 +1,94 @@
+estoy escribiendo un cuento de horror al mas puro estilo gotico.
+oscuro y gradual.
+podrias ayudarme?
+
+---------------------
+
+La historia  en lineas generales es la siguiente:
+
+la semilla de oro.
+
+
+
+1-
+- un hombre misterioso llega a un pequeno pueblo de montana alejado del mundo.
+- se aloja en el mejor hotel y paga con una pepita de oro que vale mucho mas que el precio de la habitacion.
+- al otro dia abandona el pueblo.
+
+2-
+- se produce un accidente y alguien muere (Tambien puede ser una muerte violenta).
+- la sangre cae sobre la pepita de oro y esta germina. una raiz crece de la pepita. es una semilla.
+- la planta crece, florece y finalmente produce mas semillas de oro.
+
+3- 
+- las semillas solo germinaran si son regadas con sangre humana pero solo si el donante muere.
+- el poseedor de una semilla puede hacerse facilmente rico si consigue la sangre de personas sacrificadas.
+- asi comienzan los asesinatos.
+
+4- 
+- pero utilizar esta riqueza tiene un precio. al pagar con semillas de oro el usuario esta inadvertidamente creando asesinos.
+- en cuanto muchas semillas se han puesto en circulacion el pueblo se transforma en un infierno.
+- los vecinos pierden el control y se matan unos a otros.
+
+5- 
+- al ano siguiente, el pueblo esta en calma. nadie camina por las calles. todos han muerto.
+- un hombre misterioso llega al pueblo abandonado.
+- recorre las casa vacias una a una recogiendo las semillas.
+- abandona el pueblo con un saco lleno de pepitas de oro.
+
+6-
+- un hombre misterioso llega a un pequeno pueblo de montana alejado del mundo.
+- se aloja en el mejor hotel y paga con una pepita de oro que vale mucho mas que el precio de la habitacion.
+- "aceptaria una pepita de oro?"
+
+fin
+-----------------------------
+
+Un poco mas de informacion antes de comenzar el desarrollo.
+
+El cuento de las semillas de oro
+Premisa
+La historia transcurre en un pueblo aislado de montaña durante la Edad Media, alrededor de una vieja posada.
+gira en torno a unas semillas de oro. Al germinar, producen una planta que genera nuevas semillas de oro, creando potencialmente una fuente inagotable de riqueza.
+Pero existe una condición macabra:
+Las semillas solo germinan cuando entran en contacto con la sangre de un muerto.
+
+
+Los protagonistas son
+1- Thal, el propietario de la posada:
+hombre de 40 anos. observador, responsable, racional, y justo. Es un hombre bueno con solidos principios. Ha recibido la posada en herencia hace muchos anos y trabaja duro con la esperanza de reunir bastante dinero para retirarse un dia.
+2- El senor Muhr, ayudante de Thal:
+hombre de 60 anos. servicial, tranquilo y competente. Es practico aunque no muy brillante.
+Vive en la posada desde hace muchos anos. La posada es su hogar y no tiene deseos de abandonarla.
+
+La historia comienza cuando 
+Thal recibe de un cliente una pepita de oro como pago.
+Accidentalmente descubre que la pepita de oro es en realidad una semilla que al germinar se convierte en una planta que produce mas semillas de oro.
+Thal abandona la idea de sembrar estas semillas cuando descubre que para que germinen es necesaria una muerte.
+El senor Muhr en cambio provocara accidentes para conseguir que las semillas germinen.
+
+Moraleja:
+El cuento esta basado en una idea de ingenieria de sistemas. Los sistemas guiados por incentivos.
+En donde los agentes son guiados a realizar una accion a cambio de un incentivo.
+En este caso, la accion requerida es matar, y el incentivo que el sistema ofrece es la multiplicacion del oro.
+Veremos a lo largo de la historia como los principios eticos y morales del protagonist, Thal, iran cambiando, desde la oposicion hasta la aceptacion y la ejecucion.
+La moraleja es que nuestros principios no son tan solidos como pensamos sino que dependen de incentivos. Y cuando los incentivos cambian los principios tambien.
+
+
+El genero de la historia es:
+Horror gotico clasico. 
+Con pasajes de humor negro.
+
+--------------------------
+
+estoy utilizando una tormenta que no cesa en todo el relato para crear un ambiente misterioso e inquietante. tambien podriamos utilizar a los animales para crear misterio. tales como los perro que aullan en la distancia, o los cuervos que observan desde los tejados, o los caballos que actuan de forma extrana en el establo.
+
+----------------------------
+
+Vamos a abordar el desarrollo de esta historia por partes.
+
+te pasare un parrafo y lo desarrollaremos juntos para darle el estilo y tono del horror classico.
+
+----------------------------
+
+
