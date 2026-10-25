@@ -42,6 +42,7 @@ la semilla de oro.
 - "aceptaria una pepita de oro?"
 
 fin
+
 -----------------------------
 
 Un poco mas de informacion antes de comenzar el desarrollo.
@@ -79,16 +80,14 @@ El genero de la historia es:
 Horror gotico clasico. 
 Con pasajes de humor negro.
 
---------------------------
+-----------------------------------------------
 
-estoy utilizando una tormenta que no cesa en todo el relato para crear un ambiente misterioso e inquietante. tambien podriamos utilizar a los animales para crear misterio. tales como los perro que aullan en la distancia, o los cuervos que observan desde los tejados, o los caballos que actuan de forma extrana en el establo.
+estoy utilizando una tormenta que no cesa en todo el relato para crear un ambiente misterioso e inquietante. 
+La nubes negras que cubren el cielo sumen el pueblo en una oscuridad continua, obligandoles a iluminarse con lamparas y velas. Oscuridad, sombras, penumbra, truenos, relampagos y lluvia.
+tambien utilizo a los animales para crear misterio. tales como los perros que aullan en la distancia, o los cuervos que observan desde los tejados, o los caballos que actuan de forma extrana en el establo.
 
-----------------------------
-
-Vamos a abordar el desarrollo de esta historia por partes.
-
-te pasare un parrafo y lo desarrollaremos juntos para darle el estilo y tono del horror classico.
-
-----------------------------
+---------------------------------------
 
 
+vamos a abordarlo por partes.
+yo te pasare las ideas principales del guion y juntos lo desarrollaremos con el estilo del horror gotico.
